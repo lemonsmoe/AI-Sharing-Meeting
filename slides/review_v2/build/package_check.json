@@ -1,0 +1,14 @@
+{
+  "slides": 30,
+  "notes": 30,
+  "native_tables": [
+    8,
+    9,
+    17,
+    19,
+    26
+  ],
+  "native_charts": 0,
+  "all_notes_have_script_and_relevant_sources": true,
+  "final_sha256": "81cdb10735478ebe6a8c5cf686863d7fb5f4d2377ac2e6fb6cee4e0461d7cae3"
+}

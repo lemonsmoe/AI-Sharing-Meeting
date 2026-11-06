@@ -1,0 +1,38 @@
+[
+  {
+    "path": "outputs/leadership_review_v2/leadership_review_v2.pptx",
+    "sha256": "81cdb10735478ebe6a8c5cf686863d7fb5f4d2377ac2e6fb6cee4e0461d7cae3"
+  },
+  {
+    "path": "docs/content/deck_review_v2.md",
+    "sha256": "53a7ab3b8ee2be4e46fde0dcc2ec60d5d3a0a3ae7c6a67c2104e6f8efb23fb22"
+  },
+  {
+    "path": "docs/content/integration_addendum_v3.md",
+    "sha256": "046f2ea416f930e1690ed896fee862bb6062ef2a3301404ad50783d5359b90fc"
+  },
+  {
+    "path": "research/concepts/history_addendum/history_brief.md",
+    "sha256": "86a29d2907ba15f7fa807ad9e9fb87834300ac88f0b29a40466673979302a456"
+  },
+  {
+    "path": "research/concepts/history_addendum/source_register.md",
+    "sha256": "867e3888ccfe296856897f3c50b558abcca3c8fd1d98f8223391d8944c722627"
+  },
+  {
+    "path": "research/methodology/tool_landscape/comparison.md",
+    "sha256": "4fc5915ff8fec3d627c685f8ad36b11e73b440bf2ac06f673855b4c495a5aae1"
+  },
+  {
+    "path": "outputs/01a1afcd-c994-7ae0-89e1-3c3770ac406b/meeting_actions.xlsx",
+    "sha256": "becfba60f7d7d222a31ac7b28f6233b5c37385e7f83876445a21f843dbb0fa86"
+  },
+  {
+    "path": "videos/experiments/caption_candidate_01/meeting_captioned.mp4",
+    "sha256": "afc31bb04c9837725aa357bf8f82c72f98e39f855b5d4975e8c6d6b8a3c8766d"
+  },
+  {
+    "path": "docs/content/rehearsal_script_v3.md",
+    "sha256": "5cfb14e0529d40d8111ecf3163bf4b3d4b0dd3432ac44dea2b114ad45f70f18f"
+  }
+]

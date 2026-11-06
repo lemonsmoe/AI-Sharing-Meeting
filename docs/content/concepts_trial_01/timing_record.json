@@ -1,0 +1,46 @@
+{
+  "first_input_read_utc": "2026-11-06T10:59:22Z",
+  "sequence": [
+    {
+      "id": "e1_a",
+      "generation_start_utc": "2026-11-06 10:59:45 UTC",
+      "saved_by_utc": "2026-11-06 10:59:59 UTC",
+      "tool": "Python算术核算",
+      "tool_result": {
+        "jia": 8655,
+        "yi": 8640,
+        "bing": 8280
+      }
+    },
+    {
+      "id": "e2_b",
+      "generation_start_utc": "2026-11-06 10:59:59 UTC",
+      "saved_by_utc": "2026-11-06 11:00:18 UTC",
+      "tool": "无核算工具"
+    },
+    {
+      "id": "e3_a",
+      "generation_start_utc": "2026-11-06 11:00:18 UTC",
+      "saved_by_utc": "2026-11-06 11:00:36 UTC",
+      "tool": "无核算工具"
+    },
+    {
+      "id": "e1_b",
+      "generation_start_utc": "2026-11-06 11:00:36 UTC",
+      "saved_by_utc": "2026-11-06 11:00:55 UTC",
+      "tool": "沿用本聊天E1-A算术结果，非独立核算调用"
+    },
+    {
+      "id": "e2_a",
+      "generation_start_utc": "2026-11-06 11:00:55 UTC",
+      "saved_by_utc": "2026-11-06 11:01:15 UTC",
+      "tool": "无核算工具；同聊天已见E2-B输出"
+    },
+    {
+      "id": "e3_b",
+      "generation_start_utc": "2026-11-06 11:01:15 UTC",
+      "saved_by_utc": "2026-11-06 11:01:31 UTC",
+      "tool": "无核算工具；同聊天已见E3-A输出"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "task_read_start_utc": "2026-11-06T12:20:40.257575+00:00",
+  "delivery_ready_utc": "2026-11-06T12:25:39.880682+00:00",
+  "wall_seconds": 299.623107,
+  "timezone": "Asia/Shanghai",
+  "task_read_start_local": "2026-11-06T20:20:40.257575+08:00",
+  "first_xlsx_export_utc": "2026-11-06T12:23:10.925Z",
+  "final_xlsx_export_utc": "2026-11-06T12:23:40.559Z"
+}

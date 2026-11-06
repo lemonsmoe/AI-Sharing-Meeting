@@ -1,0 +1,28 @@
+{"kind":"deck","id":"pr/wxfx6r","name":"Deck"}
+{"kind":"layout","id":"ly/wveh4zql","editable":false,"name":"Master","type":"master"}
+{"kind":"layout","id":"ly/7m14rudw","editable":false,"name":"Title Slide","type":"title","placeholders":[{"name":"title","type":"title"},{"name":"subtitle","type":"subtitle"}]}
+{"kind":"layout","id":"ly/07u14nal","editable":false,"name":"Section Header","type":"sectionHeader","placeholders":[{"name":"title","type":"title"}]}
+{"kind":"layout","id":"ly/614z2t47","editable":false,"name":"Title and Body","type":"tx","placeholders":[{"name":"title","type":"title"},{"name":"body","type":"body"}]}
+{"kind":"layout","id":"ly/jyhsjqlk","editable":false,"name":"Title and Two Column","type":"twoColTx","placeholders":[{"name":"title","type":"title"},{"name":"Left column","type":"body"},{"name":"Right column","type":"body"}]}
+{"kind":"layout","id":"ly/e9cfqxwn","editable":false,"name":"Title and One Column","type":"tx","placeholders":[{"name":"title","type":"title"},{"name":"body","type":"body"}]}
+{"kind":"layout","id":"ly/p43qhsfa","editable":false,"name":"Blank","type":"blank"}
+{"kind":"slide","id":"sl/d5mt9z","slideIndex":0,"layout":{"id":"ly/p43qhsfa","name":"Blank"},"title":"AI辅助周报整理","textShapes":3,"backgroundColor":"rgba(255,255,255,1)"}
+{"kind":"textbox","id":"sh/lgfy5sn6","slideIndex":0,"position":{"left":64,"top":50,"width":1120,"height":90},"text":"AI辅助周报整理","geometry":"rect","lineWidth":0,"style":{"fontSize":44,"typeface":"Aptos","color":"#C40000","bold":true,"alignment":"left"}}
+{"kind":"textbox","id":"sh/yt4faxov","slideIndex":0,"position":{"left":64,"top":235,"width":1100,"height":100},"text":"从散乱记录到可核查的行动清单","geometry":"rect","lineWidth":0,"style":{"fontSize":36,"typeface":"Aptos","color":"#202020","alignment":"left"}}
+{"kind":"textbox","id":"sh/jedg3i50","slideIndex":0,"position":{"left":64,"top":520,"width":1000,"height":50},"text":"模拟办公案例","geometry":"rect","lineWidth":0,"style":{"fontSize":24,"typeface":"Aptos","color":"#666666","alignment":"left"}}
+{"kind":"notes","id":"nt/d5mt9z","slideIndex":0,"text":""}
+{"kind":"slide","id":"sl/22pwon","slideIndex":1,"layout":{"id":"ly/p43qhsfa","name":"Blank"},"title":"原始记录与提示词","textShapes":3,"backgroundColor":"rgba(255,255,255,1)"}
+{"kind":"textbox","id":"sh/ipcjepwz","slideIndex":1,"position":{"left":64,"top":50,"width":1120,"height":90},"text":"原始记录与提示词","geometry":"rect","lineWidth":0,"style":{"fontSize":44,"typeface":"Aptos","color":"#C40000","bold":true,"alignment":"left"}}
+{"kind":"textbox","id":"sh/5s3i9kva","slideIndex":1,"position":{"left":64,"top":175,"width":1100,"height":130},"text":"甲组：完成8项，延期2项\n乙组：完成6项，延期4项","geometry":"rect","lineWidth":0,"style":{"fontSize":32,"typeface":"Aptos","color":"#202020","alignment":"left"}}
+{"kind":"textbox","id":"sh/kru1gze5","slideIndex":1,"position":{"left":64,"top":360,"width":1100,"height":140},"text":"请按组汇总完成和延期数量。\n区分事实与建议，不补造延期原因。","geometry":"rect","lineWidth":0,"style":{"fontSize":32,"typeface":"Aptos","color":"#202020","alignment":"left"}}
+{"kind":"notes","id":"nt/22pwon","slideIndex":1,"text":""}
+{"kind":"slide","id":"sl/sybe75","slideIndex":2,"layout":{"id":"ly/p43qhsfa","name":"Blank"},"title":"本周任务完成情况","textShapes":2,"backgroundColor":"rgba(255,255,255,1)"}
+{"kind":"textbox","id":"sh/pkbmp4zu","slideIndex":2,"position":{"left":64,"top":50,"width":1120,"height":90},"text":"本周任务完成情况","geometry":"rect","lineWidth":0,"style":{"fontSize":44,"typeface":"Aptos","color":"#C40000","bold":true,"alignment":"left"}}
+{"kind":"textbox","id":"sh/3it4nuho","slideIndex":2,"position":{"left":64,"top":600,"width":1100,"height":45},"text":"单位：项。所有数字仅用于模拟演示。","geometry":"rect","lineWidth":0,"style":{"fontSize":24,"typeface":"Aptos","color":"#666666","alignment":"left"}}
+{"kind":"chart","id":"ch/itcn6tcn","slideIndex":2,"position":{"left":100,"top":170,"width":1050,"height":390},"name":"","chartType":"bar"}
+{"kind":"notes","id":"nt/sybe75","slideIndex":2,"text":""}
+{"kind":"slide","id":"sl/odxtyw","slideIndex":3,"layout":{"id":"ly/p43qhsfa","name":"Blank"},"title":"人工复核与发布","textShapes":3,"backgroundColor":"rgba(255,255,255,1)"}
+{"kind":"textbox","id":"sh/nipcf2lc","slideIndex":3,"position":{"left":64,"top":50,"width":1120,"height":90},"text":"人工复核与发布","geometry":"rect","lineWidth":0,"style":{"fontSize":44,"typeface":"Aptos","color":"#C40000","bold":true,"alignment":"left"}}
+{"kind":"textbox","id":"sh/ojyd872x","slideIndex":3,"position":{"left":64,"top":190,"width":1100,"height":240},"text":"核对计数与原始记录\n请负责人补充延期原因\n确认下一步安排后再发布","geometry":"rect","lineWidth":0,"style":{"fontSize":34,"typeface":"Aptos","color":"#202020","alignment":"left"}}
+{"kind":"textbox","id":"sh/9k7uhc3i","slideIndex":3,"position":{"left":64,"top":530,"width":1100,"height":60},"text":"当前结果为草稿","geometry":"rect","lineWidth":0,"style":{"fontSize":28,"typeface":"Aptos","color":"#C40000","bold":true,"alignment":"left"}}
+{"kind":"notes","id":"nt/odxtyw","slideIndex":3,"text":""}

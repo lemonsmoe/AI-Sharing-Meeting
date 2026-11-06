@@ -1,0 +1,12 @@
+{
+  "topic": "workshop_scope",
+  "title": "范围收尾与现场操作单",
+  "abstract": "按原要求核对当前交付，补现场单并发72秒试听请求；整体目标尚未完成",
+  "source_message": "本轮主对话实际读取原始范围、交付物与核验文件、办公子聊天现场单，并向用户发送异步试听问题",
+  "items": [
+    {"kind": "observation", "text": "原始范围逐项核对见docs/content/acceptance_status.md。PPT、Excel、MP4、ZIP当前哈希与V3检查记录一致；可交领导审阅，但不代表领导已经通过、现场完成或全部推荐门槛放行。早期计划的旧状态不能覆盖当前证据。"},
+    {"kind": "observation", "text": "办公聊天完成现场操作单，主对话读原文并核对第16页M教学样例、第24页N/C实际Excel及后续O1的区别；含具体文件切换、48+5+2时间卡和失败话术。docs/content/presenter_run_sheet.md另行交付，不在封存V3 ZIP内；未执行现场排练。"},
+    {"kind": "observation", "text": "已向用户发出完整听看72秒样片的异步请求，用于判断读音、停顿和听感；尚未收到回复，不默认通过。PPT聊天工具快照仍waitingOnApproval，其余已交任务不自动视为持续后台运行。"},
+    {"kind": "constraint", "text": "真实讲述时长、现场设备和完整音画感知仍需相应实际执行；追加解码、同类URL或审计文件不能替代。剩余研究和主推产品的缺口保持明确；本轮准备完成不等于总体目标完成。"}
+  ]
+}

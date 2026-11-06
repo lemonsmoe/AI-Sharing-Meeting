@@ -1,0 +1,70 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>视频路线、费用与案例</title><style>body{font:18px/1.75 "Microsoft YaHei",sans-serif;color:#25282e;background:#f5f5f4;margin:0}main{max-width:1080px;margin:40px auto;padding:32px;background:white}h1{font-size:34px;color:#b60000}h2{font-size:24px;margin-top:36px}a{color:#a40000}nav{display:flex;gap:24px;flex-wrap:wrap;padding:12px 0}video,.slide{width:100%;height:auto}section{margin:36px 0}details{padding:12px 20px;background:#faf8f6}summary{cursor:pointer}p{margin:14px 0}.muted{color:#646870}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:16px/1.8 "Microsoft YaHei",sans-serif}table{border-collapse:collapse;width:100%}td,th{border-bottom:1px solid #ddd;padding:12px;text-align:left}@media(max-width:700px){main{margin:0;padding:20px}h1{font-size:28px}}</style><main><p><a href="../start_here.html">返回入口</a></p><pre># 第28页：AI视频先选任务，再选制作路线
+
+用途：V3合稿输入；2026-11-06整理，待主对话审阅。第27页播放已有样片，本页解释工具、企业用途与费用。下列企业用途为适配建议，公开案例另列，不冒充本公司成果。
+
+## 一页上屏稿
+
+**标题：做教学视频，先选路线**
+
+| 路线与代表工具 | 适合的企业任务 | 费用怎么看 |
+| --- | --- | --- |
+| 代码解释动画：Remotion；Python＋FFmpeg | 流程培训、产品原理、数据变化 | 授权席位／渲染次数＋AI与算力 |
+| 真实录屏剪辑：OBS Studio | 软件操作、新人上手、标准作业演示 | OBS免费；剪辑、配音、人工另计 |
+| 生成式镜头：Runway | 宣传氛围、概念短片、展会开场 | 订阅＋积分；模型、秒数与重试影响成本 |
+
+**页脚：讲原理用动画，教操作录真实界面；生成镜头用来表达创意。**
+
+小字：本次已制作代码动画样片；其他工具未完成本地实测。价格和案例见附录。
+
+来源标记可放备注：<a href="https://www.remotion.dev/docs/license/pricing">Remotion许可</a>、<a href="https://obsproject.com/">OBS官网</a>、<a href="https://runway.com/pricing">Runway价格</a>。
+
+## 约90秒口语稿
+
+刚才这段视频属于代码解释动画。AI可以帮助写脚本和画面代码，程序再把文字、箭头和图形按时间排列。它适合解释一个流程、一条产品原理，或者一组数据怎样变化。Remotion是这类工具的代表；我们这次用Python和FFmpeg做出了可复现的样片。
+
+第二条路线是真实录屏。比如教同事在系统里提交申请，观众需要看清点哪里、填什么、成功后出现什么。可以用OBS录下真实操作，再剪辑和配音。AI可以辅助整理讲稿和字幕，操作画面仍要实际核对。
+
+第三条是生成式镜头，例如Runway，适合宣传氛围、概念展示和开场画面。它按订阅和积分收费，同样的预算，换模型、改时长或者反复重做，能得到的可用镜头就不同。
+
+所以预算不能只看会员多少钱。还要算脚本、素材、配音、修改和审片。先把一个具体任务做成能看、能改、能复用的短片，再决定是否扩大使用。涉及内部资料时，还要分清本地渲染和本地运行AI模型，这是两件事。
+
+计时为稿件长度估算，尚未实际试讲；第27页72秒视频不计入本页90秒。
+
+## 可复用费用附录
+
+官方页面正文于2026-11-06复核；美元标价，不换算人民币，不含税费、汇率、人员或设备成本。采购时重新核价。这里是计费说明，非已完成对比实测后的采购推荐。
+
+| 工具 | 官方当前计费口径 | 对企业预算的含义 |
+| --- | --- | --- |
+| Remotion | 个人及不超过3人的公司可在条款内免费使用；不符合免费条件需公司许可。Creators：25美元／月／席位。Automators：0.01美元／次渲染，最低100美元／月。 | 区分人工创作席位与自动化批量渲染，不把Automators最低消费套到Creators。AI服务、云计算及维护另计。<a href="https://www.remotion.dev/docs/license/pricing">官方许可正文</a> |
+| OBS Studio | 免费、开源的录屏及直播软件。 | 免费的是录制工具；剪辑器、配音服务及审片人工按实际选用另算。OBS本身不是生成式视频模型。<a href="https://obsproject.com/">官网正文</a> |
+| Runway | Standard年付方案折合12美元／月，625积分／月；官网换算示例为52秒Gen-4.5或104秒Gen-4 Turbo生成量。Free为一次性125积分。 | 年付月均价不是单月购买价或单条成片价；生成秒数不是最终可用秒数，失败和重做也要纳入预算。API及企业合同价格本轮未核实，保留待询。<a href="https://runway.com/pricing">官方价格正文</a> |
+
+Python＋FFmpeg是本次实际实现组合，不作为一个有统一订阅价格的产品。未单独核算本片AI调用账单，不能宣称总成本为零；第三方组件、字体和素材也需按实际交付方式确认许可。
+
+**项目成本模板：** 固定订阅或许可分摊＋生成／渲染用量＋配音／素材＋人员工时＋返工与验收。记录成片长度、候选镜头生成总秒数、被弃用次数、人工修改时长，才能比较每分钟可用成片成本。
+
+### 自部署条件
+
+代码和素材在本机渲染，不意味着AI推理也在本机。若要求数据不出内网，应分别确认模型调用、素材存储、渲染和配音路径；自部署模型还需匹配硬件、模型许可与维护能力。本项目仅验证本机脚本制作流程，未验证企业服务器或本地视频生成模型部署。
+
+## 可复用案例附录
+
+这些是已读来源中的制作案例，不统一标为“企业成功案例”。右列企业任务是迁移建议，尚无本公司效果数据。
+
+| 已读案例 | 可引用的事实与限制 | 可迁移的企业任务 |
+| --- | --- | --- |
+| Ploto长篇解释视频 | 作者报告约90小时Agent工作、20小时人工工作，且不含写稿。属于个人制作自述，不构成企业节省工时的对照实验；未观看原片。<a href="https://ploto.me/posts/how-i-made-a-long-video-with-ai/">原作者文章</a> | 长篇原理培训可拆成短模块；预算保留脚本和审片时间。 |
+| Fabless Bridge咖啡广告演示 | 作者用生成镜头与Remotion组合制作虚构品牌30秒广告，并披露手部消失后裁短镜头等修订。属于服务商自制演示，不是真实客户投放成效，未独立播放验证。<a href="https://pr.fabless-bridge.ai/en/blog/remotion-ai-video">原文</a> | 展会开场、宣传概念稿；需要逐镜审查产品和人物一致性。 |
+| UbuCon Asia 2021活动视频自动化 | 原始分享记录了片头生成与FFmpeg拼接，也记录长视频处理和字体等问题。是历史活动制作实践，不证明当前版本性能。<a href="https://2021.ubucon.asia/sessions/automating_boring_and_repetitive_ubucon_asia_video_and_subtitle_stuffs/Ubucon_Subtitle_Automate.pdf">原始讲义</a> | 批量培训片头、讲师信息和章节包装。 |
+| Griffith大学工程教学动画 | AAEE论文介绍卷积、傅里叶级数等动画与旁白制作；15名学生的主观反馈不能当作学习成绩因果提升，更不是企业ROI。<a href="https://aaee.net.au/wp-content/uploads/2024/09/AAEE_2023_final_paper_175b.pdf">原始论文</a> | 技术原理讲解；先检查概念和视觉表达是否一致。 |
+
+真实录屏路线目前依据官方能力及任务适配判断，尚无本包已核验的企业实施案例，不补造案例。
+
+## 讲者备注与验证边界
+
+- 本次72秒样片可见：`videos/experiments/caption_candidate_01/meeting_captioned.mp4`。已完整解码、抽帧检查和音轨一致性检查；完整试听与动态播放仍待完成。
+- 既有脚本独立目录复现中，画面、配音和封装三命令合计27.388秒；不包含写稿、写代码、修改、字幕版再次编码、审查及安装，不能说“27秒制作一条视频”。证据：`research/video/narrated_reproduction.md`。
+- Remotion、OBS、Runway未完成本项目本地产品实测；本页不做工具排名，不以样片复现代替两次独立创作实验或研究门槛验收。
+- 本文件只追加V3合稿输入，不回改旧研究记录。当前完整证据与缺口见`research/video/claim_evidence_review.md`、`independent_practice_addendum.md`。
+</pre></main></html>

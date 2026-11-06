@@ -1,0 +1,53 @@
+{
+  "topic": "video",
+  "title": "视频样片与研究补证",
+  "abstract": "旁白版解码通过，发现SRT遮挡摘要；研究与完整音画验收仍缺",
+  "notes_revision": "b09113b1535c9b4c7a37",
+  "base_summary_revision": "a1633e0520f5be13e664",
+  "points": [
+    {
+      "kind": "proposal",
+      "text": "代码动画先建立可复现骨架，必要时补真实录屏或生成镜头；仍为候选路线。",
+      "sources": [
+        "note_8344c34ef59289d78093#0"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "首轮仅字幕样片与部分文章阅读；后续已读Ploto长片正文，原片仍未观看。V2为72秒24fps，1728帧解码和72个逐秒帧检查完成；未完成动态播放。正文14份，官方完整可见转录1、镜像全文2身份待核对，研究门槛仍缺。",
+      "sources": [
+        "note_8344c34ef59289d78093#1",
+        "note_7627529f8ba89c4ea95b#0"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "中文实践中发现fps计算不一致及缺逐镜失败证据，不能作为已核验效率或模型胜负。",
+      "sources": [
+        "note_7627529f8ba89c4ea95b#1"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "旁白版验收核对真实时长、镜头边界、字幕和语义；由主对话制作旁白，本聊天避免重复写入。",
+      "sources": [
+        "note_7627529f8ba89c4ea95b#2"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "旁白版独立解码通过，但默认libass三处截图显示SRT遮挡摘要，第三条标点断行不当；未试听或动态审片。",
+      "sources": [
+        "note_3847282c1fbfa29677a9#0"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "交付仅留一层底部字幕：替换摘要条或避免同名SRT自动叠加，修改后核对实际播放器。",
+      "sources": [
+        "note_3847282c1fbfa29677a9#1"
+      ]
+    }
+  ],
+  "omitted": []
+}

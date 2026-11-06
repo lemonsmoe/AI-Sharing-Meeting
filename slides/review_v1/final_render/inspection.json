@@ -1,0 +1,4130 @@
+{
+  "recordCount": 220,
+  "records": [
+    {
+      "kind": "layout",
+      "id": "ly/atofqts7",
+      "editable": false,
+      "name": "Master",
+      "type": "master"
+    },
+    {
+      "kind": "layout",
+      "id": "ly/ux4ruhcv",
+      "editable": false,
+      "name": "Title Slide",
+      "type": "title",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title"
+        },
+        {
+          "name": "subtitle",
+          "type": "subtitle"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/p83mt83u",
+      "editable": false,
+      "name": "Section Header",
+      "type": "",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/4v2ps7ql",
+      "editable": false,
+      "name": "Title and Body",
+      "type": "",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title"
+        },
+        {
+          "name": "body",
+          "type": "body"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/3yt8jipk",
+      "editable": false,
+      "name": "Title and Two Column",
+      "type": "",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title"
+        },
+        {
+          "name": "Left column",
+          "type": "body"
+        },
+        {
+          "name": "Right column",
+          "type": "body"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/elwrupwj",
+      "editable": false,
+      "name": "Title and One Column",
+      "type": "",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title"
+        },
+        {
+          "name": "body",
+          "type": "body"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/14ra9krq",
+      "editable": false,
+      "name": "Blank",
+      "type": "blank"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/y90nupkv",
+      "slideIndex": 0,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "把 AI 用进日常工作",
+      "textShapes": 5,
+      "backgroundColor": "rgba(36,38,43,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ts7md4r2",
+      "slideIndex": 0,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "把 AI 用进日常工作",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 52,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/547294r6",
+      "slideIndex": 0,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#BFC2C7",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/k3yl0zql",
+      "slideIndex": 0,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "01",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/7qp4be9c",
+      "slideIndex": 0,
+      "position": {
+        "left": 70,
+        "top": 240,
+        "width": 1100,
+        "height": 85
+      },
+      "text": "从一个任务开始，看见可以交付的结果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 38,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/65g3298r",
+      "slideIndex": 0,
+      "position": {
+        "left": 70,
+        "top": 340,
+        "width": 1100,
+        "height": 85
+      },
+      "text": "2026 年 11 月 16 日 · 企业 AI 效率分享",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 38,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/hwbqtkby",
+      "slideIndex": 1,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "今天会看到的工作结果",
+      "textShapes": 7,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/r65knqtk",
+      "slideIndex": 1,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "今天会看到的工作结果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/9072xkry",
+      "slideIndex": 1,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ozy1ofad",
+      "slideIndex": 1,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "02",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/b29kza94",
+      "slideIndex": 1,
+      "position": {
+        "left": 70,
+        "top": 190,
+        "width": 1140,
+        "height": 85
+      },
+      "text": "带出处的资料比较",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/a10jqpsj",
+      "slideIndex": 1,
+      "position": {
+        "left": 70,
+        "top": 290,
+        "width": 1140,
+        "height": 85
+      },
+      "text": "可以继续编辑的汇报材料",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/x4r21kru",
+      "slideIndex": 1,
+      "position": {
+        "left": 70,
+        "top": 390,
+        "width": 1140,
+        "height": 85
+      },
+      "text": "从会议讨论整理出的行动清单",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/w3i1sfa9",
+      "slideIndex": 1,
+      "position": {
+        "left": 70,
+        "top": 490,
+        "width": 1140,
+        "height": 85
+      },
+      "text": "一段可复用工程的讲解视频",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/ofy9wn61",
+      "slideIndex": 2,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "AI 的工作范围在扩展",
+      "textShapes": 8,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/943mhgre",
+      "slideIndex": 2,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "AI 的工作范围在扩展",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/cza94vmx",
+      "slideIndex": 2,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/d0jax03i",
+      "slideIndex": 2,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "03",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/298ryl4v",
+      "slideIndex": 2,
+      "position": {
+        "left": 70,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "生成回答：问答、摘要、改写",
+      "geometry": "rect",
+      "fillColor": "#FFF0F0",
+      "lineColor": "#C40000",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/3ah8rqlg",
+      "slideIndex": 2,
+      "position": {
+        "left": 355,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "结合资料：围绕文件和知识库作答",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/obq90bml",
+      "slideIndex": 2,
+      "position": {
+        "left": 640,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "使用工具：检索、计算、编辑文件",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/pcjqtg36",
+      "slideIndex": 2,
+      "position": {
+        "left": 925,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "持续执行：分步完成任务并检查结果",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/m1c3mlsn",
+      "slideIndex": 2,
+      "position": {
+        "left": 70,
+        "top": 490,
+        "width": 1140,
+        "height": 100
+      },
+      "text": "每一步保存输入、输出和检查结果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/jyx0ra1s",
+      "slideIndex": 3,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "一份任务里有哪些能力在配合",
+      "textShapes": 9,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/i94r6xgz",
+      "slideIndex": 3,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "一份任务里有哪些能力在配合",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/1cj2d8b6",
+      "slideIndex": 3,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/0ba143al",
+      "slideIndex": 3,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "04",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/rm1k7yt4",
+      "slideIndex": 3,
+      "position": {
+        "left": 70,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "任务与提示词",
+      "geometry": "rect",
+      "fillColor": "#FFF0F0",
+      "lineColor": "#C40000",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ql8jytsj",
+      "slideIndex": 3,
+      "position": {
+        "left": 355,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "Agent执行与检查",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/doj29oba",
+      "slideIndex": 3,
+      "position": {
+        "left": 640,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "工具及文件",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ih8ju9sn",
+      "slideIndex": 3,
+      "position": {
+        "left": 70,
+        "top": 180,
+        "width": 1100,
+        "height": 60
+      },
+      "text": "上下文：资料、决定、当前进度",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/kbm987y5",
+      "slideIndex": 3,
+      "position": {
+        "left": 70,
+        "top": 465,
+        "width": 1100,
+        "height": 60
+      },
+      "text": "Skill：可复用说明与资源",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/5cva1cfq",
+      "slideIndex": 3,
+      "position": {
+        "left": 70,
+        "top": 550,
+        "width": 1140,
+        "height": 80
+      },
+      "text": "MCP：连接工具与数据的一种可选规范，也可直接调用工具",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/i107q5of",
+      "slideIndex": 4,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "Agent 怎样推进一项工作",
+      "textShapes": 8,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ahkvi1cb",
+      "slideIndex": 4,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "Agent 怎样推进一项工作",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/dgbulwnm",
+      "slideIndex": 4,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/cf2tcr61",
+      "slideIndex": 4,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "05",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/z2tcnm5s",
+      "slideIndex": 4,
+      "position": {
+        "left": 70,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "读取目标与当前材料",
+      "geometry": "rect",
+      "fillColor": "#FFF0F0",
+      "lineColor": "#C40000",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/yhkbe1o7",
+      "slideIndex": 4,
+      "position": {
+        "left": 355,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "选择下一步，调用工具",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/l4bupwny",
+      "slideIndex": 4,
+      "position": {
+        "left": 640,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "观察结果，补充或修改",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/032tgr6d",
+      "slideIndex": 4,
+      "position": {
+        "left": 925,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "达到交付条件后给出成果",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/x4vedgvm",
+      "slideIndex": 4,
+      "position": {
+        "left": 70,
+        "top": 490,
+        "width": 1140,
+        "height": 100
+      },
+      "text": "每一步保存输入、输出和检查结果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/x8f69ofe",
+      "slideIndex": 5,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "长任务需要保存工作现场",
+      "textShapes": 7,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/oryp8fah",
+      "slideIndex": 5,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "长任务需要保存工作现场",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/yhg7epsj",
+      "slideIndex": 5,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/zi98nu94",
+      "slideIndex": 5,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "06",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/87ipkzal",
+      "slideIndex": 5,
+      "position": {
+        "left": 70,
+        "top": 190,
+        "width": 1140,
+        "height": 85
+      },
+      "text": "目标与已确认决定",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/98rqt4r6",
+      "slideIndex": 5,
+      "position": {
+        "left": 70,
+        "top": 290,
+        "width": 1140,
+        "height": 85
+      },
+      "text": "资料、版本和当前成果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ml07i9sv",
+      "slideIndex": 5,
+      "position": {
+        "left": 70,
+        "top": 390,
+        "width": 1140,
+        "height": 85
+      },
+      "text": "工具、权限与执行记录",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/7m98ru9g",
+      "slideIndex": 5,
+      "position": {
+        "left": 70,
+        "top": 490,
+        "width": 1140,
+        "height": 85
+      },
+      "text": "检查、恢复和交接机制",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/gnmp4jqx",
+      "slideIndex": 6,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "提示词从一件具体工作开始",
+      "textShapes": 7,
+      "backgroundColor": "rgba(36,38,43,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/eh0ba1sr",
+      "slideIndex": 6,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "提示词从一件具体工作开始",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/cb2tkvap",
+      "slideIndex": 6,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#BFC2C7",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/dcbud0ra",
+      "slideIndex": 6,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "07",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ydkbm5sv",
+      "slideIndex": 6,
+      "position": {
+        "left": 70,
+        "top": 180,
+        "width": 1120,
+        "height": 60
+      },
+      "text": "01  提示词与材料",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFBABA",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/zedcfa9g",
+      "slideIndex": 6,
+      "position": {
+        "left": 70,
+        "top": 280,
+        "width": 1120,
+        "height": 85
+      },
+      "text": "示例任务：整理三份供应商报价",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/kzmdova1",
+      "slideIndex": 6,
+      "position": {
+        "left": 70,
+        "top": 380,
+        "width": 1120,
+        "height": 85
+      },
+      "text": "使用者：准备评审的采购同事",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/l0vuh0rm",
+      "slideIndex": 6,
+      "position": {
+        "left": 70,
+        "top": 480,
+        "width": 1120,
+        "height": 85
+      },
+      "text": "交付：可比较的表格与待确认清单",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/fu1gfa1s",
+      "slideIndex": 7,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "材料决定比较能做到多细",
+      "textShapes": 4,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/tkby9kzm",
+      "slideIndex": 7,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "材料决定比较能做到多细",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/18byd4zy",
+      "slideIndex": 7,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/g72x4zyd",
+      "slideIndex": 7,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "08",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/6h0fypgb",
+      "slideIndex": 7,
+      "position": {
+        "left": 70,
+        "top": 570,
+        "width": 1100,
+        "height": 60
+      },
+      "text": "模拟需求：100件，9天内交付",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "table",
+      "id": "tb/ixcb6903",
+      "slideIndex": 7,
+      "position": {
+        "left": 70,
+        "top": 185,
+        "width": 1140,
+        "height": 312
+      },
+      "name": "",
+      "rows": 4,
+      "cols": 4,
+      "preview": "供应商 | 价格口径 | 运费 | 交期"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/udsvah03",
+      "slideIndex": 8,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "交付格式让结果能继续用",
+      "textShapes": 4,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/9gzml0nq",
+      "slideIndex": 8,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "交付格式让结果能继续用",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/1cfmhgne",
+      "slideIndex": 8,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/0b65obm9",
+      "slideIndex": 8,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "09",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/mdonql4z",
+      "slideIndex": 8,
+      "position": {
+        "left": 70,
+        "top": 585,
+        "width": 1140,
+        "height": 60
+      },
+      "text": "模拟数据。A满足交期；B交期未知；C超过9天要求。",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "table",
+      "id": "tb/e5czal83",
+      "slideIndex": 8,
+      "position": {
+        "left": 70,
+        "top": 185,
+        "width": 1140,
+        "height": 312
+      },
+      "name": "",
+      "rows": 4,
+      "cols": 4,
+      "preview": "方案 | 含税到货总价 | 交期 | 待确认"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/m90b6t0r",
+      "slideIndex": 9,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "同一任务可以交付不同层次的结果",
+      "textShapes": 4,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/l036l83y",
+      "slideIndex": 9,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "同一任务可以交付不同层次的结果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/xc3mho32",
+      "slideIndex": 9,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/cbu58j2h",
+      "slideIndex": 9,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "10",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ydcnatkn",
+      "slideIndex": 9,
+      "position": {
+        "left": 70,
+        "top": 585,
+        "width": 1140,
+        "height": 60
+      },
+      "text": "模拟数据。A满足交期；B交期未知；C超过9天要求。",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "chart",
+      "id": "ch/fyxsfy5g",
+      "slideIndex": 9,
+      "position": {
+        "left": 100,
+        "top": 190,
+        "width": 1080,
+        "height": 350
+      },
+      "name": "Chart",
+      "chartType": "bar"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/jetc3ut0",
+      "slideIndex": 10,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "多轮协作中的反馈可以很具体",
+      "textShapes": 3,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/250zy18b",
+      "slideIndex": 10,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "多轮协作中的反馈可以很具体",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/xcryxg7y",
+      "slideIndex": 10,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/wbih4b6d",
+      "slideIndex": 10,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "11",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "table",
+      "id": "tb/up4zmdcb",
+      "slideIndex": 10,
+      "position": {
+        "left": 70,
+        "top": 185,
+        "width": 1140,
+        "height": 234
+      },
+      "name": "",
+      "rows": 3,
+      "cols": 3,
+      "preview": "反馈位置 | 具体意见 | 保留内容"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/8f2psfyx",
+      "slideIndex": 11,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "工具把文字任务变成文件任务",
+      "textShapes": 7,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/wvupgz6t",
+      "slideIndex": 11,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "工具把文字任务变成文件任务",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/1gbm9s3a",
+      "slideIndex": 11,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/0f2lgnmp",
+      "slideIndex": 11,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "12",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ra943il8",
+      "slideIndex": 11,
+      "position": {
+        "left": 70,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "读取同一份报价文件",
+      "geometry": "rect",
+      "fillColor": "#FFF0F0",
+      "lineColor": "#C40000",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/q903ad4n",
+      "slideIndex": 11,
+      "position": {
+        "left": 355,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "计算含税到货总价并判断交期",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/dcbm583y",
+      "slideIndex": 11,
+      "position": {
+        "left": 640,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "生成比较表和待确认清单",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/a543mx4r",
+      "slideIndex": 11,
+      "position": {
+        "left": 70,
+        "top": 490,
+        "width": 1140,
+        "height": 100
+      },
+      "text": "每一步保存输入、输出和检查结果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/hgzapcr6",
+      "slideIndex": 12,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "复杂任务可以分工进行",
+      "textShapes": 3,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/p4r6p8by",
+      "slideIndex": 12,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "复杂任务可以分工进行",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/q50nydsj",
+      "slideIndex": 12,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/bq9orito",
+      "slideIndex": 12,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "13",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "table",
+      "id": "tb/pwbut8ve",
+      "slideIndex": 12,
+      "position": {
+        "left": 70,
+        "top": 185,
+        "width": 1140,
+        "height": 312
+      },
+      "name": "",
+      "rows": 4,
+      "cols": 2,
+      "preview": "独立聊天 | 交付职责"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/6lsnupw7",
+      "slideIndex": 13,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "一张可以带走的任务卡",
+      "textShapes": 3,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/idgvmx8r",
+      "slideIndex": 13,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "一张可以带走的任务卡",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/xc7eds76",
+      "slideIndex": 13,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/wbydknq1",
+      "slideIndex": 13,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "14",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "table",
+      "id": "tb/6547ql8z",
+      "slideIndex": 13,
+      "position": {
+        "left": 70,
+        "top": 185,
+        "width": 1140,
+        "height": 370
+      },
+      "name": "",
+      "rows": 5,
+      "cols": 2,
+      "preview": "任务卡字段 | 填写方法"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/vaxsvy10",
+      "slideIndex": 14,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "会议结束后还剩哪些工作",
+      "textShapes": 7,
+      "backgroundColor": "rgba(36,38,43,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/na5476l8",
+      "slideIndex": 14,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "会议结束后还剩哪些工作",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/547mhg3m",
+      "slideIndex": 14,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#BFC2C7",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/k3y5ov21",
+      "slideIndex": 14,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "15",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/76p4jqls",
+      "slideIndex": 14,
+      "position": {
+        "left": 70,
+        "top": 180,
+        "width": 1120,
+        "height": 60
+      },
+      "text": "02  会议与行动",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFBABA",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/65gnqlk7",
+      "slideIndex": 14,
+      "position": {
+        "left": 70,
+        "top": 280,
+        "width": 1120,
+        "height": 85
+      },
+      "text": "整理讨论内容",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/t87ml0ji",
+      "slideIndex": 14,
+      "position": {
+        "left": 70,
+        "top": 380,
+        "width": 1120,
+        "height": 85
+      },
+      "text": "确认决定和待办",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/s7y5sv2x",
+      "slideIndex": 14,
+      "position": {
+        "left": 70,
+        "top": 480,
+        "width": 1120,
+        "height": 85
+      },
+      "text": "找到需要继续追问的事项",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/gny5sjyp",
+      "slideIndex": 15,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "一段讨论怎样变成行动清单",
+      "textShapes": 4,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/kv2h4rqp",
+      "slideIndex": 15,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "一段讨论怎样变成行动清单",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/8z2h8bq1",
+      "slideIndex": 15,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/9kby1g7m",
+      "slideIndex": 15,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "16",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/zutgvm94",
+      "slideIndex": 15,
+      "position": {
+        "left": 70,
+        "top": 605,
+        "width": 1140,
+        "height": 45
+      },
+      "text": "模拟会议的预制教学结果，不是语音识别实测。",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "table",
+      "id": "tb/rm1kvqhk",
+      "slideIndex": 15,
+      "position": {
+        "left": 70,
+        "top": 185,
+        "width": 1140,
+        "height": 370
+      },
+      "name": "",
+      "rows": 5,
+      "cols": 3,
+      "preview": "结果 | 原文 | 确认边界"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/14bup87q",
+      "slideIndex": 16,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "纪要交付时需要带上的信息",
+      "textShapes": 5,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/snedsvml",
+      "slideIndex": 16,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "纪要交付时需要带上的信息",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/1c7e50ni",
+      "slideIndex": 16,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/gbedwfmx",
+      "slideIndex": 16,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "17",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/rm5czq50",
+      "slideIndex": 16,
+      "position": {
+        "left": 70,
+        "top": 450,
+        "width": 1140,
+        "height": 110
+      },
+      "text": "M2 小林：我在11月9日18点前提交测试报告。",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/t8ne10n6",
+      "slideIndex": 16,
+      "position": {
+        "left": 70,
+        "top": 560,
+        "width": 1140,
+        "height": 85
+      },
+      "text": "复核重点：不改变负责人和承诺时间；确认后再进入团队流程。",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 26,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "table",
+      "id": "tb/nmhc72xk",
+      "slideIndex": 16,
+      "position": {
+        "left": 70,
+        "top": 185,
+        "width": 1140,
+        "height": 156
+      },
+      "name": "",
+      "rows": 2,
+      "cols": 4,
+      "preview": "负责人 | 事项 | 截止时间 | 来源"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/y5wne50z",
+      "slideIndex": 17,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "这份分享的制作过程",
+      "textShapes": 7,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/fapkr6pw",
+      "slideIndex": 17,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "这份分享的制作过程",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/wrelszu9",
+      "slideIndex": 17,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/hsn2l4bu",
+      "slideIndex": 17,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "18",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/itw3upcf",
+      "slideIndex": 17,
+      "position": {
+        "left": 70,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "提出目标并明确受众",
+      "geometry": "rect",
+      "fillColor": "#FFF0F0",
+      "lineColor": "#C40000",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/je5knut0",
+      "slideIndex": 17,
+      "position": {
+        "left": 355,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "分头查资料，比较不同路线",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/4felwzu5",
+      "slideIndex": 17,
+      "position": {
+        "left": 640,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "整理脚本，制作并复核成果",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/rip4retw",
+      "slideIndex": 17,
+      "position": {
+        "left": 70,
+        "top": 490,
+        "width": 1140,
+        "height": 100
+      },
+      "text": "本项目已完成分工、脚本与四页原型，当前进入30页审阅稿制作。",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/nid43ytk",
+      "slideIndex": 18,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "PPT 工具要比较哪些结果",
+      "textShapes": 4,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/xkbq10be",
+      "slideIndex": 18,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "PPT 工具要比较哪些结果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/9gb6xgbi",
+      "slideIndex": 18,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/8v2pobax",
+      "slideIndex": 18,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "19",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ahk7qls3",
+      "slideIndex": 18,
+      "position": {
+        "left": 70,
+        "top": 540,
+        "width": 1140,
+        "height": 85
+      },
+      "text": "比较口径：忠实度、可编辑性、导出兼容、完整修订耗时",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "table",
+      "id": "tb/a18nutsj",
+      "slideIndex": 18,
+      "position": {
+        "left": 70,
+        "top": 185,
+        "width": 1140,
+        "height": 234
+      },
+      "name": "",
+      "rows": 3,
+      "cols": 3,
+      "preview": "路线 | 当前证据 | 仍需检查"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/zyxsni5k",
+      "slideIndex": 19,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "内容确定后再调整视觉",
+      "textShapes": 8,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/dkfmp4zy",
+      "slideIndex": 19,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "内容确定后再调整视觉",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/qpwjmh8n",
+      "slideIndex": 19,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/rq50vmp8",
+      "slideIndex": 19,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "20",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/4nu1krqh",
+      "slideIndex": 19,
+      "position": {
+        "left": 70,
+        "top": 180,
+        "width": 400,
+        "height": 50
+      },
+      "text": "内容要求",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/po3itc72",
+      "slideIndex": 19,
+      "position": {
+        "left": 70,
+        "top": 260,
+        "width": 430,
+        "height": 85
+      },
+      "text": "先看逐页主旨与讲述顺序",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/2lczih8r",
+      "slideIndex": 19,
+      "position": {
+        "left": 70,
+        "top": 360,
+        "width": 430,
+        "height": 85
+      },
+      "text": "再处理布局、图解和素材",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/3ml0rmpw",
+      "slideIndex": 19,
+      "position": {
+        "left": 70,
+        "top": 460,
+        "width": 430,
+        "height": 85
+      },
+      "text": "用实际渲染检查阅读效果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/hk3ipcr6",
+      "slideIndex": 19,
+      "position": {
+        "left": 570,
+        "top": 560,
+        "width": 620,
+        "height": 75
+      },
+      "text": "真实四页样例的图表页，已按渲染结果放大标注。",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/9cvypwf6",
+      "slideIndex": 19,
+      "position": {
+        "left": 570,
+        "top": 180,
+        "width": 640,
+        "height": 360
+      },
+      "name": ""
+    },
+    {
+      "kind": "slide",
+      "id": "sl/m1wvqtk3",
+      "slideIndex": 20,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "把制作流程保存下来",
+      "textShapes": 7,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/4jax4nqd",
+      "slideIndex": 20,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "把制作流程保存下来",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/1gbmxs7a",
+      "slideIndex": 20,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/0f2lon6p",
+      "slideIndex": 20,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "21",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ra9kryp8",
+      "slideIndex": 20,
+      "position": {
+        "left": 70,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "输入材料和提示词",
+      "geometry": "rect",
+      "fillColor": "#FFF0F0",
+      "lineColor": "#C40000",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/qp03yt8n",
+      "slideIndex": 20,
+      "position": {
+        "left": 355,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "大纲、讲稿与生成结果",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/dcb2t87y",
+      "slideIndex": 20,
+      "position": {
+        "left": 640,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "修改记录与复核清单",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/al43uxor",
+      "slideIndex": 20,
+      "position": {
+        "left": 70,
+        "top": 490,
+        "width": 1140,
+        "height": 100
+      },
+      "text": "每一步保存输入、输出和检查结果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/5onypobq",
+      "slideIndex": 21,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "各部门可以从哪些任务试起",
+      "textShapes": 8,
+      "backgroundColor": "rgba(36,38,43,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/p43q1sva",
+      "slideIndex": 21,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "各部门可以从哪些任务试起",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/6987itcr",
+      "slideIndex": 21,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#BFC2C7",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/7a18rydc",
+      "slideIndex": 21,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "22",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/k7qpgjul",
+      "slideIndex": 21,
+      "position": {
+        "left": 70,
+        "top": 180,
+        "width": 1120,
+        "height": 60
+      },
+      "text": "03  部门任务菜单",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFBABA",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/58zqpov6",
+      "slideIndex": 21,
+      "position": {
+        "left": 70,
+        "top": 280,
+        "width": 1120,
+        "height": 85
+      },
+      "text": "市场销售：公开竞品、客户反馈、跟进整理",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/il87etcv",
+      "slideIndex": 21,
+      "position": {
+        "left": 70,
+        "top": 380,
+        "width": 1120,
+        "height": 85
+      },
+      "text": "人事行政：制度问答、培训材料、文件归档",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/jmh8nyd0",
+      "slideIndex": 21,
+      "position": {
+        "left": 70,
+        "top": 480,
+        "width": 1120,
+        "height": 85
+      },
+      "text": "研发采购：需求、日志、规格和报价",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/43u9snu5",
+      "slideIndex": 21,
+      "position": {
+        "left": 70,
+        "top": 580,
+        "width": 1120,
+        "height": 85
+      },
+      "text": "管理协作：周报、评审准备、跨会待办",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/c7uhcr6t",
+      "slideIndex": 22,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "调研任务可以交付一份有依据的比较",
+      "textShapes": 3,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/a14rmhgb",
+      "slideIndex": 22,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "调研任务可以交付一份有依据的比较",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/90vqdczq",
+      "slideIndex": 22,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/8zm9k7y5",
+      "slideIndex": 22,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "23",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "table",
+      "id": "tb/axsryh4b",
+      "slideIndex": 22,
+      "position": {
+        "left": 70,
+        "top": 185,
+        "width": 1140,
+        "height": 234
+      },
+      "name": "",
+      "rows": 3,
+      "cols": 3,
+      "preview": "主张 | 依据 | 缺口"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/7qto7e10",
+      "slideIndex": 23,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "表格和文档可以组成一个工作流",
+      "textShapes": 8,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/mtwz6h0f",
+      "slideIndex": 23,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "表格和文档可以组成一个工作流",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/1sfqxsv6",
+      "slideIndex": 23,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/0r6p4nul",
+      "slideIndex": 23,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "24",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/nux8zidc",
+      "slideIndex": 23,
+      "position": {
+        "left": 70,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "读取指定文件",
+      "geometry": "rect",
+      "fillColor": "#FFF0F0",
+      "lineColor": "#C40000",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/2to76dcr",
+      "slideIndex": 23,
+      "position": {
+        "left": 355,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "按明确规则整理和分析",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/9wzq1svi",
+      "slideIndex": 23,
+      "position": {
+        "left": 640,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "输出表格、摘要或文档",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ov6p8nux",
+      "slideIndex": 23,
+      "position": {
+        "left": 925,
+        "top": 270,
+        "width": 250,
+        "height": 140
+      },
+      "text": "打开成果核对关键内容",
+      "geometry": "rect",
+      "fillColor": "#F1F2F3",
+      "lineColor": "#C9CDD1",
+      "lineWidth": 1,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/9wni1wjq",
+      "slideIndex": 23,
+      "position": {
+        "left": 70,
+        "top": 490,
+        "width": 1140,
+        "height": 100
+      },
+      "text": "每一步保存输入、输出和检查结果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/69wfm9o7",
+      "slideIndex": 24,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "常用做法可以逐渐变成团队资产",
+      "textShapes": 6,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/obyt0bel",
+      "slideIndex": 24,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "常用做法可以逐渐变成团队资产",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/xg7axgf2",
+      "slideIndex": 24,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/cfyt4beh",
+      "slideIndex": 24,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "25",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/napsr6x0",
+      "slideIndex": 24,
+      "position": {
+        "left": 70,
+        "top": 190,
+        "width": 1140,
+        "height": 85
+      },
+      "text": "Skill：复用一套做法和资源",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 32,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/29wby1wf",
+      "slideIndex": 24,
+      "position": {
+        "left": 70,
+        "top": 290,
+        "width": 1140,
+        "height": 85
+      },
+      "text": "上下文记录：延续目标、决定与进度",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 32,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/pc7atgf6",
+      "slideIndex": 24,
+      "position": {
+        "left": 70,
+        "top": 390,
+        "width": 1140,
+        "height": 85
+      },
+      "text": "Hook：在指定事件发生时触发处理",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 32,
+        "typeface": "Microsoft YaHei",
+        "color": "#23272D",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/l0bepsfm",
+      "slideIndex": 25,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "一次试用怎样判断值不值得继续",
+      "textShapes": 3,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/tgr2xg3m",
+      "slideIndex": 25,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "一次试用怎样判断值不值得继续",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/uhk36lk7",
+      "slideIndex": 25,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/vitkzqlc",
+      "slideIndex": 25,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "26",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "table",
+      "id": "tb/9sbq5snq",
+      "slideIndex": 25,
+      "position": {
+        "left": 70,
+        "top": 185,
+        "width": 1140,
+        "height": 312
+      },
+      "name": "",
+      "rows": 4,
+      "cols": 2,
+      "preview": "记录项 | 完整口径"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/4vyxknqp",
+      "slideIndex": 26,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "AI 讲解视频可以怎样制作",
+      "textShapes": 8,
+      "backgroundColor": "rgba(36,38,43,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ju5gv294",
+      "slideIndex": 26,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "AI 讲解视频可以怎样制作",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/kn694nmx",
+      "slideIndex": 26,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#BFC2C7",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/lofadsni",
+      "slideIndex": 26,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "27",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/7qxsfi5o",
+      "slideIndex": 26,
+      "position": {
+        "left": 835,
+        "top": 180,
+        "width": 380,
+        "height": 85
+      },
+      "text": "代码动画解释概念与结构",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 23,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/8r698nm9",
+      "slideIndex": 26,
+      "position": {
+        "left": 835,
+        "top": 280,
+        "width": 380,
+        "height": 85
+      },
+      "text": "录屏展示软件实际操作",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 23,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/9sfahsnu",
+      "slideIndex": 26,
+      "position": {
+        "left": 835,
+        "top": 380,
+        "width": 380,
+        "height": 85
+      },
+      "text": "生成镜头补充难以拍摄的画面",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 23,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/utobax4f",
+      "slideIndex": 26,
+      "position": {
+        "left": 835,
+        "top": 480,
+        "width": 380,
+        "height": 85
+      },
+      "text": "配音、字幕和剪辑组成成片",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 23,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/vuxsj250",
+      "slideIndex": 26,
+      "position": {
+        "left": 70,
+        "top": 610,
+        "width": 1140,
+        "height": 45
+      },
+      "text": "随包播放：media/meeting_explainer.mp4 · 72秒无声字幕版，未嵌入",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 23,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/fqh0z6p4",
+      "slideIndex": 26,
+      "position": {
+        "left": 65.56,
+        "top": 180,
+        "width": 728.89,
+        "height": 410
+      },
+      "name": ""
+    },
+    {
+      "kind": "slide",
+      "id": "sl/3mdove10",
+      "slideIndex": 27,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "从一个镜头看视频投入",
+      "textShapes": 3,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/10nylwji",
+      "slideIndex": 27,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "从一个镜头看视频投入",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/q9cz6xkv",
+      "slideIndex": 27,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ralgf21g",
+      "slideIndex": 27,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "28",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "table",
+      "id": "tb/t07elo36",
+      "slideIndex": 27,
+      "position": {
+        "left": 70,
+        "top": 185,
+        "width": 1140,
+        "height": 370
+      },
+      "name": "",
+      "rows": 5,
+      "cols": 2,
+      "preview": "投入项 | 当前已知"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/i5o3q10v",
+      "slideIndex": 28,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "一份可带走的工作起点",
+      "textShapes": 3,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ulc7a1s3",
+      "slideIndex": 28,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "一份可带走的工作起点",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/tk36hwby",
+      "slideIndex": 28,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/8jup8rad",
+      "slideIndex": 28,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "29",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#656A70",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "table",
+      "id": "tb/a5o3utcz",
+      "slideIndex": 28,
+      "position": {
+        "left": 70,
+        "top": 185,
+        "width": 1140,
+        "height": 370
+      },
+      "name": "",
+      "rows": 5,
+      "cols": 2,
+      "preview": "随包文件 | 用途"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/wnqh07ex",
+      "slideIndex": 29,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "交流与问题",
+      "textShapes": 5,
+      "backgroundColor": "rgba(36,38,43,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/xsr2h8ni",
+      "slideIndex": 29,
+      "position": {
+        "left": 64,
+        "top": 48,
+        "width": 1150,
+        "height": 95
+      },
+      "text": "交流与问题",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/po72d8nm",
+      "slideIndex": 29,
+      "position": {
+        "left": 64,
+        "top": 672,
+        "width": 1060,
+        "height": 28
+      },
+      "text": "内部审阅初稿 · 候选工具尚未验收",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#BFC2C7",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/o3yl4361",
+      "slideIndex": 29,
+      "position": {
+        "left": 1160,
+        "top": 670,
+        "width": 60,
+        "height": 30
+      },
+      "text": "30",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/bqpkfy5s",
+      "slideIndex": 29,
+      "position": {
+        "left": 70,
+        "top": 240,
+        "width": 1100,
+        "height": 85
+      },
+      "text": "你最想试的任务是什么？",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 38,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/apg36do7",
+      "slideIndex": 29,
+      "position": {
+        "left": 70,
+        "top": 340,
+        "width": 1100,
+        "height": 85
+      },
+      "text": "现有工作里，哪一步最费时间？",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 38,
+        "typeface": "Microsoft YaHei",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    }
+  ],
+  "truncated": false,
+  "metadata": {
+    "target": {
+      "id": "pr/11bpq8"
+    },
+    "omittedRecords": 0,
+    "abbreviatedRecords": 0,
+    "notices": []
+  }
+}

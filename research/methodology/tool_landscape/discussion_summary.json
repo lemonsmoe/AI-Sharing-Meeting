@@ -1,0 +1,66 @@
+{
+  "topic": "research_methodology",
+  "title": "方法、独立审查与工具地图",
+  "abstract": "首轮审查、共享视频文字和10项任务工具地图已交；候选与实测边界保留",
+  "notes_revision": "0e19b914079944af0b4b",
+  "base_summary_revision": "be56a0457f419cd8319a",
+  "points": [
+    {
+      "kind": "proposal",
+      "text": "分别核算来源、作者、案例组，不降门槛。",
+      "sources": [
+        "note_8230f7cdfc9a4f5b006c#0"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "首阶段技能结构验证及样本完成；当时未审其他包，技能独立前向测试仍待执行。",
+      "sources": [
+        "note_8230f7cdfc9a4f5b006c#1"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "后续已完成四包快照独立审查，均未达最终推荐门槛；未发现重复渲染冒称AI双次执行。",
+      "sources": [
+        "note_96af9df529a8aa6191d4#0"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "E2未分工需求单列，概念图注明MCP可选，规则执行、模型执行、渲染复现分别标记。",
+      "sources": [
+        "note_96af9df529a8aa6191d4#1"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "已完整审阅3份视频文字，1份官方逐字稿与2份公开字幕镜像；官方oEmbed核对原片身份，镜像原轨逐字一致性未核。B站仍无完整内容，不宣布各包达标。",
+      "sources": [
+        "note_fac6a53d1e89248cb410#0"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "共享来源按原片ID去重，各包按主题定位引用；来源等级、独立机构与实践案例分别计数，镜像不能自动升级为原字幕已核。",
+      "sources": [
+        "note_fac6a53d1e89248cb410#1"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "10项工具用途、前置条件和计费机制已核对；豆包下载与飞书部分页仅有官方索引正文，WPS购买页和Gamma动态金额未读出，未编造价格。",
+      "sources": [
+        "note_7a32e36843d81a010365#0"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "主屏按交付任务分五组，费用放附录；Codex模拟实做和其他工具官方能力核对分开，品牌不推导业界使用率排名。",
+      "sources": [
+        "note_7a32e36843d81a010365#1"
+      ]
+    }
+  ],
+  "omitted": []
+}

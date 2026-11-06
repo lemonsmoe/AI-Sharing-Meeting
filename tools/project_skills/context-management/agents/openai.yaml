@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目协作上下文"
+  short_description: "初始化协作规则与 Hook，保存项目讨论、增量接续议题，并协调任务认领和交接。"
+  default_prompt: "使用 $context-management 初始化或检查本项目的协作上下文；已有项目先读取当前状态，再按任务范围继续工作。"

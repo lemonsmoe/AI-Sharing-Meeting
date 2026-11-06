@@ -1,0 +1,94 @@
+{
+  "topic": "research_methodology",
+  "notes_revision": "1adc70bdffa16e73e349",
+  "base_summary_revision": "f526545584946458fd17",
+  "title": "方法审计、独立性与主推边界",
+  "abstract": "前向使用审计交付；四包最终推荐未放行，Skill独立作者盲测仍缺",
+  "points": [
+    {
+      "kind": "proposal",
+      "text": "分别核算来源、作者、案例组，不降门槛。",
+      "sources": [
+        "note_8230f7cdfc9a4f5b006c#0"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "首阶段技能结构验证及样本完成；当时未审其他包，技能独立前向测试仍待执行。",
+      "sources": [
+        "note_8230f7cdfc9a4f5b006c#1"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "后续已完成四包快照独立审查，均未达最终推荐门槛；未发现重复渲染冒称AI双次执行。",
+      "sources": [
+        "note_96af9df529a8aa6191d4#0"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "E2未分工需求单列，概念图注明MCP可选，规则执行、模型执行、渲染复现分别标记。",
+      "sources": [
+        "note_96af9df529a8aa6191d4#1"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "已完整审阅3份视频文字，1份官方逐字稿与2份公开字幕镜像；官方oEmbed核对原片身份，镜像原轨逐字一致性未核。B站仍无完整内容，不宣布各包达标。",
+      "sources": [
+        "note_fac6a53d1e89248cb410#0"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "共享来源按原片ID去重，各包按主题定位引用；来源等级、独立机构与实践案例分别计数，镜像不能自动升级为原字幕已核。",
+      "sources": [
+        "note_fac6a53d1e89248cb410#1"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "10项工具用途、前置条件和计费机制已核对；豆包下载与飞书部分页仅有官方索引正文，WPS购买页和Gamma动态金额未读出，未编造价格。",
+      "sources": [
+        "note_7a32e36843d81a010365#0"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "主屏按交付任务分五组，费用放附录；Codex模拟实做和其他工具官方能力核对分开，品牌不推导业界使用率排名。",
+      "sources": [
+        "note_7a32e36843d81a010365#1"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "先登记反证后读取最新包，核验5份网页、32份文件快照和PPT/MP4哈希。概念两聊天及办公复核、PPT文字表格回存、视频链复现均已有，不能重复按零执行处理。四包最终推荐仍未整体放行。",
+      "sources": [
+        "note_7494e71fd0e2b0c89311#0"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "审查者独立于四包作者，但也是Skill作者且看过旧成果；本轮是真实前向使用自审，不是独立作者盲测。V2含零图表，空项pass不能证明图表编辑成功。",
+      "sources": [
+        "note_7494e71fd0e2b0c89311#1"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "候选工具介绍不要求10工具逐一注册实测；只对真正主推流程补同题独立运行和对应证据。先完整试听72秒及核Excel显示回存，来源补证按具体主张缺口进行，不重做相同渲染。",
+      "sources": [
+        "note_7494e71fd0e2b0c89311#2"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "Skill后续可显式分开包作者独立性和Skill作者独立性，并要求通过状态同时报告实际执行数量；这只是改进候选，本轮不改Skill或根门槛。",
+      "sources": [
+        "note_7494e71fd0e2b0c89311#3"
+      ]
+    }
+  ],
+  "omitted": []
+}

@@ -1,0 +1,15 @@
+{
+  "slides": 30,
+  "notes": 30,
+  "native_tables": 5,
+  "native_charts": 0,
+  "script_sections": 30,
+  "planned_content_minutes": 48.0,
+  "actual_rehearsal": "未计时",
+  "checked_package_files": 77,
+  "ppt_sha256": "da22ce7f5acf8c3abc83849b618e7cbe081ab12c29aa7e560693d0ddcfd15db8",
+  "xlsx_sha256": "1579c793852009dfbc90dc24c5aac0f7430dbbc15e06f8bc6aa526923790046a",
+  "video_sha256": "afc31bb04c9837725aa357bf8f82c72f98e39f855b5d4975e8c6d6b8a3c8766d",
+  "zip_sha256": "9c939aadb8b446a06b646ebb9158a23690b6ae059f49bd1645def5a8a45c58c5",
+  "scope": "文件、结构、日期与随包字节检查；原生应用及逐页目检见独立记录，未完整试听视频"
+}

@@ -1,0 +1,2 @@
+Inspect result written to file: D:\code\Project\文职工作\26年11月中旬分享会\research\methodology\office_trial_02\first_output\meeting_follow_up.xlsx.inspect.ndjson
+{"first_path":"D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\methodology\\office_trial_02\\first_output\\meeting_follow_up.xlsx","build_finished_utc":"2026-11-06T12:23:23.968Z"}

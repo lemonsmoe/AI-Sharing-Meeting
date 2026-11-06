@@ -1,0 +1,399 @@
+{
+  "recordCount": 23,
+  "records": [
+    {
+      "kind": "layout",
+      "id": "ly/atofqts7",
+      "editable": false,
+      "name": "Master",
+      "type": "master"
+    },
+    {
+      "kind": "layout",
+      "id": "ly/ux4ruhcv",
+      "editable": false,
+      "name": "Title Slide",
+      "type": "title",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title"
+        },
+        {
+          "name": "subtitle",
+          "type": "subtitle"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/p83mt83u",
+      "editable": false,
+      "name": "Section Header",
+      "type": "",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/4v2ps7ql",
+      "editable": false,
+      "name": "Title and Body",
+      "type": "",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title"
+        },
+        {
+          "name": "body",
+          "type": "body"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/3yt8jipk",
+      "editable": false,
+      "name": "Title and Two Column",
+      "type": "",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title"
+        },
+        {
+          "name": "Left column",
+          "type": "body"
+        },
+        {
+          "name": "Right column",
+          "type": "body"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/elwrupwj",
+      "editable": false,
+      "name": "Title and One Column",
+      "type": "",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title"
+        },
+        {
+          "name": "body",
+          "type": "body"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/14ra9krq",
+      "editable": false,
+      "name": "Blank",
+      "type": "blank"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/y90nupkv",
+      "slideIndex": 0,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "AI辅助周报整理",
+      "textShapes": 3,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/7qp4be9c",
+      "slideIndex": 0,
+      "position": {
+        "left": 64,
+        "top": 50,
+        "width": 1120,
+        "height": 90
+      },
+      "text": "AI辅助周报整理",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 44,
+        "typeface": "Aptos",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/547294r6",
+      "slideIndex": 0,
+      "position": {
+        "left": 64,
+        "top": 235,
+        "width": 1100,
+        "height": 100
+      },
+      "text": "从散乱记录到可核查的行动清单",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 36,
+        "typeface": "Aptos",
+        "color": "#202020",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/k3yl0zql",
+      "slideIndex": 0,
+      "position": {
+        "left": 64,
+        "top": 520,
+        "width": 1000,
+        "height": 50
+      },
+      "text": "模拟办公案例",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "#666666",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/hwbqtkby",
+      "slideIndex": 1,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "原始记录与提示词",
+      "textShapes": 3,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/b29kza94",
+      "slideIndex": 1,
+      "position": {
+        "left": 64,
+        "top": 50,
+        "width": 1120,
+        "height": 90
+      },
+      "text": "原始记录与提示词",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 44,
+        "typeface": "Aptos",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/9072xkry",
+      "slideIndex": 1,
+      "position": {
+        "left": 64,
+        "top": 175,
+        "width": 1100,
+        "height": 130
+      },
+      "text": "甲组：完成8项，延期2项\n乙组：完成6项，延期4项",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 32,
+        "typeface": "Aptos",
+        "color": "#202020",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ozy1ofad",
+      "slideIndex": 1,
+      "position": {
+        "left": 64,
+        "top": 360,
+        "width": 1100,
+        "height": 140
+      },
+      "text": "请按组汇总完成和延期数量。\n区分事实与建议，不补造延期原因。",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 32,
+        "typeface": "Aptos",
+        "color": "#202020",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/ofy9wn61",
+      "slideIndex": 2,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "本周任务完成情况",
+      "textShapes": 2,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/298ryl4v",
+      "slideIndex": 2,
+      "position": {
+        "left": 64,
+        "top": 50,
+        "width": 1120,
+        "height": 90
+      },
+      "text": "本周任务完成情况",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 44,
+        "typeface": "Aptos",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/d0jax03i",
+      "slideIndex": 2,
+      "position": {
+        "left": 64,
+        "top": 600,
+        "width": 1100,
+        "height": 45
+      },
+      "text": "单位：项。所有数字仅用于模拟演示。",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "#666666",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "chart",
+      "id": "ch/8za94vud",
+      "slideIndex": 2,
+      "position": {
+        "left": 100,
+        "top": 170,
+        "width": 1050,
+        "height": 390
+      },
+      "name": "Chart",
+      "chartType": "bar"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/jyx0ra1s",
+      "slideIndex": 3,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "人工复核与发布",
+      "textShapes": 3,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/rm1k7yt4",
+      "slideIndex": 3,
+      "position": {
+        "left": 64,
+        "top": 50,
+        "width": 1120,
+        "height": 90
+      },
+      "text": "人工复核与发布",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 44,
+        "typeface": "Aptos",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/1cj2d8b6",
+      "slideIndex": 3,
+      "position": {
+        "left": 64,
+        "top": 190,
+        "width": 1100,
+        "height": 240
+      },
+      "text": "核对计数与原始记录\n请负责人补充延期原因\n确认下一步安排后再发布",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 34,
+        "typeface": "Aptos",
+        "color": "#202020",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/0ba143al",
+      "slideIndex": 3,
+      "position": {
+        "left": 64,
+        "top": 530,
+        "width": 1100,
+        "height": 60
+      },
+      "text": "当前结果为草稿",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Aptos",
+        "color": "#C40000",
+        "bold": true,
+        "alignment": "left"
+      }
+    }
+  ],
+  "truncated": false,
+  "metadata": {
+    "target": {
+      "id": "pr/uq3pz5"
+    },
+    "omittedRecords": 0,
+    "abbreviatedRecords": 0,
+    "notices": []
+  }
+}

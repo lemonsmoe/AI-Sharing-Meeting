@@ -1,0 +1,62 @@
+[
+  {
+    "part": "xl/worksheets/sheet1.xml",
+    "address": "D6",
+    "type": "n",
+    "value": "46335.5"
+  },
+  {
+    "part": "xl/worksheets/sheet1.xml",
+    "address": "D7",
+    "type": "n",
+    "value": "46336.708333333336"
+  },
+  {
+    "part": "xl/worksheets/sheet1.xml",
+    "address": "D8",
+    "type": "n",
+    "value": "46337.5"
+  },
+  {
+    "part": "xl/worksheets/sheet2.xml",
+    "address": "D6",
+    "type": "n",
+    "value": "46337.5"
+  },
+  {
+    "part": "xl/worksheets/sheet2.xml",
+    "address": "D7",
+    "type": "n",
+    "value": "46338.666666666664"
+  },
+  {
+    "part": "xl/worksheets/sheet2.xml",
+    "address": "D8",
+    "type": "n",
+    "value": "46339.625"
+  },
+  {
+    "part": "xl/worksheets/sheet2.xml",
+    "address": "D9",
+    "type": "n",
+    "value": null
+  },
+  {
+    "part": "xl/worksheets/sheet2.xml",
+    "address": "D10",
+    "type": "n",
+    "value": null
+  },
+  {
+    "part": "xl/worksheets/sheet2.xml",
+    "address": "D11",
+    "type": "n",
+    "value": null
+  },
+  {
+    "part": "xl/worksheets/sheet2.xml",
+    "address": "D12",
+    "type": "n",
+    "value": null
+  }
+]

@@ -1,0 +1,670 @@
+{
+  "sheet": "会议跟进",
+  "hash_checks": [
+    {
+      "path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\outputs\\01a1afcd-c994-7ae0-89e1-3c3770ac406b\\meeting_actions.xlsx",
+      "expected": "becfba60f7d7d222a31ac7b28f6233b5c37385e7f83876445a21f843dbb0fa86",
+      "actual": "becfba60f7d7d222a31ac7b28f6233b5c37385e7f83876445a21f843dbb0fa86",
+      "match": true
+    },
+    {
+      "path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\tutorials\\office\\file_demo\\input\\meeting_notes.txt",
+      "expected": "13e5d932102aed3e4e7bced348407d70e5dbf6a2a29509dd42132c55764ad505",
+      "actual": "13e5d932102aed3e4e7bced348407d70e5dbf6a2a29509dd42132c55764ad505",
+      "match": true
+    },
+    {
+      "path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\tutorials\\office\\file_demo\\input\\follow_up.txt",
+      "expected": "b308c040ad72fb8024d0326ac86c641283be71540e150910f73f567a7a6e6b5d",
+      "actual": "b308c040ad72fb8024d0326ac86c641283be71540e150910f73f567a7a6e6b5d",
+      "match": true
+    }
+  ],
+  "formula_count": 0,
+  "cells": {
+    "A1": {
+      "type": null,
+      "value": ""
+    },
+    "B1": {
+      "type": null,
+      "value": ""
+    },
+    "C1": {
+      "type": null,
+      "value": ""
+    },
+    "D1": {
+      "type": null,
+      "value": ""
+    },
+    "E1": {
+      "type": null,
+      "value": ""
+    },
+    "F1": {
+      "type": null,
+      "value": ""
+    },
+    "G1": {
+      "type": null,
+      "value": ""
+    },
+    "A2": {
+      "type": "str",
+      "value": "部门周会 · 行动跟进"
+    },
+    "B2": {
+      "type": null,
+      "value": ""
+    },
+    "C2": {
+      "type": null,
+      "value": ""
+    },
+    "D2": {
+      "type": null,
+      "value": ""
+    },
+    "E2": {
+      "type": null,
+      "value": ""
+    },
+    "F2": {
+      "type": null,
+      "value": ""
+    },
+    "G2": {
+      "type": null,
+      "value": ""
+    },
+    "A3": {
+      "type": "str",
+      "value": "模拟材料｜会议日期 2026-11-06｜空白负责人或期限需补充确认"
+    },
+    "B3": {
+      "type": null,
+      "value": ""
+    },
+    "C3": {
+      "type": null,
+      "value": ""
+    },
+    "D3": {
+      "type": null,
+      "value": ""
+    },
+    "E3": {
+      "type": null,
+      "value": ""
+    },
+    "F3": {
+      "type": null,
+      "value": ""
+    },
+    "G3": {
+      "type": null,
+      "value": ""
+    },
+    "A4": {
+      "type": null,
+      "value": ""
+    },
+    "B4": {
+      "type": null,
+      "value": ""
+    },
+    "C4": {
+      "type": null,
+      "value": ""
+    },
+    "D4": {
+      "type": null,
+      "value": ""
+    },
+    "E4": {
+      "type": null,
+      "value": ""
+    },
+    "F4": {
+      "type": null,
+      "value": ""
+    },
+    "G4": {
+      "type": null,
+      "value": ""
+    },
+    "A5": {
+      "type": "str",
+      "value": "编号"
+    },
+    "B5": {
+      "type": "str",
+      "value": "已确认的行动"
+    },
+    "C5": {
+      "type": "str",
+      "value": "负责人"
+    },
+    "D5": {
+      "type": "str",
+      "value": "截止时间"
+    },
+    "E5": {
+      "type": "str",
+      "value": "来源"
+    },
+    "F5": {
+      "type": null,
+      "value": ""
+    },
+    "G5": {
+      "type": "str",
+      "value": "核对提示"
+    },
+    "A6": {
+      "type": "str",
+      "value": "A01"
+    },
+    "B6": {
+      "type": "str",
+      "value": "提交测试报告"
+    },
+    "C6": {
+      "type": "str",
+      "value": "林"
+    },
+    "D6": {
+      "type": "d",
+      "value": "2026-11-09T18:00:00.000Z"
+    },
+    "E6": {
+      "type": "str",
+      "value": "N01 / C01"
+    },
+    "F6": {
+      "type": null,
+      "value": ""
+    },
+    "G6": {
+      "type": "str",
+      "value": "期限不变；完成情况未提供"
+    },
+    "A7": {
+      "type": "str",
+      "value": "A02"
+    },
+    "B7": {
+      "type": "str",
+      "value": "收集设备报价"
+    },
+    "C7": {
+      "type": null,
+      "value": ""
+    },
+    "D7": {
+      "type": null,
+      "value": ""
+    },
+    "E7": {
+      "type": "str",
+      "value": "N03"
+    },
+    "F7": {
+      "type": null,
+      "value": ""
+    },
+    "G7": {
+      "type": "str",
+      "value": "负责人、期限均未定；采购未批"
+    },
+    "A8": {
+      "type": null,
+      "value": ""
+    },
+    "B8": {
+      "type": null,
+      "value": ""
+    },
+    "C8": {
+      "type": null,
+      "value": ""
+    },
+    "D8": {
+      "type": null,
+      "value": ""
+    },
+    "E8": {
+      "type": null,
+      "value": ""
+    },
+    "F8": {
+      "type": null,
+      "value": ""
+    },
+    "G8": {
+      "type": null,
+      "value": ""
+    },
+    "A9": {
+      "type": null,
+      "value": ""
+    },
+    "B9": {
+      "type": null,
+      "value": ""
+    },
+    "C9": {
+      "type": null,
+      "value": ""
+    },
+    "D9": {
+      "type": null,
+      "value": ""
+    },
+    "E9": {
+      "type": null,
+      "value": ""
+    },
+    "F9": {
+      "type": null,
+      "value": ""
+    },
+    "G9": {
+      "type": null,
+      "value": ""
+    },
+    "A10": {
+      "type": "str",
+      "value": "已确认变更与未决信息"
+    },
+    "B10": {
+      "type": null,
+      "value": ""
+    },
+    "C10": {
+      "type": null,
+      "value": ""
+    },
+    "D10": {
+      "type": null,
+      "value": ""
+    },
+    "E10": {
+      "type": null,
+      "value": ""
+    },
+    "F10": {
+      "type": null,
+      "value": ""
+    },
+    "G10": {
+      "type": null,
+      "value": ""
+    },
+    "A11": {
+      "type": "str",
+      "value": "编号"
+    },
+    "B11": {
+      "type": "str",
+      "value": "事项"
+    },
+    "C11": {
+      "type": "str",
+      "value": "信息状态"
+    },
+    "D11": {
+      "type": "str",
+      "value": "日期 / 金额"
+    },
+    "E11": {
+      "type": "str",
+      "value": "来源"
+    },
+    "F11": {
+      "type": null,
+      "value": ""
+    },
+    "G11": {
+      "type": "str",
+      "value": "核对提示"
+    },
+    "A12": {
+      "type": "str",
+      "value": "D01"
+    },
+    "B12": {
+      "type": "str",
+      "value": "演示日期调整"
+    },
+    "C12": {
+      "type": "str",
+      "value": "已确认"
+    },
+    "D12": {
+      "type": "d",
+      "value": "2026-11-12T00:00:00.000Z"
+    },
+    "E12": {
+      "type": "str",
+      "value": "N04"
+    },
+    "F12": {
+      "type": null,
+      "value": ""
+    },
+    "G12": {
+      "type": "str",
+      "value": "由 11 月 9 日改到 11 月 12 日"
+    },
+    "A13": {
+      "type": "str",
+      "value": "D02"
+    },
+    "B13": {
+      "type": "str",
+      "value": "购买两台设备"
+    },
+    "C13": {
+      "type": "str",
+      "value": "建议；未批准"
+    },
+    "D13": {
+      "type": "n",
+      "value": "8000"
+    },
+    "E13": {
+      "type": "str",
+      "value": "N02 / N03"
+    },
+    "F13": {
+      "type": null,
+      "value": ""
+    },
+    "G13": {
+      "type": "str",
+      "value": "没有采购批准；金额是估算"
+    },
+    "A14": {
+      "type": "str",
+      "value": "D03"
+    },
+    "B14": {
+      "type": "str",
+      "value": "会议室 B"
+    },
+    "C14": {
+      "type": "str",
+      "value": "尚未确认"
+    },
+    "D14": {
+      "type": null,
+      "value": ""
+    },
+    "E14": {
+      "type": "str",
+      "value": "C02"
+    },
+    "F14": {
+      "type": null,
+      "value": ""
+    },
+    "G14": {
+      "type": "str",
+      "value": "不能写成已预订"
+    },
+    "A15": {
+      "type": "str",
+      "value": "D04"
+    },
+    "B15": {
+      "type": "str",
+      "value": "接口失败根因"
+    },
+    "C15": {
+      "type": "str",
+      "value": "尚未定位"
+    },
+    "D15": {
+      "type": null,
+      "value": ""
+    },
+    "E15": {
+      "type": "str",
+      "value": "C03"
+    },
+    "F15": {
+      "type": null,
+      "value": ""
+    },
+    "G15": {
+      "type": "str",
+      "value": "网络问题仅为假设"
+    },
+    "A16": {
+      "type": null,
+      "value": ""
+    },
+    "B16": {
+      "type": null,
+      "value": ""
+    },
+    "C16": {
+      "type": null,
+      "value": ""
+    },
+    "D16": {
+      "type": null,
+      "value": ""
+    },
+    "E16": {
+      "type": null,
+      "value": ""
+    },
+    "F16": {
+      "type": null,
+      "value": ""
+    },
+    "G16": {
+      "type": null,
+      "value": ""
+    },
+    "A17": {
+      "type": null,
+      "value": ""
+    },
+    "B17": {
+      "type": null,
+      "value": ""
+    },
+    "C17": {
+      "type": null,
+      "value": ""
+    },
+    "D17": {
+      "type": null,
+      "value": ""
+    },
+    "E17": {
+      "type": null,
+      "value": ""
+    },
+    "F17": {
+      "type": null,
+      "value": ""
+    },
+    "G17": {
+      "type": null,
+      "value": ""
+    },
+    "A18": {
+      "type": "str",
+      "value": "来源索引（原文不改）"
+    },
+    "B18": {
+      "type": null,
+      "value": ""
+    },
+    "C18": {
+      "type": null,
+      "value": ""
+    },
+    "D18": {
+      "type": null,
+      "value": ""
+    },
+    "E18": {
+      "type": null,
+      "value": ""
+    },
+    "F18": {
+      "type": null,
+      "value": ""
+    },
+    "G18": {
+      "type": null,
+      "value": ""
+    },
+    "A19": {
+      "type": "str",
+      "value": "N01—N04：meeting_notes.txt；C01—C03：follow_up.txt"
+    },
+    "B19": {
+      "type": null,
+      "value": ""
+    },
+    "C19": {
+      "type": null,
+      "value": ""
+    },
+    "D19": {
+      "type": null,
+      "value": ""
+    },
+    "E19": {
+      "type": null,
+      "value": ""
+    },
+    "F19": {
+      "type": null,
+      "value": ""
+    },
+    "G19": {
+      "type": null,
+      "value": ""
+    },
+    "A20": {
+      "type": "str",
+      "value": "浅黄色空白：待补充确认。日期按会议当地时间填写，不进行时区换算。"
+    },
+    "B20": {
+      "type": null,
+      "value": ""
+    },
+    "C20": {
+      "type": null,
+      "value": ""
+    },
+    "D20": {
+      "type": null,
+      "value": ""
+    },
+    "E20": {
+      "type": null,
+      "value": ""
+    },
+    "F20": {
+      "type": null,
+      "value": ""
+    },
+    "G20": {
+      "type": null,
+      "value": ""
+    },
+    "A21": {
+      "type": null,
+      "value": ""
+    },
+    "B21": {
+      "type": null,
+      "value": ""
+    },
+    "C21": {
+      "type": null,
+      "value": ""
+    },
+    "D21": {
+      "type": null,
+      "value": ""
+    },
+    "E21": {
+      "type": null,
+      "value": ""
+    },
+    "F21": {
+      "type": null,
+      "value": ""
+    },
+    "G21": {
+      "type": null,
+      "value": ""
+    },
+    "A22": {
+      "type": null,
+      "value": ""
+    },
+    "B22": {
+      "type": null,
+      "value": ""
+    },
+    "C22": {
+      "type": null,
+      "value": ""
+    },
+    "D22": {
+      "type": null,
+      "value": ""
+    },
+    "E22": {
+      "type": null,
+      "value": ""
+    },
+    "F22": {
+      "type": null,
+      "value": ""
+    },
+    "G22": {
+      "type": null,
+      "value": ""
+    },
+    "A23": {
+      "type": null,
+      "value": ""
+    },
+    "B23": {
+      "type": null,
+      "value": ""
+    },
+    "C23": {
+      "type": null,
+      "value": ""
+    },
+    "D23": {
+      "type": null,
+      "value": ""
+    },
+    "E23": {
+      "type": null,
+      "value": ""
+    },
+    "F23": {
+      "type": null,
+      "value": ""
+    },
+    "G23": {
+      "type": null,
+      "value": ""
+    }
+  }
+}

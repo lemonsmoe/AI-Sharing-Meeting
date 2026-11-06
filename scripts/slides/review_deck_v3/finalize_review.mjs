@@ -1,0 +1,12 @@
+import path from 'node:path';
+import fs from 'node:fs/promises';
+import {finalizePresentation} from 'file:///C:/Users/22796/.codex/plugins/cache/openai-primary-runtime/presentations/26.1030.10813/skills/presentations/container_tools/artifact_tool_utils.mjs';
+const root=process.cwd(),workspaceDir=path.join(root,'slides/review_v3');
+const skill='C:/Users/22796/.codex/plugins/cache/openai-primary-runtime/presentations/26.1030.10813/skills/presentations';
+process.env.RUNTIME_NODE_MODULES='C:/Users/22796/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules';
+await fs.mkdir(path.join(workspaceDir,'final'),{recursive:true});
+const finalPath=path.join(workspaceDir,'final/leadership_review_v3.pptx');
+const r=await finalizePresentation({workspaceDir,candidatePath:path.join(workspaceDir,'build/review_candidate.pptx'),finalPath,pythonExecutable:'C:/Users/22796/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe',integrityValidatorPath:path.join(skill,'container_tools/inspect_presentation_package_integrity.py'),layoutValidatorPath:path.join(skill,'container_tools/inspect_presentation_layout_geometry.py'),layoutArgs:['--expected-slide-size-emu','12192000,6858000','--validate-heading-fit',...[8,9,17,19,26].flatMap(n=>['--require-native-table-slide',String(n)])],explicitTotalSlideCount:30,requiredNativeChartOwnerSlides:[],requiredNativeTableOwnerSlides:[8,9,17,19,26],materializeLiteralChartWorkbooks:false,verifyArtifactToolImport:true,fontPolicy:{basis:'design',families:['Microsoft YaHei']},receiptPath:path.join(workspaceDir,'build/validation.json')});
+await fs.copyFile(finalPath,path.join(root,'outputs/leadership_review_v3/leadership_review_v3.pptx'));
+console.log(JSON.stringify({path:finalPath,sha256:r.finalSha256,slides:30}));
+

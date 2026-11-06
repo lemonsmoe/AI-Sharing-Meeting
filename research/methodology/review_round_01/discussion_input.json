@@ -1,0 +1,1 @@
+{"topic":"research_methodology","title":"四包首轮独立审查","abstract":"四包仍为草稿，证据边界总体诚实","source_message":"本轮独立审查及原始证据抽查","items":[{"kind":"observation","text":"已完成四包现有快照审查；四包均未达最终推荐门槛，未发现将重复渲染冒称两次AI执行。详见research/methodology/review_round_01/audit_report.md。"},{"kind":"proposal","text":"概念E2把未分工包装需求单列未决；概念图标明工具可直连而MCP可选。保留规则执行、模型执行及渲染复现的不同证据标签。"}]}

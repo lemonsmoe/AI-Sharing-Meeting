@@ -1,0 +1,42 @@
+{
+  "checked_on": "2026-11-06",
+  "slide_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "sequential_30_pages": true,
+  "chinese_characters_including_cues": 8030,
+  "timing_status": "未实测，48分钟为原页预算，不由字数推定",
+  "frozen_inputs_sha256": {
+    "docs/content/slides_content_v1.json": "6484e83bc44638ada0f680a68d50870cbd5e09a6797cbb5b4c3a8d812b79ac88",
+    "docs/content/source_map.md": "49d83abfa2d188c541eeabce612acf438f3576a3670a6c2dcb35afaa3746b41e"
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "Algorithm": "SHA256",
+    "Hash": "9DBD353506D7860B843714B668D5B5155EF6B88B14AD24A4D1B7E81204078343",
+    "Path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\concepts\\chapter_draft.md"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "E1E319018A5D46F3BC9E14237684038293B096F90B36B8576BA93B39EFB05BD7",
+    "Path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\concepts\\evidence_ledger.md"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "6A06A40F02417F86BAAE94D0B2EA8517765B61DDDF388A8936BC445472CE8166",
+    "Path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\office\\evidence_ledger.md"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "C73FBC909080A52C3271E3A627BD014E33D7F4A1FDB4187B9903F25FE6ED4B30",
+    "Path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\office\\round_two_evidence.md"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "FD4C0E9C632DB5B6FA0803C889EFCAE6733350B4D612169E0906A85720C2E9F4",
+    "Path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\slides\\first_round.md"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "761E5C103288EDE341E489AE0FF9486E671B12F4CB8E5F8608E9D32AE3F6E011",
+    "Path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\video\\first_findings.md"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "CFD7C1525C5FAEAF7363A0309216E9156CBD875DD6DEE368CC49C518886A7E73",
+    "Path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\video\\round_two_evidence.md"
+  }
+]

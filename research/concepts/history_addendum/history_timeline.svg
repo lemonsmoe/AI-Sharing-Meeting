@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" rx="0" fill="#f4f6fa"/>
+<rect x="80" y="70" width="8" height="88" rx="4" fill="#245ad3"/>
+<text x="112" y="117" font-family="Microsoft YaHei, sans-serif" font-size="52" fill="#15233b">AI用法演变：从给例子，到交付可检查的任务</text>
+<text x="112" y="164" font-family="Microsoft YaHei, sans-serif" font-size="27" fill="#58657b">代表性公开节点  ·  按时间阅读  ·  能力逐步组合，旧用法继续有效</text>
+<rect x="80" y="230" width="410" height="245" rx="18" fill="#ffffff"/>
+<text x="104" y="273" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#245ad3">01</text>
+<text x="160" y="275" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#245ad3">2020.05.28</text>
+<text x="104" y="318" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#68778e">论文首版</text>
+<text x="104" y="371" font-family="Microsoft YaHei, sans-serif" font-size="31" fill="#15233b">GPT-3：给例子</text>
+<text x="104" y="421" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#4d5d74">给任务说明和少量示例</text>
+<text x="430" y="459" font-family="Microsoft YaHei, sans-serif" font-size="17" fill="#68778e">H1</text>
+<text x="498" y="364" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#8a9ab2">→</text>
+<rect x="530" y="230" width="410" height="245" rx="18" fill="#ffffff"/>
+<text x="554" y="273" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#245ad3">02</text>
+<text x="610" y="275" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#245ad3">2022.11.30</text>
+<text x="554" y="318" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#68778e">产品预览</text>
+<text x="554" y="371" font-family="Microsoft YaHei, sans-serif" font-size="31" fill="#15233b">ChatGPT：来回聊</text>
+<text x="554" y="421" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#4d5d74">追问、修改、补充要求</text>
+<text x="880" y="459" font-family="Microsoft YaHei, sans-serif" font-size="17" fill="#68778e">H2</text>
+<text x="948" y="364" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#8a9ab2">→</text>
+<rect x="980" y="230" width="410" height="245" rx="18" fill="#ffffff"/>
+<text x="1004" y="273" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#245ad3">03</text>
+<text x="1060" y="275" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#245ad3">2023.06.13</text>
+<text x="1004" y="318" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#68778e">API发布</text>
+<text x="1004" y="371" font-family="Microsoft YaHei, sans-serif" font-size="31" fill="#15233b">函数调用：接工具</text>
+<text x="1004" y="421" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#4d5d74">让应用查数据、执行操作</text>
+<text x="1330" y="459" font-family="Microsoft YaHei, sans-serif" font-size="17" fill="#68778e">H3</text>
+<text x="1398" y="364" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#8a9ab2">→</text>
+<rect x="1430" y="230" width="410" height="245" rx="18" fill="#ffffff"/>
+<text x="1454" y="273" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#245ad3">04</text>
+<text x="1510" y="275" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#245ad3">2024.11.25</text>
+<text x="1454" y="318" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#68778e">协议发布</text>
+<text x="1454" y="371" font-family="Microsoft YaHei, sans-serif" font-size="31" fill="#15233b">MCP：统一连接</text>
+<text x="1454" y="421" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#4d5d74">用标准接口连接外部系统</text>
+<text x="1780" y="459" font-family="Microsoft YaHei, sans-serif" font-size="17" fill="#68778e">H4</text>
+<rect x="80" y="530" width="410" height="245" rx="18" fill="#ffffff"/>
+<text x="104" y="573" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#245ad3">05</text>
+<text x="160" y="575" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#245ad3">2025.05.16</text>
+<text x="104" y="618" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#68778e">产品预览</text>
+<text x="104" y="671" font-family="Microsoft YaHei, sans-serif" font-size="31" fill="#15233b">Codex：委派任务</text>
+<text x="104" y="721" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#4d5d74">在环境里改文件、跑检查</text>
+<text x="430" y="759" font-family="Microsoft YaHei, sans-serif" font-size="17" fill="#68778e">H5</text>
+<text x="498" y="664" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#8a9ab2">→</text>
+<rect x="530" y="530" width="410" height="245" rx="18" fill="#ffffff"/>
+<text x="554" y="573" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#245ad3">06</text>
+<text x="610" y="575" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#245ad3">2025.10.16</text>
+<text x="554" y="618" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#68778e">官方介绍</text>
+<text x="554" y="671" font-family="Microsoft YaHei, sans-serif" font-size="31" fill="#15233b">Skills：复用做法</text>
+<text x="554" y="721" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#4d5d74">按需加载说明、脚本、资源</text>
+<text x="880" y="759" font-family="Microsoft YaHei, sans-serif" font-size="17" fill="#68778e">H6</text>
+<text x="948" y="664" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#8a9ab2">→</text>
+<rect x="980" y="530" width="410" height="245" rx="18" fill="#ffffff"/>
+<text x="1004" y="573" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#245ad3">07</text>
+<text x="1060" y="575" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#245ad3">2025.11.26</text>
+<text x="1004" y="618" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#68778e">工程文章</text>
+<text x="1004" y="671" font-family="Microsoft YaHei, sans-serif" font-size="31" fill="#15233b">Harness：接续工作</text>
+<text x="1004" y="721" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#4d5d74">留进度，分步做，跨会话接续</text>
+<text x="1330" y="759" font-family="Microsoft YaHei, sans-serif" font-size="17" fill="#68778e">H7</text>
+<text x="1398" y="664" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#8a9ab2">→</text>
+<rect x="1430" y="530" width="410" height="245" rx="18" fill="#ffffff"/>
+<text x="1454" y="573" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#245ad3">08</text>
+<text x="1510" y="575" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#245ad3">2026.04.08</text>
+<text x="1454" y="618" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#68778e">工程文章</text>
+<text x="1454" y="671" font-family="Microsoft YaHei, sans-serif" font-size="31" fill="#15233b">托管运行：分离组件</text>
+<text x="1454" y="721" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#4d5d74">会话、调度与执行环境分开</text>
+<text x="1780" y="759" font-family="Microsoft YaHei, sans-serif" font-size="17" fill="#68778e">H8</text>
+<text x="80" y="510" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#68778e">时间续接 ↓  05—08按下行从左向右阅读；箭头只表示先后</text>
+<rect x="80" y="825" width="1760" height="143" rx="18" fill="#152b50"/>
+<text x="108" y="875" font-family="Microsoft YaHei, sans-serif" font-size="29" fill="#ffffff">今天：按任务组合这些能力</text>
+<text x="108" y="922" font-family="Microsoft YaHei, sans-serif" font-size="28" fill="#dce7ff">提示词讲目标  ·  Skills复用做法  ·  工具/API或MCP连接系统</text>
+<text x="108" y="956" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#dce7ff">Agent循环执行  ·  运行框架保存进度与支持验收</text>
+<text x="80" y="1014" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#68778e">日期不等于技术诞生或全民普及。代表节点截至2026.04；2026.11.06核验。来源H1—H8见讲者备注。</text>
+</svg>

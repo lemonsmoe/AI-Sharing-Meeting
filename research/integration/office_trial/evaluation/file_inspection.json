@@ -1,0 +1,1786 @@
+{
+  "input_freeze": [
+    {
+      "path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\integration\\office_trial\\control\\protocol.md",
+      "unchanged": true
+    },
+    {
+      "path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\integration\\office_trial\\control\\task_prompt.md",
+      "unchanged": true
+    },
+    {
+      "path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\integration\\office_trial\\control\\input\\follow_up.txt",
+      "unchanged": true
+    },
+    {
+      "path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\integration\\office_trial\\control\\input\\meeting_notes.txt",
+      "unchanged": true
+    },
+    {
+      "path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\integration\\office_trial\\evaluation\\reference_baseline.json",
+      "unchanged": true
+    }
+  ],
+  "runs": {
+    "run_01": {
+      "first_output": {
+        "hashes": {
+          "meeting_brief.md": "7d49b8e058a2251906fba4581e669a538562a64362fb0c284b474938de270b02",
+          "meeting_follow_up.xlsx": "9e2e97d4106fe5e43d9656ef2ba633ab60aacce275ad4124ca5b26f5665b69c1"
+        },
+        "workbook": {
+          "zip_error": null,
+          "sheets": {
+            "行动清单": {
+              "A2": {
+                "type": "str",
+                "value": "会后行动清单",
+                "style": "2"
+              },
+              "A3": {
+                "type": "str",
+                "value": "模拟会议 2026-11-06；已合并17:00补充；日期为当地钟表时间",
+                "style": "1"
+              },
+              "A5": {
+                "type": "str",
+                "value": "事项",
+                "style": "4"
+              },
+              "B5": {
+                "type": "str",
+                "value": "负责人",
+                "style": "4"
+              },
+              "C5": {
+                "type": "str",
+                "value": "截止时间",
+                "style": "4"
+              },
+              "D5": {
+                "type": "str",
+                "value": "状态",
+                "style": "4"
+              },
+              "E5": {
+                "type": "str",
+                "value": "来源",
+                "style": "4"
+              },
+              "F5": {
+                "type": "str",
+                "value": "说明",
+                "style": "4"
+              },
+              "A6": {
+                "type": "str",
+                "value": "更新价格表",
+                "style": "5"
+              },
+              "B6": {
+                "type": "str",
+                "value": "周",
+                "style": "5"
+              },
+              "C6": {
+                "type": "n",
+                "value": "46335.5",
+                "style": "6",
+                "excel_date": "2026-11-09T12:00"
+              },
+              "D6": {
+                "type": "str",
+                "value": "已承诺，完成情况未提供",
+                "style": "5"
+              },
+              "E6": {
+                "type": "str",
+                "value": "M03、C02",
+                "style": "5"
+              },
+              "F6": {
+                "type": "str",
+                "value": "期限不变",
+                "style": "5"
+              },
+              "A7": {
+                "type": "str",
+                "value": "收集两家支架报价",
+                "style": "5"
+              },
+              "B7": {
+                "type": "str",
+                "value": "周",
+                "style": "5"
+              },
+              "C7": {
+                "type": "n",
+                "value": "46336.708333333336",
+                "style": "6",
+                "excel_date": "2026-11-10T17:00"
+              },
+              "D7": {
+                "type": "str",
+                "value": "已确认分工，完成情况未提供",
+                "style": "5"
+              },
+              "E7": {
+                "type": "str",
+                "value": "M05、C05、C06",
+                "style": "5"
+              },
+              "F7": {
+                "type": "str",
+                "value": "周已确认收到；采购仍未批准",
+                "style": "5"
+              },
+              "A8": {
+                "type": "str",
+                "value": "提交测试摘要",
+                "style": "5"
+              },
+              "B8": {
+                "type": "str",
+                "value": "林",
+                "style": "5"
+              },
+              "C8": {
+                "type": "n",
+                "value": "46337.5",
+                "style": "6",
+                "excel_date": "2026-11-11T12:00"
+              },
+              "D8": {
+                "type": "str",
+                "value": "已确认改期，完成情况未提供",
+                "style": "5"
+              },
+              "E8": {
+                "type": "str",
+                "value": "M02、C01",
+                "style": "5"
+              },
+              "F8": {
+                "type": "str",
+                "value": "替代原11月10日18:00期限",
+                "style": "5"
+              },
+              "A11": {
+                "type": "str",
+                "value": "已完成事项（不再派发）",
+                "style": "1"
+              },
+              "A12": {
+                "type": "str",
+                "value": "事项",
+                "style": "7"
+              },
+              "B12": {
+                "type": "str",
+                "value": "报告人",
+                "style": "7"
+              },
+              "C12": {
+                "type": "str",
+                "value": "状态",
+                "style": "7"
+              },
+              "D12": {
+                "type": "str",
+                "value": "来源",
+                "style": "7"
+              },
+              "A13": {
+                "type": "str",
+                "value": "旧版培训材料上传",
+                "style": "5"
+              },
+              "B13": {
+                "type": "str",
+                "value": "李",
+                "style": "5"
+              },
+              "C13": {
+                "type": "str",
+                "value": "已于会议前一天上传完成",
+                "style": "5"
+              },
+              "D13": {
+                "type": "str",
+                "value": "M06",
+                "style": "5"
+              },
+              "A15": {
+                "type": "str",
+                "value": "M编号：meeting_notes.txt；C编号：follow_up.txt。",
+                "style": "1"
+              }
+            },
+            "决定与未决": {
+              "A2": {
+                "type": "str",
+                "value": "决定与未决事项",
+                "style": "2"
+              },
+              "A3": {
+                "type": "str",
+                "value": "模拟会议 2026-11-06；已合并17:00补充；日期为当地钟表时间",
+                "style": "1"
+              },
+              "A5": {
+                "type": "str",
+                "value": "事项",
+                "style": "4"
+              },
+              "B5": {
+                "type": "str",
+                "value": "负责人",
+                "style": "4"
+              },
+              "C5": {
+                "type": "str",
+                "value": "日期时间",
+                "style": "4"
+              },
+              "D5": {
+                "type": "str",
+                "value": "状态",
+                "style": "4"
+              },
+              "E5": {
+                "type": "str",
+                "value": "来源",
+                "style": "4"
+              },
+              "F5": {
+                "type": "str",
+                "value": "具体内容",
+                "style": "4"
+              },
+              "A6": {
+                "type": "str",
+                "value": "材料冻结",
+                "style": "5"
+              },
+              "C6": {
+                "type": "n",
+                "value": "46337.5",
+                "style": "6",
+                "excel_date": "2026-11-11T12:00"
+              },
+              "D6": {
+                "type": "str",
+                "value": "已确认",
+                "style": "5"
+              },
+              "E6": {
+                "type": "str",
+                "value": "M01",
+                "style": "5"
+              },
+              "F6": {
+                "type": "str",
+                "value": "冻结时间不变；未指定负责人",
+                "style": "5"
+              },
+              "A7": {
+                "type": "str",
+                "value": "内部彩排",
+                "style": "5"
+              },
+              "C7": {
+                "type": "n",
+                "value": "46338.666666666664",
+                "style": "6",
+                "excel_date": "2026-11-12T16:00"
+              },
+              "D7": {
+                "type": "str",
+                "value": "新增，已确认",
+                "style": "5"
+              },
+              "E7": {
+                "type": "str",
+                "value": "C03",
+                "style": "5"
+              },
+              "F7": {
+                "type": "str",
+                "value": "与正式演示分开；地点未提供",
+                "style": "5"
+              },
+              "A8": {
+                "type": "str",
+                "value": "正式演示",
+                "style": "5"
+              },
+              "C8": {
+                "type": "n",
+                "value": "46339.625",
+                "style": "6",
+                "excel_date": "2026-11-13T15:00"
+              },
+              "D8": {
+                "type": "str",
+                "value": "已确认",
+                "style": "5"
+              },
+              "E8": {
+                "type": "str",
+                "value": "M01、C03、M07、C04",
+                "style": "5"
+              },
+              "F8": {
+                "type": "str",
+                "value": "会议室A已预订；原暂定会议室C取消",
+                "style": "5"
+              },
+              "A9": {
+                "type": "str",
+                "value": "采购展示支架",
+                "style": "5"
+              },
+              "D9": {
+                "type": "str",
+                "value": "建议，未批准",
+                "style": "5"
+              },
+              "E9": {
+                "type": "str",
+                "value": "M04、M05、C02、C05",
+                "style": "5"
+              },
+              "F9": {
+                "type": "str",
+                "value": "两套仅为询价需求，不代表购买批准",
+                "style": "5"
+              },
+              "A10": {
+                "type": "str",
+                "value": "含税总额",
+                "style": "5"
+              },
+              "D10": {
+                "type": "str",
+                "value": "尚不能确认",
+                "style": "5"
+              },
+              "E10": {
+                "type": "str",
+                "value": "M04、C07",
+                "style": "5"
+              },
+              "F10": {
+                "type": "str",
+                "value": "需补税种、税率及价格是否含税",
+                "style": "5"
+              },
+              "A11": {
+                "type": "str",
+                "value": "接口两次超时",
+                "style": "5"
+              },
+              "D11": {
+                "type": "str",
+                "value": "根因未确认",
+                "style": "5"
+              },
+              "E11": {
+                "type": "str",
+                "value": "M08",
+                "style": "5"
+              },
+              "F11": {
+                "type": "str",
+                "value": "限流仅为可能原因，未分配排查人或期限",
+                "style": "5"
+              },
+              "A14": {
+                "type": "str",
+                "value": "原始询价信息（不计算含税总额）",
+                "style": "1"
+              },
+              "A15": {
+                "type": "str",
+                "value": "询价数量（套）",
+                "style": "9"
+              },
+              "B15": {
+                "type": "str",
+                "value": "每套报价（元）",
+                "style": "9"
+              },
+              "C15": {
+                "type": "str",
+                "value": "运费（元）",
+                "style": "9"
+              },
+              "D15": {
+                "type": "str",
+                "value": "税口径",
+                "style": "9"
+              },
+              "E15": {
+                "type": "str",
+                "value": "来源",
+                "style": "9"
+              },
+              "A16": {
+                "type": "n",
+                "value": "2",
+                "style": "5"
+              },
+              "B16": {
+                "type": "n",
+                "value": "1200",
+                "style": "10"
+              },
+              "C16": {
+                "type": "n",
+                "value": "80",
+                "style": "10"
+              },
+              "D16": {
+                "type": "str",
+                "value": "税种、税率及是否含税未知",
+                "style": "5"
+              },
+              "E16": {
+                "type": "str",
+                "value": "M04、C02、C07",
+                "style": "5"
+              },
+              "A18": {
+                "type": "str",
+                "value": "空白负责人、日期：原文未明确，需另行确认。",
+                "style": "1"
+              },
+              "A20": {
+                "type": "str",
+                "value": "M编号：meeting_notes.txt；C编号：follow_up.txt。",
+                "style": "1"
+              }
+            }
+          }
+        }
+      },
+      "final_output": {
+        "hashes": {
+          "meeting_brief.md": "7d49b8e058a2251906fba4581e669a538562a64362fb0c284b474938de270b02",
+          "meeting_follow_up.xlsx": "9d6ed61a6411198d380f9be00ab8a1f3148fc72ebec49f92d8e3eeb3fcf26397"
+        },
+        "workbook": {
+          "zip_error": null,
+          "sheets": {
+            "行动清单": {
+              "A2": {
+                "type": "str",
+                "value": "会后行动清单",
+                "style": "2"
+              },
+              "A3": {
+                "type": "str",
+                "value": "模拟会议 2026-11-06；已合并17:00补充；日期为当地钟表时间",
+                "style": "1"
+              },
+              "A5": {
+                "type": "str",
+                "value": "事项",
+                "style": "6"
+              },
+              "B5": {
+                "type": "str",
+                "value": "负责人",
+                "style": "6"
+              },
+              "C5": {
+                "type": "str",
+                "value": "截止时间",
+                "style": "6"
+              },
+              "D5": {
+                "type": "str",
+                "value": "状态",
+                "style": "6"
+              },
+              "E5": {
+                "type": "str",
+                "value": "来源",
+                "style": "6"
+              },
+              "F5": {
+                "type": "str",
+                "value": "说明",
+                "style": "6"
+              },
+              "A6": {
+                "type": "str",
+                "value": "更新价格表",
+                "style": "7"
+              },
+              "B6": {
+                "type": "str",
+                "value": "周",
+                "style": "7"
+              },
+              "C6": {
+                "type": "n",
+                "value": "46335.5",
+                "style": "9",
+                "excel_date": "2026-11-09T12:00"
+              },
+              "D6": {
+                "type": "str",
+                "value": "已承诺，完成情况未提供",
+                "style": "7"
+              },
+              "E6": {
+                "type": "str",
+                "value": "M03、C02",
+                "style": "7"
+              },
+              "F6": {
+                "type": "str",
+                "value": "期限不变",
+                "style": "7"
+              },
+              "A7": {
+                "type": "str",
+                "value": "收集两家支架报价",
+                "style": "7"
+              },
+              "B7": {
+                "type": "str",
+                "value": "周",
+                "style": "7"
+              },
+              "C7": {
+                "type": "n",
+                "value": "46336.708333333336",
+                "style": "9",
+                "excel_date": "2026-11-10T17:00"
+              },
+              "D7": {
+                "type": "str",
+                "value": "已确认分工，完成情况未提供",
+                "style": "7"
+              },
+              "E7": {
+                "type": "str",
+                "value": "M05、C05、C06",
+                "style": "7"
+              },
+              "F7": {
+                "type": "str",
+                "value": "周已确认收到；采购仍未批准",
+                "style": "7"
+              },
+              "A8": {
+                "type": "str",
+                "value": "提交测试摘要",
+                "style": "7"
+              },
+              "B8": {
+                "type": "str",
+                "value": "林",
+                "style": "7"
+              },
+              "C8": {
+                "type": "n",
+                "value": "46337.5",
+                "style": "9",
+                "excel_date": "2026-11-11T12:00"
+              },
+              "D8": {
+                "type": "str",
+                "value": "已确认改期，完成情况未提供",
+                "style": "7"
+              },
+              "E8": {
+                "type": "str",
+                "value": "M02、C01",
+                "style": "7"
+              },
+              "F8": {
+                "type": "str",
+                "value": "替代原11月10日18:00期限",
+                "style": "7"
+              },
+              "A11": {
+                "type": "str",
+                "value": "已完成事项（不再派发）",
+                "style": "1"
+              },
+              "A12": {
+                "type": "str",
+                "value": "事项",
+                "style": "10"
+              },
+              "B12": {
+                "type": "str",
+                "value": "报告人",
+                "style": "10"
+              },
+              "C12": {
+                "type": "str",
+                "value": "状态",
+                "style": "10"
+              },
+              "D12": {
+                "type": "str",
+                "value": "来源",
+                "style": "10"
+              },
+              "A13": {
+                "type": "str",
+                "value": "旧版培训材料上传",
+                "style": "5"
+              },
+              "B13": {
+                "type": "str",
+                "value": "李",
+                "style": "5"
+              },
+              "C13": {
+                "type": "str",
+                "value": "已于会议前一天上传完成",
+                "style": "5"
+              },
+              "D13": {
+                "type": "str",
+                "value": "M06",
+                "style": "5"
+              },
+              "A15": {
+                "type": "str",
+                "value": "M编号：meeting_notes.txt；C编号：follow_up.txt。",
+                "style": "1"
+              }
+            },
+            "决定与未决": {
+              "A2": {
+                "type": "str",
+                "value": "决定与未决事项",
+                "style": "2"
+              },
+              "A3": {
+                "type": "str",
+                "value": "模拟会议 2026-11-06；已合并17:00补充；日期为当地钟表时间",
+                "style": "1"
+              },
+              "A5": {
+                "type": "str",
+                "value": "事项",
+                "style": "6"
+              },
+              "B5": {
+                "type": "str",
+                "value": "负责人",
+                "style": "6"
+              },
+              "C5": {
+                "type": "str",
+                "value": "日期时间",
+                "style": "6"
+              },
+              "D5": {
+                "type": "str",
+                "value": "状态",
+                "style": "6"
+              },
+              "E5": {
+                "type": "str",
+                "value": "来源",
+                "style": "6"
+              },
+              "F5": {
+                "type": "str",
+                "value": "具体内容",
+                "style": "6"
+              },
+              "A6": {
+                "type": "str",
+                "value": "材料冻结",
+                "style": "7"
+              },
+              "C6": {
+                "type": "n",
+                "value": "46337.5",
+                "style": "9",
+                "excel_date": "2026-11-11T12:00"
+              },
+              "D6": {
+                "type": "str",
+                "value": "已确认",
+                "style": "7"
+              },
+              "E6": {
+                "type": "str",
+                "value": "M01",
+                "style": "7"
+              },
+              "F6": {
+                "type": "str",
+                "value": "冻结时间不变；未指定负责人",
+                "style": "7"
+              },
+              "A7": {
+                "type": "str",
+                "value": "内部彩排",
+                "style": "7"
+              },
+              "C7": {
+                "type": "n",
+                "value": "46338.666666666664",
+                "style": "9",
+                "excel_date": "2026-11-12T16:00"
+              },
+              "D7": {
+                "type": "str",
+                "value": "新增，已确认",
+                "style": "7"
+              },
+              "E7": {
+                "type": "str",
+                "value": "C03",
+                "style": "7"
+              },
+              "F7": {
+                "type": "str",
+                "value": "与正式演示分开；地点未提供",
+                "style": "7"
+              },
+              "A8": {
+                "type": "str",
+                "value": "正式演示",
+                "style": "7"
+              },
+              "C8": {
+                "type": "n",
+                "value": "46339.625",
+                "style": "9",
+                "excel_date": "2026-11-13T15:00"
+              },
+              "D8": {
+                "type": "str",
+                "value": "已确认",
+                "style": "7"
+              },
+              "E8": {
+                "type": "str",
+                "value": "M01、C03、M07、C04",
+                "style": "7"
+              },
+              "F8": {
+                "type": "str",
+                "value": "会议室A已预订；原暂定会议室C取消",
+                "style": "7"
+              },
+              "A9": {
+                "type": "str",
+                "value": "采购展示支架",
+                "style": "7"
+              },
+              "D9": {
+                "type": "str",
+                "value": "建议，未批准",
+                "style": "7"
+              },
+              "E9": {
+                "type": "str",
+                "value": "M04、M05、C02、C05",
+                "style": "7"
+              },
+              "F9": {
+                "type": "str",
+                "value": "两套仅为询价需求，不代表购买批准",
+                "style": "7"
+              },
+              "A10": {
+                "type": "str",
+                "value": "含税总额",
+                "style": "7"
+              },
+              "D10": {
+                "type": "str",
+                "value": "尚不能确认",
+                "style": "7"
+              },
+              "E10": {
+                "type": "str",
+                "value": "M04、C07",
+                "style": "7"
+              },
+              "F10": {
+                "type": "str",
+                "value": "需补税种、税率及价格是否含税",
+                "style": "7"
+              },
+              "A11": {
+                "type": "str",
+                "value": "接口两次超时",
+                "style": "7"
+              },
+              "D11": {
+                "type": "str",
+                "value": "根因未确认",
+                "style": "7"
+              },
+              "E11": {
+                "type": "str",
+                "value": "M08",
+                "style": "7"
+              },
+              "F11": {
+                "type": "str",
+                "value": "限流仅为可能原因，未分配排查人或期限",
+                "style": "7"
+              },
+              "A14": {
+                "type": "str",
+                "value": "原始询价信息（不计算含税总额）",
+                "style": "1"
+              },
+              "A15": {
+                "type": "str",
+                "value": "询价数量（套）",
+                "style": "12"
+              },
+              "B15": {
+                "type": "str",
+                "value": "单价（元）",
+                "style": "12"
+              },
+              "C15": {
+                "type": "str",
+                "value": "运费（元）",
+                "style": "12"
+              },
+              "D15": {
+                "type": "str",
+                "value": "税口径",
+                "style": "12"
+              },
+              "E15": {
+                "type": "str",
+                "value": "来源",
+                "style": "12"
+              },
+              "A16": {
+                "type": "n",
+                "value": "2",
+                "style": "5"
+              },
+              "B16": {
+                "type": "n",
+                "value": "1200",
+                "style": "13"
+              },
+              "C16": {
+                "type": "n",
+                "value": "80",
+                "style": "13"
+              },
+              "D16": {
+                "type": "str",
+                "value": "税种、税率及是否含税未知",
+                "style": "5"
+              },
+              "E16": {
+                "type": "str",
+                "value": "M04、C02、C07",
+                "style": "5"
+              },
+              "A18": {
+                "type": "str",
+                "value": "空白负责人、日期：原文未明确，需另行确认。",
+                "style": "1"
+              },
+              "A20": {
+                "type": "str",
+                "value": "M编号：meeting_notes.txt；C编号：follow_up.txt。",
+                "style": "1"
+              }
+            }
+          }
+        }
+      },
+      "cell_values_unchanged": false
+    },
+    "run_02": {
+      "first_output": {
+        "hashes": {
+          "meeting_brief.md": "71e564db54e8d6723f44ac0443987bf1f5709ceb63bc443f3c2f8569ce5d8c72",
+          "meeting_follow_up.xlsx": "a19e2165e377370813904ee4dddbab48754a1ab3b008c010e3fe7b36b9c7ee3b"
+        },
+        "workbook": {
+          "zip_error": null,
+          "sheets": {
+            "行动清单": {
+              "A2": {
+                "type": "str",
+                "value": "会议行动清单",
+                "style": "2"
+              },
+              "A3": {
+                "type": "str",
+                "value": "截至2026-11-06 17:00；均为当地钟表时间，不换算时区。",
+                "style": "1"
+              },
+              "A5": {
+                "type": "str",
+                "value": "事项",
+                "style": "6"
+              },
+              "B5": {
+                "type": "str",
+                "value": "负责人",
+                "style": "6"
+              },
+              "C5": {
+                "type": "str",
+                "value": "执行说明",
+                "style": "6"
+              },
+              "D5": {
+                "type": "str",
+                "value": "截止日期时间",
+                "style": "6"
+              },
+              "E5": {
+                "type": "str",
+                "value": "状态",
+                "style": "6"
+              },
+              "F5": {
+                "type": "str",
+                "value": "来源",
+                "style": "6"
+              },
+              "A6": {
+                "type": "str",
+                "value": "更新价格表",
+                "style": "8"
+              },
+              "B6": {
+                "type": "str",
+                "value": "周",
+                "style": "8"
+              },
+              "C6": {
+                "type": "str",
+                "value": "交付时间保持不变",
+                "style": "8"
+              },
+              "D6": {
+                "type": "n",
+                "value": "46335.5",
+                "style": "10",
+                "excel_date": "2026-11-09T12:00"
+              },
+              "E6": {
+                "type": "str",
+                "value": "待交付",
+                "style": "8"
+              },
+              "F6": {
+                "type": "str",
+                "value": "M03、C02",
+                "style": "8"
+              },
+              "A7": {
+                "type": "str",
+                "value": "收集两家支架报价",
+                "style": "8"
+              },
+              "B7": {
+                "type": "str",
+                "value": "周",
+                "style": "8"
+              },
+              "C7": {
+                "type": "str",
+                "value": "按两套支架询价；收集报价不代表采购获批",
+                "style": "8"
+              },
+              "D7": {
+                "type": "n",
+                "value": "46336.708333333336",
+                "style": "10",
+                "excel_date": "2026-11-10T17:00"
+              },
+              "E7": {
+                "type": "str",
+                "value": "已确认接办，待交付",
+                "style": "8"
+              },
+              "F7": {
+                "type": "str",
+                "value": "M04、M05、C02、C05、C06",
+                "style": "8"
+              },
+              "A8": {
+                "type": "str",
+                "value": "交付测试摘要",
+                "style": "8"
+              },
+              "B8": {
+                "type": "str",
+                "value": "林",
+                "style": "8"
+              },
+              "C8": {
+                "type": "str",
+                "value": "原2026-11-10 18:00期限已被会后确认替代",
+                "style": "8"
+              },
+              "D8": {
+                "type": "n",
+                "value": "46337.5",
+                "style": "10",
+                "excel_date": "2026-11-11T12:00"
+              },
+              "E8": {
+                "type": "str",
+                "value": "待交付",
+                "style": "8"
+              },
+              "F8": {
+                "type": "str",
+                "value": "M02、C01",
+                "style": "8"
+              }
+            },
+            "决定与未决事项": {
+              "A2": {
+                "type": "str",
+                "value": "会议决定与未决事项",
+                "style": "2"
+              },
+              "A3": {
+                "type": "str",
+                "value": "截至2026-11-06 17:00；均为当地钟表时间，不换算时区。",
+                "style": "1"
+              },
+              "A5": {
+                "type": "str",
+                "value": "事项",
+                "style": "6"
+              },
+              "B5": {
+                "type": "str",
+                "value": "负责人",
+                "style": "6"
+              },
+              "C5": {
+                "type": "str",
+                "value": "最新内容",
+                "style": "6"
+              },
+              "D5": {
+                "type": "str",
+                "value": "日期时间",
+                "style": "6"
+              },
+              "E5": {
+                "type": "str",
+                "value": "类别及状态",
+                "style": "6"
+              },
+              "F5": {
+                "type": "str",
+                "value": "来源",
+                "style": "6"
+              },
+              "A6": {
+                "type": "str",
+                "value": "材料冻结",
+                "style": "8"
+              },
+              "C6": {
+                "type": "str",
+                "value": "会议一致同意的冻结时间",
+                "style": "8"
+              },
+              "D6": {
+                "type": "n",
+                "value": "46337.5",
+                "style": "10",
+                "excel_date": "2026-11-11T12:00"
+              },
+              "E6": {
+                "type": "str",
+                "value": "已确认决定",
+                "style": "8"
+              },
+              "F6": {
+                "type": "str",
+                "value": "M01",
+                "style": "8"
+              },
+              "A7": {
+                "type": "str",
+                "value": "内部彩排",
+                "style": "8"
+              },
+              "C7": {
+                "type": "str",
+                "value": "新增内部彩排；地点未提供",
+                "style": "8"
+              },
+              "D7": {
+                "type": "n",
+                "value": "46338.666666666664",
+                "style": "10",
+                "excel_date": "2026-11-12T16:00"
+              },
+              "E7": {
+                "type": "str",
+                "value": "已确认决定",
+                "style": "8"
+              },
+              "F7": {
+                "type": "str",
+                "value": "C03",
+                "style": "8"
+              },
+              "A8": {
+                "type": "str",
+                "value": "正式演示",
+                "style": "8"
+              },
+              "C8": {
+                "type": "str",
+                "value": "时间不变；改用会议室A且已预订，原暂定会议室C取消",
+                "style": "8"
+              },
+              "D8": {
+                "type": "n",
+                "value": "46339.625",
+                "style": "10",
+                "excel_date": "2026-11-13T15:00"
+              },
+              "E8": {
+                "type": "str",
+                "value": "已确认决定",
+                "style": "8"
+              },
+              "F8": {
+                "type": "str",
+                "value": "M01、M07、C03、C04",
+                "style": "8"
+              },
+              "A9": {
+                "type": "str",
+                "value": "支架采购",
+                "style": "8"
+              },
+              "C9": {
+                "type": "str",
+                "value": "周建议购买两套，数量目前仅作为询价需求；尚无购买批准",
+                "style": "8"
+              },
+              "E9": {
+                "type": "str",
+                "value": "建议，未批准",
+                "style": "8"
+              },
+              "F9": {
+                "type": "str",
+                "value": "M04、M05、C02、C05",
+                "style": "8"
+              },
+              "A10": {
+                "type": "str",
+                "value": "税费及含税总额",
+                "style": "8"
+              },
+              "C10": {
+                "type": "str",
+                "value": "需补齐税种、税率及价格是否含税；含税总额暂不能确认",
+                "style": "8"
+              },
+              "E10": {
+                "type": "str",
+                "value": "未决问题",
+                "style": "8"
+              },
+              "F10": {
+                "type": "str",
+                "value": "M04、C07",
+                "style": "8"
+              },
+              "A11": {
+                "type": "str",
+                "value": "接口超时",
+                "style": "8"
+              },
+              "C11": {
+                "type": "str",
+                "value": "出现两次超时；限流只是可能原因，根因未确认",
+                "style": "8"
+              },
+              "E11": {
+                "type": "str",
+                "value": "未决问题",
+                "style": "8"
+              },
+              "F11": {
+                "type": "str",
+                "value": "M08",
+                "style": "8"
+              },
+              "A12": {
+                "type": "str",
+                "value": "旧版培训材料",
+                "style": "8"
+              },
+              "B12": {
+                "type": "str",
+                "value": "李",
+                "style": "8"
+              },
+              "C12": {
+                "type": "str",
+                "value": "2026-11-05已上传完成，不再安排为待办；具体时刻未提供",
+                "style": "8"
+              },
+              "E12": {
+                "type": "str",
+                "value": "已完成事项",
+                "style": "8"
+              },
+              "F12": {
+                "type": "str",
+                "value": "M06（会议日期2026-11-06）",
+                "style": "8"
+              },
+              "A15": {
+                "type": "str",
+                "value": "支架询价信息（非已批准采购金额）",
+                "style": "11"
+              },
+              "A17": {
+                "type": "str",
+                "value": "项目",
+                "style": "13"
+              },
+              "B17": {
+                "type": "str",
+                "value": "数值",
+                "style": "13"
+              },
+              "C17": {
+                "type": "str",
+                "value": "口径",
+                "style": "13"
+              },
+              "D17": {
+                "type": "str",
+                "value": "来源",
+                "style": "13"
+              },
+              "A18": {
+                "type": "str",
+                "value": "建议数量（套）",
+                "style": "15"
+              },
+              "B18": {
+                "type": "n",
+                "value": "2",
+                "style": "16"
+              },
+              "C18": {
+                "type": "str",
+                "value": "仅作询价需求",
+                "style": "15"
+              },
+              "D18": {
+                "type": "str",
+                "value": "M04、C02",
+                "style": "15"
+              },
+              "A19": {
+                "type": "str",
+                "value": "报价单价（元/套）",
+                "style": "15"
+              },
+              "B19": {
+                "type": "n",
+                "value": "1200",
+                "style": "16"
+              },
+              "C19": {
+                "type": "str",
+                "value": "是否含税未知",
+                "style": "15"
+              },
+              "D19": {
+                "type": "str",
+                "value": "M04、C07",
+                "style": "15"
+              },
+              "A20": {
+                "type": "str",
+                "value": "另列运费（元）",
+                "style": "15"
+              },
+              "B20": {
+                "type": "n",
+                "value": "80",
+                "style": "16"
+              },
+              "C20": {
+                "type": "str",
+                "value": "保留原文金额；未推算含税总额",
+                "style": "15"
+              },
+              "D20": {
+                "type": "str",
+                "value": "M04、C07",
+                "style": "15"
+              }
+            }
+          }
+        }
+      },
+      "final_output": {
+        "hashes": {
+          "meeting_brief.md": "71e564db54e8d6723f44ac0443987bf1f5709ceb63bc443f3c2f8569ce5d8c72",
+          "meeting_follow_up.xlsx": "a19e2165e377370813904ee4dddbab48754a1ab3b008c010e3fe7b36b9c7ee3b"
+        },
+        "workbook": {
+          "zip_error": null,
+          "sheets": {
+            "行动清单": {
+              "A2": {
+                "type": "str",
+                "value": "会议行动清单",
+                "style": "2"
+              },
+              "A3": {
+                "type": "str",
+                "value": "截至2026-11-06 17:00；均为当地钟表时间，不换算时区。",
+                "style": "1"
+              },
+              "A5": {
+                "type": "str",
+                "value": "事项",
+                "style": "6"
+              },
+              "B5": {
+                "type": "str",
+                "value": "负责人",
+                "style": "6"
+              },
+              "C5": {
+                "type": "str",
+                "value": "执行说明",
+                "style": "6"
+              },
+              "D5": {
+                "type": "str",
+                "value": "截止日期时间",
+                "style": "6"
+              },
+              "E5": {
+                "type": "str",
+                "value": "状态",
+                "style": "6"
+              },
+              "F5": {
+                "type": "str",
+                "value": "来源",
+                "style": "6"
+              },
+              "A6": {
+                "type": "str",
+                "value": "更新价格表",
+                "style": "8"
+              },
+              "B6": {
+                "type": "str",
+                "value": "周",
+                "style": "8"
+              },
+              "C6": {
+                "type": "str",
+                "value": "交付时间保持不变",
+                "style": "8"
+              },
+              "D6": {
+                "type": "n",
+                "value": "46335.5",
+                "style": "10",
+                "excel_date": "2026-11-09T12:00"
+              },
+              "E6": {
+                "type": "str",
+                "value": "待交付",
+                "style": "8"
+              },
+              "F6": {
+                "type": "str",
+                "value": "M03、C02",
+                "style": "8"
+              },
+              "A7": {
+                "type": "str",
+                "value": "收集两家支架报价",
+                "style": "8"
+              },
+              "B7": {
+                "type": "str",
+                "value": "周",
+                "style": "8"
+              },
+              "C7": {
+                "type": "str",
+                "value": "按两套支架询价；收集报价不代表采购获批",
+                "style": "8"
+              },
+              "D7": {
+                "type": "n",
+                "value": "46336.708333333336",
+                "style": "10",
+                "excel_date": "2026-11-10T17:00"
+              },
+              "E7": {
+                "type": "str",
+                "value": "已确认接办，待交付",
+                "style": "8"
+              },
+              "F7": {
+                "type": "str",
+                "value": "M04、M05、C02、C05、C06",
+                "style": "8"
+              },
+              "A8": {
+                "type": "str",
+                "value": "交付测试摘要",
+                "style": "8"
+              },
+              "B8": {
+                "type": "str",
+                "value": "林",
+                "style": "8"
+              },
+              "C8": {
+                "type": "str",
+                "value": "原2026-11-10 18:00期限已被会后确认替代",
+                "style": "8"
+              },
+              "D8": {
+                "type": "n",
+                "value": "46337.5",
+                "style": "10",
+                "excel_date": "2026-11-11T12:00"
+              },
+              "E8": {
+                "type": "str",
+                "value": "待交付",
+                "style": "8"
+              },
+              "F8": {
+                "type": "str",
+                "value": "M02、C01",
+                "style": "8"
+              }
+            },
+            "决定与未决事项": {
+              "A2": {
+                "type": "str",
+                "value": "会议决定与未决事项",
+                "style": "2"
+              },
+              "A3": {
+                "type": "str",
+                "value": "截至2026-11-06 17:00；均为当地钟表时间，不换算时区。",
+                "style": "1"
+              },
+              "A5": {
+                "type": "str",
+                "value": "事项",
+                "style": "6"
+              },
+              "B5": {
+                "type": "str",
+                "value": "负责人",
+                "style": "6"
+              },
+              "C5": {
+                "type": "str",
+                "value": "最新内容",
+                "style": "6"
+              },
+              "D5": {
+                "type": "str",
+                "value": "日期时间",
+                "style": "6"
+              },
+              "E5": {
+                "type": "str",
+                "value": "类别及状态",
+                "style": "6"
+              },
+              "F5": {
+                "type": "str",
+                "value": "来源",
+                "style": "6"
+              },
+              "A6": {
+                "type": "str",
+                "value": "材料冻结",
+                "style": "8"
+              },
+              "C6": {
+                "type": "str",
+                "value": "会议一致同意的冻结时间",
+                "style": "8"
+              },
+              "D6": {
+                "type": "n",
+                "value": "46337.5",
+                "style": "10",
+                "excel_date": "2026-11-11T12:00"
+              },
+              "E6": {
+                "type": "str",
+                "value": "已确认决定",
+                "style": "8"
+              },
+              "F6": {
+                "type": "str",
+                "value": "M01",
+                "style": "8"
+              },
+              "A7": {
+                "type": "str",
+                "value": "内部彩排",
+                "style": "8"
+              },
+              "C7": {
+                "type": "str",
+                "value": "新增内部彩排；地点未提供",
+                "style": "8"
+              },
+              "D7": {
+                "type": "n",
+                "value": "46338.666666666664",
+                "style": "10",
+                "excel_date": "2026-11-12T16:00"
+              },
+              "E7": {
+                "type": "str",
+                "value": "已确认决定",
+                "style": "8"
+              },
+              "F7": {
+                "type": "str",
+                "value": "C03",
+                "style": "8"
+              },
+              "A8": {
+                "type": "str",
+                "value": "正式演示",
+                "style": "8"
+              },
+              "C8": {
+                "type": "str",
+                "value": "时间不变；改用会议室A且已预订，原暂定会议室C取消",
+                "style": "8"
+              },
+              "D8": {
+                "type": "n",
+                "value": "46339.625",
+                "style": "10",
+                "excel_date": "2026-11-13T15:00"
+              },
+              "E8": {
+                "type": "str",
+                "value": "已确认决定",
+                "style": "8"
+              },
+              "F8": {
+                "type": "str",
+                "value": "M01、M07、C03、C04",
+                "style": "8"
+              },
+              "A9": {
+                "type": "str",
+                "value": "支架采购",
+                "style": "8"
+              },
+              "C9": {
+                "type": "str",
+                "value": "周建议购买两套，数量目前仅作为询价需求；尚无购买批准",
+                "style": "8"
+              },
+              "E9": {
+                "type": "str",
+                "value": "建议，未批准",
+                "style": "8"
+              },
+              "F9": {
+                "type": "str",
+                "value": "M04、M05、C02、C05",
+                "style": "8"
+              },
+              "A10": {
+                "type": "str",
+                "value": "税费及含税总额",
+                "style": "8"
+              },
+              "C10": {
+                "type": "str",
+                "value": "需补齐税种、税率及价格是否含税；含税总额暂不能确认",
+                "style": "8"
+              },
+              "E10": {
+                "type": "str",
+                "value": "未决问题",
+                "style": "8"
+              },
+              "F10": {
+                "type": "str",
+                "value": "M04、C07",
+                "style": "8"
+              },
+              "A11": {
+                "type": "str",
+                "value": "接口超时",
+                "style": "8"
+              },
+              "C11": {
+                "type": "str",
+                "value": "出现两次超时；限流只是可能原因，根因未确认",
+                "style": "8"
+              },
+              "E11": {
+                "type": "str",
+                "value": "未决问题",
+                "style": "8"
+              },
+              "F11": {
+                "type": "str",
+                "value": "M08",
+                "style": "8"
+              },
+              "A12": {
+                "type": "str",
+                "value": "旧版培训材料",
+                "style": "8"
+              },
+              "B12": {
+                "type": "str",
+                "value": "李",
+                "style": "8"
+              },
+              "C12": {
+                "type": "str",
+                "value": "2026-11-05已上传完成，不再安排为待办；具体时刻未提供",
+                "style": "8"
+              },
+              "E12": {
+                "type": "str",
+                "value": "已完成事项",
+                "style": "8"
+              },
+              "F12": {
+                "type": "str",
+                "value": "M06（会议日期2026-11-06）",
+                "style": "8"
+              },
+              "A15": {
+                "type": "str",
+                "value": "支架询价信息（非已批准采购金额）",
+                "style": "11"
+              },
+              "A17": {
+                "type": "str",
+                "value": "项目",
+                "style": "13"
+              },
+              "B17": {
+                "type": "str",
+                "value": "数值",
+                "style": "13"
+              },
+              "C17": {
+                "type": "str",
+                "value": "口径",
+                "style": "13"
+              },
+              "D17": {
+                "type": "str",
+                "value": "来源",
+                "style": "13"
+              },
+              "A18": {
+                "type": "str",
+                "value": "建议数量（套）",
+                "style": "15"
+              },
+              "B18": {
+                "type": "n",
+                "value": "2",
+                "style": "16"
+              },
+              "C18": {
+                "type": "str",
+                "value": "仅作询价需求",
+                "style": "15"
+              },
+              "D18": {
+                "type": "str",
+                "value": "M04、C02",
+                "style": "15"
+              },
+              "A19": {
+                "type": "str",
+                "value": "报价单价（元/套）",
+                "style": "15"
+              },
+              "B19": {
+                "type": "n",
+                "value": "1200",
+                "style": "16"
+              },
+              "C19": {
+                "type": "str",
+                "value": "是否含税未知",
+                "style": "15"
+              },
+              "D19": {
+                "type": "str",
+                "value": "M04、C07",
+                "style": "15"
+              },
+              "A20": {
+                "type": "str",
+                "value": "另列运费（元）",
+                "style": "15"
+              },
+              "B20": {
+                "type": "n",
+                "value": "80",
+                "style": "16"
+              },
+              "C20": {
+                "type": "str",
+                "value": "保留原文金额；未推算含税总额",
+                "style": "15"
+              },
+              "D20": {
+                "type": "str",
+                "value": "M04、C07",
+                "style": "15"
+              }
+            }
+          }
+        }
+      },
+      "cell_values_unchanged": true
+    }
+  }
+}

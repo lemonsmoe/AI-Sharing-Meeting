@@ -1,0 +1,112 @@
+[
+  {
+    "tool": "ChatGPT",
+    "task": "研究与文档",
+    "deliverable": "研究摘要、文档、表格等交付文件",
+    "prerequisite": "ChatGPT账号、可用地区与功能；上传获准资料，连接企业数据另需授权",
+    "billing": "免费/订阅；Work与Codex共享用量，超额可用credits；API另计",
+    "tested": "未测网页产品；本项目Codex结果不归到ChatGPT网页",
+    "official_guide": "https://learn.chatgpt.com/docs/web",
+    "pricing": "https://learn.chatgpt.com/docs/pricing",
+    "tutorial": "T01"
+  },
+  {
+    "tool": "Claude",
+    "task": "研究与文档",
+    "deliverable": "资料分析、可下载Word/Excel/PPT/PDF",
+    "prerequisite": "Claude账号；文件创建能力启用；组织设置允许",
+    "billing": "免费限额/个人订阅；Pro月付20美元；创建文件消耗套餐用量，API另计",
+    "tested": "未执行",
+    "official_guide": "https://support.claude.com/en/articles/12111783-create-and-edit-files-with-claude",
+    "pricing": "https://claude.com/pricing",
+    "tutorial": "T01"
+  },
+  {
+    "tool": "豆包",
+    "task": "中文资料与写作",
+    "deliverable": "中文起草、文档问答、网页总结（官方索引正文）",
+    "prerequisite": "官方网页/客户端；账号及对应能力开放；共享软件需授权",
+    "billing": "普通账号与付费会员；月/年订阅，消耗额度，特定功能另有额度包；金额未核",
+    "tested": "未执行",
+    "official_guide": "https://www.doubao.com/download",
+    "pricing": "https://www.doubao.com/legal/ey01",
+    "tutorial": "T01"
+  },
+  {
+    "tool": "WorkBuddy",
+    "task": "本地文件任务",
+    "deliverable": "批量文件整理、纪要及文档/表格/PPT",
+    "prerequisite": "安装客户端、登录、指定获准文件夹和读写范围",
+    "billing": "体验版500积分/月；个人标准月付99元；订阅含积分，可买加量包；企业另报价",
+    "tested": "未执行",
+    "official_guide": "https://www.workbuddy.cn/docs/workbuddy/FirstTask",
+    "pricing": "https://www.workbuddy.cn/docs/workbuddy/Pricing",
+    "tutorial": "T02"
+  },
+  {
+    "tool": "Codex",
+    "task": "本地文件与代码任务",
+    "deliverable": "本地读写、脚本核算、可复现文件交付；开发工具取向",
+    "prerequisite": "已登录客户端/CLI、工作目录与工具权限；依赖运行环境",
+    "billing": "ChatGPT订阅额度/credits；API密钥认证另按API计费",
+    "tested": "已执行模拟文件和trial_02；非企业产品横评",
+    "official_guide": "https://learn.chatgpt.com/docs/quickstart",
+    "pricing": "https://learn.chatgpt.com/docs/pricing",
+    "tutorial": "T02"
+  },
+  {
+    "tool": "Microsoft 365 Copilot",
+    "task": "现有办公套件",
+    "deliverable": "Word初稿、Excel分析、PowerPoint及Teams内协作",
+    "prerequisite": "合格Microsoft 365许可加Copilot或对应组合包；管理员分配许可与数据访问权",
+    "billing": "按用户订阅；部分高级Agent另按使用量；地区/是否含Teams改变报价",
+    "tested": "Copilot未执行；PowerPoint COM检查不是Copilot测试",
+    "official_guide": "https://learn.microsoft.com/en-us/copilot/plan/copilot-license-options",
+    "pricing": "https://www.microsoft.com/en-us/copilot/pricing/business",
+    "tutorial": "T03"
+  },
+  {
+    "tool": "WPS AI",
+    "task": "中文办公套件",
+    "deliverable": "文档写作、公式辅助、从大纲生成PPT",
+    "prerequisite": "兼容最新版WPS、登录账号、AI权益；组织可能统一分配",
+    "billing": "会员/企业套餐加功能额度；购买页正文不可读，金额及导出权益待账号核验",
+    "tested": "未执行；不能把本地PPT生成算WPS AI",
+    "official_guide": "https://www.wps.cn/article/jT0fHn8o.html",
+    "pricing": "https://vip.wps.cn/privilege_page/",
+    "tutorial": "T03"
+  },
+  {
+    "tool": "飞书智能纪要",
+    "task": "会议与组织知识",
+    "deliverable": "会议总结、待办及逐字稿（官方索引正文）",
+    "prerequisite": "飞书账号、可用AI额度、会中AI总结/录制权限；遵守组织录音规则",
+    "billing": "AI会员/企业AI额度；转写分钟与AI生成额度不同；当前金额待确认",
+    "tested": "未执行；网页正文不可读，索引资料可供条件教学",
+    "official_guide": "https://www.feishu.cn/hc/zh-CN/articles/244959839578-在视频会议中使用智能纪要",
+    "pricing": "https://www.feishu.cn/service/ai",
+    "tutorial": "T04"
+  },
+  {
+    "tool": "Notion AI Meeting Notes",
+    "task": "会议与知识库",
+    "deliverable": "转写、会议重点、行动项到Notion页面",
+    "prerequisite": "Business/Enterprise或合资格移动订阅；桌面版本与音频权限；浏览器仅麦克风",
+    "billing": "按成员/月订阅，月/年账期；AI Meeting Notes属相应计划；不把所有Agent视为无限额",
+    "tested": "未执行",
+    "official_guide": "https://www.notion.com/help/ai-meeting-notes",
+    "pricing": "https://www.notion.com/pricing",
+    "tutorial": "T04"
+  },
+  {
+    "tool": "Gamma",
+    "task": "演示文稿",
+    "deliverable": "大纲/文档转卡片演示，导出PPTX/PDF",
+    "prerequisite": "账号、可用AI额度、输入大纲；导出后目标办公软件复核",
+    "billing": "免费及月/年订阅、AI credits；去品牌属付费权益；动态金额未读出",
+    "tested": "未执行；本项目Artifact Tool生成不是Gamma",
+    "official_guide": "https://help.gamma.app/en/articles/8022861-what-s-the-easiest-way-to-export-my-gamma",
+    "pricing": "https://gamma.app/pricing",
+    "tutorial": "T05"
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "captured_utc": "2026-11-06T11:49:44.188062+00:00",
+  "read_file_hashes": {
+    "research/research_gate.md": "2147f1eacb77c67910cadf67e13f9072bee2033d79c9db77df363e3244b13256",
+    "research/concepts/progress.md": "a4e103e3edcfe9e3510bbc340ec10594ba76b358eb569615499ef21ece29c332",
+    "research/concepts/completion_audit.md": "1de27bbd35860f6ba7e74504edbf8a24343d2bb22e7917cd0b67beb41d41369d",
+    "research/concepts/claim_matrix.md": "14732a2e7ce13535ba3ca82d75afae3e5443722d265773022bbb3c7267e379f9",
+    "research/concepts/video_content_review.md": "14a7163d6722c99d888100ceb4b92a7ef0ae59ac464a59e5ba445b85342f084c",
+    "research/concepts/evidence_ledger.md": "5d3f5e3422ddda56dd964a577c167e95faef627fcfa970a32fa6b5b93d8c57de",
+    "research/concepts/counterevidence_review.md": "b891d2a451f698b0b1d2a1e61b217f9d83185ef3f92427f5d8ab09b5e3513892",
+    "research/concepts/experiments/trial_scoring_report.md": "b5e01ba51a2c49ff6c33875061bfaafc95acdbb53b64b0eb0498b2c7fc3067ff",
+    "research/concepts/experiments/scoring_revision_note.md": "f5e7060dca04d722bfe087f9929f93adf8932a0b6934934294bf23babc5870aa",
+    "research/office/progress.md": "ef367353db26e6dc07a7bbbf146e645cee25ec992dbe43174e61d776df77fa8d",
+    "research/office/source_audit.md": "04cd8b3eaf459c68aaf82d7f5ebdac223c8c8dcc432429ed87d8fd4eff37daa0",
+    "research/office/practice_and_completion_audit.md": "ad905232a28b4335afb1cb557e3b773d8b7cb4fd7f98eb01f8a0884f9b2cde03",
+    "research/office/practice_review.md": "66ac2b4acbbf8eadda34e5f836d348938676571feea0fd28931851c5a5e4b48a",
+    "research/office/video_text_review.md": "d2b1674cad0d8b75ed5ec4c0f3b0626de30f9634b229469543669e0960e0fe9c",
+    "research/office/spreadsheet_review/review_report.md": "c77891c71bf3529be6600465322b86aa664a359d77fb94a73d71b2a34094a924",
+    "research/office/concepts_trial_review/review_report.md": "9720d00ae082ac3a9acd95039fa6c651a8c8828ca08557d1e0d01f0fa3c9bab7",
+    "research/slides/progress.md": "b3329964954526d66b1796bec7cd13806d47bd16ca70bf1802aebb299ff3cad6",
+    "research/slides/stage_handoff.md": "b6aeb967c2a0e2ca587d542fbe0e73735fd4a09119a2a8e7398ff8a9ff4eff42",
+    "research/slides/practice_evidence_04.md": "d864034e9be5360fe89c1ad84ff3f08e83711b021aabec498e387134ea8ba0da",
+    "research/slides/video_audit_05.md": "5b0df796c0512f1632e9f07aeb15832bbec011d05db8902558a4632ee353e747",
+    "docs/context/00_current/domains/slides_production.md": "e76e14ec9d2e65382e3f67b650014d0f9589d4af05c42c39ea94f7fa29fca385",
+    "research/video/progress.md": "bc1c67ffe9d4d3025603847cc7a8d7103c2aa0f1040bd9059abd9c7cc745cdff",
+    "research/video/claim_evidence_review.md": "bffc62f5a18793c958a7bd5a62e5fc2fce43d25d806cb9578fe51c7d9eff743b",
+    "research/video/independent_practice_addendum.md": "af4e7a62acdb1cab8334d06c31b49667b1cf79b0e950ccdf4ca7f974753bee6c",
+    "research/video/transcript_reading.md": "cc473b0d72fe86a90e9fdf719fe2520df8c32b4be5d401d0ad53aa8af30e7271",
+    "research/video/caption_candidate_review.md": "109c67fb1fb3f8e737678bfc1851997b6873b6521b969f565f6844a30b9c7616",
+    "research/video/narrated_reproduction.md": "d5e046ba77f211b4c33413a42fac9bd296094e4eb605f9d6fb9e8e838c278c34",
+    "research/video/evidence_ledger.md": "dcefed04e95f7aec76a7db04a01edf67c37edc437286c906d056571ef66561da",
+    "research/video/teaching_sources.md": "cb0edc77d4b46b34396220bb88df81c1b22732f4da1e9d0b54f794da826653f3",
+    "slides/review_v2/native_validation/result.json": "d80f82d051e200a12b4cd66a0b19cbdddc297c8447470bc9b9a132fbc894010d",
+    "slides/review_v2/build/validation.json": "d4f4bf9274df8b1cf1581e89368f466bf1ec08cc984b1ad93a8c7e3165c925fc",
+    "videos/experiments/caption_candidate_01/render_report.json": "8973d6583011ddc4ffe480e5eb17376aa3d2f292bf5837fcf7001f781e736c4a"
+  },
+  "artifact_checks": [
+    {
+      "path": "outputs/leadership_review_v2/leadership_review_v2.pptx",
+      "expected": "81cdb10735478ebe6a8c5cf686863d7fb5f4d2377ac2e6fb6cee4e0461d7cae3",
+      "actual": "81cdb10735478ebe6a8c5cf686863d7fb5f4d2377ac2e6fb6cee4e0461d7cae3",
+      "match": true
+    },
+    {
+      "path": "videos/experiments/caption_candidate_01/meeting_captioned.mp4",
+      "expected": "afc31bb04c9837725aa357bf8f82c72f98e39f855b5d4975e8c6d6b8a3c8766d",
+      "actual": "afc31bb04c9837725aa357bf8f82c72f98e39f855b5d4975e8c6d6b8a3c8766d",
+      "match": true
+    }
+  ],
+  "package_readonly": {
+    "slides": 30,
+    "charts": 0,
+    "tables": 5
+  },
+  "boundary": "只读哈希与ZIP结构抽查；未运行产品、重算表格或播放媒体；报告来源行为未全部重做"
+}

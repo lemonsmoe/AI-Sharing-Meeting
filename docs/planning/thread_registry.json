@@ -1,0 +1,52 @@
+{
+  "updated_at": "2026-11-06",
+  "manager_thread_id": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+  "threads": [
+    {
+      "threadId": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "hostId": "local",
+      "slug": "methodology",
+      "title": "子对话1：调研标准Skill与独立复核",
+      "goal_status": "active_reported_by_child",
+      "goal_evidence": "research/methodology/progress.md",
+      "last_observed_thread_status": "active"
+    },
+    {
+      "threadId": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "hostId": "local",
+      "slug": "concepts",
+      "title": "子对话2：AI用法演变与提示词",
+      "goal_status": "active_reported_by_child",
+      "goal_evidence": "research/concepts/progress.md",
+      "last_observed_thread_status": "active"
+    },
+    {
+      "threadId": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "hostId": "local",
+      "slug": "office",
+      "title": "子对话3：企业办公场景与工具调研",
+      "goal_status": "active_reported_by_child",
+      "goal_evidence": "research/office/progress.md",
+      "last_observed_thread_status": "active"
+    },
+    {
+      "threadId": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "hostId": "local",
+      "slug": "slides",
+      "title": "子对话4：PPT工具选型与模板实验",
+      "goal_status": "active_reported_by_child",
+      "goal_evidence": "research/slides/progress.md",
+      "last_observed_thread_status": "active"
+    },
+    {
+      "threadId": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "hostId": "local",
+      "slug": "video",
+      "title": "子对话5：AI讲解视频流程与样片",
+      "goal_status": "active_reported_by_child",
+      "goal_evidence": "research/video/progress.md",
+      "last_observed_thread_status": "active"
+    }
+  ],
+  "verification": "2026-11-06，主对话读取各专属progress.md；子聊天均报告create_goal成功且active；wait_threads均显示active。"
+}

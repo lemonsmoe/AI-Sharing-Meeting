@@ -1,0 +1,34 @@
+{
+  "created_at": "2026-11-06T11:35:19.604159+00:00",
+  "source_sha256": "04d4ef305e2ee1fb909ff3790ed7dfa7156235c7dd9b499f271073062cb7b598",
+  "output_sha256": "afc31bb04c9837725aa357bf8f82c72f98e39f855b5d4975e8c6d6b8a3c8766d",
+  "metadata": {
+    "plugin": "ffmpeg",
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(progressive)",
+    "audio_codec": "aac",
+    "fps": 24.0,
+    "source_size": [
+      1280,
+      720
+    ],
+    "size": [
+      1280,
+      720
+    ],
+    "rotate": 0,
+    "duration": 72.0
+  },
+  "decoded_frames": 1728,
+  "audio_packets_unchanged": true,
+  "captions": [
+    "Dialogue: 0,0:00:00.00,0:00:09.83,Default,,0,0,0,,会议结束了，事情还散着。先保留原话，\\N再看谁负责、做什么，以及哪些信息没确定。",
+    "Dialogue: 0,0:00:10.25,0:00:20.28,Default,,0,0,0,,模拟会议里，小林说：我来整理方案初稿，\\N争取周五给到。提取字段时，要能找到原文依据。",
+    "Dialogue: 0,0:00:22.25,0:00:33.14,Default,,0,0,0,,看这份模拟错误草稿。它把争取周五给到，\\N写成了周五承诺完成。表格看起来整齐，意思却变了。",
+    "Dialogue: 0,0:00:34.25,0:00:44.50,Default,,0,0,0,,回到原话，保留争取的意思。时间应写成周五，\\N预计、待确认。承诺需要由负责人确认。",
+    "Dialogue: 0,0:00:46.25,0:00:58.66,Default,,0,0,0,,预算没有确定，就写待确认，不自动补数字。\\N交付前再核对三件事：姓名有依据，时间不夸大，缺失信息不补造。",
+    "Dialogue: 0,0:01:00.25,0:01:11.50,Default,,0,0,0,,最后，把负责人、事项、时间和预算连同依据交付。\\N让人工智能整理，再由人确认，进入工作流程。"
+  ],
+  "boundary": "整段字幕，非逐字同步；未完整试听和动态审片"
+}

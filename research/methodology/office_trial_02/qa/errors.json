@@ -1,0 +1,16 @@
+[
+  {
+    "phase": "读取输入",
+    "detail": "最初访问research/integration/office_trial/input不存在；按提示相对目录改读control/input，未读其他路径内容。"
+  },
+  {
+    "phase": "依赖准备",
+    "detail": "创建node_modules目录联接被拒绝；改用createRequire从已提供bundled runtime解析公开包入口，未安装依赖。"
+  },
+  {
+    "phase": "Excel首次检查",
+    "started_utc": "2026-11-06T12:24:04.5690245+00:00",
+    "finished_utc": "2026-11-06T12:24:04.6205936+00:00",
+    "detail": "COM实例创建E_ACCESSDENIED 0x80070005；尚未打开文件。其后已授权提升权限重试成功，报告另存excel_roundtrip_report.json。"
+  }
+]

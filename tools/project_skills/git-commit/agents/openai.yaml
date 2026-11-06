@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git 操作规范"
+  short_description: "规范分支、worktree、提交、集成与发布边界"
+  default_prompt: "Use $git-commit to 按精简规范检查仓库，并安全完成本次 Git 操作。"

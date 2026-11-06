@@ -1,0 +1,90 @@
+{
+  "voice": "Microsoft Huihui",
+  "speaking_rate": 1.1,
+  "records": [
+    {
+      "id": "scene_01",
+      "start": 0,
+      "end": 10,
+      "text": "会议结束了，事情还散在几句话里。先保留原话，再看谁负责、做什么，以及哪些信息还没确定。",
+      "started_at": "2026-11-06T11:24:13.626401+00:00",
+      "generation_seconds": 0.09626409999327734,
+      "audio_seconds": 10.827,
+      "sample_rate": 16000,
+      "slot_seconds": 10,
+      "sha256": "e333a669c2174a10d1875c9db08557d2d98a64d7fc204a23a89f5a7b6e9fa9cd"
+    },
+    {
+      "id": "scene_02",
+      "start": 10,
+      "end": 22,
+      "text": "这是一段模拟记录。小林说，我来整理方案初稿，争取周五给到。提取负责人、事项和时间时，每个字段都要有原文依据。",
+      "started_at": "2026-11-06T11:24:13.722428+00:00",
+      "generation_seconds": 0.04824589999043383,
+      "audio_seconds": 13.156,
+      "sample_rate": 16000,
+      "slot_seconds": 12,
+      "sha256": "24225db8544b2c0f33b5dd29c5e0baed304b608d8cfe949a5ef7575821966be5"
+    },
+    {
+      "id": "scene_03",
+      "start": 22,
+      "end": 34,
+      "text": "看这份模拟错误草稿。它把争取周五给到，写成了周五承诺完成。表格看起来整齐，意思却变了。",
+      "started_at": "2026-11-06T11:24:13.771671+00:00",
+      "generation_seconds": 0.04775889999291394,
+      "audio_seconds": 10.893,
+      "sample_rate": 16000,
+      "slot_seconds": 12,
+      "sha256": "073917d6d78a7bf50f2aa0dbb40db3a64f9346037614e07c7fd4bbf00348a93e"
+    },
+    {
+      "id": "scene_04",
+      "start": 34,
+      "end": 46,
+      "text": "回到原话，保留争取的意思。时间应写成周五，预计、待确认。是否能够承诺，需要交给负责人确认。",
+      "started_at": "2026-11-06T11:24:13.819748+00:00",
+      "generation_seconds": 0.04842130000179168,
+      "audio_seconds": 11.656,
+      "sample_rate": 16000,
+      "slot_seconds": 12,
+      "sha256": "b1b930a5d08fc2e0247837e05096ca0f31c55bca8c5087619c2914d9abb3fb57"
+    },
+    {
+      "id": "scene_05",
+      "start": 46,
+      "end": 60,
+      "text": "预算没有确定，就写待确认，不自动补数字。交付前再核对三件事：姓名有依据，时间不夸大，缺失信息不补造。",
+      "started_at": "2026-11-06T11:24:13.867722+00:00",
+      "generation_seconds": 0.04847870000230614,
+      "audio_seconds": 12.409,
+      "sample_rate": 16000,
+      "slot_seconds": 14,
+      "sha256": "beaba6f683ebbe0702319bcb5a2852f018510090453093ea4c10eee538a7b20f"
+    },
+    {
+      "id": "scene_06",
+      "start": 60,
+      "end": 72,
+      "text": "最后，把负责人、事项、时间和预算连同依据一起交付。让人工智能帮助整理，让证据约束内容，再由人确认并进入工作流程。",
+      "started_at": "2026-11-06T11:24:13.916769+00:00",
+      "generation_seconds": 0.048230700005660765,
+      "audio_seconds": 13.613,
+      "sample_rate": 16000,
+      "slot_seconds": 12,
+      "sha256": "8d31e523fd6ed477bd8e9cdc1f69d7fda7f90ae968fe4eb59ae6cb6205706b4f"
+    }
+  ],
+  "dependencies": {
+    "typing_extensions": "4.16.0",
+    "winrt-runtime": "3.2.1",
+    "winrt-Windows.Foundation": "3.2.1",
+    "winrt-Windows.Foundation.Collections": "3.2.1",
+    "winrt-Windows.Media.SpeechSynthesis": "3.2.1",
+    "winrt-Windows.Storage.Streams": "3.2.1"
+  },
+  "input_sha256": "c51015ab2bb0eeb55cdc7b6bcb7189a9722b731dceb0c0ad2cd875fdcb3af6f3",
+  "voice_review": "未完整试听，不以生成成功代替发音和听感验收",
+  "paid_external_calls": 0,
+  "agent_cost": "账单未知"
+}

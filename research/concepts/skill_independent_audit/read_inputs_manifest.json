@@ -1,0 +1,21 @@
+{
+  "recorded_at": "2026-11-06T20:07:06.968711+08:00",
+  "files": [
+    {
+      "path": "C:/Users/22796/.codex/skills/ai-workflow-research/SKILL.md",
+      "sha256": "72b4f13d533e31a278643f0c3afbf111442fcf7160620f9dd33671823cecce7e"
+    },
+    {
+      "path": "C:/Users/22796/.codex/skills/ai-workflow-research/references/research_gate.md",
+      "sha256": "2147f1eacb77c67910cadf67e13f9072bee2033d79c9db77df363e3244b13256"
+    },
+    {
+      "path": "C:/Users/22796/.codex/skills/ai-workflow-research/references/evidence_review.md",
+      "sha256": "425d904c3741c6dfb17263aed591d9425f3fe58e792fc58b47054bc8bb9f0bec"
+    },
+    {
+      "path": "research\\concepts\\skill_independent_audit\\pre_search_plan.md",
+      "sha256": "2a27927c616223ed394d132a44ab01879981e25b2f087e8dd94314dc84f091fc"
+    }
+  ]
+}

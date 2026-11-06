@@ -1,0 +1,81 @@
+{
+  "checked_at": "2026-11-06T11:29:32.055070+00:00",
+  "video_sha256": "04d4ef305e2ee1fb909ff3790ed7dfa7156235c7dd9b499f271073062cb7b598",
+  "srt_sha256": "69dff061ab975ab34c10e7f6917deb697d4cf12f20abfaa5fb93231757f06e65",
+  "full_av_decode_passed": true,
+  "video_packets_match_original": true,
+  "decoded_audio_seconds": 72.0,
+  "decoded_audio_peak": 0.9324513077735901,
+  "decoded_audio_samples_at_or_above_full_scale": 0,
+  "cues": [
+    {
+      "cue": 1,
+      "start": 0.0,
+      "end": 9.827,
+      "characters_per_second": 3.87,
+      "line_lengths": [
+        28,
+        10
+      ],
+      "punctuation_at_line_start": []
+    },
+    {
+      "cue": 2,
+      "start": 10.25,
+      "end": 20.281,
+      "characters_per_second": 4.09,
+      "line_lengths": [
+        28,
+        13
+      ],
+      "punctuation_at_line_start": []
+    },
+    {
+      "cue": 3,
+      "start": 22.25,
+      "end": 33.143,
+      "characters_per_second": 3.95,
+      "line_lengths": [
+        28,
+        15
+      ],
+      "punctuation_at_line_start": [
+        "。表格看起来整齐，意思却变了。"
+      ]
+    },
+    {
+      "cue": 4,
+      "start": 34.25,
+      "end": 44.502,
+      "characters_per_second": 3.8,
+      "line_lengths": [
+        28,
+        11
+      ],
+      "punctuation_at_line_start": []
+    },
+    {
+      "cue": 5,
+      "start": 46.25,
+      "end": 58.659,
+      "characters_per_second": 4.03,
+      "line_lengths": [
+        28,
+        22
+      ],
+      "punctuation_at_line_start": []
+    },
+    {
+      "cue": 6,
+      "start": 60.25,
+      "end": 71.499,
+      "characters_per_second": 3.91,
+      "line_lengths": [
+        28,
+        16
+      ],
+      "punctuation_at_line_start": []
+    }
+  ],
+  "boundary": "未完整试听和动态审片；默认libass截图不代表所有播放器布局"
+}

@@ -1,0 +1,18 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,32,&H00FFFFFF,&H00FFFFFF,&H003B2414,&H003B2414,0,0,0,0,100,100,0,0,1,0,0,2,60,60,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:09.83,Default,,0,0,0,,会议结束了，事情还散着。先保留原话，\N再看谁负责、做什么，以及哪些信息没确定。
+Dialogue: 0,0:00:10.25,0:00:20.28,Default,,0,0,0,,模拟会议里，小林说：我来整理方案初稿，\N争取周五给到。提取字段时，要能找到原文依据。
+Dialogue: 0,0:00:22.25,0:00:33.14,Default,,0,0,0,,看这份模拟错误草稿。它把争取周五给到，\N写成了周五承诺完成。表格看起来整齐，意思却变了。
+Dialogue: 0,0:00:34.25,0:00:44.50,Default,,0,0,0,,回到原话，保留争取的意思。时间应写成周五，\N预计、待确认。承诺需要由负责人确认。
+Dialogue: 0,0:00:46.25,0:00:58.66,Default,,0,0,0,,预算没有确定，就写待确认，不自动补数字。\N交付前再核对三件事：姓名有依据，时间不夸大，缺失信息不补造。
+Dialogue: 0,0:01:00.25,0:01:11.50,Default,,0,0,0,,最后，把负责人、事项、时间和预算连同依据交付。\N让人工智能整理，再由人确认，进入工作流程。

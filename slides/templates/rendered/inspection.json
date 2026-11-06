@@ -1,0 +1,6600 @@
+{
+  "recordCount": 319,
+  "records": [
+    {
+      "kind": "layout",
+      "id": "ly/atofqts7",
+      "editable": false,
+      "name": "",
+      "type": "master",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title",
+          "textPreview": "单击此处编辑母版标题样式"
+        },
+        {
+          "name": "body",
+          "type": "body",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"
+        },
+        {
+          "name": "dateTime",
+          "type": "dateTime"
+        },
+        {
+          "name": "footer",
+          "type": "footer"
+        },
+        {
+          "name": "slideNumber",
+          "type": "slideNumber"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/ux4ruhcv",
+      "editable": false,
+      "name": "标题幻灯片",
+      "type": "title",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title",
+          "textPreview": "单击此处编辑标题"
+        },
+        {
+          "name": "subtitle",
+          "type": "subtitle",
+          "textPreview": "单击此处编辑副标题"
+        },
+        {
+          "name": "dateTime",
+          "type": "dateTime"
+        },
+        {
+          "name": "footer",
+          "type": "footer"
+        },
+        {
+          "name": "slideNumber",
+          "type": "slideNumber"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/p83mt83u",
+      "editable": false,
+      "name": "标题和内容",
+      "type": "obj",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title",
+          "textPreview": "单击此处编辑母版标题样式"
+        },
+        {
+          "name": "2",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"
+        },
+        {
+          "name": "dateTime",
+          "type": "dateTime"
+        },
+        {
+          "name": "footer",
+          "type": "footer"
+        },
+        {
+          "name": "slideNumber",
+          "type": "slideNumber"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/4v2ps7ql",
+      "editable": false,
+      "name": "节标题",
+      "type": "secHead",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title",
+          "textPreview": "单击此处编辑标题"
+        },
+        {
+          "name": "body",
+          "type": "body",
+          "textPreview": "单击此处编辑文本"
+        },
+        {
+          "name": "dateTime",
+          "type": "dateTime"
+        },
+        {
+          "name": "footer",
+          "type": "footer"
+        },
+        {
+          "name": "slideNumber",
+          "type": "slideNumber"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/3yt8jipk",
+      "editable": false,
+      "name": "两栏内容",
+      "type": "twoObj",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title",
+          "textPreview": "单击此处编辑母版标题样式"
+        },
+        {
+          "name": "2",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"
+        },
+        {
+          "name": "3",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"
+        },
+        {
+          "name": "dateTime",
+          "type": "dateTime"
+        },
+        {
+          "name": "footer",
+          "type": "footer"
+        },
+        {
+          "name": "slideNumber",
+          "type": "slideNumber"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/elwrupwj",
+      "editable": false,
+      "name": "比较",
+      "type": "twoTxTwoObj",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title",
+          "textPreview": "单击此处编辑母版标题样式"
+        },
+        {
+          "name": "文本占位符 2",
+          "type": "body",
+          "textPreview": "单击此处编辑文本"
+        },
+        {
+          "name": "3",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"
+        },
+        {
+          "name": "文本占位符 4",
+          "type": "body",
+          "textPreview": "单击此处编辑文本"
+        },
+        {
+          "name": "5",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"
+        },
+        {
+          "name": "dateTime",
+          "type": "dateTime"
+        },
+        {
+          "name": "footer",
+          "type": "footer"
+        },
+        {
+          "name": "slideNumber",
+          "type": "slideNumber"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/14ra9krq",
+      "editable": false,
+      "name": "仅标题",
+      "type": "titleOnly",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title",
+          "textPreview": "单击此处编辑母版标题样式"
+        },
+        {
+          "name": "dateTime",
+          "type": "dateTime"
+        },
+        {
+          "name": "footer",
+          "type": "footer"
+        },
+        {
+          "name": "slideNumber",
+          "type": "slideNumber"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/07y1cjyt",
+      "editable": false,
+      "name": "空白",
+      "type": "blank",
+      "placeholders": [
+        {
+          "name": "dateTime",
+          "type": "dateTime"
+        },
+        {
+          "name": "footer",
+          "type": "footer"
+        },
+        {
+          "name": "slideNumber",
+          "type": "slideNumber"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/bqdgbyxk",
+      "editable": false,
+      "name": "图片与标题",
+      "type": "",
+      "placeholders": [
+        {
+          "name": "picture",
+          "type": "picture"
+        },
+        {
+          "name": "body",
+          "type": "body",
+          "textPreview": "单击此处编辑母版文本样式"
+        },
+        {
+          "name": "dateTime",
+          "type": "dateTime"
+        },
+        {
+          "name": "footer",
+          "type": "footer"
+        },
+        {
+          "name": "slideNumber",
+          "type": "slideNumber"
+        },
+        {
+          "name": "title",
+          "type": "title",
+          "textPreview": "单击此处编辑母版标题样式"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/m1sra9c7",
+      "editable": false,
+      "name": "竖排标题与文本",
+      "type": "vertTitleAndTx",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title",
+          "textPreview": "单击此处编辑标题"
+        },
+        {
+          "name": "body",
+          "type": "body",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"
+        },
+        {
+          "name": "dateTime",
+          "type": "dateTime"
+        },
+        {
+          "name": "footer",
+          "type": "footer"
+        },
+        {
+          "name": "slideNumber",
+          "type": "slideNumber"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/2t4jax8v",
+      "editable": false,
+      "name": "内容",
+      "type": "",
+      "placeholders": [
+        {
+          "name": "dateTime",
+          "type": "dateTime"
+        },
+        {
+          "name": "footer",
+          "type": "footer"
+        },
+        {
+          "name": "slideNumber",
+          "type": "slideNumber"
+        },
+        {
+          "name": "6",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"
+        }
+      ]
+    },
+    {
+      "kind": "layout",
+      "id": "ly/rm10zq1g",
+      "editable": false,
+      "name": "末尾幻灯片",
+      "type": "",
+      "placeholders": [
+        {
+          "name": "dateTime",
+          "type": "dateTime"
+        },
+        {
+          "name": "footer",
+          "type": "footer"
+        },
+        {
+          "name": "slideNumber",
+          "type": "slideNumber"
+        },
+        {
+          "name": "title",
+          "type": "title",
+          "textPreview": "单击此处编辑标题"
+        },
+        {
+          "name": "body",
+          "type": "body",
+          "textPreview": "单击此处编辑母版文本样式"
+        }
+      ]
+    },
+    {
+      "kind": "slide",
+      "id": "sl/y90nupkv",
+      "slideIndex": 0,
+      "layout": {
+        "id": "ly/ux4ruhcv",
+        "name": "标题幻灯片"
+      },
+      "title": "汇报人｜部门｜日期",
+      "textShapes": 5,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/vmdcj2xw",
+      "slideIndex": 0,
+      "position": {
+        "left": 90.6,
+        "top": 582.8,
+        "width": 240.07,
+        "height": 38.8
+      },
+      "name": "文本框 12",
+      "text": "汇报人｜部门｜日期",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 22,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/hofulsf2",
+      "slideIndex": 0,
+      "position": {
+        "left": 81.27,
+        "top": 351.75,
+        "width": 420,
+        "height": 80.67
+      },
+      "name": "文本框 10",
+      "text": "半年总结",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 36,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ul4vaxgb",
+      "slideIndex": 0,
+      "position": {
+        "left": 81.27,
+        "top": 233.98,
+        "width": 340,
+        "height": 126.02
+      },
+      "name": "文本框 11",
+      "text": "20XX",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 50,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/4r6dg7et",
+      "slideIndex": 0,
+      "position": {
+        "left": 81.27,
+        "top": 445.66,
+        "width": 519.1,
+        "height": 46.16
+      },
+      "name": "文本框 13",
+      "text": "从项目交付到能力沉淀\n技术研发｜阶段汇报",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 14.53,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ipovexwn",
+      "slideIndex": 0,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/dgvyd8fa",
+      "slideIndex": 0,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/hwbqtkby",
+      "slideIndex": 1,
+      "layout": {
+        "id": "ly/p83mt83u",
+        "name": "标题和内容"
+      },
+      "title": "汇报目录",
+      "textShapes": 11
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/p0vy54na",
+      "slideIndex": 1,
+      "position": {
+        "left": 78,
+        "top": 43,
+        "width": 825,
+        "height": 52
+      },
+      "name": "文本框 27",
+      "text": "汇报目录",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 34,
+        "typeface": "微软雅黑",
+        "color": "#C00000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/4zmxwzmp",
+      "slideIndex": 1,
+      "position": {
+        "left": 78,
+        "top": 95,
+        "width": 830,
+        "height": 30
+      },
+      "name": "文本框 28",
+      "text": "按“总览—成果—沉淀—规划”展开",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 14.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/onydsbmd",
+      "slideIndex": 1,
+      "position": {
+        "left": 90,
+        "top": 165,
+        "width": 138,
+        "height": 84
+      },
+      "name": "矩形 31",
+      "text": "01  工作概览",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18.53,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/a9gvulkj",
+      "slideIndex": 1,
+      "position": {
+        "left": 276,
+        "top": 175,
+        "width": 890,
+        "height": 64
+      },
+      "name": "矩形 33",
+      "text": "阶段主线 → 关键任务全景",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16.53,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/wbidwb29",
+      "slideIndex": 1,
+      "position": {
+        "left": 90,
+        "top": 278,
+        "width": 138,
+        "height": 84
+      },
+      "name": "矩形 35",
+      "text": "02  项目成果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18.53,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/id0vylkf",
+      "slideIndex": 1,
+      "position": {
+        "left": 276,
+        "top": 288,
+        "width": 890,
+        "height": 64
+      },
+      "name": "矩形 37",
+      "text": "项目 A → 项目 B → 项目 C",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ru5cbqd4",
+      "slideIndex": 1,
+      "position": {
+        "left": 90,
+        "top": 391,
+        "width": 138,
+        "height": 84
+      },
+      "name": "矩形 39",
+      "text": "03  能力沉淀",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18.53,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/tw7ud0va",
+      "slideIndex": 1,
+      "position": {
+        "left": 276,
+        "top": 401,
+        "width": 890,
+        "height": 64
+      },
+      "name": "矩形 41",
+      "text": "知识资产 → 工程化 → 团队协作",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 15.53,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/fypcfqdg",
+      "slideIndex": 1,
+      "position": {
+        "left": 90,
+        "top": 504,
+        "width": 138,
+        "height": 84
+      },
+      "name": "矩形 43",
+      "text": "04  复盘规划",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18.53,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/107uh0v6",
+      "slideIndex": 1,
+      "position": {
+        "left": 276,
+        "top": 514,
+        "width": 890,
+        "height": 64
+      },
+      "name": "矩形 45",
+      "text": "问题复盘 → 下一阶段路线图",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16.53,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/v2lc36dw",
+      "slideIndex": 1,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/u9sf65cv",
+      "slideIndex": 1,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/ofy9wn61",
+      "slideIndex": 2,
+      "layout": {
+        "id": "ly/p83mt83u",
+        "name": "标题和内容"
+      },
+      "title": "阶段工作总论",
+      "textShapes": 19
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/a9kfadwn",
+      "slideIndex": 2,
+      "position": {
+        "left": 78,
+        "top": 43,
+        "width": 825,
+        "height": 52
+      },
+      "name": "文本框 27",
+      "text": "阶段工作总论",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 28,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/batgjixs",
+      "slideIndex": 2,
+      "position": {
+        "left": 78,
+        "top": 95,
+        "width": 830,
+        "height": 30
+      },
+      "name": "文本框 28",
+      "text": "汇报主线：成果证据 → 共性能力 → 复盘 → 聚焦",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/z2d07mh4",
+      "slideIndex": 2,
+      "position": {
+        "left": 108,
+        "top": 164,
+        "width": 820,
+        "height": 132
+      },
+      "name": "矩形 31",
+      "text": "项目之外，\n更重要的是沉淀可复用能力",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 35,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/y14jehgj",
+      "slideIndex": 2,
+      "position": {
+        "left": 108,
+        "top": 298,
+        "width": 870,
+        "height": 46
+      },
+      "name": "矩形 32",
+      "text": "从任务交付出发，逐步形成产品、工程、研究与协作四条能力线。",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/byd032h8",
+      "slideIndex": 2,
+      "position": {
+        "left": 120,
+        "top": 429,
+        "width": 54,
+        "height": 54
+      },
+      "name": "矩形 35",
+      "text": "01",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ax4zax0n",
+      "slideIndex": 2,
+      "position": {
+        "left": 90,
+        "top": 500,
+        "width": 150,
+        "height": 30
+      },
+      "name": "矩形 36",
+      "text": "交付落地",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/hwzihwzi",
+      "slideIndex": 2,
+      "position": {
+        "left": 75,
+        "top": 534,
+        "width": 180,
+        "height": 26
+      },
+      "name": "矩形 37",
+      "text": "项目与业务结果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/4nuhs7uh",
+      "slideIndex": 2,
+      "position": {
+        "left": 395,
+        "top": 429,
+        "width": 54,
+        "height": 54
+      },
+      "name": "矩形 39",
+      "text": "02",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/po3ilcvm",
+      "slideIndex": 2,
+      "position": {
+        "left": 365,
+        "top": 500,
+        "width": 150,
+        "height": 30
+      },
+      "name": "矩形 40",
+      "text": "工程体系",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/21szqxcb",
+      "slideIndex": 2,
+      "position": {
+        "left": 350,
+        "top": 534,
+        "width": 180,
+        "height": 26
+      },
+      "name": "矩形 41",
+      "text": "工具与现场闭环",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/cruhwrud",
+      "slideIndex": 2,
+      "position": {
+        "left": 670,
+        "top": 429,
+        "width": 54,
+        "height": 54
+      },
+      "name": "矩形 43",
+      "text": "03",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ds3ipcvy",
+      "slideIndex": 2,
+      "position": {
+        "left": 640,
+        "top": 500,
+        "width": 150,
+        "height": 30
+      },
+      "name": "矩形 44",
+      "text": "技术研究",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/qpczuhc7",
+      "slideIndex": 2,
+      "position": {
+        "left": 625,
+        "top": 534,
+        "width": 180,
+        "height": 26
+      },
+      "name": "矩形 45",
+      "text": "从验证到方法",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/0ve10ru9",
+      "slideIndex": 2,
+      "position": {
+        "left": 945,
+        "top": 429,
+        "width": 54,
+        "height": 54
+      },
+      "name": "矩形 47",
+      "text": "04",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/1wnitwvu",
+      "slideIndex": 2,
+      "position": {
+        "left": 915,
+        "top": 500,
+        "width": 150,
+        "height": 30
+      },
+      "name": "矩形 48",
+      "text": "组织协作",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/v29cfu18",
+      "slideIndex": 2,
+      "position": {
+        "left": 900,
+        "top": 534,
+        "width": 180,
+        "height": 26
+      },
+      "name": "矩形 49",
+      "text": "代码、知识与团队",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/xoruhkje",
+      "slideIndex": 2,
+      "position": {
+        "left": 822,
+        "top": 184,
+        "width": 355,
+        "height": 38
+      },
+      "name": "矩形 51",
+      "text": "一句话结论｜完成目标，也留下可持续复用的能力",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 15,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/nypcba1c",
+      "slideIndex": 2,
+      "position": {
+        "left": 78,
+        "top": 15,
+        "width": 520,
+        "height": 24
+      },
+      "name": "章节路径｜01  工作概览",
+      "text": "01  工作概览",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/90rudkji",
+      "slideIndex": 2,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/p83m5cji",
+      "slideIndex": 2,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/jyx0ra1s",
+      "slideIndex": 3,
+      "layout": {
+        "id": "ly/p83mt83u",
+        "name": "标题和内容"
+      },
+      "title": "方法沉淀｜形成复用链",
+      "textShapes": 24
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/tsrqlc7u",
+      "slideIndex": 3,
+      "position": {
+        "left": 78,
+        "top": 43,
+        "width": 825,
+        "height": 52
+      },
+      "name": "文本框 27",
+      "text": "方法沉淀｜形成复用链",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 28,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/sri9s7q9",
+      "slideIndex": 3,
+      "position": {
+        "left": 78,
+        "top": 95,
+        "width": 830,
+        "height": 30
+      },
+      "name": "文本框 28",
+      "text": "不是一次性成果，而是逐步形成可迁移的开发与部署路径",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/jm5gze1g",
+      "slideIndex": 3,
+      "position": {
+        "left": 78,
+        "top": 158,
+        "width": 800,
+        "height": 42
+      },
+      "name": "矩形 30",
+      "text": "同一套底层方法，被连续复用到不同对象和交付场景",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 23,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/5ony1oj6",
+      "slideIndex": 3,
+      "position": {
+        "left": 892,
+        "top": 158,
+        "width": 300,
+        "height": 40
+      },
+      "name": "矩形 32",
+      "text": "交付速度 ↑    交接成本 ↓",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/vy5gbe14",
+      "slideIndex": 3,
+      "position": {
+        "left": 82,
+        "top": 278,
+        "width": 150,
+        "height": 78
+      },
+      "name": "矩形 34",
+      "text": "需求输入",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/wzex4z2p",
+      "slideIndex": 3,
+      "position": {
+        "left": 240,
+        "top": 292,
+        "width": 60,
+        "height": 48
+      },
+      "name": "矩形 35",
+      "text": "→",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "微软雅黑",
+        "color": "#92969B",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/mtcfypkn",
+      "slideIndex": 3,
+      "position": {
+        "left": 310,
+        "top": 278,
+        "width": 150,
+        "height": 78
+      },
+      "name": "矩形 37",
+      "text": "方案设计",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/nulw7u18",
+      "slideIndex": 3,
+      "position": {
+        "left": 468,
+        "top": 292,
+        "width": 60,
+        "height": 48
+      },
+      "name": "矩形 38",
+      "text": "→",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "微软雅黑",
+        "color": "#92969B",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/elwba54j",
+      "slideIndex": 3,
+      "position": {
+        "left": 538,
+        "top": 278,
+        "width": 150,
+        "height": 78
+      },
+      "name": "矩形 40",
+      "text": "开发验证",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/18nu50nu",
+      "slideIndex": 3,
+      "position": {
+        "left": 696,
+        "top": 292,
+        "width": 60,
+        "height": 48
+      },
+      "name": "矩形 41",
+      "text": "→",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "微软雅黑",
+        "color": "#92969B",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/rilczq5s",
+      "slideIndex": 3,
+      "position": {
+        "left": 766,
+        "top": 278,
+        "width": 150,
+        "height": 78
+      },
+      "name": "矩形 43",
+      "text": "交互反馈",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/qhcb6l47",
+      "slideIndex": 3,
+      "position": {
+        "left": 924,
+        "top": 292,
+        "width": 60,
+        "height": 48
+      },
+      "name": "矩形 44",
+      "text": "→",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "微软雅黑",
+        "color": "#92969B",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/sjut8vmd",
+      "slideIndex": 3,
+      "position": {
+        "left": 994,
+        "top": 278,
+        "width": 150,
+        "height": 78
+      },
+      "name": "矩形 46",
+      "text": "部署交接",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/idcb2lob",
+      "slideIndex": 3,
+      "position": {
+        "left": 82,
+        "top": 430,
+        "width": 108,
+        "height": 34
+      },
+      "name": "矩形 48",
+      "text": "首个复用",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/8jq9c72t",
+      "slideIndex": 3,
+      "position": {
+        "left": 215,
+        "top": 428,
+        "width": 210,
+        "height": 38
+      },
+      "name": "矩形 49",
+      "text": "项目 A",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/tkjq5c3e",
+      "slideIndex": 3,
+      "position": {
+        "left": 430,
+        "top": 428,
+        "width": 750,
+        "height": 38
+      },
+      "name": "矩形 50",
+      "text": "描述首次形成的框架、组件或工作方法",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/7ih83mlo",
+      "slideIndex": 3,
+      "position": {
+        "left": 82,
+        "top": 515,
+        "width": 108,
+        "height": 34
+      },
+      "name": "矩形 52",
+      "text": "能力延展",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/gna9gr25",
+      "slideIndex": 3,
+      "position": {
+        "left": 215,
+        "top": 513,
+        "width": 210,
+        "height": 38
+      },
+      "name": "矩形 53",
+      "text": "项目 B",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/hoja9w3q",
+      "slideIndex": 3,
+      "position": {
+        "left": 430,
+        "top": 513,
+        "width": 750,
+        "height": 38
+      },
+      "name": "矩形 54",
+      "text": "说明如何迁移到新的对象、设备或展示形态",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/vm1s7mlk",
+      "slideIndex": 3,
+      "position": {
+        "left": 82,
+        "top": 600,
+        "width": 108,
+        "height": 34
+      },
+      "name": "矩形 56",
+      "text": "持续沉淀",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/wr694nm1",
+      "slideIndex": 3,
+      "position": {
+        "left": 215,
+        "top": 598,
+        "width": 210,
+        "height": 38
+      },
+      "name": "矩形 57",
+      "text": "后续项目",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/xsfqxs36",
+      "slideIndex": 3,
+      "position": {
+        "left": 430,
+        "top": 598,
+        "width": 750,
+        "height": 38
+      },
+      "name": "矩形 58",
+      "text": "总结继续复用的模块、规范与交接方式",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/cnyp8jep",
+      "slideIndex": 3,
+      "position": {
+        "left": 78,
+        "top": 15,
+        "width": 520,
+        "height": 24
+      },
+      "name": "章节路径｜02  项目成果",
+      "text": "02  项目成果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/qlg769wj",
+      "slideIndex": 3,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/crm98ze9",
+      "slideIndex": 3,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/i107q5of",
+      "slideIndex": 4,
+      "layout": {
+        "id": "ly/p83mt83u",
+        "name": "标题和内容"
+      },
+      "title": "项目展示｜全幅成果图",
+      "textShapes": 6
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/5o7mhcju",
+      "slideIndex": 4,
+      "position": {
+        "left": 78,
+        "top": 43,
+        "width": 825,
+        "height": 52
+      },
+      "name": "文本框 27",
+      "text": "项目展示｜全幅成果图",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 28,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/kny587i9",
+      "slideIndex": 4,
+      "position": {
+        "left": 78,
+        "top": 95,
+        "width": 830,
+        "height": 30
+      },
+      "name": "文本框 28",
+      "text": "适合展示系统界面、数字孪生、数据大屏或关键视觉",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ihw3mxg3",
+      "slideIndex": 4,
+      "position": {
+        "left": 104,
+        "top": 600,
+        "width": 1062,
+        "height": 58
+      },
+      "name": "矩形 33",
+      "text": "一句话结果｜用简洁结论说明完成了什么、产生了什么价值",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/5kn2hszu",
+      "slideIndex": 4,
+      "position": {
+        "left": 78,
+        "top": 15,
+        "width": 520,
+        "height": 24
+      },
+      "name": "章节路径｜02  项目成果",
+      "text": "02  项目成果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/fid07u98",
+      "slideIndex": 4,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ehkzepsn",
+      "slideIndex": 4,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_2",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/ozalc3al",
+      "slideIndex": 4,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "image",
+      "id": "im/p0j25ob6",
+      "slideIndex": 4,
+      "position": {
+        "left": 2002,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 37"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/x8f69ofe",
+      "slideIndex": 5,
+      "layout": {
+        "id": "ly/p83mt83u",
+        "name": "标题和内容"
+      },
+      "title": "项目展示｜图文并置",
+      "textShapes": 17
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/gju58ji9",
+      "slideIndex": 5,
+      "position": {
+        "left": 78,
+        "top": 43,
+        "width": 825,
+        "height": 52
+      },
+      "name": "文本框 27",
+      "text": "项目展示｜图文并置",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 28,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/1k3mhozu",
+      "slideIndex": 5,
+      "position": {
+        "left": 78,
+        "top": 95,
+        "width": 830,
+        "height": 30
+      },
+      "name": "文本框 28",
+      "text": "把项目价值、实现逻辑与视觉证据放在同一页",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/50bqpcj2",
+      "slideIndex": 5,
+      "position": {
+        "left": 78,
+        "top": 170,
+        "width": 112,
+        "height": 34
+      },
+      "name": "矩形 31",
+      "text": "核心结果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/4f2pgr2h",
+      "slideIndex": 5,
+      "position": {
+        "left": 78,
+        "top": 220,
+        "width": 320,
+        "height": 82
+      },
+      "name": "矩形 32",
+      "text": "用两行说明项目解决的问题，\n以及最终形成的能力或体验",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 23,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/u907axkf",
+      "slideIndex": 5,
+      "position": {
+        "left": 78,
+        "top": 332,
+        "width": 48,
+        "height": 28
+      },
+      "name": "矩形 34",
+      "text": "01",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/hcrqlcj6",
+      "slideIndex": 5,
+      "position": {
+        "left": 140,
+        "top": 330,
+        "width": 263,
+        "height": 30
+      },
+      "name": "矩形 35",
+      "text": "关键动作",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/wbipc72l",
+      "slideIndex": 5,
+      "position": {
+        "left": 140,
+        "top": 362,
+        "width": 263,
+        "height": 44
+      },
+      "name": "矩形 36",
+      "text": "描述最重要的实现动作",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/m5076xkj",
+      "slideIndex": 5,
+      "position": {
+        "left": 78,
+        "top": 423,
+        "width": 48,
+        "height": 28
+      },
+      "name": "矩形 38",
+      "text": "02",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/2dkbalg3",
+      "slideIndex": 5,
+      "position": {
+        "left": 140,
+        "top": 421,
+        "width": 263,
+        "height": 30
+      },
+      "name": "矩形 39",
+      "text": "工作方法",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/netcjqxo",
+      "slideIndex": 5,
+      "position": {
+        "left": 140,
+        "top": 453,
+        "width": 263,
+        "height": 44
+      },
+      "name": "矩形 40",
+      "text": "强调结构化过程或协同方式",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/pgbul0fu",
+      "slideIndex": 5,
+      "position": {
+        "left": 78,
+        "top": 514,
+        "width": 48,
+        "height": 28
+      },
+      "name": "矩形 42",
+      "text": "03",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ep0b6lg7",
+      "slideIndex": 5,
+      "position": {
+        "left": 140,
+        "top": 512,
+        "width": 263,
+        "height": 30
+      },
+      "name": "矩形 43",
+      "text": "交付形态",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/fq9cfqxc",
+      "slideIndex": 5,
+      "position": {
+        "left": 140,
+        "top": 544,
+        "width": 263,
+        "height": 44
+      },
+      "name": "矩形 44",
+      "text": "说明演示、产品或部署状态",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ql0b21gv",
+      "slideIndex": 5,
+      "position": {
+        "left": 430,
+        "top": 610,
+        "width": 762,
+        "height": 34
+      },
+      "name": "矩形 47",
+      "text": "当前边界：如有未完成事项，可在此客观说明。",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "right"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/8f6x8jid",
+      "slideIndex": 5,
+      "position": {
+        "left": 78,
+        "top": 15,
+        "width": 520,
+        "height": 24
+      },
+      "name": "章节路径｜02  项目成果",
+      "text": "02  项目成果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/lcfed4z2",
+      "slideIndex": 5,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/kb6d4zih",
+      "slideIndex": 5,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_2",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/qtsr650f",
+      "slideIndex": 5,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "image",
+      "id": "im/4zq5kru9",
+      "slideIndex": 5,
+      "position": {
+        "left": 2002,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 66"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/gnmp4jqx",
+      "slideIndex": 6,
+      "layout": {
+        "id": "ly/p83mt83u",
+        "name": "标题和内容"
+      },
+      "title": "项目展示｜视觉 + 交互逻辑",
+      "textShapes": 15
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/e5o32lor",
+      "slideIndex": 6,
+      "position": {
+        "left": 78,
+        "top": 43,
+        "width": 825,
+        "height": 52
+      },
+      "name": "文本框 27",
+      "text": "项目展示｜视觉 + 交互逻辑",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 28,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/f6xkvq5c",
+      "slideIndex": 6,
+      "position": {
+        "left": 78,
+        "top": 95,
+        "width": 830,
+        "height": 30
+      },
+      "name": "文本框 28",
+      "text": "左侧放主界面，右侧解释流程、状态或控制闭环",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/x4j6p47q",
+      "slideIndex": 6,
+      "position": {
+        "left": 676,
+        "top": 182,
+        "width": 196,
+        "height": 46
+      },
+      "name": "矩形 33",
+      "text": "设备状态区｜演示时可替换为实时状态",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/b2h4nupk",
+      "slideIndex": 6,
+      "position": {
+        "left": 930,
+        "top": 178,
+        "width": 120,
+        "height": 36
+      },
+      "name": "矩形 35",
+      "text": "交互闭环",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/a18nup8z",
+      "slideIndex": 6,
+      "position": {
+        "left": 920,
+        "top": 232,
+        "width": 250,
+        "height": 138
+      },
+      "name": "矩形 36",
+      "text": "输入\n+\n判断与反馈",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/kra50jqh",
+      "slideIndex": 6,
+      "position": {
+        "left": 930,
+        "top": 408,
+        "width": 70,
+        "height": 28
+      },
+      "name": "矩形 38",
+      "text": "触发",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/wneps3ap",
+      "slideIndex": 6,
+      "position": {
+        "left": 1000,
+        "top": 408,
+        "width": 170,
+        "height": 28
+      },
+      "name": "矩形 39",
+      "text": "达到条件或接收到事件",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 15,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/honq18ru",
+      "slideIndex": 6,
+      "position": {
+        "left": 930,
+        "top": 452,
+        "width": 70,
+        "height": 28
+      },
+      "name": "矩形 40",
+      "text": "维持",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ulc7qdsj",
+      "slideIndex": 6,
+      "position": {
+        "left": 1000,
+        "top": 452,
+        "width": 170,
+        "height": 28
+      },
+      "name": "矩形 41",
+      "text": "状态机持续判断",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 15,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/vm58zi94",
+      "slideIndex": 6,
+      "position": {
+        "left": 930,
+        "top": 496,
+        "width": 70,
+        "height": 28
+      },
+      "name": "矩形 42",
+      "text": "释放",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/8jupo3ad",
+      "slideIndex": 6,
+      "position": {
+        "left": 1000,
+        "top": 496,
+        "width": 180,
+        "height": 28
+      },
+      "name": "矩形 43",
+      "text": "条件回落或任务结束",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 15,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/9k3qx8ry",
+      "slideIndex": 6,
+      "position": {
+        "left": 920,
+        "top": 558,
+        "width": 260,
+        "height": 50
+      },
+      "name": "矩形 44",
+      "text": "让关键状态可观察、可调试、可复盘。",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/sfy907ah",
+      "slideIndex": 6,
+      "position": {
+        "left": 78,
+        "top": 15,
+        "width": 520,
+        "height": 24
+      },
+      "name": "章节路径｜02  项目成果",
+      "text": "02  项目成果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/290bq1cz",
+      "slideIndex": 6,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/pcra1wba",
+      "slideIndex": 6,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_2",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/l8zyhwba",
+      "slideIndex": 6,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "image",
+      "id": "im/y58z6hcj",
+      "slideIndex": 6,
+      "position": {
+        "left": 2002,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "crop": {
+        "left": 0.01746,
+        "top": 0,
+        "right": 0.01746,
+        "bottom": 0
+      },
+      "name": "图片 48"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/fu1gfa1s",
+      "slideIndex": 7,
+      "layout": {
+        "id": "ly/p83mt83u",
+        "name": "标题和内容"
+      },
+      "title": "项目展示｜视觉 + 三点成果",
+      "textShapes": 16
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/x4ne1wni",
+      "slideIndex": 7,
+      "position": {
+        "left": 78,
+        "top": 43,
+        "width": 825,
+        "height": 52
+      },
+      "name": "文本框 27",
+      "text": "项目展示｜视觉 + 三点成果",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 28,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/w3ed8r6x",
+      "slideIndex": 7,
+      "position": {
+        "left": 78,
+        "top": 95,
+        "width": 830,
+        "height": 30
+      },
+      "name": "文本框 28",
+      "text": "用一张主图承载证据，用三个结论提炼重点",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/9w3uds36",
+      "slideIndex": 7,
+      "position": {
+        "left": 78,
+        "top": 604,
+        "width": 710,
+        "height": 28
+      },
+      "name": "矩形 32",
+      "text": "图片说明｜可替换为系统截图、视频关键帧或现场照片",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/l8ja9s3a",
+      "slideIndex": 7,
+      "position": {
+        "left": 830,
+        "top": 236,
+        "width": 48,
+        "height": 28
+      },
+      "name": "矩形 36",
+      "text": "01",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/q18bad4n",
+      "slideIndex": 7,
+      "position": {
+        "left": 892,
+        "top": 234,
+        "width": 298,
+        "height": 30
+      },
+      "name": "矩形 37",
+      "text": "问题定义",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/b2hs3il8",
+      "slideIndex": 7,
+      "position": {
+        "left": 892,
+        "top": 266,
+        "width": 298,
+        "height": 44
+      },
+      "name": "矩形 38",
+      "text": "说明项目要解决的核心问题",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/2ts769o3",
+      "slideIndex": 7,
+      "position": {
+        "left": 830,
+        "top": 342,
+        "width": 48,
+        "height": 28
+      },
+      "name": "矩形 40",
+      "text": "02",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/pwjqho7u",
+      "slideIndex": 7,
+      "position": {
+        "left": 892,
+        "top": 340,
+        "width": 298,
+        "height": 30
+      },
+      "name": "矩形 41",
+      "text": "关键实现",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/4vap8j69",
+      "slideIndex": 7,
+      "position": {
+        "left": 892,
+        "top": 372,
+        "width": 298,
+        "height": 44
+      },
+      "name": "矩形 42",
+      "text": "突出最具价值的技术或工程工作",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/up872987",
+      "slideIndex": 7,
+      "position": {
+        "left": 830,
+        "top": 448,
+        "width": 48,
+        "height": 28
+      },
+      "name": "矩形 44",
+      "text": "03",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/hsjqd47y",
+      "slideIndex": 7,
+      "position": {
+        "left": 892,
+        "top": 446,
+        "width": 298,
+        "height": 30
+      },
+      "name": "矩形 45",
+      "text": "结果与边界",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/grap4zqd",
+      "slideIndex": 7,
+      "position": {
+        "left": 892,
+        "top": 478,
+        "width": 298,
+        "height": 44
+      },
+      "name": "矩形 46",
+      "text": "给出交付结果，并说明当前边界",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/6187yp8b",
+      "slideIndex": 7,
+      "position": {
+        "left": 830,
+        "top": 572,
+        "width": 340,
+        "height": 44
+      },
+      "name": "矩形 48",
+      "text": "重点：一句话概括本页最值得记住的内容",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/at4vq1kr",
+      "slideIndex": 7,
+      "position": {
+        "left": 78,
+        "top": 15,
+        "width": 520,
+        "height": 24
+      },
+      "name": "章节路径｜02  项目成果",
+      "text": "02  项目成果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/lkvepgje",
+      "slideIndex": 7,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/yx4vu10n",
+      "slideIndex": 7,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_2",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/a1s7uton",
+      "slideIndex": 7,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "image",
+      "id": "im/mxcrmx8v",
+      "slideIndex": 7,
+      "position": {
+        "left": 2002,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 52"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/udsvah03",
+      "slideIndex": 8,
+      "layout": {
+        "id": "ly/p83mt83u",
+        "name": "标题和内容"
+      },
+      "title": "成果证据｜多图组合",
+      "textShapes": 9
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/xgzitk76",
+      "slideIndex": 8,
+      "position": {
+        "left": 78,
+        "top": 43,
+        "width": 825,
+        "height": 52
+      },
+      "name": "文本框 27",
+      "text": "成果证据｜多图组合",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 28,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/cf6h0fql",
+      "slideIndex": 8,
+      "position": {
+        "left": 78,
+        "top": 95,
+        "width": 830,
+        "height": 30
+      },
+      "name": "文本框 28",
+      "text": "适合呈现系统全景、现场照片与局部细节",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/apofe5of",
+      "slideIndex": 8,
+      "position": {
+        "left": 90,
+        "top": 600,
+        "width": 320,
+        "height": 58
+      },
+      "name": "矩形 33",
+      "text": "证据 A｜核心功能",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/bqxg7q50",
+      "slideIndex": 8,
+      "position": {
+        "left": 440,
+        "top": 600,
+        "width": 330,
+        "height": 58
+      },
+      "name": "矩形 34",
+      "text": "证据 B｜关键指标",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/cr6xgv6l",
+      "slideIndex": 8,
+      "position": {
+        "left": 800,
+        "top": 600,
+        "width": 370,
+        "height": 58
+      },
+      "name": "矩形 35",
+      "text": "证据 C｜交付或应用",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/mdsnatcn",
+      "slideIndex": 8,
+      "position": {
+        "left": 78,
+        "top": 15,
+        "width": 520,
+        "height": 24
+      },
+      "name": "章节路径｜02  项目成果",
+      "text": "02  项目成果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/u1cnedcz",
+      "slideIndex": 8,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/h43mp8ba",
+      "slideIndex": 8,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_2",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/w3u5g3u5",
+      "slideIndex": 8,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_3",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/7qtg36lk",
+      "slideIndex": 8,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "image",
+      "id": "im/6p0za1kz",
+      "slideIndex": 8,
+      "position": {
+        "left": 2002,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 41"
+    },
+    {
+      "kind": "image",
+      "id": "im/axgf2hk7",
+      "slideIndex": 8,
+      "position": {
+        "left": 2004,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "crop": {
+        "left": 0.17298,
+        "top": 0,
+        "right": 0.14979,
+        "bottom": 0
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/m90b6t0r",
+      "slideIndex": 9,
+      "layout": {
+        "id": "ly/p83mt83u",
+        "name": "标题和内容"
+      },
+      "title": "现场支持｜照片与视频",
+      "textShapes": 12
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/1o3ahwvq",
+      "slideIndex": 9,
+      "position": {
+        "left": 78,
+        "top": 43,
+        "width": 825,
+        "height": 52
+      },
+      "name": "文本框 27",
+      "text": "现场支持｜照片与视频",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 28,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/0nut8rul",
+      "slideIndex": 9,
+      "position": {
+        "left": 78,
+        "top": 95,
+        "width": 830,
+        "height": 30
+      },
+      "name": "文本框 28",
+      "text": "适合汇报拍摄、展会、客户现场或软硬件联调",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/exsrmhsf",
+      "slideIndex": 9,
+      "position": {
+        "left": 760,
+        "top": 166,
+        "width": 110,
+        "height": 34
+      },
+      "name": "矩形 33",
+      "text": "现场支持",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/zyl8vmt0",
+      "slideIndex": 9,
+      "position": {
+        "left": 760,
+        "top": 212,
+        "width": 432,
+        "height": 78
+      },
+      "name": "矩形 34",
+      "text": "完成场景准备与流程验证，\n同步确认软件、设备和展示效果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 21,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/0zu9ora5",
+      "slideIndex": 9,
+      "position": {
+        "left": 760,
+        "top": 292,
+        "width": 420,
+        "height": 62
+      },
+      "name": "矩形 35",
+      "text": "• 场景与物料准备\n• 软件与设备状态确认\n• 演示流程与兜底方案",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 15.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/f2h8jitg",
+      "slideIndex": 9,
+      "position": {
+        "left": 929,
+        "top": 438,
+        "width": 94,
+        "height": 94
+      },
+      "name": "矩形 38",
+      "text": "▶",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 34,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/bmpgrah8",
+      "slideIndex": 9,
+      "position": {
+        "left": 792,
+        "top": 548,
+        "width": 368,
+        "height": 34
+      },
+      "name": "矩形 39",
+      "text": "VIDEO SLOT｜在此插入演示视频",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 15,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/algfy50n",
+      "slideIndex": 9,
+      "position": {
+        "left": 806,
+        "top": 582,
+        "width": 340,
+        "height": 22
+      },
+      "name": "矩形 40",
+      "text": "插入后覆盖该占位区域",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ip0f2p0j",
+      "slideIndex": 9,
+      "position": {
+        "left": 78,
+        "top": 15,
+        "width": 520,
+        "height": 24
+      },
+      "name": "章节路径｜02  项目成果",
+      "text": "02  项目成果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/6d0f6pgv",
+      "slideIndex": 9,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/4j2xwzet",
+      "slideIndex": 9,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_2",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/pkbep4fe",
+      "slideIndex": 9,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_3",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/fyl0zyx4",
+      "slideIndex": 9,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "image",
+      "id": "im/bu54r2hc",
+      "slideIndex": 9,
+      "position": {
+        "left": 2002,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "crop": {
+        "left": 0.09375,
+        "top": 0,
+        "right": 0.09375,
+        "bottom": 0
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "image",
+      "id": "im/cvyl07yx",
+      "slideIndex": 9,
+      "position": {
+        "left": 2004,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "0d50120dd701b0a4f9d5577c2aa0c879"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/jetc3ut0",
+      "slideIndex": 10,
+      "layout": {
+        "id": "ly/p83mt83u",
+        "name": "标题和内容"
+      },
+      "title": "产品迭代｜版本发布",
+      "textShapes": 17
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/p07ixkn6",
+      "slideIndex": 10,
+      "position": {
+        "left": 78,
+        "top": 43,
+        "width": 825,
+        "height": 52
+      },
+      "name": "文本框 27",
+      "text": "产品迭代｜版本发布",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 28,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/4zyhofml",
+      "slideIndex": 10,
+      "position": {
+        "left": 78,
+        "top": 95,
+        "width": 830,
+        "height": 30
+      },
+      "name": "文本框 28",
+      "text": "用版本号建立记忆点，右侧放界面或产品截图",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/o7axk7m9",
+      "slideIndex": 10,
+      "position": {
+        "left": 78,
+        "top": 170,
+        "width": 110,
+        "height": 34
+      },
+      "name": "矩形 31",
+      "text": "当前版本",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/98jedc3u",
+      "slideIndex": 10,
+      "position": {
+        "left": 78,
+        "top": 218,
+        "width": 240,
+        "height": 78
+      },
+      "name": "矩形 32",
+      "text": "Vx.x",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 50,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/z2hw72lc",
+      "slideIndex": 10,
+      "position": {
+        "left": 78,
+        "top": 320,
+        "width": 48,
+        "height": 28
+      },
+      "name": "矩形 34",
+      "text": "01",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/03qxg7mx",
+      "slideIndex": 10,
+      "position": {
+        "left": 140,
+        "top": 318,
+        "width": 268,
+        "height": 30
+      },
+      "name": "矩形 35",
+      "text": "流程升级",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/14ze9c3i",
+      "slideIndex": 10,
+      "position": {
+        "left": 140,
+        "top": 350,
+        "width": 268,
+        "height": 44
+      },
+      "name": "矩形 36",
+      "text": "描述连接、配置或操作流程的变化",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/jylwj6lw",
+      "slideIndex": 10,
+      "position": {
+        "left": 78,
+        "top": 420,
+        "width": 48,
+        "height": 28
+      },
+      "name": "矩形 38",
+      "text": "02",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/3qhsfypc",
+      "slideIndex": 10,
+      "position": {
+        "left": 140,
+        "top": 418,
+        "width": 268,
+        "height": 30
+      },
+      "name": "矩形 39",
+      "text": "数据能力",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ip8bmtor",
+      "slideIndex": 10,
+      "position": {
+        "left": 140,
+        "top": 450,
+        "width": 268,
+        "height": 44
+      },
+      "name": "矩形 40",
+      "text": "说明数据记录、分析或导出能力",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/4rato36h",
+      "slideIndex": 10,
+      "position": {
+        "left": 78,
+        "top": 520,
+        "width": 48,
+        "height": 28
+      },
+      "name": "矩形 42",
+      "text": "03",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/v2hsbyp0",
+      "slideIndex": 10,
+      "position": {
+        "left": 140,
+        "top": 518,
+        "width": 268,
+        "height": 30
+      },
+      "name": "矩形 43",
+      "text": "质量控制",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 19,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/u18bit8f",
+      "slideIndex": 10,
+      "position": {
+        "left": 140,
+        "top": 550,
+        "width": 268,
+        "height": 44
+      },
+      "name": "矩形 44",
+      "text": "说明异常阻断、验证和交付保障",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/exsbudoz",
+      "slideIndex": 10,
+      "position": {
+        "left": 574,
+        "top": 603,
+        "width": 494,
+        "height": 38
+      },
+      "name": "矩形 48",
+      "text": "提示语｜强调改进带来的实际价值",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 15,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/a147m5ob",
+      "slideIndex": 10,
+      "position": {
+        "left": 78,
+        "top": 15,
+        "width": 520,
+        "height": 24
+      },
+      "name": "章节路径｜02  项目成果",
+      "text": "02  项目成果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/l8fqlkny",
+      "slideIndex": 10,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/y547qp47",
+      "slideIndex": 10,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_2",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/y9c7q1wv",
+      "slideIndex": 10,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "image",
+      "id": "im/s3idsji1",
+      "slideIndex": 10,
+      "position": {
+        "left": 2002,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 67"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/8f2psfyx",
+      "slideIndex": 11,
+      "layout": {
+        "id": "ly/p83mt83u",
+        "name": "标题和内容"
+      },
+      "title": "研究探索｜阶段性结果",
+      "textShapes": 19
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/dcv6dgz2",
+      "slideIndex": 11,
+      "position": {
+        "left": 78,
+        "top": 43,
+        "width": 825,
+        "height": 52
+      },
+      "name": "文本框 27",
+      "text": "研究探索｜阶段性结果",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 28,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/cbm5kbyh",
+      "slideIndex": 11,
+      "position": {
+        "left": 78,
+        "top": 95,
+        "width": 830,
+        "height": 30
+      },
+      "name": "文本框 28",
+      "text": "适合尚未完全落地，但已形成数据、实验和判断的工作",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/wnetkjat",
+      "slideIndex": 11,
+      "position": {
+        "left": 78,
+        "top": 166,
+        "width": 230,
+        "height": 36
+      },
+      "name": "矩形 31",
+      "text": "阶段性预研｜未产品化",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/xonutobe",
+      "slideIndex": 11,
+      "position": {
+        "left": 78,
+        "top": 214,
+        "width": 300,
+        "height": 90
+      },
+      "name": "矩形 32",
+      "text": "XX%",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 58,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/mhcbe9sr",
+      "slideIndex": 11,
+      "position": {
+        "left": 306,
+        "top": 238,
+        "width": 230,
+        "height": 42
+      },
+      "name": "矩形 33",
+      "text": "阶段指标或完成度",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/nilsnetc",
+      "slideIndex": 11,
+      "position": {
+        "left": 78,
+        "top": 318,
+        "width": 300,
+        "height": 34
+      },
+      "name": "矩形 34",
+      "text": "数据与样本",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 20,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ojutgjah",
+      "slideIndex": 11,
+      "position": {
+        "left": 78,
+        "top": 360,
+        "width": 650,
+        "height": 62
+      },
+      "name": "矩形 35",
+      "text": "类别 A  /  类别 B  /  类别 C  /  类别 D",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/6dgbqdsv",
+      "slideIndex": 11,
+      "position": {
+        "left": 94,
+        "top": 484,
+        "width": 178,
+        "height": 30
+      },
+      "name": "矩形 37",
+      "text": "数据准备",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/7epczitg",
+      "slideIndex": 11,
+      "position": {
+        "left": 93,
+        "top": 522,
+        "width": 180,
+        "height": 35
+      },
+      "name": "矩形 38",
+      "text": "完成采集与清洗",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/r6l8vaxw",
+      "slideIndex": 11,
+      "position": {
+        "left": 290,
+        "top": 494,
+        "width": 36,
+        "height": 48
+      },
+      "name": "矩形 39",
+      "text": "→",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "微软雅黑",
+        "color": "#92969B",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/d8nqxkf2",
+      "slideIndex": 11,
+      "position": {
+        "left": 346,
+        "top": 484,
+        "width": 178,
+        "height": 30
+      },
+      "name": "矩形 41",
+      "text": "初步试验",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/s7epofeh",
+      "slideIndex": 11,
+      "position": {
+        "left": 345,
+        "top": 522,
+        "width": 180,
+        "height": 35
+      },
+      "name": "矩形 42",
+      "text": "完成基线与评测",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/j2lorqxk",
+      "slideIndex": 11,
+      "position": {
+        "left": 542,
+        "top": 494,
+        "width": 36,
+        "height": 48
+      },
+      "name": "矩形 43",
+      "text": "→",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "微软雅黑",
+        "color": "#92969B",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/5436t0fq",
+      "slideIndex": 11,
+      "position": {
+        "left": 598,
+        "top": 484,
+        "width": 178,
+        "height": 30
+      },
+      "name": "矩形 45",
+      "text": "阶段判断",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/43upkve5",
+      "slideIndex": 11,
+      "position": {
+        "left": 597,
+        "top": 522,
+        "width": 180,
+        "height": 35
+      },
+      "name": "矩形 46",
+      "text": "明确复现、泛化或落地条件",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/kjq5oru1",
+      "slideIndex": 11,
+      "position": {
+        "left": 842,
+        "top": 490,
+        "width": 338,
+        "height": 90
+      },
+      "name": "矩形 49",
+      "text": "当前结论：说明已经完成什么，以及哪些结果暂不作为稳定交付能力。",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 15,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/zih4fmdg",
+      "slideIndex": 11,
+      "position": {
+        "left": 78,
+        "top": 15,
+        "width": 520,
+        "height": 24
+      },
+      "name": "章节路径｜03  能力沉淀",
+      "text": "03  能力沉淀",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ml8nq1c7",
+      "slideIndex": 11,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/7mh4j6dc",
+      "slideIndex": 11,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_2",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/mh4761cv",
+      "slideIndex": 11,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "image",
+      "id": "im/p8n218za",
+      "slideIndex": 11,
+      "position": {
+        "left": 2002,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 70"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/hgzapcr6",
+      "slideIndex": 12,
+      "layout": {
+        "id": "ly/p83mt83u",
+        "name": "标题和内容"
+      },
+      "title": "知识资产｜从信息到复用",
+      "textShapes": 24
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/8vahgzu5",
+      "slideIndex": 12,
+      "position": {
+        "left": 78,
+        "top": 43,
+        "width": 825,
+        "height": 52
+      },
+      "name": "文本框 27",
+      "text": "知识资产｜从信息到复用",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 34,
+        "typeface": "微软雅黑",
+        "color": "#C00000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/9wjyp4bq",
+      "slideIndex": 12,
+      "position": {
+        "left": 78,
+        "top": 95,
+        "width": 830,
+        "height": 30
+      },
+      "name": "文本框 28",
+      "text": "论文整理 + 系统架构，整合为可检索、可复用、可持续更新的研发底座",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 14.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/5cn2h8vy",
+      "slideIndex": 12,
+      "position": {
+        "left": 78,
+        "top": 170,
+        "width": 110,
+        "height": 34
+      },
+      "name": "矩形 31",
+      "text": "知识资产",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 15,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/4re1o3ed",
+      "slideIndex": 12,
+      "position": {
+        "left": 78,
+        "top": 222,
+        "width": 310,
+        "height": 62
+      },
+      "name": "矩形 32",
+      "text": "20XX—20XX",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "微软雅黑",
+        "color": "#C00000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/re5kjydo",
+      "slideIndex": 12,
+      "position": {
+        "left": 78,
+        "top": 284,
+        "width": 320,
+        "height": 48
+      },
+      "name": "矩形 33",
+      "text": "专题知识资产库",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 21,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/tgn2l8vu",
+      "slideIndex": 12,
+      "position": {
+        "left": 78,
+        "top": 356,
+        "width": 48,
+        "height": 28
+      },
+      "name": "矩形 35",
+      "text": "01",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/sfe1s3e9",
+      "slideIndex": 12,
+      "position": {
+        "left": 140,
+        "top": 354,
+        "width": 268,
+        "height": 30
+      },
+      "name": "矩形 36",
+      "text": "资料整理",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/7i107edk",
+      "slideIndex": 12,
+      "position": {
+        "left": 140,
+        "top": 386,
+        "width": 268,
+        "height": 44
+      },
+      "name": "矩形 37",
+      "text": "原文、翻译与路线对比",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#5F6368",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/y1wju94v",
+      "slideIndex": 12,
+      "position": {
+        "left": 78,
+        "top": 450,
+        "width": 48,
+        "height": 28
+      },
+      "name": "矩形 39",
+      "text": "02",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/z25kne5g",
+      "slideIndex": 12,
+      "position": {
+        "left": 140,
+        "top": 448,
+        "width": 268,
+        "height": 30
+      },
+      "name": "矩形 40",
+      "text": "架构沉淀",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/03e1wjm1",
+      "slideIndex": 12,
+      "position": {
+        "left": 140,
+        "top": 480,
+        "width": 268,
+        "height": 44
+      },
+      "name": "矩形 41",
+      "text": "输入—理解—决策—执行—闭环",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#5F6368",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/m5gjyt4r",
+      "slideIndex": 12,
+      "position": {
+        "left": 78,
+        "top": 544,
+        "width": 48,
+        "height": 28
+      },
+      "name": "矩形 43",
+      "text": "03",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/n6pkrelc",
+      "slideIndex": 12,
+      "position": {
+        "left": 140,
+        "top": 542,
+        "width": 268,
+        "height": 30
+      },
+      "name": "矩形 44",
+      "text": "研发复用",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/8ry10jmx",
+      "slideIndex": 12,
+      "position": {
+        "left": 140,
+        "top": 574,
+        "width": 268,
+        "height": 44
+      },
+      "name": "矩形 45",
+      "text": "支撑方案、数据与评测设计",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#5F6368",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ixkv6hsb",
+      "slideIndex": 12,
+      "position": {
+        "left": 78,
+        "top": 15,
+        "width": 520,
+        "height": 24
+      },
+      "name": "章节路径｜03  能力沉淀",
+      "text": "03  能力沉淀",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/614va1sn",
+      "slideIndex": 12,
+      "position": {
+        "left": 448,
+        "top": 180,
+        "width": 348,
+        "height": 30
+      },
+      "name": "论文资产标题",
+      "text": "资料资产｜论文 / 标准 / 案例",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/1svepgra",
+      "slideIndex": 12,
+      "position": {
+        "left": 824,
+        "top": 180,
+        "width": 350,
+        "height": 30
+      },
+      "name": "架构资产标题",
+      "text": "架构资产｜系统 / 数据 / 流程",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/g7mdgbap",
+      "slideIndex": 12,
+      "position": {
+        "left": 448,
+        "top": 404,
+        "width": 348,
+        "height": 62
+      },
+      "name": "论文资产说明",
+      "text": "原文 + 摘要 + 对比\n形成清晰的专题知识地图",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#5F6368",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/0buxcfil",
+      "slideIndex": 12,
+      "position": {
+        "left": 824,
+        "top": 404,
+        "width": 350,
+        "height": 62
+      },
+      "name": "架构资产说明",
+      "text": "核心链路 + 模块关系 + 关键决策\n作为方案讨论与项目设计底图",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14,
+        "typeface": "微软雅黑",
+        "color": "#5F6368",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/lc3ylkz6",
+      "slideIndex": 12,
+      "position": {
+        "left": 448,
+        "top": 500,
+        "width": 726,
+        "height": 48
+      },
+      "name": "知识资产统一沉淀",
+      "text": "可检索｜可复用｜持续更新｜服务研发与项目决策",
+      "geometry": "roundRect",
+      "fillColor": "#FCE9E9",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 15.53,
+        "typeface": "微软雅黑",
+        "color": "#C00000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/mdwfep0r",
+      "slideIndex": 12,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ne5gnuhc",
+      "slideIndex": 12,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_2",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/43ax4vit",
+      "slideIndex": 12,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_3",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/p4jed0zy",
+      "slideIndex": 12,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_4",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/y94butwz",
+      "slideIndex": 12,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "image",
+      "id": "im/o3y18v6l",
+      "slideIndex": 12,
+      "position": {
+        "left": 2002,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "name": "图片 69"
+    },
+    {
+      "kind": "image",
+      "id": "im/8bax4769",
+      "slideIndex": 12,
+      "position": {
+        "left": 2004,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 85"
+    },
+    {
+      "kind": "image",
+      "id": "im/tcjedcne",
+      "slideIndex": 12,
+      "position": {
+        "left": 2006,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 86"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/6lsnupw7",
+      "slideIndex": 13,
+      "layout": {
+        "id": "ly/p83mt83u",
+        "name": "标题和内容"
+      },
+      "title": "工程化与团队赋能",
+      "textShapes": 26
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/d0fydk7m",
+      "slideIndex": 13,
+      "position": {
+        "left": 78,
+        "top": 43,
+        "width": 825,
+        "height": 52
+      },
+      "name": "文本框 27",
+      "text": "工程化与团队赋能",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 28,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/cz6h4fq1",
+      "slideIndex": 13,
+      "position": {
+        "left": 78,
+        "top": 95,
+        "width": 830,
+        "height": 30
+      },
+      "name": "文本框 28",
+      "text": "让交付物从一份代码，升级为可被同事与智能工具接手的上下文",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/cvylkn2d",
+      "slideIndex": 13,
+      "position": {
+        "left": 78,
+        "top": 166,
+        "width": 100,
+        "height": 32
+      },
+      "name": "矩形 31",
+      "text": "工程线",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/xw7mts3y",
+      "slideIndex": 13,
+      "position": {
+        "left": 200,
+        "top": 166,
+        "width": 650,
+        "height": 32
+      },
+      "name": "矩形 32",
+      "text": "共性函数 / 规范 / 运行方式 / 关键决策",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/jyp4fil4",
+      "slideIndex": 13,
+      "position": {
+        "left": 78,
+        "top": 210,
+        "width": 100,
+        "height": 32
+      },
+      "name": "矩形 34",
+      "text": "协作线",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/kzy5on2p",
+      "slideIndex": 13,
+      "position": {
+        "left": 200,
+        "top": 210,
+        "width": 650,
+        "height": 32
+      },
+      "name": "矩形 35",
+      "text": "版本管理 / 分支协作 / 文档 / 培训 / 复盘",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/7m94j210",
+      "slideIndex": 13,
+      "position": {
+        "left": 94,
+        "top": 308,
+        "width": 42,
+        "height": 28
+      },
+      "name": "矩形 38",
+      "text": "01",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/fi5432t4",
+      "slideIndex": 13,
+      "position": {
+        "left": 96,
+        "top": 346,
+        "width": 174,
+        "height": 30
+      },
+      "name": "矩形 39",
+      "text": "项目架构与文档",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/uhw3axcj",
+      "slideIndex": 13,
+      "position": {
+        "left": 96,
+        "top": 378,
+        "width": 174,
+        "height": 24
+      },
+      "name": "矩形 40",
+      "text": "依赖、运行、决策",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/h4nm5sba",
+      "slideIndex": 13,
+      "position": {
+        "left": 296,
+        "top": 325,
+        "width": 48,
+        "height": 48
+      },
+      "name": "矩形 41",
+      "text": "→",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "微软雅黑",
+        "color": "#92969B",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/25w3excv",
+      "slideIndex": 13,
+      "position": {
+        "left": 373,
+        "top": 308,
+        "width": 42,
+        "height": 28
+      },
+      "name": "矩形 44",
+      "text": "02",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/p87m9cb6",
+      "slideIndex": 13,
+      "position": {
+        "left": 375,
+        "top": 346,
+        "width": 174,
+        "height": 30
+      },
+      "name": "矩形 45",
+      "text": "版本库 + 记忆库",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/47y5g7u1",
+      "slideIndex": 13,
+      "position": {
+        "left": 375,
+        "top": 378,
+        "width": 174,
+        "height": 24
+      },
+      "name": "矩形 46",
+      "text": "代码与上下文同步",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/jal4vidw",
+      "slideIndex": 13,
+      "position": {
+        "left": 575,
+        "top": 325,
+        "width": 48,
+        "height": 48
+      },
+      "name": "矩形 47",
+      "text": "→",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "微软雅黑",
+        "color": "#92969B",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/9gji5oru",
+      "slideIndex": 13,
+      "position": {
+        "left": 652,
+        "top": 308,
+        "width": 42,
+        "height": 28
+      },
+      "name": "矩形 50",
+      "text": "03",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/mt8ja9sj",
+      "slideIndex": 13,
+      "position": {
+        "left": 654,
+        "top": 346,
+        "width": 174,
+        "height": 30
+      },
+      "name": "矩形 51",
+      "text": "同事 + 工具接手",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/neh03eto",
+      "slideIndex": 13,
+      "position": {
+        "left": 654,
+        "top": 378,
+        "width": 174,
+        "height": 24
+      },
+      "name": "矩形 52",
+      "text": "减少切换中断",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/0rq18zad",
+      "slideIndex": 13,
+      "position": {
+        "left": 854,
+        "top": 325,
+        "width": 48,
+        "height": 48
+      },
+      "name": "矩形 53",
+      "text": "→",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "微软雅黑",
+        "color": "#92969B",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/zqh0zuts",
+      "slideIndex": 13,
+      "position": {
+        "left": 931,
+        "top": 308,
+        "width": 42,
+        "height": 28
+      },
+      "name": "矩形 56",
+      "text": "04",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/knu1k3ah",
+      "slideIndex": 13,
+      "position": {
+        "left": 933,
+        "top": 346,
+        "width": 174,
+        "height": 30
+      },
+      "name": "矩形 57",
+      "text": "独立完成与维护",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/5o32d8r2",
+      "slideIndex": 13,
+      "position": {
+        "left": 933,
+        "top": 378,
+        "width": 174,
+        "height": 24
+      },
+      "name": "矩形 58",
+      "text": "能力扩散到团队",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/s3q1oj2l",
+      "slideIndex": 13,
+      "position": {
+        "left": 104,
+        "top": 480,
+        "width": 110,
+        "height": 32
+      },
+      "name": "矩形 60",
+      "text": "带教结果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/r2h0vy10",
+      "slideIndex": 13,
+      "position": {
+        "left": 224,
+        "top": 474,
+        "width": 920,
+        "height": 48
+      },
+      "name": "矩形 61",
+      "text": "用一句话说明新成员可以独立承担的工作",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/50fitoja",
+      "slideIndex": 13,
+      "position": {
+        "left": 104,
+        "top": 540,
+        "width": 1040,
+        "height": 30
+      },
+      "name": "矩形 63",
+      "text": "协作机制｜已完成基础环境与记忆库｜下一步统一入口、模板和使用规范",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 14.53,
+        "typeface": "微软雅黑",
+        "color": "#C00000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/jex0re14",
+      "slideIndex": 13,
+      "position": {
+        "left": 78,
+        "top": 15,
+        "width": 520,
+        "height": 24
+      },
+      "name": "章节路径｜03  能力沉淀",
+      "text": "03  能力沉淀",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/xcfip4jy",
+      "slideIndex": 13,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/4vy10nit",
+      "slideIndex": 13,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/vaxsvy10",
+      "slideIndex": 14,
+      "layout": {
+        "id": "ly/p83mt83u",
+        "name": "标题和内容"
+      },
+      "title": "问题复盘与改进",
+      "textShapes": 17
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/dc3y1s3m",
+      "slideIndex": 14,
+      "position": {
+        "left": 78,
+        "top": 43,
+        "width": 825,
+        "height": 52
+      },
+      "name": "文本框 27",
+      "text": "问题复盘与改进",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 28,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/cbuh8nmh",
+      "slideIndex": 14,
+      "position": {
+        "left": 78,
+        "top": 95,
+        "width": 830,
+        "height": 30
+      },
+      "name": "文本框 28",
+      "text": "下一阶段重点解决研发聚焦、资产体系化与协作机制落地",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 14.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ilov6pkv",
+      "slideIndex": 14,
+      "position": {
+        "left": 78,
+        "top": 164,
+        "width": 230,
+        "height": 44
+      },
+      "name": "矩形 33",
+      "text": "问题",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/jmxwzu1g",
+      "slideIndex": 14,
+      "position": {
+        "left": 308,
+        "top": 164,
+        "width": 350,
+        "height": 44
+      },
+      "name": "矩形 34",
+      "text": "原因",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/4n6d8z21",
+      "slideIndex": 14,
+      "position": {
+        "left": 658,
+        "top": 164,
+        "width": 534,
+        "height": 44
+      },
+      "name": "矩形 35",
+      "text": "下阶段动作",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/rqhw3e1c",
+      "slideIndex": 14,
+      "position": {
+        "left": 100,
+        "top": 232,
+        "width": 194,
+        "height": 70
+      },
+      "name": "矩形 38",
+      "text": "任务碎片化",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/f6dcnetg",
+      "slideIndex": 14,
+      "position": {
+        "left": 328,
+        "top": 232,
+        "width": 310,
+        "height": 70
+      },
+      "name": "矩形 39",
+      "text": "临时需求持续挤压核心工作时间",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/e54ve9cv",
+      "slideIndex": 14,
+      "position": {
+        "left": 682,
+        "top": 232,
+        "width": 486,
+        "height": 70
+      },
+      "name": "矩形 40",
+      "text": "分级排期；固定核心研发时间",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/pwfetobi",
+      "slideIndex": 14,
+      "position": {
+        "left": 100,
+        "top": 340,
+        "width": 194,
+        "height": 70
+      },
+      "name": "矩形 45",
+      "text": "共性资产不够系统",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 18,
+        "typeface": "微软雅黑",
+        "color": "#C00000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ovmdkjud",
+      "slideIndex": 14,
+      "position": {
+        "left": 328,
+        "top": 340,
+        "width": 310,
+        "height": 70
+      },
+      "name": "矩形 46",
+      "text": "已有文档，但组件、评测与交付清单未形成统一体系",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 15.53,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/3etcfut8",
+      "slideIndex": 14,
+      "position": {
+        "left": 682,
+        "top": 340,
+        "width": 486,
+        "height": 70
+      },
+      "name": "矩形 47",
+      "text": "建立组件库、评测规范和稳定性清单",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/n650rm54",
+      "slideIndex": 14,
+      "position": {
+        "left": 100,
+        "top": 448,
+        "width": 194,
+        "height": 70
+      },
+      "name": "矩形 52",
+      "text": "进阶能力与落地未完成",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17.53,
+        "typeface": "微软雅黑",
+        "color": "#C00000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/03e1w76d",
+      "slideIndex": 14,
+      "position": {
+        "left": 328,
+        "top": 448,
+        "width": 310,
+        "height": 70
+      },
+      "name": "矩形 53",
+      "text": "自动工作流与多智能体仍需深入；组织化部署尚在推进",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 15.53,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/l4nipcny",
+      "slideIndex": 14,
+      "position": {
+        "left": 682,
+        "top": 448,
+        "width": 486,
+        "height": 70
+      },
+      "name": "矩形 54",
+      "text": "补齐进阶工作流；统一工具入口与使用规范",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 15.53,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/50r21gn2",
+      "slideIndex": 14,
+      "position": {
+        "left": 104,
+        "top": 558,
+        "width": 1062,
+        "height": 68
+      },
+      "name": "矩形 58",
+      "text": "共同机制｜预研设置继续 / 停止判断点；交付实行版本冻结、检查表与兜底",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/sfe1sbe1",
+      "slideIndex": 14,
+      "position": {
+        "left": 78,
+        "top": 15,
+        "width": 520,
+        "height": 24
+      },
+      "name": "章节路径｜04  复盘规划",
+      "text": "04  复盘规划",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/qtcjq1gv",
+      "slideIndex": 14,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/0ruls3i1",
+      "slideIndex": 14,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/gny5sjyp",
+      "slideIndex": 15,
+      "layout": {
+        "id": "ly/p83mt83u",
+        "name": "标题和内容"
+      },
+      "title": "下一阶段路线图",
+      "textShapes": 19
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ih0jedob",
+      "slideIndex": 15,
+      "position": {
+        "left": 78,
+        "top": 43,
+        "width": 825,
+        "height": 52
+      },
+      "name": "文本框 27",
+      "text": "下一阶段路线图",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 28,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ji9k7ypw",
+      "slideIndex": 15,
+      "position": {
+        "left": 78,
+        "top": 95,
+        "width": 830,
+        "height": 30
+      },
+      "name": "文本框 28",
+      "text": "一个核心目标、三条协同任务、四个明确阶段",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 13.53,
+        "typeface": "微软雅黑",
+        "color": "#6F7378",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/rat4b298",
+      "slideIndex": 15,
+      "position": {
+        "left": 104,
+        "top": 152,
+        "width": 1062,
+        "height": 76
+      },
+      "name": "矩形 31",
+      "text": "核心目标｜发布关键产品或技术成果",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/58bm9sr2",
+      "slideIndex": 15,
+      "position": {
+        "left": 78,
+        "top": 248,
+        "width": 164,
+        "height": 40
+      },
+      "name": "矩形 33",
+      "text": "协同任务 01",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/47il0nah",
+      "slideIndex": 15,
+      "position": {
+        "left": 266,
+        "top": 248,
+        "width": 926,
+        "height": 40
+      },
+      "name": "矩形 34",
+      "text": "主项目与应用场景同步推进，打通端到端闭环",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16.53,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/p4vmlwrm",
+      "slideIndex": 15,
+      "position": {
+        "left": 78,
+        "top": 306,
+        "width": 164,
+        "height": 40
+      },
+      "name": "矩形 37",
+      "text": "协同任务 02",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/o3m5crq1",
+      "slideIndex": 15,
+      "position": {
+        "left": 266,
+        "top": 306,
+        "width": 926,
+        "height": 40
+      },
+      "name": "矩形 38",
+      "text": "完善工程机制：统一入口、规范、模板与知识库",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16.53,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/alsbahsb",
+      "slideIndex": 15,
+      "position": {
+        "left": 78,
+        "top": 364,
+        "width": 164,
+        "height": 40
+      },
+      "name": "矩形 41",
+      "text": "协同任务 03",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/vm1c3m9w",
+      "slideIndex": 15,
+      "position": {
+        "left": 266,
+        "top": 364,
+        "width": 926,
+        "height": 40
+      },
+      "name": "矩形 42",
+      "text": "专利、文档与工程资产同步沉淀",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16.53,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/tg3udgra",
+      "slideIndex": 15,
+      "position": {
+        "left": 88,
+        "top": 490,
+        "width": 104,
+        "height": 32
+      },
+      "name": "矩形 48",
+      "text": "阶段 01",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/29wfa5sr",
+      "slideIndex": 15,
+      "position": {
+        "left": 60,
+        "top": 568,
+        "width": 160,
+        "height": 34
+      },
+      "name": "矩形 50",
+      "text": "路线确认",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/obyxcfax",
+      "slideIndex": 15,
+      "position": {
+        "left": 393,
+        "top": 490,
+        "width": 104,
+        "height": 32
+      },
+      "name": "矩形 52",
+      "text": "阶段 02",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/u5wf6lcv",
+      "slideIndex": 15,
+      "position": {
+        "left": 365,
+        "top": 568,
+        "width": 160,
+        "height": 34
+      },
+      "name": "矩形 54",
+      "text": "原型联调",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/g7ex8va1",
+      "slideIndex": 15,
+      "position": {
+        "left": 698,
+        "top": 490,
+        "width": 104,
+        "height": 32
+      },
+      "name": "矩形 56",
+      "text": "阶段 03",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/y10fipsz",
+      "slideIndex": 15,
+      "position": {
+        "left": 670,
+        "top": 568,
+        "width": 160,
+        "height": 34
+      },
+      "name": "矩形 58",
+      "text": "内部评测",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/vyt03yds",
+      "slideIndex": 15,
+      "position": {
+        "left": 1003,
+        "top": 490,
+        "width": 104,
+        "height": 32
+      },
+      "name": "矩形 60",
+      "text": "阶段 04",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 13,
+        "typeface": "微软雅黑",
+        "color": "#D10000",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/x0bi58vy",
+      "slideIndex": 15,
+      "position": {
+        "left": 975,
+        "top": 568,
+        "width": 160,
+        "height": 34
+      },
+      "name": "矩形 62",
+      "text": "发布与沉淀",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#202124",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/k3m1g3u9",
+      "slideIndex": 15,
+      "position": {
+        "left": 78,
+        "top": 15,
+        "width": 520,
+        "height": 24
+      },
+      "name": "章节路径｜04  复盘规划",
+      "text": "04  复盘规划",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 12.53,
+        "typeface": "微软雅黑",
+        "color": "#7A7D81",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/y50z29cz",
+      "slideIndex": 15,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/fe14zi5w",
+      "slideIndex": 15,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/14bup87q",
+      "slideIndex": 16,
+      "layout": {
+        "id": "ly/ux4ruhcv",
+        "name": "标题幻灯片"
+      },
+      "title": "THANK YOU",
+      "textShapes": 4,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/3ap8fm50",
+      "slideIndex": 16,
+      "position": {
+        "left": 90.57,
+        "top": 582.79,
+        "width": 190.88,
+        "height": 38.78
+      },
+      "name": "文本框 12",
+      "text": "THANK YOU",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 22,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/29grm1of",
+      "slideIndex": 16,
+      "position": {
+        "left": 81.27,
+        "top": 233.98,
+        "width": 430,
+        "height": 80
+      },
+      "name": "文本框 11",
+      "text": "谢谢大家",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 36,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/gnepkr69",
+      "slideIndex": 16,
+      "position": {
+        "left": 81.27,
+        "top": 445.66,
+        "width": 519.1,
+        "height": 46.16
+      },
+      "name": "文本框 13",
+      "text": "感谢聆听｜欢迎交流",
+      "geometry": "rect",
+      "style": {
+        "fontSize": 17,
+        "typeface": "微软雅黑",
+        "color": "#FFFFFF",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ulw7ihoj",
+      "slideIndex": 16,
+      "position": {
+        "left": 0,
+        "top": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "媒体占位_1",
+      "text": "图片 / 视频占位\n替换为截图、照片或关键帧",
+      "geometry": "roundRect",
+      "fillColor": "#F5F6F7",
+      "lineColor": "#C9CDD2",
+      "lineWidth": 1.2,
+      "style": {
+        "fontSize": 1.5,
+        "typeface": "微软雅黑",
+        "color": "#9A9DA1",
+        "alignment": "center"
+      }
+    },
+    {
+      "kind": "image",
+      "id": "im/gzats365",
+      "slideIndex": 16,
+      "position": {
+        "left": 2000,
+        "top": 1200,
+        "width": 1,
+        "height": 1
+      },
+      "name": "图片 2"
+    }
+  ],
+  "truncated": false,
+  "metadata": {
+    "target": {
+      "id": "pr/mke9rn"
+    },
+    "omittedRecords": 0,
+    "abbreviatedRecords": 0,
+    "notices": []
+  }
+}

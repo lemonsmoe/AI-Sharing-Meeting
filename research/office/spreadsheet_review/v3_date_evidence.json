@@ -1,0 +1,122 @@
+{
+  "hashes": {
+    "outputs\\01a1afcd-c994-7ae0-89e1-3c3770ac406b\\meeting_actions.xlsx": "becfba60f7d7d222a31ac7b28f6233b5c37385e7f83876445a21f843dbb0fa86",
+    "outputs\\leadership_review_v3\\materials\\meeting_actions.xlsx": "1579c793852009dfbc90dc24c5aac0f7430dbbc15e06f8bc6aa526923790046a"
+  },
+  "value_changes_a1_g20": [
+    {
+      "cell": "D6",
+      "before": {
+        "type": "d",
+        "value": "2026-11-09T18:00:00.000Z",
+        "style": "9"
+      },
+      "after": {
+        "type": "n",
+        "value": "46335.75",
+        "style": "9"
+      }
+    },
+    {
+      "cell": "D12",
+      "before": {
+        "type": "d",
+        "value": "2026-11-12T00:00:00.000Z",
+        "style": "11"
+      },
+      "after": {
+        "type": "n",
+        "value": "46338",
+        "style": "11"
+      }
+    }
+  ],
+  "date1904": "0",
+  "checked_cells": {
+    "D6": {
+      "type": "n",
+      "value": "46335.75",
+      "style": "9"
+    },
+    "D12": {
+      "type": "n",
+      "value": "46338",
+      "style": "11"
+    },
+    "C7": {
+      "type": null,
+      "value": "",
+      "style": "23"
+    },
+    "D7": {
+      "type": null,
+      "value": "",
+      "style": "24"
+    },
+    "G7": {
+      "type": "str",
+      "value": "负责人、期限均未定；采购未批",
+      "style": "3"
+    },
+    "C13": {
+      "type": "str",
+      "value": "建议；未批准",
+      "style": "3"
+    },
+    "G13": {
+      "type": "str",
+      "value": "没有采购批准；金额是估算",
+      "style": "3"
+    },
+    "C15": {
+      "type": "str",
+      "value": "尚未定位",
+      "style": "23"
+    },
+    "G15": {
+      "type": "str",
+      "value": "网络问题仅为假设",
+      "style": "3"
+    },
+    "A20": {
+      "type": "str",
+      "value": "浅黄色空白：待补充确认。日期按会议当地时间填写，不进行时区换算。",
+      "style": "3"
+    }
+  },
+  "date_formats": {
+    "D6": {
+      "numFmtId": "200",
+      "fontId": "2",
+      "fillId": "0",
+      "borderId": "0",
+      "xfId": "0",
+      "applyNumberFormat": "1",
+      "applyFont": "1",
+      "applyFill": "1",
+      "applyBorder": "1",
+      "applyAlignment": "1"
+    },
+    "D12": {
+      "numFmtId": "201",
+      "fontId": "2",
+      "fillId": "0",
+      "borderId": "0",
+      "xfId": "0",
+      "applyNumberFormat": "1",
+      "applyFont": "1",
+      "applyFill": "1",
+      "applyBorder": "1",
+      "applyAlignment": "1"
+    }
+  },
+  "custom_formats": {
+    "200": "yyyy-mm-dd hh:mm",
+    "201": "yyyy-mm-dd",
+    "202": "\"约 \"#,##0\" 元\""
+  },
+  "decoded_dates": {
+    "D6": "2026-11-09T18:00:00",
+    "D12": "2026-11-12T00:00:00"
+  }
+}

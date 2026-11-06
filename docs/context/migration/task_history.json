@@ -1,0 +1,4115 @@
+{
+  "schema_version": 1,
+  "exported_at": "2026-11-06T15:20:17+00:00",
+  "source_root": "D:/code/Project/文职工作/26年11月中旬分享会",
+  "source_project": {
+    "project_id": "baf972c8f880",
+    "project_name": "企业AI效率分享会",
+    "context_root": "D:/code/Project/文职工作/26年11月中旬分享会",
+    "manager_thread_id": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+    "manager_paths": [
+      "AGENTS.md",
+      "docs/context/project.json",
+      "docs/context/workflow_install.json",
+      "docs/context/00_current/index.md",
+      "docs/context/01_decisions",
+      "docs/runbooks"
+    ],
+    "workflow_version": "0.3.0",
+    "hook_acceptance": "pending_user_trust_and_live_test"
+  },
+  "usage": "仅作历史档案；不把旧 owner、active、目标模式或阅读游标恢复为新环境的运行权限。",
+  "tasks": [
+    {
+      "id": "TASK-20261106-00c4f81a",
+      "title": "研究Skill独立前向使用核验",
+      "domain": "concepts",
+      "acceptance": "先冻结未审过视频窄主张与反证，再实际阅读官方正文形成过程、台账和推荐边界；不读final_gate_audit、不改Skill根gate或V3，阶段完成交付",
+      "depends": [],
+      "write_paths": [
+        "research/concepts/skill_independent_audit",
+        "docs/context/00_current/domains/concepts.md",
+        "docs/context/02_events/2026/11/evt_skill_independent_audit.md",
+        "docs/context/05_discussions/topics/concepts/notes/3ceeba0b548e38609fee",
+        "docs/context/05_discussions/topics/concepts/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T12:02:40+00:00",
+      "updated_at": "2026-11-06T12:14:22+00:00",
+      "result": "完成一次非作者前向使用：先记待证反证，实际读取FFmpeg官方正文与实现并登记失败/去重；拒绝将参数能力夸大为成片免验收，非盲测且未媒体实测",
+      "evidence": "research/concepts/skill_independent_audit/use_report.md",
+      "review_note": "已读非Skill作者前向使用报告，接受窄主张阶段行为证据，非严格盲测且不证明全部Skill效果",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts\\skill_independent_audit",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\concepts.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_skill_independent_audit.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\concepts\\notes\\3ceeba0b548e38609fee",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\concepts\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-0300b503",
+      "title": "核验PPT产品入口与访问阻塞",
+      "domain": "slides",
+      "acceptance": "记录实际应用清单与授权超时，不推断账号不可用；保留后续实测条件",
+      "depends": [],
+      "write_paths": [
+        "research/slides/product_access_check.md",
+        "docs/context/02_events/2026/11/evt_slides_access.md"
+      ],
+      "owner": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "status": "review",
+      "created_at": "2026-11-06T11:31:48+00:00",
+      "updated_at": "2026-11-06T14:31:42+00:00",
+      "result": "确认WPS已运行，授权后发现最小化与恢复接口错误，已记录并请求恢复窗口；未作产品能力判断",
+      "evidence": "research/slides/product_access_check.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\slides\\product_access_check.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_slides_access.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-045eb71d",
+      "title": "核对V07直接使用者实践资格",
+      "domain": "video",
+      "acceptance": "最多两轮检索追溯V07或补独立原始实践，校正六组资格并保留失败和独立性边界",
+      "depends": [],
+      "write_paths": [
+        "research/video/practice_qualification_correction.md",
+        "docs/context/00_current/domains/video.md",
+        "docs/context/02_events/2026/11/evt_video_practice_correction.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T12:17:48+00:00",
+      "updated_at": "2026-11-06T12:32:20+00:00",
+      "result": "两轮追溯未取得原始日志，已校正V07不计直接实践，4署名加1匿名条件组，交明确失败及资格表",
+      "evidence": "research/video/practice_qualification_correction.md",
+      "review_note": "已读追溯和资格校正，接受失败交付及排除转述计数；不放行六实践门槛",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video\\practice_qualification_correction.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\video.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_practice_correction.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-04630bb2",
+      "title": "审阅并行首稿并整合30页内容脚本",
+      "domain": "content",
+      "acceptance": "实际读取首稿并给出可执行反馈，形成完整30页内容与讲稿草案，逐页标记证据/演示/待验证，不能把门槛未过的内容标成定稿",
+      "depends": [],
+      "write_paths": [
+        "docs/content",
+        "docs/planning/review_round_01.md",
+        "docs/planning/thread_registry.json",
+        "docs/context/00_current/index.md",
+        "docs/context/00_current/domains/content.md",
+        "docs/context/02_events/2026/11/evt_content_round_01.md",
+        "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b",
+        "docs/context/05_discussions/topics/workshop_scope/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T10:19:06+00:00",
+      "updated_at": "2026-11-06T10:31:47+00:00",
+      "result": "已整合30页内容与讲述短稿、来源映射和首轮审阅，48分钟仅计划；候选证据与独立实测缺口明确，最终成果继续推进",
+      "evidence": "docs/context/02_events/2026/11/evt_content_round_01.md",
+      "review_note": null,
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\content",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\planning\\review_round_01.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\planning\\thread_registry.json",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\content.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_content_round_01.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\9a0b58d5b0351daa7a8b",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-0694783e",
+      "title": "PPT路线补证与门槛复核",
+      "domain": "slides",
+      "acceptance": "补充实际正文证据并明确独立性、相关性和剩余门槛，不冒称产品实测或最终推荐",
+      "depends": [],
+      "write_paths": [
+        "research/slides",
+        "docs/context/00_current/domains/slides.md",
+        "docs/context/02_events/2026/11/evt_slides_evidence.md"
+      ],
+      "owner": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "status": "review",
+      "created_at": "2026-11-06T10:55:16+00:00",
+      "updated_at": "2026-11-06T10:57:14+00:00",
+      "result": "新增2条官方限制证据和1份完整字幕镜像，修正过期进度；研究及产品实测门槛仍未通过",
+      "evidence": "research/slides/evidence_update_03.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\slides",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\slides.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_slides_evidence.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-08aa7ad2",
+      "title": "办公候选讨论记录",
+      "domain": "office",
+      "acceptance": "保存候选及缺口",
+      "depends": [],
+      "write_paths": [
+        "docs/context/05_discussions/topics/office/notes/c2a4dd2fb8403acfcf87"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T10:12:51+00:00",
+      "updated_at": "2026-11-06T10:29:17+00:00",
+      "result": "候选记录并整理完成",
+      "evidence": "docs/context/05_discussions/topics/office/summary.md",
+      "review_note": "已读取办公议题总结，候选与证据缺口区分明确",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\office\\notes\\c2a4dd2fb8403acfcf87"
+      ]
+    },
+    {
+      "id": "TASK-20261106-0a4c195d",
+      "title": "按主对话审阅制作V2代表页并扩展全稿",
+      "domain": "slides",
+      "acceptance": "落实deck_review_v1逐项要求，先完成5/10/14/18/24代表页，再扩展30页，相关备注与真实材料对应，全稿渲染并保留V1",
+      "depends": [],
+      "write_paths": [
+        "slides/review_v2",
+        "outputs/leadership_review_v2",
+        "scripts/slides/review_deck_v2",
+        "docs/context/00_current/domains/slides_production.md",
+        "docs/context/02_events/2026/11/evt_slides_v2.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T11:08:28+00:00",
+      "updated_at": "2026-11-06T11:44:00+00:00",
+      "result": "完成30页V2及逐页PowerPoint渲染检查，文字表格副本回存通过，保留V1及研究边界",
+      "evidence": "docs/context/02_events/2026/11/evt_slides_v2.md",
+      "review_note": "已实际查看全部30张原生渲染，接受V2内部审阅基线，进一步合稿要求见deck_review_v2.md，非最终现场验收",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\slides\\review_v2",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\outputs\\leadership_review_v2",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\slides\\review_deck_v2",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\slides_production.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_slides_v2.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-0b778414",
+      "title": "确认推进基线并整理制作方案与素材清单",
+      "domain": "docs_process",
+      "acceptance": "保留已确认与候选边界，记录公司环境和长期目标，明确执行分工及最小素材需求",
+      "depends": [],
+      "write_paths": [
+        "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b",
+        "docs/context/05_discussions/topics/workshop_scope/summary.md",
+        "docs/context/00_current/index.md",
+        "docs/context/01_decisions/index.md",
+        "docs/planning/workshop_outline.md",
+        "docs/planning/production_plan.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T09:20:42+00:00",
+      "updated_at": "2026-11-06T09:22:15+00:00",
+      "result": "已更新确认基线、决策索引及制作素材方案，讨论来源完整覆盖",
+      "evidence": "docs/planning/production_plan.md",
+      "review_note": null,
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\9a0b58d5b0351daa7a8b",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\01_decisions\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\planning\\workshop_outline.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\planning\\production_plan.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-0b8e19d4",
+      "title": "记录分享会范围并提出内容结构",
+      "domain": "docs_process",
+      "acceptance": "记录用户确认及Hook反馈；保留候选标记；整理30页小于1小时结构",
+      "depends": [],
+      "write_paths": [
+        "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b",
+        "docs/context/05_discussions/topics/workshop_scope/summary.md",
+        "docs/context/00_current/index.md",
+        "docs/planning/workshop_outline.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T08:35:28+00:00",
+      "updated_at": "2026-11-06T08:36:53+00:00",
+      "result": "已记录用户确认与候选结构，来源全部整理；未开展产品研究或PPT制作",
+      "evidence": "docs/planning/workshop_outline.md",
+      "review_note": null,
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\9a0b58d5b0351daa7a8b",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\planning\\workshop_outline.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-0cb540bf",
+      "title": "原始范围收尾核对与人工验收入口",
+      "domain": "content",
+      "acceptance": "对照用户已确认范围和当前产物逐项区分成品、阶段研究与待人工核验，保留真实阻塞并给具体试听及现场操作入口，不把阶段审阅说成全目标完成",
+      "depends": [],
+      "write_paths": [
+        "docs/content/acceptance_status.md",
+        "docs/context/00_current/index.md",
+        "docs/context/02_events/2026/11/evt_acceptance_status.md",
+        "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b",
+        "docs/context/05_discussions/topics/workshop_scope/summary.md",
+        "research/integration/acceptance"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T12:39:53+00:00",
+      "updated_at": "2026-11-06T12:44:46+00:00",
+      "result": "原始范围逐项核对、四交付物哈希一致、现场操作单已读验收；已发72秒完整试听请求，整体目标仍未完成",
+      "evidence": "docs/content/acceptance_status.md",
+      "review_note": "接受本轮范围核对和现场准备阶段，未把计划时长或静态检查当人工试听及现场验收",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\content\\acceptance_status.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_acceptance_status.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\9a0b58d5b0351daa7a8b",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\integration\\acceptance"
+      ]
+    },
+    {
+      "id": "TASK-20261106-0f5b1339",
+      "title": "V3会议Excel日期修订只读复核",
+      "domain": "office",
+      "acceptance": "检查副本D6/D12数值序号和未知字段，对比原件其余区域，仅保存补充报告",
+      "depends": [],
+      "write_paths": [
+        "research/office/spreadsheet_review"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T12:02:01+00:00",
+      "updated_at": "2026-11-06T12:14:22+00:00",
+      "result": "V3日期数值序号换算正确，A1:G20除两日期值外一致，未知字段及事实状态保留；仅只读XML核验",
+      "evidence": "research/office/spreadsheet_review/v3_date_addendum.md",
+      "review_note": "已核V3哈希及日期序号复核，接受只读XML阶段；主对话另有原生Excel回存证据",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office\\spreadsheet_review"
+      ]
+    },
+    {
+      "id": "TASK-20261106-1d71b576",
+      "title": "补查独立制作与同步反证",
+      "domain": "video",
+      "acceptance": "阅读原始实践记录并记录作者身份与同步失败限制，复核独立实践数量而不自动放行推荐",
+      "depends": [],
+      "write_paths": [
+        "research/video",
+        "docs/context/00_current/domains/video.md",
+        "docs/context/02_events/2026/11/evt_video_practice_sources.md",
+        "docs/context/05_discussions/topics/video/notes/f70d4c23e33e8b96bd2c",
+        "docs/context/05_discussions/topics/video/summary.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T11:45:57+00:00",
+      "updated_at": "2026-11-06T11:47:11+00:00",
+      "result": "已补原始实践和语音同步反证，独立性局限保留，不自动放行推荐",
+      "evidence": "research/video/independent_practice_addendum.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\video.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_practice_sources.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\notes\\f70d4c23e33e8b96bd2c",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-1efed6bf",
+      "title": "补充PPT独立实践与导出反证",
+      "domain": "slides",
+      "acceptance": "实际读取带操作细节的原始实践，登记推广与版本限制，保留未实测边界",
+      "depends": [],
+      "write_paths": [
+        "research/slides",
+        "docs/context/00_current/domains/slides.md",
+        "docs/context/02_events/2026/11/evt_slides_practice.md"
+      ],
+      "owner": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "status": "review",
+      "created_at": "2026-11-06T10:58:08+00:00",
+      "updated_at": "2026-11-06T10:59:50+00:00",
+      "result": "补4份实践与失败正文，记录商业关系及版本边界，更新导出验收指南；最终研究门槛仍未证明",
+      "evidence": "research/slides/practice_evidence_04.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\slides",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\slides.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_slides_practice.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-2a16c67f",
+      "title": "PowerPoint原生编辑重开验证",
+      "domain": "slides",
+      "acceptance": "仅用样例副本通过PowerPoint打开、修改文字及图表数据、另存重开并留证；不修改交付原件",
+      "depends": [],
+      "write_paths": [
+        "slides/native_validation",
+        "scripts/slides/native_validation",
+        "research/slides",
+        "docs/context/00_current/domains/slides.md",
+        "docs/context/02_events/2026/11/evt_slides_native.md"
+      ],
+      "owner": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "status": "review",
+      "created_at": "2026-11-06T11:04:03+00:00",
+      "updated_at": "2026-11-06T11:08:28+00:00",
+      "result": "完成原生打开编辑回存检查：文字通过，图表自动同步失败，显式系列修改后通过；保留两次证据与原件",
+      "evidence": "research/slides/native_powerpoint_check.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\slides\\native_validation",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\slides\\native_validation",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\slides",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\slides.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_slides_native.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-2cf0eb1c",
+      "title": "记录两轮试验结果与教学候选",
+      "domain": "concepts",
+      "acceptance": "保留实际矛盾、非因果边界和研究缺口，整理议题不提升为已确认",
+      "depends": [],
+      "write_paths": [
+        "docs/context/05_discussions/topics/concepts/notes/3ceeba0b548e38609fee",
+        "docs/context/05_discussions/topics/concepts/summary.md"
+      ],
+      "owner": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "status": "review",
+      "created_at": "2026-11-06T11:05:16+00:00",
+      "updated_at": "2026-11-06T11:07:24+00:00",
+      "result": "已记录两轮实际结果、非因果边界及教学候选并整理议题",
+      "evidence": "docs/context/05_discussions/topics/concepts/summary.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\concepts\\notes\\3ceeba0b548e38609fee",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\concepts\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-34176827",
+      "title": "吸收主对话Excel原生回存证据",
+      "domain": "office",
+      "acceptance": "读取真实结果后仅更新原生应用边界，区分主对话执行和本聊天证据复核，不重复应用操作",
+      "depends": [],
+      "write_paths": [
+        "research/office/spreadsheet_review/v3_date_addendum.md"
+      ],
+      "owner": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "status": "review",
+      "created_at": "2026-11-06T12:09:28+00:00",
+      "updated_at": "2026-11-06T12:09:49+00:00",
+      "result": "已读取Excel16.0原生回存结果并复核交付哈希，仅更新本机应用验证边界，保留WPS和研究门槛限制",
+      "evidence": "research/office/spreadsheet_review/v3_date_addendum.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office\\spreadsheet_review\\v3_date_addendum.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-3e086559",
+      "title": "同步最新路线稿到视频交付包",
+      "domain": "video",
+      "acceptance": "新包包含V3及最新路线费用稿，入口优先指向V3，旧包保留并逐条核验新包字节",
+      "depends": [],
+      "write_paths": [
+        "scripts/video/build_delivery_bundle.py",
+        "videos/experiments/delivery_bundle_02",
+        "research/video/review_entry.md",
+        "docs/context/00_current/domains/video.md",
+        "docs/context/02_events/2026/11/evt_video_bundle_refresh.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T11:55:02+00:00",
+      "updated_at": "2026-11-06T11:55:46+00:00",
+      "result": "新版24条目审阅包已包含最新路线费用稿，入口优先版本纠正，完整性核验通过，旧包保留",
+      "evidence": "docs/context/02_events/2026/11/evt_video_bundle_refresh.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\video\\build_delivery_bundle.py",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\videos\\experiments\\delivery_bundle_02",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video\\review_entry.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\video.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_bundle_refresh.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-3e78fa12",
+      "title": "视频路线候选讨论记录",
+      "domain": "video",
+      "acceptance": "保存候选建议和证据访问限制并整理",
+      "depends": [],
+      "write_paths": [
+        "docs/context/05_discussions/topics/video/notes/f70d4c23e33e8b96bd2c",
+        "docs/context/05_discussions/topics/video/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T10:15:32+00:00",
+      "updated_at": "2026-11-06T10:29:17+00:00",
+      "result": "候选与访问缺口已记录整理",
+      "evidence": "docs/context/05_discussions/topics/video/summary.md",
+      "review_note": "已读取视频候选议题，原片不可访问与字幕样片边界明确",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\notes\\f70d4c23e33e8b96bd2c",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-427a71ea",
+      "title": "PPT独立实践来源定向补证",
+      "domain": "slides",
+      "acceptance": "实际读取缺口对应原始实践，去重和利益披露，不改PPT子聊天或成品，阶段补证不冒充产品实测",
+      "depends": [],
+      "write_paths": [
+        "research/integration/ppt_evidence"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T12:21:42+00:00",
+      "updated_at": "2026-11-06T12:35:51+00:00",
+      "result": "补四组原始来源及两份主题相关完整视频文字，明确59秒课程单元和作者轻编辑稿边界；WPS/匿名Gamma/Copilot操作细节保留，不宣布门槛通过",
+      "evidence": "research/integration/ppt_evidence/source_addendum.md",
+      "review_note": "已收到并读概念聊天独立原页复核，接受有条件来源补证，原片和本地产品实测仍未完成",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\integration\\ppt_evidence"
+      ]
+    },
+    {
+      "id": "TASK-20261106-439534a6",
+      "title": "核验AI用法演变里程碑并编写单页补稿",
+      "domain": "concepts",
+      "acceptance": "6至8个官方首发或论文核验里程碑，日期类型、用法变化和共存关系明确；交付单页压缩稿、约90秒口语及来源，不覆盖旧稿",
+      "depends": [],
+      "write_paths": [
+        "research/concepts/history_addendum",
+        "docs/context/00_current/domains/concepts.md",
+        "docs/context/02_events/2026/11/evt_concepts_history.md",
+        "docs/context/05_discussions/topics/concepts/notes/3ceeba0b548e38609fee",
+        "docs/context/05_discussions/topics/concepts/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T11:14:04+00:00",
+      "updated_at": "2026-11-06T11:44:00+00:00",
+      "result": "已交8节点演变图SVG/PNG、单页压缩稿、约90秒口语和精确来源；核对日期及正文，图像目检通过，旧稿未覆盖",
+      "evidence": "research/concepts/history_addendum/handoff.md",
+      "review_note": "已读历史稿及来源，追加核对H7/H8官方署期与工程内容，采纳第3页改版依据，非完整技术史",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts\\history_addendum",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\concepts.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_concepts_history.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\concepts\\notes\\3ceeba0b548e38609fee",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\concepts\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-49de9a46",
+      "title": "确定审阅稿生产路线并补齐讲稿与案例证据",
+      "domain": "content",
+      "acceptance": "根据已读路线实验开始30页可编辑审阅稿，完整讲稿与公开组织案例可审阅；候选研究与实测边界不被抹去",
+      "depends": [],
+      "write_paths": [
+        "docs/content",
+        "docs/planning/production_route_decision.md",
+        "docs/context/00_current/index.md",
+        "docs/context/01_decisions/index.md",
+        "docs/context/00_current/domains/content.md",
+        "docs/context/02_events/2026/11/evt_review_production.md",
+        "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b",
+        "docs/context/05_discussions/topics/workshop_scope/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T10:33:34+00:00",
+      "updated_at": "2026-11-06T11:11:14+00:00",
+      "result": "完整试讲稿、6案例卡、生产决定、真实trial_01与30页逐页整改已交付；总目标继续V2及媒体兼容验收",
+      "evidence": "docs/context/02_events/2026/11/evt_review_production.md",
+      "review_note": "本阶段已完成，实际读取30页渲染与案例原文；视觉与产品最终验收不在本次通过范围",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\content",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\planning\\production_route_decision.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\01_decisions\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\content.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_review_production.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\9a0b58d5b0351daa7a8b",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-4b09a123",
+      "title": "同步字幕修订讨论状态",
+      "domain": "video",
+      "acceptance": "记录候选已实施与验证边界并保留既有讨论",
+      "depends": [],
+      "write_paths": [
+        "research/video/discussion_caption.json",
+        "research/video/discussion_caption_summary.json",
+        "docs/context/05_discussions/topics/video/notes/f70d4c23e33e8b96bd2c",
+        "docs/context/05_discussions/topics/video/summary.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T11:36:12+00:00",
+      "updated_at": "2026-11-06T11:36:42+00:00",
+      "result": "已整合单层字幕修订候选与验证边界",
+      "evidence": "docs/context/05_discussions/topics/video/summary.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video\\discussion_caption.json",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video\\discussion_caption_summary.json",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\notes\\f70d4c23e33e8b96bd2c",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-4bff7b7a",
+      "title": "视频逐秒检查与审阅补证",
+      "domain": "video",
+      "acceptance": "保存逐秒解码接触表和检查记录，诚实区分播放与抽帧，更新审阅入口",
+      "depends": [],
+      "write_paths": [
+        "research/video",
+        "videos/experiments/explainer_v2_reviewed/qa",
+        "scripts/video/check_video_frames.py",
+        "docs/context/00_current/domains/video.md",
+        "docs/context/02_events/2026/11/evt_video_qa.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T10:38:14+00:00",
+      "updated_at": "2026-11-06T11:18:23+00:00",
+      "result": "逐秒编码画面QA与第28页工具候选表已交付；UI播放未完成，旁白由主对话独立处理",
+      "evidence": "research/video/per_second_qa.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\videos\\experiments\\explainer_v2_reviewed\\qa",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\video\\check_video_frames.py",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\video.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_qa.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-4c596677",
+      "title": "研究Skill前向使用与四包发布缺口审计",
+      "domain": "methodology",
+      "acceptance": "先保留本轮反证再读最新四包，按主张给最小分类补证动作，披露Skill作者自测边界，不改根门槛或其他包",
+      "depends": [],
+      "write_paths": [
+        "research/methodology/final_gate_audit",
+        "research/methodology/progress.md",
+        "docs/context/00_current/domains/methodology.md",
+        "docs/context/02_events/2026/11/evt_final_gate_audit.md",
+        "docs/context/05_discussions/topics/research_methodology/notes/ae3912eafb119313205d",
+        "docs/context/05_discussions/topics/research_methodology/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T11:47:17+00:00",
+      "updated_at": "2026-11-06T12:14:21+00:00",
+      "result": "前向使用和四包主张级审计交付；独立作者盲测仍缺，四包最终推荐未整体放行，最小补证动作已分类",
+      "evidence": "research/methodology/final_gate_audit/audit_report.md",
+      "review_note": "已读完整主张级审计、行动队列和前向自审，接受阶段报告，不放行四包最终推荐或独立作者盲测",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\methodology\\final_gate_audit",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\methodology\\progress.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\methodology.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_final_gate_audit.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\research_methodology\\notes\\ae3912eafb119313205d",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\research_methodology\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-4dcd7522",
+      "title": "记录用户否决成品与暂停返工讨论",
+      "domain": "content",
+      "acceptance": "如实记录用户已看但否决视频及PPT质量，生产暂停；记录有出处的参考方法与未定建议，不启动制作安装或子聊天",
+      "depends": [],
+      "write_paths": [
+        "docs/context/00_current/index.md",
+        "docs/context/00_current/domains/content.md",
+        "docs/content/quality_reset_discussion.md",
+        "docs/context/02_events/2026/11/evt_quality_reset.md",
+        "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b",
+        "docs/context/05_discussions/topics/workshop_scope/summary.md",
+        "research/integration/quality_reset"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T14:44:00+00:00",
+      "updated_at": "2026-11-06T14:50:18+00:00",
+      "result": "已保存用户质量否决、暂停与候选返工方式，更新当前索引；只读参考和Skill资格，不重启制作",
+      "evidence": "docs/content/quality_reset_discussion.md",
+      "review_note": "接受用户反馈及暂停状态记录，候选方案未作用户选定或成品验收",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\content.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\content\\quality_reset_discussion.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_quality_reset.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\9a0b58d5b0351daa7a8b",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\integration\\quality_reset"
+      ]
+    },
+    {
+      "id": "TASK-20261106-527b420e",
+      "title": "按独立复核澄清报价评分口径",
+      "domain": "concepts",
+      "acceptance": "分开共同事实与B最低价规则，保留第二轮错误及原始答案，记录独立复核依据与变更，不重跑实验",
+      "depends": [],
+      "write_paths": [
+        "research/concepts/experiments/trial_scoring_report.md",
+        "research/concepts/experiments/scoring_revision_note.md",
+        "research/concepts/experiments/scoring_revision_discussion.json",
+        "research/concepts/experiments/scoring_revision_summary.json",
+        "docs/context/00_current/domains/concepts.md",
+        "docs/context/02_events/2026/11/evt_concepts_scoring_revision.md",
+        "docs/context/05_discussions/topics/concepts/notes/3ceeba0b548e38609fee",
+        "docs/context/05_discussions/topics/concepts/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T11:34:10+00:00",
+      "updated_at": "2026-11-06T11:44:01+00:00",
+      "result": "已澄清A交期权衡与B最低价规则；保留第二轮事实错误和冲突，留修订说明，原始输出哈希不变，未重跑",
+      "evidence": "research/concepts/experiments/scoring_revision_note.md",
+      "review_note": "已读修订说明，共同事实与B规则分开，保留原始回答和原预登记，错误判定理由清楚",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts\\experiments\\trial_scoring_report.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts\\experiments\\scoring_revision_note.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts\\experiments\\scoring_revision_discussion.json",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts\\experiments\\scoring_revision_summary.json",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\concepts.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_concepts_scoring_revision.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\concepts\\notes\\3ceeba0b548e38609fee",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\concepts\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-5739b881",
+      "title": "办公执行入口核验与审查响应",
+      "domain": "office",
+      "acceptance": "记录实际授权阻断，吸收独立审查，明确下一步最小输入",
+      "depends": [],
+      "write_paths": [
+        "research/office",
+        "docs/context/00_current/domains/office.md",
+        "docs/context/02_events/2026/11/evt_office_runtime.md"
+      ],
+      "owner": null,
+      "status": "open",
+      "created_at": "2026-11-06T10:45:57+00:00",
+      "updated_at": "2026-11-06T10:45:57+00:00",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\office.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_office_runtime.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-5c055400",
+      "title": "迁入分享会筹备讨论并接续主对话",
+      "domain": "docs_process",
+      "acceptance": "保留原文；需求、候选、未决问题分类记录并整理；更新初始化状态",
+      "depends": [],
+      "write_paths": [
+        "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b",
+        "docs/context/05_discussions/topics/workshop_scope/summary.md",
+        "docs/context/00_current/index.md",
+        "docs/context/00_current/domains/docs_process.md",
+        "docs/context/02_events/2026/11/evt_main_handoff.md",
+        "readme.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T07:44:11+00:00",
+      "updated_at": "2026-11-06T07:46:56+00:00",
+      "result": "初始化和讨论迁入完成；7项来源全部覆盖；doctor 无错误，Hook 真实触发待验证",
+      "evidence": "docs/context/02_events/2026/11/evt_main_handoff.md",
+      "review_note": null,
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\9a0b58d5b0351daa7a8b",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\docs_process.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_main_handoff.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\readme.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-62c6887b",
+      "title": "概念包第二独立聊天执行",
+      "domain": "methodology",
+      "acceptance": "按固定顺序保存六个首次回答与时间工具记录，不读评分或其他执行输出，明确同聊天污染和既往暴露",
+      "depends": [],
+      "write_paths": [
+        "research/methodology/concepts_trial_02",
+        "research/methodology/progress.md",
+        "docs/context/00_current/domains/methodology.md",
+        "docs/context/02_events/2026/11/evt_concepts_trial_02.md"
+      ],
+      "owner": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "status": "review",
+      "created_at": "2026-11-06T10:59:21+00:00",
+      "updated_at": "2026-11-06T11:04:21+00:00",
+      "result": "六份首次输出及时间工具哈希记录已交；未读评分或其他V2结果，待概念聊天评分，同聊天污染明确",
+      "evidence": "research/methodology/concepts_trial_02/run_manifest.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\methodology\\concepts_trial_02",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\methodology\\progress.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\methodology.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_concepts_trial_02.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-64853740",
+      "title": "概念补证讨论整理",
+      "domain": "concepts",
+      "acceptance": "记录新增反证与条件候选并整理来源",
+      "depends": [],
+      "write_paths": [
+        "docs/context/05_discussions/topics/concepts/notes/3ceeba0b548e38609fee",
+        "docs/context/05_discussions/topics/concepts/summary.md"
+      ],
+      "owner": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "status": "review",
+      "created_at": "2026-11-06T10:33:36+00:00",
+      "updated_at": "2026-11-06T10:33:38+00:00",
+      "result": "新增反证及条件候选已记录并整理",
+      "evidence": "docs/context/05_discussions/topics/concepts/summary.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\concepts\\notes\\3ceeba0b548e38609fee",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\concepts\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-685ea9da",
+      "title": "视频教程全文与来源身份补证",
+      "domain": "video",
+      "acceptance": "保存全文阅读范围及镜像准确性限制，局部字幕不计完整",
+      "depends": [],
+      "write_paths": [
+        "research/video",
+        "docs/context/02_events/2026/11/evt_video_transcripts.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T11:22:02+00:00",
+      "updated_at": "2026-11-06T11:22:54+00:00",
+      "result": "两份教程镜像全文已读并登记，局部字幕及原片身份缺口保留",
+      "evidence": "research/video/transcript_reading.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_transcripts.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-687445db",
+      "title": "概念与提示词内容包首轮研究",
+      "domain": "concepts",
+      "acceptance": "12页候选、概念图、3个执行示例、证据与缺口明确",
+      "depends": [],
+      "write_paths": [
+        "research/concepts",
+        "scripts/concepts",
+        "docs/context/00_current/domains/concepts.md",
+        "docs/context/05_discussions/topics/concepts",
+        "docs/context/02_events/2026/11/evt_concepts.md"
+      ],
+      "owner": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "status": "review",
+      "created_at": "2026-11-06T10:12:22+00:00",
+      "updated_at": "2026-11-06T10:29:59+00:00",
+      "result": "12页章节、概念图、三组当前会话加工具执行案例和来源缺口已交阶段审阅；独立实验与研究门槛未通过，总目标继续",
+      "evidence": "research/concepts/handoff_review.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\concepts",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\concepts.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\concepts",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_concepts.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-690d7ae8",
+      "title": "会议Excel原文独立只读复核",
+      "domain": "office",
+      "acceptance": "对照两原文检查实际单元格、未知值与合并语义，验证哈希，报告定位且不改交付原件",
+      "depends": [],
+      "write_paths": [
+        "research/office/spreadsheet_review",
+        "research/office/progress.md",
+        "docs/context/00_current/domains/office.md",
+        "docs/context/02_events/2026/11/evt_office_spreadsheet_review.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T11:44:38+00:00",
+      "updated_at": "2026-11-06T12:14:21+00:00",
+      "result": "原文到Excel内容复核通过：7消息、未知值与状态一致，3项哈希匹配；日期应用兼容性待验，原件未改",
+      "evidence": "research/office/spreadsheet_review/review_report.md",
+      "review_note": "已读原文及实际工作簿复核，日期疑点已在新V3副本处理，接受独立内容审查阶段",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office\\spreadsheet_review",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office\\progress.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\office.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_office_spreadsheet_review.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-691ad777",
+      "title": "两轮独立聊天输出评分与交接",
+      "domain": "concepts",
+      "acceptance": "读取两轮原始结果与时间记录，按预登记标准评分，保留上下文污染与人工基线缺口",
+      "depends": [],
+      "write_paths": [
+        "research/concepts",
+        "docs/context/00_current/domains/concepts.md",
+        "docs/context/02_events/2026/11/evt_concepts_trials.md"
+      ],
+      "owner": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "status": "review",
+      "created_at": "2026-11-06T10:59:38+00:00",
+      "updated_at": "2026-11-06T11:07:24+00:00",
+      "result": "已核对12份首次回答及运行记录，按冻结标准评分；16项哈希一致，保留第二轮报价首尾矛盾与人工基线缺口",
+      "evidence": "research/concepts/experiments/trial_scoring_report.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\concepts.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_concepts_trials.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-6e29b3d0",
+      "title": "记录无Claude账号及Codex视频候选",
+      "domain": "office",
+      "acceptance": "保留用户账号约束和路线候选，关联既有视频产物，不冒称完成验收",
+      "depends": [],
+      "write_paths": [
+        "docs/context/05_discussions/topics/office/notes/c2a4dd2fb8403acfcf87",
+        "docs/context/05_discussions/topics/office/summary.md"
+      ],
+      "owner": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "status": "review",
+      "created_at": "2026-11-06T11:18:22+00:00",
+      "updated_at": "2026-11-06T11:18:54+00:00",
+      "result": "记录Claude账号约束、Codex动画候选及独立复核建议，完成议题整理",
+      "evidence": "docs/context/05_discussions/topics/office/summary.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\office\\notes\\c2a4dd2fb8403acfcf87",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\office\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-7357943c",
+      "title": "合入历史工具地图与实物演示制作V3",
+      "domain": "content",
+      "acceptance": "保留旧版并输出30页可编辑V3、同步讲稿及随包实际Excel和旁白视频，逐页渲染审阅、来源和媒体版本对应，未实测项明确",
+      "depends": [],
+      "write_paths": [
+        "scripts/slides/review_deck_v3",
+        "slides/review_v3",
+        "outputs/leadership_review_v3",
+        "docs/content",
+        "research/integration/v3",
+        "docs/context/00_current/index.md",
+        "docs/context/00_current/domains/content.md",
+        "docs/context/02_events/2026/11/evt_content_v3.md",
+        "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b",
+        "docs/context/05_discussions/topics/workshop_scope/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T11:47:11+00:00",
+      "updated_at": "2026-11-06T12:15:02+00:00",
+      "result": "完成30页V3和同步讲稿、实际Excel及旁白视频离线整包；PowerPoint30页目检和副本回存、Excel原生日期回存、77文件链接及ZIP哈希通过，保留完整试听现场与研究缺口",
+      "evidence": "docs/context/02_events/2026/11/evt_content_v3.md",
+      "review_note": "接受V3内部内容审阅基线；全页原生渲染、文件来源及包对应已核，非最终音画现场或产品选型验收",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\slides\\review_deck_v3",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\slides\\review_v3",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\outputs\\leadership_review_v3",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\content",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\integration\\v3",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\content.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_content_v3.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\9a0b58d5b0351daa7a8b",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-7ad10110",
+      "title": "按任务整理工具地图与教程入口",
+      "domain": "methodology",
+      "acceptance": "10项以内官方核验地图，主屏及附录候选与教程入口，条件计费实测边界明确，不注册付费",
+      "depends": [],
+      "write_paths": [
+        "research/methodology/tool_landscape",
+        "research/methodology/progress.md",
+        "docs/context/00_current/domains/methodology.md",
+        "docs/context/02_events/2026/11/evt_tool_landscape.md",
+        "docs/context/05_discussions/topics/research_methodology/notes/ae3912eafb119313205d",
+        "docs/context/05_discussions/topics/research_methodology/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T11:14:25+00:00",
+      "updated_at": "2026-11-06T11:44:00+00:00",
+      "result": "10项任务工具地图、两页候选与五条教程完成；来源和费用不确定项明确，未注册付费，HTML待渲染目检",
+      "evidence": "research/methodology/tool_landscape/comparison.md",
+      "review_note": "已读10项地图、费用与教程，能力/实测边界明确，接受候选入口稿，非最终工具推荐",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\methodology\\tool_landscape",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\methodology\\progress.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\methodology.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_tool_landscape.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\research_methodology\\notes\\ae3912eafb119313205d",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\research_methodology\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-7ae53131",
+      "title": "补核概念独立实践详细来源",
+      "domain": "concepts",
+      "acceptance": "最多两轮检索，实际读取独立实践正文并核验输入环境输出或失败细节，提交来源资格及窄主张；不改V3原评分不新建代理",
+      "depends": [],
+      "write_paths": [
+        "research/concepts",
+        "docs/context/00_current/domains/concepts.md",
+        "docs/context/02_events/2026/11/evt_concepts_practice_addendum.md",
+        "docs/context/05_discussions/topics/concepts/notes/3ceeba0b548e38609fee",
+        "docs/context/05_discussions/topics/concepts/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T12:17:46+00:00",
+      "updated_at": "2026-11-06T12:32:21+00:00",
+      "result": "两轮检索完成；重读S19仍排除详细实践，新增原作者S23含输入环境失败路径，交资格矩阵及窄主张，保留版本日志与本地复现缺口",
+      "evidence": "research/concepts/practice_addendum.md",
+      "review_note": "已读S19与S23资格报告，接受有归因的一手实践候选替补，非本地复现或总门槛放行",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\concepts.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_concepts_practice_addendum.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\concepts\\notes\\3ceeba0b548e38609fee",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\concepts\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-83b92441",
+      "title": "冻结独立聊天复测任务包",
+      "domain": "concepts",
+      "acceptance": "新数据不含答案，输入提示工具和输出契约冻结，主对话可开始执行",
+      "depends": [],
+      "write_paths": [
+        "research/concepts/experiments/independent_trials",
+        "research/concepts/progress.md"
+      ],
+      "owner": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "status": "review",
+      "created_at": "2026-11-06T10:45:02+00:00",
+      "updated_at": "2026-11-06T10:45:03+00:00",
+      "result": "无答案V2同构题、提示条件、工具权限及输出契约已冻结，READY_FOR_MAIN_TRIAL_01",
+      "evidence": "research/concepts/experiments/independent_trials/instructions.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts\\experiments\\independent_trials",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts\\progress.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-86bc946e",
+      "title": "制作单层字幕修订候选",
+      "domain": "video",
+      "acceptance": "独立目录输出单层字幕旁白候选，核对六段文字与时间并检查最终编码帧，无覆盖主对话文件",
+      "depends": [],
+      "write_paths": [
+        "scripts/video/render_caption_candidate.py",
+        "videos/experiments/caption_candidate_01",
+        "research/video",
+        "docs/context/00_current/domains/video.md",
+        "docs/context/02_events/2026/11/evt_video_caption_candidate.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T11:34:11+00:00",
+      "updated_at": "2026-11-06T11:44:01+00:00",
+      "result": "已生成独立单层字幕候选并核对六段编码截图及音轨哈希，解决遮挡与标点断行，未宣称完整音画验收",
+      "evidence": "research/video/caption_candidate_review.md",
+      "review_note": "已读检查报告并实际查看六段最终编码截图，接受字幕候选；完整试听、动态播放与现场验收未完成",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\video\\render_caption_candidate.py",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\videos\\experiments\\caption_candidate_01",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\video.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_caption_candidate.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-876a1172",
+      "title": "O1办公文件工作流独立执行02",
+      "domain": "methodology",
+      "acceptance": "只读指定协议任务输入，不读评分及执行01；保留首次和最终MD/XLSX、完整时间、错误修订与哈希，不自行评分",
+      "depends": [],
+      "write_paths": [
+        "research/methodology/office_trial_02",
+        "docs/context/02_events/2026/11/evt_office_trial_02.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T12:21:01+00:00",
+      "updated_at": "2026-11-06T12:33:55+00:00",
+      "result": "O1执行02独立产出纪要及XLSX，首次与最终均保留；两表渲染和Excel16副本回存已执行，无内容修订，不自行评分",
+      "evidence": "research/methodology/office_trial_02/run_manifest.md",
+      "review_note": "对照冻结原文与基线读MD、首末XLSX及渲染，核心内容和日期通过；已读Excel回存记录，非其他产品实测",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\methodology\\office_trial_02",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_office_trial_02.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-882e82df",
+      "title": "迁移项目源码成果与上下文至GitHub",
+      "domain": "migration",
+      "acceptance": "显式整理可迁移源码素材和项目记忆，排除凭据依赖及本机Hook运行状态，提供新环境接续与任务恢复入口，验证干净克隆并提交推送指定空远程，不改变质量否决和暂停生产结论",
+      "depends": [],
+      "write_paths": [
+        "readme.md",
+        ".gitignore",
+        ".gitattributes",
+        "agents.md",
+        "docs/handoff",
+        "docs/runbooks/github_migration.md",
+        "docs/context/00_current/index.md",
+        "docs/context/02_events/2026/11/evt_github_migration.md",
+        "docs/context/migration",
+        "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b",
+        "docs/context/05_discussions/topics/workshop_scope/summary.md",
+        "scripts/migration",
+        "tools/project_skills",
+        "requirements_migration.txt"
+      ],
+      "owner": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "status": "active",
+      "created_at": "2026-11-06T15:07:07+00:00",
+      "updated_at": "2026-11-06T15:09:44+00:00",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\readme.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\.gitignore",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\.gitattributes",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\agents.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\handoff",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\runbooks\\github_migration.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_github_migration.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\migration",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\9a0b58d5b0351daa7a8b",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\migration",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\tools\\project_skills",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\requirements_migration.txt"
+      ]
+    },
+    {
+      "id": "TASK-20261106-8a57e5b8",
+      "title": "V3分享会现场操作单",
+      "domain": "office",
+      "acceptance": "按V3真实页码与存在的本地文件编写切换、预算、失败替代话术和现场待核事项，不修改交付物",
+      "depends": [],
+      "write_paths": [
+        "docs/content/presenter_run_sheet.md",
+        "docs/context/02_events/2026/11/evt_presenter_run_sheet.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T12:40:14+00:00",
+      "updated_at": "2026-11-06T12:44:24+00:00",
+      "result": "现场操作单完成，真实页码与全部本地链接核对，含48+5+2预算、外播/Excel切换及失败替代话术；现场设备与排练未验证",
+      "evidence": "docs/content/presenter_run_sheet.md",
+      "review_note": "主对话已读现场单和对应三类样例，接受页码/切换/预算及备用话术准备，不当现场验收",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\content\\presenter_run_sheet.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_presenter_run_sheet.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-8a7f583f",
+      "title": "概念内容包独立实践补证",
+      "domain": "concepts",
+      "acceptance": "实际读取独立实践和反例，登记定位及门槛缺口，不以链接数冒充证据",
+      "depends": [],
+      "write_paths": [
+        "research/concepts",
+        "docs/context/00_current/domains/concepts.md",
+        "docs/context/02_events/2026/11/evt_concepts_evidence.md"
+      ],
+      "owner": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "status": "review",
+      "created_at": "2026-11-06T10:30:33+00:00",
+      "updated_at": "2026-11-06T10:43:07+00:00",
+      "result": "独立实践与反例补证、3视频字幕、R1章节整改完成；独立模型复测及新增证据复审仍未完成",
+      "evidence": "research/concepts/review_response.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\concepts.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_concepts_evidence.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-8b6e11e6",
+      "title": "视频研究证据台账与审查整改",
+      "domain": "video",
+      "acceptance": "逐条来源及主张登记，响应独立审查，明确未满足门槛而不凑数",
+      "depends": [],
+      "write_paths": [
+        "research/video",
+        "docs/context/00_current/domains/video.md",
+        "docs/context/02_events/2026/11/evt_video_evidence.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T11:19:07+00:00",
+      "updated_at": "2026-11-06T11:20:19+00:00",
+      "result": "11来源台账与R1整改已提交，候选状态保持；相关视频与独立制作门槛仍缺",
+      "evidence": "research/video/review_response.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\video.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_evidence.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-8c52b893",
+      "title": "四主题独立审查第一轮",
+      "domain": "methodology",
+      "acceptance": "先存反证后读四包，复算数量并抽查原始证据，交逐项审查与补证清单",
+      "depends": [],
+      "write_paths": [
+        "research/methodology",
+        "docs/context/00_current/domains/methodology.md",
+        "docs/context/02_events/2026/11/evt_methodology_review_01.md",
+        "docs/context/05_discussions/topics/research_methodology/notes/ae3912eafb119313205d",
+        "docs/context/05_discussions/topics/research_methodology/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T10:20:24+00:00",
+      "updated_at": "2026-11-06T10:29:16+00:00",
+      "result": "完成四包快照独立审查、先行反证、门槛复算和原始证据抽查；补证清单已交",
+      "evidence": "research/methodology/review_round_01/audit_report.md",
+      "review_note": "已读取反证记录、快照审计及数量复算，独立审查产物通过；四研究包仍未通过最终推荐门槛",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\methodology",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\methodology.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_methodology_review_01.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\research_methodology\\notes\\ae3912eafb119313205d",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\research_methodology\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-8f1ea3d4",
+      "title": "旁白成片独立文件审查",
+      "domain": "video",
+      "acceptance": "对当前旁白版独立解码与核对哈希字幕时间并给出有边界的可复查审阅结果",
+      "depends": [],
+      "write_paths": [
+        "research/video",
+        "scripts/video/audit_narrated.py",
+        "docs/context/00_current/domains/video.md",
+        "docs/context/02_events/2026/11/evt_video_narrated_audit.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T11:28:29+00:00",
+      "updated_at": "2026-11-06T11:30:46+00:00",
+      "result": "旁白版独立解码检查通过但发现SRT遮挡摘要及标点断行问题，已附截图与修订建议供主对话审阅",
+      "evidence": "research/video/narrated_audit/review.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\video\\audit_narrated.py",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\video.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_narrated_audit.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-91b46501",
+      "title": "修复四页样例复现入口并同步证据状态",
+      "domain": "slides",
+      "acceptance": "复现脚本使用有效字体与坐标轴参数，独立新目录生成4页并检查；指南区分原生验证结果与研究缺口",
+      "depends": [],
+      "write_paths": [
+        "scripts/slides/build_sample.mjs",
+        "slides/experiments/reproduction_06",
+        "research/slides",
+        "docs/context/00_current/domains/slides.md",
+        "docs/context/02_events/2026/11/evt_slides_reproduction.md"
+      ],
+      "owner": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "status": "review",
+      "created_at": "2026-11-06T11:22:10+00:00",
+      "updated_at": "2026-11-06T11:24:47+00:00",
+      "result": "修正四页复现脚本并新目录渲染检查，更新可复制指南与真实兼容边界",
+      "evidence": "docs/context/02_events/2026/11/evt_slides_reproduction.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\slides\\build_sample.mjs",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\slides\\experiments\\reproduction_06",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\slides",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\slides.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_slides_reproduction.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-926efd8a",
+      "title": "制作办公文件到Excel演示",
+      "domain": "content",
+      "acceptance": "依据模拟会议原文生成真实可编辑Excel，负责人日期未知保留，原件不改，渲染及内容核对通过，附复现步骤",
+      "depends": [],
+      "write_paths": [
+        "tutorials/office/spreadsheet_demo",
+        "outputs/01a1afcd-c994-7ae0-89e1-3c3770ac406b"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T11:28:11+00:00",
+      "updated_at": "2026-11-06T11:43:59+00:00",
+      "result": "生成真实可编辑Excel，原文未知字段保留、渲染和导出数据核对通过，附复现步骤；未冒称产品实测或Excel/WPS实机验证",
+      "evidence": "tutorials/office/spreadsheet_demo/readme.md",
+      "review_note": "主对话已检查完整渲染及XLSX数据类型、空白字段，模拟材料边界明确",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\tutorials\\office\\spreadsheet_demo",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\outputs\\01a1afcd-c994-7ae0-89e1-3c3770ac406b"
+      ]
+    },
+    {
+      "id": "TASK-20261106-934f67bf",
+      "title": "预登记V2独立执行评分标准",
+      "domain": "concepts",
+      "acceptance": "结果出现前固定正确性与格式分开评分，不诱导基线失败",
+      "depends": [],
+      "write_paths": [
+        "research/concepts/experiments/scoring_v2.md",
+        "research/concepts/progress.md"
+      ],
+      "owner": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "status": "review",
+      "created_at": "2026-11-06T10:47:59+00:00",
+      "updated_at": "2026-11-06T10:48:00+00:00",
+      "result": "V2事实与输出合同评分已在结果出现前冻结，基线格式不作事实惩罚",
+      "evidence": "research/concepts/experiments/scoring_v2.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts\\experiments\\scoring_v2.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts\\progress.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-954c120b",
+      "title": "提炼V3视频路线展示稿",
+      "domain": "video",
+      "acceptance": "交付一页中文三路线工具企业任务计费单位与约90秒口语，附官方价格和案例边界，不改旧记录",
+      "depends": [],
+      "write_paths": [
+        "research/video/v3_route_brief.md",
+        "research/video/progress.md",
+        "docs/context/00_current/domains/video.md",
+        "docs/context/02_events/2026/11/evt_video_route_brief.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T11:50:05+00:00",
+      "updated_at": "2026-11-06T11:54:18+00:00",
+      "result": "已交付三路线一页上屏稿、约90秒口语和官方费用及已有案例附录，保留未实测边界",
+      "evidence": "research/video/v3_route_brief.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video\\v3_route_brief.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video\\progress.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\video.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_route_brief.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-97f78aa8",
+      "title": "完整视频证据访问与共享索引",
+      "domain": "methodology",
+      "acceptance": "至少3份完整内容实际审阅，核对视频对应与完整性，保留两平台候选和合法访问方法，不降研究门槛",
+      "depends": [],
+      "write_paths": [
+        "research/methodology/video_access",
+        "research/methodology/progress.md",
+        "docs/context/00_current/domains/methodology.md",
+        "docs/context/02_events/2026/11/evt_video_access.md",
+        "docs/context/05_discussions/topics/research_methodology/notes/ae3912eafb119313205d",
+        "docs/context/05_discussions/topics/research_methodology/summary.md"
+      ],
+      "owner": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "status": "review",
+      "created_at": "2026-11-06T10:29:55+00:00",
+      "updated_at": "2026-11-06T10:52:17+00:00",
+      "result": "3份完整视频文字实际审阅及共享索引已交，官方1份镜像2份；原轨逐字校验未完成，各包门槛不自动通过",
+      "evidence": "research/methodology/video_access/source_index.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\methodology\\video_access",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\methodology\\progress.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\methodology.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_access.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\research_methodology\\notes\\ae3912eafb119313205d",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\research_methodology\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-9b6daaf9",
+      "title": "办公补证讨论同步",
+      "domain": "office",
+      "acceptance": "同步证据分层及尚缺测试，不提升候选状态",
+      "depends": [],
+      "write_paths": [
+        "docs/context/05_discussions/topics/office/notes/c2a4dd2fb8403acfcf87",
+        "docs/context/05_discussions/topics/office/summary.md"
+      ],
+      "owner": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "status": "review",
+      "created_at": "2026-11-06T10:23:23+00:00",
+      "updated_at": "2026-11-06T10:24:42+00:00",
+      "result": "补证状态与候选边界已同步整理",
+      "evidence": "docs/context/05_discussions/topics/office/summary.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\office\\notes\\c2a4dd2fb8403acfcf87",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\office\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-a1b812d3",
+      "title": "吸收主对话PPT补证与独立审查",
+      "domain": "slides",
+      "acceptance": "逐组区分正文、局部、视频文字与实践资格，引用独立审查，不自动放行最终推荐",
+      "depends": [],
+      "write_paths": [
+        "research/slides/coverage_audit.md",
+        "research/slides/progress.md",
+        "research/slides/stage_handoff.md",
+        "docs/context/02_events/2026/11/evt_slides_coverage.md"
+      ],
+      "owner": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "status": "review",
+      "created_at": "2026-11-06T14:33:21+00:00",
+      "updated_at": "2026-11-06T14:34:48+00:00",
+      "result": "吸收四组增量及独立复核，明确三份完整视频文字的限定计数，保留整体门槛与产品执行缺口",
+      "evidence": "research/slides/coverage_audit.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\slides\\coverage_audit.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\slides\\progress.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\slides\\stage_handoff.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_slides_coverage.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-a28bfb3c",
+      "title": "PPT路线研究与统一短样例",
+      "domain": "slides",
+      "acceptance": "模板哈希保全及结构审计，三路线证据比较，统一短样例与可复用教程，缺口明确标注并提交review",
+      "depends": [],
+      "write_paths": [
+        "research/slides",
+        "slides/templates",
+        "slides/experiments",
+        "scripts/slides",
+        "docs/context/00_current/domains/slides.md",
+        "docs/context/02_events/2026/11/evt_slides_research.md",
+        "docs/context/05_discussions/topics/slides/notes/3b09986d1a67b103be78",
+        "docs/context/05_discussions/topics/slides/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T10:12:39+00:00",
+      "updated_at": "2026-11-06T11:11:14+00:00",
+      "result": "模板、三路线候选研究、四页本地样例及复用指南已交付；研究缺口明确，非最终推荐",
+      "evidence": "research/slides/stage_handoff.md",
+      "review_note": "已独立核对模板哈希并看过四页最终渲染，接受路线与样例阶段交付，非工具选型胜出或Office兼容验收",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\slides",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\slides\\templates",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\slides\\experiments",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\slides",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\slides.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_slides_research.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\slides\\notes\\3b09986d1a67b103be78",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\slides\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-ad0c9166",
+      "title": "打包可审阅视频交付物",
+      "domain": "video",
+      "acceptance": "生成含V3分镜成本源码依赖与复现命令的ZIP并核对全部条目哈希，保留未验收边界",
+      "depends": [],
+      "write_paths": [
+        "videos/experiments/delivery_bundle_01",
+        "scripts/video/build_delivery_bundle.py",
+        "research/video",
+        "docs/context/00_current/domains/video.md",
+        "docs/context/02_events/2026/11/evt_video_delivery_bundle.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T11:48:18+00:00",
+      "updated_at": "2026-11-06T11:49:35+00:00",
+      "result": "集中交付V3分镜成本源码依赖复现ZIP并逐项核验，未验收边界已随包保存",
+      "evidence": "videos/experiments/delivery_bundle_01/bundle_check.json",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\videos\\experiments\\delivery_bundle_01",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\video\\build_delivery_bundle.py",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\video.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_delivery_bundle.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-ae9bb3c8",
+      "title": "建立多聊天目标协作与研究验收基线",
+      "domain": "docs_process",
+      "acceptance": "按最新纠偏更新范围与日期，建立硬性研究门槛并启动可见子聊天及目标，登记分工和真实状态",
+      "depends": [],
+      "write_paths": [
+        "docs/planning",
+        "docs/handoff/parallel_work",
+        "research/research_gate.md",
+        "docs/context/00_current/index.md",
+        "docs/context/00_current/domains/docs_process.md",
+        "docs/context/01_decisions/index.md",
+        "docs/context/02_events/2026/11/evt_parallel_launch.md",
+        "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b",
+        "docs/context/05_discussions/topics/workshop_scope/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T09:56:40+00:00",
+      "updated_at": "2026-11-06T10:17:14+00:00",
+      "result": "5个可见子聊天已建立并核对目标状态报告，研究硬门槛、分工、日期、纠偏和交付约定已落盘；研究和Skill验证继续",
+      "evidence": "docs/context/02_events/2026/11/evt_parallel_launch.md",
+      "review_note": null,
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\planning",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\handoff\\parallel_work",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\research_gate.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\docs_process.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\01_decisions\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_parallel_launch.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\9a0b58d5b0351daa7a8b",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-b4654364",
+      "title": "办公第二轮反证与来源补全",
+      "domain": "office",
+      "acceptance": "读取实践反证正文，更新主张矩阵和真实缺口",
+      "depends": [],
+      "write_paths": [
+        "research/office",
+        "docs/context/00_current/domains/office.md",
+        "docs/context/02_events/2026/11/evt_office_round_two.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T10:16:53+00:00",
+      "updated_at": "2026-11-06T11:11:15+00:00",
+      "result": "第二轮补证与六项组织案例齐备可审阅，19份正文但严格门槛仍有视频/独立实践/运行缺口",
+      "evidence": "research/office/company_cases.md",
+      "review_note": "已读六组织案例并独立打开主要原始发布页，接受候选研究材料；最终研究门槛及本地产品效果仍未通过",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\office.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_office_round_two.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-b6074176",
+      "title": "办公视频访问与证据终检",
+      "domain": "office",
+      "acceptance": "实际检查视频访问入口并整合证据缺口，状态与任务一致",
+      "depends": [],
+      "write_paths": [
+        "research/office",
+        "docs/context/00_current/domains/office.md",
+        "docs/context/02_events/2026/11/evt_office_access.md"
+      ],
+      "owner": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "status": "review",
+      "created_at": "2026-11-06T10:32:46+00:00",
+      "updated_at": "2026-11-06T10:39:23+00:00",
+      "result": "字幕入口实际复核，开发者验证记录及完整缺口审计已落盘；整体门槛未通过",
+      "evidence": "research/office/practice_and_completion_audit.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\office.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_office_access.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-b91b6d70",
+      "title": "办公真实文件演示",
+      "domain": "office",
+      "acceptance": "模拟输入真实落盘读取，生成输出并核对来源和事实，不冒充目标产品实测",
+      "depends": [],
+      "write_paths": [
+        "tutorials/office/file_demo"
+      ],
+      "owner": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "status": "review",
+      "created_at": "2026-11-06T10:27:19+00:00",
+      "updated_at": "2026-11-06T10:31:59+00:00",
+      "result": "两份模拟文件实际读取合并输出，JSON与哈希复核通过；非独立产品实测",
+      "evidence": "tutorials/office/file_demo/execution_record.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\tutorials\\office\\file_demo"
+      ]
+    },
+    {
+      "id": "TASK-20261106-ba02b4f8",
+      "title": "概念双轮试验独立复核",
+      "domain": "office",
+      "acceptance": "先独立核对原始题目回答再评现有评分，验证哈希并区分规则和因果边界",
+      "depends": [],
+      "write_paths": [
+        "research/office/concepts_trial_review",
+        "research/office/progress.md",
+        "docs/context/02_events/2026/11/evt_office_concepts_review.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T11:14:40+00:00",
+      "updated_at": "2026-11-06T11:44:00+00:00",
+      "result": "独立复核12份原始回答，16项哈希匹配，提出A自由建议与B硬规则评分措辞异议；不作因果推断",
+      "evidence": "research/office/concepts_trial_review/review_report.md",
+      "review_note": "已读独立复核并采纳评分措辞异议，非盲评和因果推断边界明确",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office\\concepts_trial_review",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office\\progress.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_office_concepts_review.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-bf1bfa41",
+      "title": "视频参考研究与字幕样片首轮",
+      "domain": "video",
+      "acceptance": "保存参考访问层级、三路线候选、可播放60至90秒样片和复现证据；明确研究门槛缺口",
+      "depends": [],
+      "write_paths": [
+        "research/video",
+        "videos/experiments",
+        "scripts/video",
+        "docs/context/00_current/domains/video.md",
+        "docs/context/02_events/2026/11/evt_video_prototype.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T10:13:05+00:00",
+      "updated_at": "2026-11-06T10:17:31+00:00",
+      "result": "首轮字幕样片及候选研究草稿完成，研究门槛缺口明确；总目标继续active补证",
+      "evidence": "videos/experiments/workflow_sample/render_report.json",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\videos\\experiments",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\video",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\video.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_prototype.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-ca6e9dab",
+      "title": "调研技能与独立审计",
+      "domain": "methodology",
+      "acceptance": "技能安装结构验证、真实反证样本审计、可执行审查规则与缺口记录",
+      "depends": [],
+      "write_paths": [
+        "research/methodology",
+        "scripts/research_quality",
+        "docs/context/00_current/domains/methodology.md",
+        "docs/context/02_events/2026/11/evt_methodology.md",
+        "docs/context/05_discussions/topics/research_methodology/notes/ae3912eafb119313205d",
+        "docs/context/05_discussions/topics/research_methodology/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T10:13:26+00:00",
+      "updated_at": "2026-11-06T10:19:46+00:00",
+      "result": "技能安装结构验证、真实反证样本与审查方案完成，其他包未验收",
+      "evidence": "research/methodology/validation_and_sample.md",
+      "review_note": "已读取Skill及证据模板并独立运行quick_validate通过；只验收方法阶段产物，不等同其余研究包或独立前向测试通过",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\methodology",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\research_quality",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\methodology.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_methodology.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\research_methodology\\notes\\ae3912eafb119313205d",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\research_methodology\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-ceebdc06",
+      "title": "视频中文实践与官方转录补证",
+      "domain": "video",
+      "acceptance": "补充正文阅读记录并区分原始转录与镜像和自述证据，同步领域与讨论",
+      "depends": [],
+      "write_paths": [
+        "research/video",
+        "docs/context/00_current/domains/video.md",
+        "docs/context/02_events/2026/11/evt_video_sources_03.md",
+        "docs/context/05_discussions/topics/video/notes/f70d4c23e33e8b96bd2c",
+        "docs/context/05_discussions/topics/video/summary.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T11:26:00+00:00",
+      "updated_at": "2026-11-06T11:27:31+00:00",
+      "result": "中文实践与官方完整可见转录已补证，计算错误和转载局限已登记，最终研究门槛仍未通过",
+      "evidence": "research/video/sources_round_three.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\video.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_sources_03.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\notes\\f70d4c23e33e8b96bd2c",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-cef3da3e",
+      "title": "记录独立复测等待边界",
+      "domain": "concepts",
+      "acceptance": "明确外部执行依赖、三轮核验和恢复条件，不把主对话运行等同试验运行",
+      "depends": [],
+      "write_paths": [
+        "research/concepts/progress.md",
+        "research/concepts/blocker_status.md"
+      ],
+      "owner": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "status": "review",
+      "created_at": "2026-11-06T10:51:28+00:00",
+      "updated_at": "2026-11-06T10:52:39+00:00",
+      "result": "已记录真实外部执行依赖及恢复条件；goal blocked，主对话仍可运行",
+      "evidence": "research/concepts/blocker_status.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts\\progress.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts\\blocker_status.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-d80b423a",
+      "title": "办公视频文字证据复审",
+      "domain": "office",
+      "acceptance": "实际阅读全文，区分镜像与原轨核验，映射办公教学且不自动宣布门槛通过",
+      "depends": [],
+      "write_paths": [
+        "research/office/video_text_review.md",
+        "research/office/progress.md",
+        "docs/context/00_current/domains/office.md",
+        "docs/context/02_events/2026/11/evt_office_video_text.md"
+      ],
+      "owner": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "status": "review",
+      "created_at": "2026-11-06T11:20:03+00:00",
+      "updated_at": "2026-11-06T11:20:52+00:00",
+      "result": "完成两份完整字幕镜像阅读及办公相关性复审，保留原轨与独立性边界",
+      "evidence": "research/office/video_text_review.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office\\video_text_review.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office\\progress.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\office.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_office_video_text.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-d86104a5",
+      "title": "补齐分享演示与视频旁白交付",
+      "domain": "content",
+      "acceptance": "生成可审阅旁白视频并记录真实核验边界，整合工具地图与演变补充，完善演示入口和待验收清单",
+      "depends": [],
+      "write_paths": [
+        "docs/content",
+        "videos/narrated_review",
+        "scripts/video/narration",
+        "research/integration",
+        "docs/context/00_current/domains/content.md",
+        "docs/context/00_current/index.md",
+        "docs/context/02_events/2026/11/evt_narrated_review.md",
+        "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b",
+        "docs/context/05_discussions/topics/workshop_scope/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T11:14:24+00:00",
+      "updated_at": "2026-11-06T11:43:59+00:00",
+      "result": "中文旁白交付、V2全30页审阅、工具与历史V3合稿输入和统一入口已完成；总体目标与未验收项继续",
+      "evidence": "docs/context/02_events/2026/11/evt_narrated_review.md",
+      "review_note": "阶段成果与证据对应，V3制作、完整试听、现场兼容及最终研究推荐仍未完成",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\content",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\videos\\narrated_review",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\video\\narration",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\integration",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\content.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_narrated_review.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\9a0b58d5b0351daa7a8b",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-da6fa361",
+      "title": "同步V3接收与原始案例证据",
+      "domain": "video",
+      "acceptance": "保留原始案例证据及主对话V3接收事实，不提升音画验收状态",
+      "depends": [],
+      "write_paths": [
+        "research/video/discussion_teaching.json",
+        "research/video/discussion_teaching_summary.json",
+        "docs/context/05_discussions/topics/video/notes/f70d4c23e33e8b96bd2c",
+        "docs/context/05_discussions/topics/video/summary.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T11:41:15+00:00",
+      "updated_at": "2026-11-06T11:41:46+00:00",
+      "result": "已保留主对话V3接收与新增证据边界",
+      "evidence": "docs/context/05_discussions/topics/video/summary.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video\\discussion_teaching.json",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video\\discussion_teaching_summary.json",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\notes\\f70d4c23e33e8b96bd2c",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-df65ce66",
+      "title": "复现带旁白完整制作链",
+      "domain": "video",
+      "acceptance": "在独立输出目录重新生成画面与语音并封装，保存实际命令环境耗时结果，明确复现与独立创作的区别",
+      "depends": [],
+      "write_paths": [
+        "videos/experiments/reproduction_visual_01",
+        "videos/experiments/reproduction_voice_01",
+        "videos/experiments/reproduction_package_01",
+        "research/video",
+        "docs/context/00_current/domains/video.md",
+        "docs/context/02_events/2026/11/evt_video_reproduction.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T11:32:07+00:00",
+      "updated_at": "2026-11-06T11:33:42+00:00",
+      "result": "已在独立目录完整重生成画面语音封装且MP4哈希一致，补齐可执行复现说明并保留字幕与试听缺口",
+      "evidence": "research/video/narrated_reproduction.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\videos\\experiments\\reproduction_visual_01",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\videos\\experiments\\reproduction_voice_01",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\videos\\experiments\\reproduction_package_01",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\video.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_reproduction.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-e079ed79",
+      "title": "O1办公文件独立执行1",
+      "domain": "office",
+      "acceptance": "独立读取指定输入产出纪要和Excel，保留首次最终文件、完整计时、错误修订及哈希，不自行评分",
+      "depends": [],
+      "write_paths": [
+        "research/office/office_trial_01",
+        "docs/context/02_events/2026/11/evt_office_trial_01.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T12:20:54+00:00",
+      "updated_at": "2026-11-06T12:33:55+00:00",
+      "result": "独立生成首次和最终纪要/Excel，完成1轮版式修订及Excel副本回存自检；完整计时哈希与错误已保存，等待主对话评分",
+      "evidence": "research/office/office_trial_01/run_manifest.md",
+      "review_note": "对照冻结原文与基线读MD、首末XLSX及渲染，核心内容和日期通过；接受本次执行证据，不推效率和产品通用效果",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office\\office_trial_01",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_office_trial_01.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-e3dc6820",
+      "title": "统一办公来源与完成验收索引",
+      "domain": "office",
+      "acceptance": "逐项映射S1至S21及OV01至03，分离来源组、发布主体和独立效果；给出可审计门槛判断及待验证项",
+      "depends": [],
+      "write_paths": [
+        "research/office/source_audit.md",
+        "research/office/progress.md",
+        "docs/context/00_current/domains/office.md",
+        "docs/context/02_events/2026/11/evt_office_source_audit.md"
+      ],
+      "owner": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "status": "review",
+      "created_at": "2026-11-06T11:23:32+00:00",
+      "updated_at": "2026-11-06T11:25:04+00:00",
+      "result": "完成24组统一来源核验索引，重新确认20场景及示范4文件哈希，保留产品实测和严格资格缺口",
+      "evidence": "research/office/source_audit.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office\\source_audit.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office\\progress.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\office.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_office_source_audit.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-e9b63431",
+      "title": "记录旁白字幕验收异议",
+      "domain": "video",
+      "acceptance": "保留字幕遮挡观察及单层字幕候选并整合既有讨论",
+      "depends": [],
+      "write_paths": [
+        "research/video/discussion_narrated.json",
+        "research/video/discussion_narrated_summary.json",
+        "docs/context/05_discussions/topics/video/notes/f70d4c23e33e8b96bd2c",
+        "docs/context/05_discussions/topics/video/summary.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T11:30:57+00:00",
+      "updated_at": "2026-11-06T11:31:28+00:00",
+      "result": "旁白字幕遮挡观察及单层字幕建议已记录并整合",
+      "evidence": "docs/context/05_discussions/topics/video/summary.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video\\discussion_narrated.json",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video\\discussion_narrated_summary.json",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\notes\\f70d4c23e33e8b96bd2c",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-ec2d0bad",
+      "title": "办公研究与模拟示范首版",
+      "domain": "office",
+      "acceptance": "20场景、6短名单、候选路线比较、模拟示范与来源缺口可审阅",
+      "depends": [],
+      "write_paths": [
+        "research/office",
+        "tutorials/office",
+        "scripts/office",
+        "docs/context/00_current/domains/office.md",
+        "docs/context/02_events/2026/11/evt_office.md",
+        "docs/context/05_discussions/topics/office/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T10:12:30+00:00",
+      "updated_at": "2026-11-06T10:29:17+00:00",
+      "result": "首版20场景、6短名单、路线比较与模拟脚本可审阅；研究门槛未达，继续补证",
+      "evidence": "research/office/evidence_ledger.md",
+      "review_note": "仅验收20项候选菜单、六短名单和模拟教学脚本首稿，已实际读取；不代表产品实测或公司适配已验证",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\tutorials\\office",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\office",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\office.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_office.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\office\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-f59b67d4",
+      "title": "补齐第三份办公视频文字阅读",
+      "domain": "office",
+      "acceptance": "实际读完官方逐字稿并登记时间定位、反证、赞助及泛化限制；更新文字覆盖数但不自动放行工具推荐",
+      "depends": [],
+      "write_paths": [
+        "research/office/video_text_review.md",
+        "research/office/progress.md",
+        "docs/context/00_current/domains/office.md",
+        "docs/context/02_events/2026/11/evt_office_transcript_three.md"
+      ],
+      "owner": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "status": "review",
+      "created_at": "2026-11-06T11:22:11+00:00",
+      "updated_at": "2026-11-06T11:22:48+00:00",
+      "result": "第三份官方逐字稿全文阅读完成；更新三份文字覆盖和各自来源等级，保留严格门槛与产品实测缺口",
+      "evidence": "research/office/video_text_review.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office\\video_text_review.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office\\progress.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\office.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_office_transcript_three.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-f5ddbd15",
+      "title": "补充教学动画原始实践证据",
+      "domain": "video",
+      "acceptance": "登记原始作者流程与教学试验，区分制作可行性与教学效果，保留视频转录核对边界",
+      "depends": [],
+      "write_paths": [
+        "research/video",
+        "docs/context/00_current/domains/video.md",
+        "docs/context/02_events/2026/11/evt_video_teaching_sources.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T11:39:27+00:00",
+      "updated_at": "2026-11-06T11:41:00+00:00",
+      "result": "补充三组原始实践及一份身份已核对的完整转录，独立性和教学效果限制已记录",
+      "evidence": "research/video/teaching_sources.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\video.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_teaching_sources.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-f6606a88",
+      "title": "制作30页领导审阅初稿",
+      "domain": "slides",
+      "acceptance": "冻结输入哈希，30页可编辑正文和备注、多样页型、真实素材、全页渲染目检、内容与图表校验，保留候选和未验收边界",
+      "depends": [],
+      "write_paths": [
+        "slides/review_v1",
+        "outputs/leadership_review",
+        "scripts/slides/review_deck",
+        "docs/context/00_current/domains/slides_production.md",
+        "docs/context/02_events/2026/11/evt_slides_production.md"
+      ],
+      "owner": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "status": "review",
+      "created_at": "2026-11-06T10:35:17+00:00",
+      "updated_at": "2026-11-06T10:54:14+00:00",
+      "result": "30页可编辑领导审阅初稿和随包资料完成，校验通过并逐页渲染目检；Office/WPS实机和研究最终推荐仍待验证",
+      "evidence": "docs/context/02_events/2026/11/evt_slides_production.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\slides\\review_v1",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\outputs\\leadership_review",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\slides\\review_deck",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\slides_production.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_slides_production.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-f8f0a1c2",
+      "title": "核验PPT视频候选真实性与证据边界",
+      "domain": "slides",
+      "acceptance": "完整读取候选字幕并核对原片身份和模拟环境，明确不计入项，更新门槛与原有记录",
+      "depends": [],
+      "write_paths": [
+        "research/slides",
+        "docs/context/00_current/domains/slides.md",
+        "docs/context/02_events/2026/11/evt_slides_video_audit.md"
+      ],
+      "owner": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "status": "review",
+      "created_at": "2026-11-06T11:01:40+00:00",
+      "updated_at": "2026-11-06T11:03:14+00:00",
+      "result": "核验并排除两项不足以计入门槛的视频候选，补一手课程案例，更新历史状态；总目标未完成",
+      "evidence": "research/slides/video_audit_05.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\slides",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\slides.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_slides_video_audit.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-f9abc060",
+      "title": "独立核对PPT增量四组证据",
+      "domain": "concepts",
+      "acceptance": "实际打开P14至P17原页并核对既有V01，逐项接受条件排除及完整视频文字计数；不改主稿或PPT报告",
+      "depends": [],
+      "write_paths": [
+        "research/concepts/ppt_evidence_review.md",
+        "docs/context/02_events/2026/11/evt_ppt_evidence_review.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T12:30:05+00:00",
+      "updated_at": "2026-11-06T12:35:51+00:00",
+      "result": "实际核对四组原页与V01；P16轻编辑全文、P17完整59秒单元可按限定类型计数，P14/P15实践保留身份利益条件，排除效果外推及总门槛放行",
+      "evidence": "research/concepts/ppt_evidence_review.md",
+      "review_note": "已读独立原页复核，接受四组有边界来源用途及三项完整文字局部计数，不放行全门槛",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\concepts\\ppt_evidence_review.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_ppt_evidence_review.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-f9b6eb5a",
+      "title": "视频第二轮来源与实验补证",
+      "domain": "video",
+      "acceptance": "补充来源台账和反证，修复实验记录可复现性并明确独立实测缺口",
+      "depends": [],
+      "write_paths": [
+        "research/video",
+        "scripts/video",
+        "videos/experiments",
+        "docs/context/00_current/domains/video.md",
+        "docs/context/02_events/2026/11/evt_video_round_two.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T10:18:13+00:00",
+      "updated_at": "2026-11-06T10:30:38+00:00",
+      "result": "视觉解释V2、生产手册、反证与审阅入口已交付；总目标active，研究与动态审片仍待补齐",
+      "evidence": "research/video/review_entry.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\video",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\videos\\experiments",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\video.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_round_two.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-fadcb089",
+      "title": "新模拟办公任务双会话执行与独立审查",
+      "domain": "content",
+      "acceptance": "先冻结新材料质量标准和参考基线，两个可见会话独立交付保留首次文件及计时，主对话按原文检查不预设成功；不推断效果提升或取代其他产品测试",
+      "depends": [],
+      "write_paths": [
+        "research/integration/office_trial/control",
+        "research/integration/office_trial/evaluation",
+        "docs/context/00_current/index.md",
+        "docs/context/00_current/domains/content.md",
+        "docs/context/02_events/2026/11/evt_office_trial.md",
+        "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b",
+        "docs/context/05_discussions/topics/workshop_scope/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-06T12:18:07+00:00",
+      "updated_at": "2026-11-06T12:36:11+00:00",
+      "result": "完成预冻结双会话真实文件执行与原文语义审查，首次最终关键事实和日期通过，保留错误返工及完整计时边界；V3不改",
+      "evidence": "research/integration/office_trial/evaluation/review_report.md",
+      "review_note": "主对话完成原文、首末MD/XLSX、四张图和执行者Excel回存记录审查，接受本例阶段，整体目标仍待音画与实际试讲",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\integration\\office_trial\\control",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\integration\\office_trial\\evaluation",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\content.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_office_trial.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\9a0b58d5b0351daa7a8b",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-fb0de95d",
+      "title": "记录V07资格校正讨论",
+      "domain": "video",
+      "acceptance": "记录原始材料未取到与实践计数修正，保留历史来源",
+      "depends": [],
+      "write_paths": [
+        "research/video/discussion_qualification.json",
+        "research/video/discussion_qualification_summary.json",
+        "docs/context/05_discussions/topics/video/notes/f70d4c23e33e8b96bd2c",
+        "docs/context/05_discussions/topics/video/summary.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T12:19:08+00:00",
+      "updated_at": "2026-11-06T12:19:35+00:00",
+      "result": "已记录并整理V07实践资格校正，保留全部历史讨论来源",
+      "evidence": "docs/context/05_discussions/topics/video/summary.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video\\discussion_qualification.json",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video\\discussion_qualification_summary.json",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\notes\\f70d4c23e33e8b96bd2c",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261106-fd4fd5aa",
+      "title": "核对第三份完整视频与主张证据",
+      "domain": "video",
+      "acceptance": "核对作者原片链接及已读转录，保存关键主张可用范围与缺口，不将文字审阅当作原片观看",
+      "depends": [],
+      "write_paths": [
+        "research/video",
+        "docs/context/00_current/domains/video.md",
+        "docs/context/02_events/2026/11/evt_video_identity.md",
+        "docs/context/05_discussions/topics/video/notes/f70d4c23e33e8b96bd2c",
+        "docs/context/05_discussions/topics/video/summary.md"
+      ],
+      "owner": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "status": "review",
+      "created_at": "2026-11-06T11:43:25+00:00",
+      "updated_at": "2026-11-06T11:44:39+00:00",
+      "result": "完成第三份完整文字内容来源核对及七项主张证据矩阵，不升级为原片或最终效果验收",
+      "evidence": "research/video/claim_evidence_review.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\video",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\video.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_video_identity.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\notes\\f70d4c23e33e8b96bd2c",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\summary.md"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": 1,
+      "time": "2026-11-06T07:44:11+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-5c055400",
+      "operation": "create"
+    },
+    {
+      "id": 2,
+      "time": "2026-11-06T07:44:30+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-5c055400",
+      "operation": "claim"
+    },
+    {
+      "id": 3,
+      "time": "2026-11-06T07:46:56+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-5c055400",
+      "operation": "finish"
+    },
+    {
+      "id": 4,
+      "time": "2026-11-06T07:46:56+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-5c055400",
+      "operation": "review"
+    },
+    {
+      "id": 5,
+      "time": "2026-11-06T08:35:28+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-0b8e19d4",
+      "operation": "create"
+    },
+    {
+      "id": 6,
+      "time": "2026-11-06T08:35:44+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-0b8e19d4",
+      "operation": "claim"
+    },
+    {
+      "id": 7,
+      "time": "2026-11-06T08:36:53+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-0b8e19d4",
+      "operation": "finish"
+    },
+    {
+      "id": 8,
+      "time": "2026-11-06T08:36:53+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-0b8e19d4",
+      "operation": "review"
+    },
+    {
+      "id": 9,
+      "time": "2026-11-06T09:20:42+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-0b778414",
+      "operation": "create"
+    },
+    {
+      "id": 10,
+      "time": "2026-11-06T09:20:54+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-0b778414",
+      "operation": "claim"
+    },
+    {
+      "id": 11,
+      "time": "2026-11-06T09:22:15+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-0b778414",
+      "operation": "finish"
+    },
+    {
+      "id": 12,
+      "time": "2026-11-06T09:22:15+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-0b778414",
+      "operation": "review"
+    },
+    {
+      "id": 13,
+      "time": "2026-11-06T09:56:40+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-ae9bb3c8",
+      "operation": "create"
+    },
+    {
+      "id": 14,
+      "time": "2026-11-06T10:01:43+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-ae9bb3c8",
+      "operation": "claim"
+    },
+    {
+      "id": 15,
+      "time": "2026-11-06T10:12:22+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-687445db",
+      "operation": "create"
+    },
+    {
+      "id": 16,
+      "time": "2026-11-06T10:12:30+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-ec2d0bad",
+      "operation": "create"
+    },
+    {
+      "id": 17,
+      "time": "2026-11-06T10:12:39+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-a28bfb3c",
+      "operation": "create"
+    },
+    {
+      "id": 18,
+      "time": "2026-11-06T10:12:49+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-a28bfb3c",
+      "operation": "claim"
+    },
+    {
+      "id": 19,
+      "time": "2026-11-06T10:12:50+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-ec2d0bad",
+      "operation": "claim"
+    },
+    {
+      "id": 20,
+      "time": "2026-11-06T10:12:51+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-08aa7ad2",
+      "operation": "create"
+    },
+    {
+      "id": 21,
+      "time": "2026-11-06T10:12:53+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-687445db",
+      "operation": "claim"
+    },
+    {
+      "id": 22,
+      "time": "2026-11-06T10:13:05+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-bf1bfa41",
+      "operation": "create"
+    },
+    {
+      "id": 23,
+      "time": "2026-11-06T10:13:17+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-08aa7ad2",
+      "operation": "claim"
+    },
+    {
+      "id": 24,
+      "time": "2026-11-06T10:13:26+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-ca6e9dab",
+      "operation": "create"
+    },
+    {
+      "id": 25,
+      "time": "2026-11-06T10:13:29+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-bf1bfa41",
+      "operation": "claim"
+    },
+    {
+      "id": 26,
+      "time": "2026-11-06T10:13:39+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-ca6e9dab",
+      "operation": "claim"
+    },
+    {
+      "id": 27,
+      "time": "2026-11-06T10:15:32+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-3e78fa12",
+      "operation": "create"
+    },
+    {
+      "id": 28,
+      "time": "2026-11-06T10:16:08+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-3e78fa12",
+      "operation": "claim"
+    },
+    {
+      "id": 29,
+      "time": "2026-11-06T10:16:21+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-08aa7ad2",
+      "operation": "finish"
+    },
+    {
+      "id": 30,
+      "time": "2026-11-06T10:16:21+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-ec2d0bad",
+      "operation": "finish"
+    },
+    {
+      "id": 31,
+      "time": "2026-11-06T10:16:40+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-ca6e9dab",
+      "operation": "finish"
+    },
+    {
+      "id": 32,
+      "time": "2026-11-06T10:16:53+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-b4654364",
+      "operation": "create"
+    },
+    {
+      "id": 33,
+      "time": "2026-11-06T10:17:13+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-b4654364",
+      "operation": "claim"
+    },
+    {
+      "id": 34,
+      "time": "2026-11-06T10:17:14+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-ae9bb3c8",
+      "operation": "finish"
+    },
+    {
+      "id": 35,
+      "time": "2026-11-06T10:17:14+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-ae9bb3c8",
+      "operation": "review"
+    },
+    {
+      "id": 36,
+      "time": "2026-11-06T10:17:30+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-3e78fa12",
+      "operation": "finish"
+    },
+    {
+      "id": 37,
+      "time": "2026-11-06T10:17:31+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-bf1bfa41",
+      "operation": "finish"
+    },
+    {
+      "id": 38,
+      "time": "2026-11-06T10:18:13+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-f9b6eb5a",
+      "operation": "create"
+    },
+    {
+      "id": 39,
+      "time": "2026-11-06T10:18:38+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-f9b6eb5a",
+      "operation": "claim"
+    },
+    {
+      "id": 40,
+      "time": "2026-11-06T10:19:06+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-04630bb2",
+      "operation": "create"
+    },
+    {
+      "id": 41,
+      "time": "2026-11-06T10:19:46+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-04630bb2",
+      "operation": "claim"
+    },
+    {
+      "id": 42,
+      "time": "2026-11-06T10:19:46+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-ca6e9dab",
+      "operation": "review"
+    },
+    {
+      "id": 43,
+      "time": "2026-11-06T10:20:24+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-8c52b893",
+      "operation": "create"
+    },
+    {
+      "id": 44,
+      "time": "2026-11-06T10:20:42+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-8c52b893",
+      "operation": "claim"
+    },
+    {
+      "id": 45,
+      "time": "2026-11-06T10:23:23+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-9b6daaf9",
+      "operation": "create"
+    },
+    {
+      "id": 46,
+      "time": "2026-11-06T10:24:22+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-9b6daaf9",
+      "operation": "claim"
+    },
+    {
+      "id": 47,
+      "time": "2026-11-06T10:24:33+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-8c52b893",
+      "operation": "finish"
+    },
+    {
+      "id": 48,
+      "time": "2026-11-06T10:24:42+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-9b6daaf9",
+      "operation": "finish"
+    },
+    {
+      "id": 49,
+      "time": "2026-11-06T10:27:19+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-b91b6d70",
+      "operation": "create"
+    },
+    {
+      "id": 50,
+      "time": "2026-11-06T10:27:46+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-b91b6d70",
+      "operation": "claim"
+    },
+    {
+      "id": 51,
+      "time": "2026-11-06T10:29:16+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-8c52b893",
+      "operation": "review"
+    },
+    {
+      "id": 52,
+      "time": "2026-11-06T10:29:17+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-ec2d0bad",
+      "operation": "review"
+    },
+    {
+      "id": 53,
+      "time": "2026-11-06T10:29:17+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-08aa7ad2",
+      "operation": "review"
+    },
+    {
+      "id": 54,
+      "time": "2026-11-06T10:29:17+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-3e78fa12",
+      "operation": "review"
+    },
+    {
+      "id": 55,
+      "time": "2026-11-06T10:29:55+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-97f78aa8",
+      "operation": "create"
+    },
+    {
+      "id": 56,
+      "time": "2026-11-06T10:29:59+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-687445db",
+      "operation": "finish"
+    },
+    {
+      "id": 57,
+      "time": "2026-11-06T10:30:16+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-97f78aa8",
+      "operation": "claim"
+    },
+    {
+      "id": 58,
+      "time": "2026-11-06T10:30:33+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-8a7f583f",
+      "operation": "create"
+    },
+    {
+      "id": 59,
+      "time": "2026-11-06T10:30:38+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-f9b6eb5a",
+      "operation": "finish"
+    },
+    {
+      "id": 60,
+      "time": "2026-11-06T10:30:53+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-8a7f583f",
+      "operation": "claim"
+    },
+    {
+      "id": 61,
+      "time": "2026-11-06T10:31:46+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-04630bb2",
+      "operation": "finish"
+    },
+    {
+      "id": 62,
+      "time": "2026-11-06T10:31:47+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-04630bb2",
+      "operation": "review"
+    },
+    {
+      "id": 63,
+      "time": "2026-11-06T10:31:59+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-b91b6d70",
+      "operation": "finish"
+    },
+    {
+      "id": 64,
+      "time": "2026-11-06T10:31:59+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-b4654364",
+      "operation": "finish"
+    },
+    {
+      "id": 65,
+      "time": "2026-11-06T10:32:46+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-b6074176",
+      "operation": "create"
+    },
+    {
+      "id": 66,
+      "time": "2026-11-06T10:33:34+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-49de9a46",
+      "operation": "create"
+    },
+    {
+      "id": 67,
+      "time": "2026-11-06T10:33:36+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-64853740",
+      "operation": "create"
+    },
+    {
+      "id": 68,
+      "time": "2026-11-06T10:33:36+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-64853740",
+      "operation": "claim"
+    },
+    {
+      "id": 69,
+      "time": "2026-11-06T10:33:38+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-64853740",
+      "operation": "finish"
+    },
+    {
+      "id": 70,
+      "time": "2026-11-06T10:33:41+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-b6074176",
+      "operation": "claim"
+    },
+    {
+      "id": 71,
+      "time": "2026-11-06T10:34:16+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-49de9a46",
+      "operation": "claim"
+    },
+    {
+      "id": 72,
+      "time": "2026-11-06T10:35:17+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-a28bfb3c",
+      "operation": "finish"
+    },
+    {
+      "id": 73,
+      "time": "2026-11-06T10:35:17+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-f6606a88",
+      "operation": "create"
+    },
+    {
+      "id": 74,
+      "time": "2026-11-06T10:35:37+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-f6606a88",
+      "operation": "claim"
+    },
+    {
+      "id": 75,
+      "time": "2026-11-06T10:38:14+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-4bff7b7a",
+      "operation": "create"
+    },
+    {
+      "id": 76,
+      "time": "2026-11-06T10:39:23+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-b6074176",
+      "operation": "finish"
+    },
+    {
+      "id": 77,
+      "time": "2026-11-06T10:43:07+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-8a7f583f",
+      "operation": "finish"
+    },
+    {
+      "id": 78,
+      "time": "2026-11-06T10:45:02+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-83b92441",
+      "operation": "create"
+    },
+    {
+      "id": 79,
+      "time": "2026-11-06T10:45:02+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-83b92441",
+      "operation": "claim"
+    },
+    {
+      "id": 80,
+      "time": "2026-11-06T10:45:03+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-83b92441",
+      "operation": "finish"
+    },
+    {
+      "id": 81,
+      "time": "2026-11-06T10:45:57+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-5739b881",
+      "operation": "create"
+    },
+    {
+      "id": 82,
+      "time": "2026-11-06T10:47:59+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-934f67bf",
+      "operation": "create"
+    },
+    {
+      "id": 83,
+      "time": "2026-11-06T10:48:00+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-934f67bf",
+      "operation": "claim"
+    },
+    {
+      "id": 84,
+      "time": "2026-11-06T10:48:00+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-934f67bf",
+      "operation": "finish"
+    },
+    {
+      "id": 85,
+      "time": "2026-11-06T10:51:28+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-cef3da3e",
+      "operation": "create"
+    },
+    {
+      "id": 86,
+      "time": "2026-11-06T10:51:29+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-cef3da3e",
+      "operation": "claim"
+    },
+    {
+      "id": 87,
+      "time": "2026-11-06T10:52:17+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-97f78aa8",
+      "operation": "finish"
+    },
+    {
+      "id": 88,
+      "time": "2026-11-06T10:52:39+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-cef3da3e",
+      "operation": "finish"
+    },
+    {
+      "id": 89,
+      "time": "2026-11-06T10:54:14+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-f6606a88",
+      "operation": "finish"
+    },
+    {
+      "id": 90,
+      "time": "2026-11-06T10:55:16+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-0694783e",
+      "operation": "create"
+    },
+    {
+      "id": 91,
+      "time": "2026-11-06T10:55:35+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-0694783e",
+      "operation": "claim"
+    },
+    {
+      "id": 92,
+      "time": "2026-11-06T10:57:14+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-0694783e",
+      "operation": "finish"
+    },
+    {
+      "id": 93,
+      "time": "2026-11-06T10:58:08+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-1efed6bf",
+      "operation": "create"
+    },
+    {
+      "id": 94,
+      "time": "2026-11-06T10:58:20+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-1efed6bf",
+      "operation": "claim"
+    },
+    {
+      "id": 95,
+      "time": "2026-11-06T10:59:21+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-62c6887b",
+      "operation": "create"
+    },
+    {
+      "id": 96,
+      "time": "2026-11-06T10:59:38+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-691ad777",
+      "operation": "create"
+    },
+    {
+      "id": 97,
+      "time": "2026-11-06T10:59:39+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-691ad777",
+      "operation": "claim"
+    },
+    {
+      "id": 98,
+      "time": "2026-11-06T10:59:41+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-62c6887b",
+      "operation": "claim"
+    },
+    {
+      "id": 99,
+      "time": "2026-11-06T10:59:50+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-1efed6bf",
+      "operation": "finish"
+    },
+    {
+      "id": 100,
+      "time": "2026-11-06T11:01:40+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-f8f0a1c2",
+      "operation": "create"
+    },
+    {
+      "id": 101,
+      "time": "2026-11-06T11:01:53+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-f8f0a1c2",
+      "operation": "claim"
+    },
+    {
+      "id": 102,
+      "time": "2026-11-06T11:03:14+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-f8f0a1c2",
+      "operation": "finish"
+    },
+    {
+      "id": 103,
+      "time": "2026-11-06T11:04:03+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-2a16c67f",
+      "operation": "create"
+    },
+    {
+      "id": 104,
+      "time": "2026-11-06T11:04:18+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-2a16c67f",
+      "operation": "claim"
+    },
+    {
+      "id": 105,
+      "time": "2026-11-06T11:04:21+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-62c6887b",
+      "operation": "finish"
+    },
+    {
+      "id": 106,
+      "time": "2026-11-06T11:05:16+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-2cf0eb1c",
+      "operation": "create"
+    },
+    {
+      "id": 107,
+      "time": "2026-11-06T11:06:09+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-2cf0eb1c",
+      "operation": "claim"
+    },
+    {
+      "id": 108,
+      "time": "2026-11-06T11:07:24+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-2cf0eb1c",
+      "operation": "finish"
+    },
+    {
+      "id": 109,
+      "time": "2026-11-06T11:07:24+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-691ad777",
+      "operation": "finish"
+    },
+    {
+      "id": 110,
+      "time": "2026-11-06T11:08:28+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-2a16c67f",
+      "operation": "finish"
+    },
+    {
+      "id": 111,
+      "time": "2026-11-06T11:08:28+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-0a4c195d",
+      "operation": "create"
+    },
+    {
+      "id": 112,
+      "time": "2026-11-06T11:08:39+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-0a4c195d",
+      "operation": "claim"
+    },
+    {
+      "id": 113,
+      "time": "2026-11-06T11:11:14+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-49de9a46",
+      "operation": "finish"
+    },
+    {
+      "id": 114,
+      "time": "2026-11-06T11:11:14+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-49de9a46",
+      "operation": "review"
+    },
+    {
+      "id": 115,
+      "time": "2026-11-06T11:11:14+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-a28bfb3c",
+      "operation": "review"
+    },
+    {
+      "id": 116,
+      "time": "2026-11-06T11:11:15+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-b4654364",
+      "operation": "review"
+    },
+    {
+      "id": 117,
+      "time": "2026-11-06T11:14:04+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-439534a6",
+      "operation": "create"
+    },
+    {
+      "id": 118,
+      "time": "2026-11-06T11:14:24+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-d86104a5",
+      "operation": "create"
+    },
+    {
+      "id": 119,
+      "time": "2026-11-06T11:14:24+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-439534a6",
+      "operation": "claim"
+    },
+    {
+      "id": 120,
+      "time": "2026-11-06T11:14:25+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-7ad10110",
+      "operation": "create"
+    },
+    {
+      "id": 121,
+      "time": "2026-11-06T11:14:36+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-7ad10110",
+      "operation": "claim"
+    },
+    {
+      "id": 122,
+      "time": "2026-11-06T11:14:40+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-ba02b4f8",
+      "operation": "create"
+    },
+    {
+      "id": 123,
+      "time": "2026-11-06T11:14:49+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-ba02b4f8",
+      "operation": "claim"
+    },
+    {
+      "id": 124,
+      "time": "2026-11-06T11:14:51+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-d86104a5",
+      "operation": "claim"
+    },
+    {
+      "id": 125,
+      "time": "2026-11-06T11:16:25+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-4bff7b7a",
+      "operation": "claim"
+    },
+    {
+      "id": 126,
+      "time": "2026-11-06T11:18:22+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-ba02b4f8",
+      "operation": "finish"
+    },
+    {
+      "id": 127,
+      "time": "2026-11-06T11:18:22+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-6e29b3d0",
+      "operation": "create"
+    },
+    {
+      "id": 128,
+      "time": "2026-11-06T11:18:23+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-4bff7b7a",
+      "operation": "finish"
+    },
+    {
+      "id": 129,
+      "time": "2026-11-06T11:18:41+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-6e29b3d0",
+      "operation": "claim"
+    },
+    {
+      "id": 130,
+      "time": "2026-11-06T11:18:54+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-6e29b3d0",
+      "operation": "finish"
+    },
+    {
+      "id": 131,
+      "time": "2026-11-06T11:19:07+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-8b6e11e6",
+      "operation": "create"
+    },
+    {
+      "id": 132,
+      "time": "2026-11-06T11:19:09+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-439534a6",
+      "operation": "finish"
+    },
+    {
+      "id": 133,
+      "time": "2026-11-06T11:20:03+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-d80b423a",
+      "operation": "create"
+    },
+    {
+      "id": 134,
+      "time": "2026-11-06T11:20:16+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-8b6e11e6",
+      "operation": "claim"
+    },
+    {
+      "id": 135,
+      "time": "2026-11-06T11:20:19+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-8b6e11e6",
+      "operation": "finish"
+    },
+    {
+      "id": 136,
+      "time": "2026-11-06T11:20:52+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-d80b423a",
+      "operation": "claim"
+    },
+    {
+      "id": 137,
+      "time": "2026-11-06T11:20:52+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-d80b423a",
+      "operation": "finish"
+    },
+    {
+      "id": 138,
+      "time": "2026-11-06T11:21:18+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-0a4c195d",
+      "operation": "finish"
+    },
+    {
+      "id": 139,
+      "time": "2026-11-06T11:22:02+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-685ea9da",
+      "operation": "create"
+    },
+    {
+      "id": 140,
+      "time": "2026-11-06T11:22:10+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-91b46501",
+      "operation": "create"
+    },
+    {
+      "id": 141,
+      "time": "2026-11-06T11:22:11+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-f59b67d4",
+      "operation": "create"
+    },
+    {
+      "id": 142,
+      "time": "2026-11-06T11:22:22+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-91b46501",
+      "operation": "claim"
+    },
+    {
+      "id": 143,
+      "time": "2026-11-06T11:22:37+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-7ad10110",
+      "operation": "finish"
+    },
+    {
+      "id": 144,
+      "time": "2026-11-06T11:22:47+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-f59b67d4",
+      "operation": "claim"
+    },
+    {
+      "id": 145,
+      "time": "2026-11-06T11:22:48+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-f59b67d4",
+      "operation": "finish"
+    },
+    {
+      "id": 146,
+      "time": "2026-11-06T11:22:52+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-685ea9da",
+      "operation": "claim"
+    },
+    {
+      "id": 147,
+      "time": "2026-11-06T11:22:54+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-685ea9da",
+      "operation": "finish"
+    },
+    {
+      "id": 148,
+      "time": "2026-11-06T11:23:32+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-e3dc6820",
+      "operation": "create"
+    },
+    {
+      "id": 149,
+      "time": "2026-11-06T11:24:47+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-91b46501",
+      "operation": "finish"
+    },
+    {
+      "id": 150,
+      "time": "2026-11-06T11:25:04+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-e3dc6820",
+      "operation": "claim"
+    },
+    {
+      "id": 151,
+      "time": "2026-11-06T11:25:04+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-e3dc6820",
+      "operation": "finish"
+    },
+    {
+      "id": 152,
+      "time": "2026-11-06T11:26:00+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-ceebdc06",
+      "operation": "create"
+    },
+    {
+      "id": 153,
+      "time": "2026-11-06T11:26:09+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-ceebdc06",
+      "operation": "claim"
+    },
+    {
+      "id": 154,
+      "time": "2026-11-06T11:27:31+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-ceebdc06",
+      "operation": "finish"
+    },
+    {
+      "id": 155,
+      "time": "2026-11-06T11:28:11+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-926efd8a",
+      "operation": "create"
+    },
+    {
+      "id": 156,
+      "time": "2026-11-06T11:28:29+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-8f1ea3d4",
+      "operation": "create"
+    },
+    {
+      "id": 157,
+      "time": "2026-11-06T11:29:01+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-8f1ea3d4",
+      "operation": "claim"
+    },
+    {
+      "id": 158,
+      "time": "2026-11-06T11:30:46+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-8f1ea3d4",
+      "operation": "finish"
+    },
+    {
+      "id": 159,
+      "time": "2026-11-06T11:30:57+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-e9b63431",
+      "operation": "create"
+    },
+    {
+      "id": 160,
+      "time": "2026-11-06T11:31:10+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-e9b63431",
+      "operation": "claim"
+    },
+    {
+      "id": 161,
+      "time": "2026-11-06T11:31:28+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-e9b63431",
+      "operation": "finish"
+    },
+    {
+      "id": 162,
+      "time": "2026-11-06T11:31:28+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-926efd8a",
+      "operation": "claim"
+    },
+    {
+      "id": 163,
+      "time": "2026-11-06T11:31:48+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-0300b503",
+      "operation": "create"
+    },
+    {
+      "id": 164,
+      "time": "2026-11-06T11:32:07+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-df65ce66",
+      "operation": "create"
+    },
+    {
+      "id": 165,
+      "time": "2026-11-06T11:32:21+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-df65ce66",
+      "operation": "claim"
+    },
+    {
+      "id": 166,
+      "time": "2026-11-06T11:33:42+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-df65ce66",
+      "operation": "finish"
+    },
+    {
+      "id": 167,
+      "time": "2026-11-06T11:34:10+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-527b420e",
+      "operation": "create"
+    },
+    {
+      "id": 168,
+      "time": "2026-11-06T11:34:11+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-86bc946e",
+      "operation": "create"
+    },
+    {
+      "id": 169,
+      "time": "2026-11-06T11:34:19+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-527b420e",
+      "operation": "claim"
+    },
+    {
+      "id": 170,
+      "time": "2026-11-06T11:34:52+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-86bc946e",
+      "operation": "claim"
+    },
+    {
+      "id": 171,
+      "time": "2026-11-06T11:35:48+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-527b420e",
+      "operation": "finish"
+    },
+    {
+      "id": 172,
+      "time": "2026-11-06T11:36:11+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-86bc946e",
+      "operation": "finish"
+    },
+    {
+      "id": 173,
+      "time": "2026-11-06T11:36:12+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-4b09a123",
+      "operation": "create"
+    },
+    {
+      "id": 174,
+      "time": "2026-11-06T11:36:25+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-4b09a123",
+      "operation": "claim"
+    },
+    {
+      "id": 175,
+      "time": "2026-11-06T11:36:43+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-4b09a123",
+      "operation": "finish"
+    },
+    {
+      "id": 176,
+      "time": "2026-11-06T11:39:27+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-f5ddbd15",
+      "operation": "create"
+    },
+    {
+      "id": 177,
+      "time": "2026-11-06T11:39:47+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-f5ddbd15",
+      "operation": "claim"
+    },
+    {
+      "id": 178,
+      "time": "2026-11-06T11:41:00+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-f5ddbd15",
+      "operation": "finish"
+    },
+    {
+      "id": 179,
+      "time": "2026-11-06T11:41:15+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-da6fa361",
+      "operation": "create"
+    },
+    {
+      "id": 180,
+      "time": "2026-11-06T11:41:30+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-da6fa361",
+      "operation": "claim"
+    },
+    {
+      "id": 181,
+      "time": "2026-11-06T11:41:46+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-da6fa361",
+      "operation": "finish"
+    },
+    {
+      "id": 182,
+      "time": "2026-11-06T11:43:25+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-fd4fd5aa",
+      "operation": "create"
+    },
+    {
+      "id": 183,
+      "time": "2026-11-06T11:43:59+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-926efd8a",
+      "operation": "finish"
+    },
+    {
+      "id": 184,
+      "time": "2026-11-06T11:43:59+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-926efd8a",
+      "operation": "review"
+    },
+    {
+      "id": 185,
+      "time": "2026-11-06T11:43:59+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-d86104a5",
+      "operation": "finish"
+    },
+    {
+      "id": 186,
+      "time": "2026-11-06T11:43:59+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-d86104a5",
+      "operation": "review"
+    },
+    {
+      "id": 187,
+      "time": "2026-11-06T11:44:00+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-0a4c195d",
+      "operation": "review"
+    },
+    {
+      "id": 188,
+      "time": "2026-11-06T11:44:00+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-439534a6",
+      "operation": "review"
+    },
+    {
+      "id": 189,
+      "time": "2026-11-06T11:44:00+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-7ad10110",
+      "operation": "review"
+    },
+    {
+      "id": 190,
+      "time": "2026-11-06T11:44:00+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-ba02b4f8",
+      "operation": "review"
+    },
+    {
+      "id": 191,
+      "time": "2026-11-06T11:44:01+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-527b420e",
+      "operation": "review"
+    },
+    {
+      "id": 192,
+      "time": "2026-11-06T11:44:01+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-86bc946e",
+      "operation": "review"
+    },
+    {
+      "id": 193,
+      "time": "2026-11-06T11:44:21+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-fd4fd5aa",
+      "operation": "claim"
+    },
+    {
+      "id": 194,
+      "time": "2026-11-06T11:44:38+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-690d7ae8",
+      "operation": "create"
+    },
+    {
+      "id": 195,
+      "time": "2026-11-06T11:44:39+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-fd4fd5aa",
+      "operation": "finish"
+    },
+    {
+      "id": 196,
+      "time": "2026-11-06T11:44:52+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-690d7ae8",
+      "operation": "claim"
+    },
+    {
+      "id": 197,
+      "time": "2026-11-06T11:45:57+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-1d71b576",
+      "operation": "create"
+    },
+    {
+      "id": 198,
+      "time": "2026-11-06T11:45:59+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-690d7ae8",
+      "operation": "finish"
+    },
+    {
+      "id": 199,
+      "time": "2026-11-06T11:46:51+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-1d71b576",
+      "operation": "claim"
+    },
+    {
+      "id": 200,
+      "time": "2026-11-06T11:47:11+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-1d71b576",
+      "operation": "finish"
+    },
+    {
+      "id": 201,
+      "time": "2026-11-06T11:47:11+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-7357943c",
+      "operation": "create"
+    },
+    {
+      "id": 202,
+      "time": "2026-11-06T11:47:17+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-4c596677",
+      "operation": "create"
+    },
+    {
+      "id": 203,
+      "time": "2026-11-06T11:47:38+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-7357943c",
+      "operation": "claim"
+    },
+    {
+      "id": 204,
+      "time": "2026-11-06T11:47:39+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-4c596677",
+      "operation": "claim"
+    },
+    {
+      "id": 205,
+      "time": "2026-11-06T11:48:18+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-ad0c9166",
+      "operation": "create"
+    },
+    {
+      "id": 206,
+      "time": "2026-11-06T11:49:04+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-ad0c9166",
+      "operation": "claim"
+    },
+    {
+      "id": 207,
+      "time": "2026-11-06T11:49:35+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-ad0c9166",
+      "operation": "finish"
+    },
+    {
+      "id": 208,
+      "time": "2026-11-06T11:50:05+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-954c120b",
+      "operation": "create"
+    },
+    {
+      "id": 209,
+      "time": "2026-11-06T11:52:43+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-954c120b",
+      "operation": "claim"
+    },
+    {
+      "id": 210,
+      "time": "2026-11-06T11:54:18+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-954c120b",
+      "operation": "finish"
+    },
+    {
+      "id": 211,
+      "time": "2026-11-06T11:55:02+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-3e086559",
+      "operation": "create"
+    },
+    {
+      "id": 212,
+      "time": "2026-11-06T11:55:24+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-3e086559",
+      "operation": "claim"
+    },
+    {
+      "id": 213,
+      "time": "2026-11-06T11:55:46+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-3e086559",
+      "operation": "finish"
+    },
+    {
+      "id": 214,
+      "time": "2026-11-06T11:56:26+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-4c596677",
+      "operation": "finish"
+    },
+    {
+      "id": 215,
+      "time": "2026-11-06T12:02:01+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-0f5b1339",
+      "operation": "create"
+    },
+    {
+      "id": 216,
+      "time": "2026-11-06T12:02:30+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-0f5b1339",
+      "operation": "claim"
+    },
+    {
+      "id": 217,
+      "time": "2026-11-06T12:02:40+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-00c4f81a",
+      "operation": "create"
+    },
+    {
+      "id": 218,
+      "time": "2026-11-06T12:02:56+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-0f5b1339",
+      "operation": "finish"
+    },
+    {
+      "id": 219,
+      "time": "2026-11-06T12:03:19+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-00c4f81a",
+      "operation": "claim"
+    },
+    {
+      "id": 220,
+      "time": "2026-11-06T12:07:59+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-00c4f81a",
+      "operation": "finish"
+    },
+    {
+      "id": 221,
+      "time": "2026-11-06T12:09:28+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-34176827",
+      "operation": "create"
+    },
+    {
+      "id": 222,
+      "time": "2026-11-06T12:09:49+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-34176827",
+      "operation": "claim"
+    },
+    {
+      "id": 223,
+      "time": "2026-11-06T12:09:49+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-34176827",
+      "operation": "finish"
+    },
+    {
+      "id": 224,
+      "time": "2026-11-06T12:14:21+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-4c596677",
+      "operation": "review"
+    },
+    {
+      "id": 225,
+      "time": "2026-11-06T12:14:22+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-690d7ae8",
+      "operation": "review"
+    },
+    {
+      "id": 226,
+      "time": "2026-11-06T12:14:22+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-0f5b1339",
+      "operation": "review"
+    },
+    {
+      "id": 227,
+      "time": "2026-11-06T12:14:22+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-00c4f81a",
+      "operation": "review"
+    },
+    {
+      "id": 228,
+      "time": "2026-11-06T12:15:01+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-7357943c",
+      "operation": "finish"
+    },
+    {
+      "id": 229,
+      "time": "2026-11-06T12:15:02+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-7357943c",
+      "operation": "review"
+    },
+    {
+      "id": 230,
+      "time": "2026-11-06T12:17:46+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-7ae53131",
+      "operation": "create"
+    },
+    {
+      "id": 231,
+      "time": "2026-11-06T12:17:48+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-045eb71d",
+      "operation": "create"
+    },
+    {
+      "id": 232,
+      "time": "2026-11-06T12:18:02+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-7ae53131",
+      "operation": "claim"
+    },
+    {
+      "id": 233,
+      "time": "2026-11-06T12:18:03+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-045eb71d",
+      "operation": "claim"
+    },
+    {
+      "id": 234,
+      "time": "2026-11-06T12:18:07+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-fadcb089",
+      "operation": "create"
+    },
+    {
+      "id": 235,
+      "time": "2026-11-06T12:19:08+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-045eb71d",
+      "operation": "finish"
+    },
+    {
+      "id": 236,
+      "time": "2026-11-06T12:19:08+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-fb0de95d",
+      "operation": "create"
+    },
+    {
+      "id": 237,
+      "time": "2026-11-06T12:19:21+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-fb0de95d",
+      "operation": "claim"
+    },
+    {
+      "id": 238,
+      "time": "2026-11-06T12:19:35+00:00",
+      "session": "01a1b056-4e03-71b3-8150-47c7404c114f",
+      "task": "TASK-20261106-fb0de95d",
+      "operation": "finish"
+    },
+    {
+      "id": 239,
+      "time": "2026-11-06T12:19:45+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-fadcb089",
+      "operation": "claim"
+    },
+    {
+      "id": 240,
+      "time": "2026-11-06T12:20:19+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-7ae53131",
+      "operation": "finish"
+    },
+    {
+      "id": 241,
+      "time": "2026-11-06T12:20:54+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-e079ed79",
+      "operation": "create"
+    },
+    {
+      "id": 242,
+      "time": "2026-11-06T12:21:01+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-876a1172",
+      "operation": "create"
+    },
+    {
+      "id": 243,
+      "time": "2026-11-06T12:21:06+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-e079ed79",
+      "operation": "claim"
+    },
+    {
+      "id": 244,
+      "time": "2026-11-06T12:21:12+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-876a1172",
+      "operation": "claim"
+    },
+    {
+      "id": 245,
+      "time": "2026-11-06T12:21:42+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-427a71ea",
+      "operation": "create"
+    },
+    {
+      "id": 246,
+      "time": "2026-11-06T12:21:42+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-427a71ea",
+      "operation": "claim"
+    },
+    {
+      "id": 247,
+      "time": "2026-11-06T12:24:59+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-427a71ea",
+      "operation": "finish"
+    },
+    {
+      "id": 248,
+      "time": "2026-11-06T12:25:40+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-e079ed79",
+      "operation": "finish"
+    },
+    {
+      "id": 249,
+      "time": "2026-11-06T12:25:51+00:00",
+      "session": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+      "task": "TASK-20261106-876a1172",
+      "operation": "finish"
+    },
+    {
+      "id": 250,
+      "time": "2026-11-06T12:30:05+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-f9abc060",
+      "operation": "create"
+    },
+    {
+      "id": 251,
+      "time": "2026-11-06T12:30:22+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-f9abc060",
+      "operation": "claim"
+    },
+    {
+      "id": 252,
+      "time": "2026-11-06T12:32:20+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-045eb71d",
+      "operation": "review"
+    },
+    {
+      "id": 253,
+      "time": "2026-11-06T12:32:21+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-7ae53131",
+      "operation": "review"
+    },
+    {
+      "id": 254,
+      "time": "2026-11-06T12:32:23+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261106-f9abc060",
+      "operation": "finish"
+    },
+    {
+      "id": 255,
+      "time": "2026-11-06T12:33:55+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-e079ed79",
+      "operation": "review"
+    },
+    {
+      "id": 256,
+      "time": "2026-11-06T12:33:55+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-876a1172",
+      "operation": "review"
+    },
+    {
+      "id": 257,
+      "time": "2026-11-06T12:35:51+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-f9abc060",
+      "operation": "review"
+    },
+    {
+      "id": 258,
+      "time": "2026-11-06T12:35:51+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-427a71ea",
+      "operation": "review"
+    },
+    {
+      "id": 259,
+      "time": "2026-11-06T12:36:10+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-fadcb089",
+      "operation": "finish"
+    },
+    {
+      "id": 260,
+      "time": "2026-11-06T12:36:11+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-fadcb089",
+      "operation": "review"
+    },
+    {
+      "id": 261,
+      "time": "2026-11-06T12:39:53+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-0cb540bf",
+      "operation": "create"
+    },
+    {
+      "id": 262,
+      "time": "2026-11-06T12:40:14+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-8a57e5b8",
+      "operation": "create"
+    },
+    {
+      "id": 263,
+      "time": "2026-11-06T12:40:21+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-0cb540bf",
+      "operation": "claim"
+    },
+    {
+      "id": 264,
+      "time": "2026-11-06T12:40:24+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-8a57e5b8",
+      "operation": "claim"
+    },
+    {
+      "id": 265,
+      "time": "2026-11-06T12:42:37+00:00",
+      "session": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
+      "task": "TASK-20261106-8a57e5b8",
+      "operation": "finish"
+    },
+    {
+      "id": 266,
+      "time": "2026-11-06T12:44:24+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-8a57e5b8",
+      "operation": "review"
+    },
+    {
+      "id": 267,
+      "time": "2026-11-06T12:44:45+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-0cb540bf",
+      "operation": "finish"
+    },
+    {
+      "id": 268,
+      "time": "2026-11-06T12:44:46+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-0cb540bf",
+      "operation": "review"
+    },
+    {
+      "id": 269,
+      "time": "2026-11-06T14:31:40+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-0300b503",
+      "operation": "claim"
+    },
+    {
+      "id": 270,
+      "time": "2026-11-06T14:31:42+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-0300b503",
+      "operation": "finish"
+    },
+    {
+      "id": 271,
+      "time": "2026-11-06T14:33:21+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-a1b812d3",
+      "operation": "create"
+    },
+    {
+      "id": 272,
+      "time": "2026-11-06T14:33:35+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-a1b812d3",
+      "operation": "claim"
+    },
+    {
+      "id": 273,
+      "time": "2026-11-06T14:34:48+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261106-a1b812d3",
+      "operation": "finish"
+    },
+    {
+      "id": 274,
+      "time": "2026-11-06T14:44:00+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-4dcd7522",
+      "operation": "create"
+    },
+    {
+      "id": 275,
+      "time": "2026-11-06T14:44:39+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-4dcd7522",
+      "operation": "claim"
+    },
+    {
+      "id": 276,
+      "time": "2026-11-06T14:50:18+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-4dcd7522",
+      "operation": "finish"
+    },
+    {
+      "id": 277,
+      "time": "2026-11-06T14:50:18+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-4dcd7522",
+      "operation": "review"
+    },
+    {
+      "id": 278,
+      "time": "2026-11-06T15:07:07+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-882e82df",
+      "operation": "create"
+    },
+    {
+      "id": 279,
+      "time": "2026-11-06T15:09:44+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-882e82df",
+      "operation": "claim"
+    }
+  ]
+}

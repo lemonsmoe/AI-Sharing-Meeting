@@ -1,0 +1,39 @@
+{
+  "axis_bounds": [
+    [
+      "orientation",
+      {
+        "val": "minMax"
+      }
+    ],
+    [
+      "orientation",
+      {
+        "val": "minMax"
+      }
+    ],
+    [
+      "max",
+      {
+        "val": "10"
+      }
+    ],
+    [
+      "min",
+      {
+        "val": "0"
+      }
+    ]
+  ],
+  "chart_values": [
+    "8",
+    "6",
+    "2",
+    "4"
+  ],
+  "fonts": [
+    "Microsoft YaHei"
+  ],
+  "visual_review": "4页逐页查看，无明显截断，图表从0开始，8/2和6/4正确",
+  "boundary": "新生成草稿，尚未经过finalizer与原生编辑；历史最终样例不变"
+}

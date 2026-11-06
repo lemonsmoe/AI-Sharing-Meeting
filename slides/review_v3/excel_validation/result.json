@@ -1,0 +1,16 @@
+{
+  "text_persisted": true,
+  "version": "16.0",
+  "original_hash": "1579C793852009DFBC90DC24C5AAC0F7430DBBC15E06F8BC6AA526923790046A",
+  "dates_persisted": true,
+  "scope": "原生文本显示与副本保存重开；不等于WPS或现场设备检查",
+  "original_unchanged": true,
+  "date_values": [
+    46335.75,
+    46338.0
+  ],
+  "deadline_display": "2026-11-09 18:00",
+  "demo_date_display": "2026-11-12",
+  "application": "Microsoft Excel",
+  "missing_fields_preserved": true
+}

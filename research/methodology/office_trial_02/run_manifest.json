@@ -1,0 +1,25 @@
+{
+  "task": "TASK-20261106-876a1172",
+  "thread": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+  "task_read_started_utc": "2026-11-06T12:21:12.619415+00:00",
+  "delivery_ready_utc": "2026-11-06T12:25:33.281967+00:00",
+  "elapsed_seconds": 260.662552,
+  "input_unchanged": true,
+  "input_sha256": {
+    "research\\integration\\office_trial\\control\\protocol.md": "b58f9bbd5719931b21a90b29bc5cdd1e64148a3727e794e96540a4f291aa45c1",
+    "research\\integration\\office_trial\\control\\task_prompt.md": "445688d6148c792552b466429e5c3b088acb21287941c83ec5bd74bc9b7c9bc5",
+    "research\\integration\\office_trial\\control\\input\\meeting_notes.txt": "aac11d21fd32f6ac31e89a3c07d22573b4efa453acfe04eb97077745e63f8090",
+    "research\\integration\\office_trial\\control\\input\\follow_up.txt": "dc293165348afbc54e210f010f4d816a07883f28764415a1f8b57949b6ae1710"
+  },
+  "output_sha256": {
+    "first_output\\meeting_brief.md": "71e564db54e8d6723f44ac0443987bf1f5709ceb63bc443f3c2f8569ce5d8c72",
+    "first_output\\meeting_follow_up.xlsx": "a19e2165e377370813904ee4dddbab48754a1ab3b008c010e3fe7b36b9c7ee3b",
+    "final_output\\meeting_brief.md": "71e564db54e8d6723f44ac0443987bf1f5709ceb63bc443f3c2f8569ce5d8c72",
+    "final_output\\meeting_follow_up.xlsx": "a19e2165e377370813904ee4dddbab48754a1ab3b008c010e3fe7b36b9c7ee3b"
+  },
+  "content_revision_count": 0,
+  "external_paid_api_calls": 0,
+  "model_version": "未知",
+  "model_session_cost": "未知",
+  "read_other_executor_or_evaluation": false
+}

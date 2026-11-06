@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-11-06T15:21:51+00:00",
+  "source": "本机用户自定义 Skill 快照；未包含插件运行库",
+  "files": {
+    "ai-workflow-research/references/evidence_review.md": "425d904c3741c6dfb17263aed591d9425f3fe58e792fc58b47054bc8bb9f0bec",
+    "ai-workflow-research/references/research_gate.md": "2147f1eacb77c67910cadf67e13f9072bee2033d79c9db77df363e3244b13256",
+    "ai-workflow-research/SKILL.md": "72b4f13d533e31a278643f0c3afbf111442fcf7160620f9dd33671823cecce7e",
+    "context-management/agents/openai.yaml": "5b3e4f01909783d67754fb29c0b961bfc8a6cef77eaf6bc58510bbffb105e278",
+    "context-management/assets/runtime/context_hook.py": "4335cb3c8dcc2e430a9a47e1d3c4195ab509022efb814e63d5bee0260dbf9edb",
+    "context-management/assets/runtime/discussion_files.py": "161203414d3ac432403bf765f1c051be70f3267f753ba62f6b9445c179679b41",
+    "context-management/assets/runtime/discussion_hook.py": "aede5dc803526950d3bf6c1d0112f8bd64edfc42ae4c66a882eb0432ff195b11",
+    "context-management/assets/runtime/discussion_store.py": "716b027cc7a3b0a68e33a1f85972c3fba55adaec00e8a5fd7deef5bb1deaf55b",
+    "context-management/assets/runtime/task_store.py": "3dda988960b3534b78c3d146914fc3b8936459627899df242128f1398ef0b83d",
+    "context-management/references/discussion_memory.md": "6535caa6f7d7a612524e70fc792f51d6aa4c01860ddbd1bb306da792115da1f4",
+    "context-management/references/runbook_template.md": "20cf730e1e3a83588d2164bd3a9cb682dc6e655857b20bdb75de917a8afe396f",
+    "context-management/references/update_templates.md": "1108c538be8822dbfe7c9acd520c840ff2320a7e8b7850d30dc513496cb20349",
+    "context-management/references/usage.md": "850345a6bfb5208cc3d3ecde7eca6280c2940192911d95e44727a242e3b6b34e",
+    "context-management/scripts/context_setup.py": "806db3c3da7ae72821d29ca6316b2cae33c4dd31d8b46d796c1037adb12953cb",
+    "context-management/scripts/workflow_doctor.py": "12e05ae4ae5b463a5157752284908cff78ee3c03a5f29688b4756222c9df6ac8",
+    "context-management/scripts/workflow_installer.py": "d7b5d6422c6279540360e29da92efe209d27fc4e24429f38e4efc20c42ae7e72",
+    "context-management/scripts/workflow_templates.py": "e3964803cc4fe72d02331371fbc976d79b4882e2f3395fb9227a7002a7335f13",
+    "context-management/SKILL.md": "bcafe8079e7962a3775d3a9357dea0561960d15ad0449755c24dc31ece1c7937",
+    "context-management/tests/test_discussion.py": "0ba0f30f0e56199b81cc74cf4cc13270ecf2642401cc553f2b00e30043bf28e9",
+    "context-management/tests/test_runtime.py": "19202ba75b2eb577bdb68ac6be9012121fa476c82a3446791908cc99cba7de27",
+    "context-management/tests/test_setup.py": "fc21ddf3f1f2dd9ecf473509f019b9ec4527ea482e70a2cb015fd4d8d089e1c2",
+    "git-commit/agents/openai.yaml": "c5af027554c2efa4c79288890a231923841e06caee50a8b2184129cd8c073efd",
+    "git-commit/SKILL.md": "4a2957889cfa0bd085c5f3f5603abc46f0038d3ca30b57359672b5f7f73de803"
+  }
+}

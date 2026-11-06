@@ -1,0 +1,14 @@
+{
+  "started_at": "2026-11-06T10:19:09.074695+00:00",
+  "ended_at": "2026-11-06T10:19:09.074695+00:00",
+  "duration_seconds": 4.1000021155923605e-06,
+  "scope": "仅独立核算模拟题算术，不是模型复测或自然语言正确性验证",
+  "checks": {
+    "quote_a": true,
+    "quote_b": true,
+    "quote_c": true,
+    "deadline_a": true,
+    "deadline_c_rejected": true,
+    "policy_excess": true
+  }
+}

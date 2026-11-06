@@ -1,0 +1,69 @@
+{
+  "started_utc": "2026-11-06T12:24:30.1426799+00:00",
+  "application": "Microsoft Excel",
+  "checks": [
+    {
+      "display": "2026-11-09 12:00",
+      "value": 46335.5,
+      "cell": "D6",
+      "type": "Double",
+      "sheet": "行动清单"
+    },
+    {
+      "display": "2026-11-10 17:00",
+      "value": 46336.708333333336,
+      "cell": "D7",
+      "type": "Double",
+      "sheet": "行动清单"
+    },
+    {
+      "display": "2026-11-11 12:00",
+      "value": 46337.5,
+      "cell": "D8",
+      "type": "Double",
+      "sheet": "行动清单"
+    },
+    {
+      "value": null,
+      "cell": "B6",
+      "is_empty": true,
+      "sheet": "决定与未决事项"
+    },
+    {
+      "value": null,
+      "cell": "B9",
+      "is_empty": true,
+      "sheet": "决定与未决事项"
+    },
+    {
+      "value": null,
+      "cell": "D9",
+      "is_empty": true,
+      "sheet": "决定与未决事项"
+    },
+    {
+      "value": null,
+      "cell": "D10",
+      "is_empty": true,
+      "sheet": "决定与未决事项"
+    },
+    {
+      "value": null,
+      "cell": "D11",
+      "is_empty": true,
+      "sheet": "决定与未决事项"
+    },
+    {
+      "value": null,
+      "cell": "D12",
+      "is_empty": true,
+      "sheet": "决定与未决事项"
+    }
+  ],
+  "error": null,
+  "version": "16.0",
+  "first_opened": true,
+  "edited_value_reopened": "回存验证临时值",
+  "roundtrip_copy_restored": true,
+  "finished_utc": "2026-11-06T12:24:33.7201348+00:00"
+}

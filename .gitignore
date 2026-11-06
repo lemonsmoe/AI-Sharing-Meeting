@@ -1,0 +1,20 @@
+.context_runtime/
+__pycache__/
+*.pyc
+
+# 本机设置、依赖、凭据和临时目录不迁移。
+.codex/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+node_modules/
+.venv/
+venv/
+videos/narrated_review/runtime/
+.chart-data-*/
+~$*
+*.tmp
+.DS_Store
+Thumbs.db

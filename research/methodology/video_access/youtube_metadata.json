@@ -1,0 +1,59 @@
+[
+  {
+    "video_id": "8SAqeJHsmRM",
+    "http_status": 200,
+    "metadata": {
+      "title": "AI for data engineers with Simon Willison | Talking Postgres Ep30",
+      "author_name": "Citus Data",
+      "author_url": "https://www.youtube.com/@Citusdata",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/8SAqeJHsmRM/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/8SAqeJHsmRM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"AI for data engineers with Simon Willison | Talking Postgres Ep30\"></iframe>"
+    }
+  },
+  {
+    "video_id": "0vZ_UVLhSQQ",
+    "http_status": 200,
+    "metadata": {
+      "title": "Getting started with Claude.ai",
+      "author_name": "Anthropic",
+      "author_url": "https://www.youtube.com/@anthropic-ai",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/0vZ_UVLhSQQ/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/0vZ_UVLhSQQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Getting started with Claude.ai\"></iframe>"
+    }
+  },
+  {
+    "video_id": "ANDl5Tkru7g",
+    "http_status": 200,
+    "metadata": {
+      "title": "What does AI actually know about you?",
+      "author_name": "Claude",
+      "author_url": "https://www.youtube.com/@claude",
+      "type": "video",
+      "height": 113,
+      "width": 200,
+      "version": "1.0",
+      "provider_name": "YouTube",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_height": 360,
+      "thumbnail_width": 480,
+      "thumbnail_url": "https://i.ytimg.com/vi/ANDl5Tkru7g/hqdefault.jpg",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/ANDl5Tkru7g?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"What does AI actually know about you?\"></iframe>"
+    }
+  }
+]

@@ -1,0 +1,368 @@
+[
+  {
+    "text": "AI用法演变：从给例子，到交付可检查的任务",
+    "width": 1040.0,
+    "limit": 1760,
+    "fits": true
+  },
+  {
+    "text": "代表性公开节点  ·  按时间阅读  ·  能力逐步组合，旧用法继续有效",
+    "width": 780.0,
+    "limit": 1760,
+    "fits": true
+  },
+  {
+    "text": "01",
+    "width": 26.0,
+    "limit": 50,
+    "fits": true
+  },
+  {
+    "text": "2020.05.28",
+    "width": 132.0,
+    "limit": 220,
+    "fits": true
+  },
+  {
+    "text": "论文首版",
+    "width": 84.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "GPT-3：给例子",
+    "width": 215.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "给任务说明和少量示例",
+    "width": 250.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "H1",
+    "width": 23.0,
+    "limit": 45,
+    "fits": true
+  },
+  {
+    "text": "→",
+    "width": 25.0,
+    "limit": 30,
+    "fits": true
+  },
+  {
+    "text": "02",
+    "width": 26.0,
+    "limit": 50,
+    "fits": true
+  },
+  {
+    "text": "2022.11.30",
+    "width": 132.0,
+    "limit": 220,
+    "fits": true
+  },
+  {
+    "text": "产品预览",
+    "width": 84.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "ChatGPT：来回聊",
+    "width": 253.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "追问、修改、补充要求",
+    "width": 250.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "H2",
+    "width": 23.0,
+    "limit": 45,
+    "fits": true
+  },
+  {
+    "text": "→",
+    "width": 25.0,
+    "limit": 30,
+    "fits": true
+  },
+  {
+    "text": "03",
+    "width": 26.0,
+    "limit": 50,
+    "fits": true
+  },
+  {
+    "text": "2023.06.13",
+    "width": 132.0,
+    "limit": 220,
+    "fits": true
+  },
+  {
+    "text": "API发布",
+    "width": 76.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "函数调用：接工具",
+    "width": 248.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "让应用查数据、执行操作",
+    "width": 275.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "H3",
+    "width": 23.0,
+    "limit": 45,
+    "fits": true
+  },
+  {
+    "text": "→",
+    "width": 25.0,
+    "limit": 30,
+    "fits": true
+  },
+  {
+    "text": "04",
+    "width": 26.0,
+    "limit": 50,
+    "fits": true
+  },
+  {
+    "text": "2024.11.25",
+    "width": 132.0,
+    "limit": 220,
+    "fits": true
+  },
+  {
+    "text": "协议发布",
+    "width": 84.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "MCP：统一连接",
+    "width": 225.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "用标准接口连接外部系统",
+    "width": 275.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "H4",
+    "width": 23.0,
+    "limit": 45,
+    "fits": true
+  },
+  {
+    "text": "05",
+    "width": 26.0,
+    "limit": 50,
+    "fits": true
+  },
+  {
+    "text": "2025.05.16",
+    "width": 132.0,
+    "limit": 220,
+    "fits": true
+  },
+  {
+    "text": "产品预览",
+    "width": 84.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "Codex：委派任务",
+    "width": 250.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "在环境里改文件、跑检查",
+    "width": 275.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "H5",
+    "width": 23.0,
+    "limit": 45,
+    "fits": true
+  },
+  {
+    "text": "→",
+    "width": 25.0,
+    "limit": 30,
+    "fits": true
+  },
+  {
+    "text": "06",
+    "width": 26.0,
+    "limit": 50,
+    "fits": true
+  },
+  {
+    "text": "2025.10.16",
+    "width": 132.0,
+    "limit": 220,
+    "fits": true
+  },
+  {
+    "text": "官方介绍",
+    "width": 84.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "Skills：复用做法",
+    "width": 228.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "按需加载说明、脚本、资源",
+    "width": 300.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "H6",
+    "width": 23.0,
+    "limit": 45,
+    "fits": true
+  },
+  {
+    "text": "→",
+    "width": 25.0,
+    "limit": 30,
+    "fits": true
+  },
+  {
+    "text": "07",
+    "width": 26.0,
+    "limit": 50,
+    "fits": true
+  },
+  {
+    "text": "2025.11.26",
+    "width": 132.0,
+    "limit": 220,
+    "fits": true
+  },
+  {
+    "text": "工程文章",
+    "width": 84.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "Harness：接续工作",
+    "width": 273.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "留进度，分步做，跨会话接续",
+    "width": 325.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "H7",
+    "width": 23.0,
+    "limit": 45,
+    "fits": true
+  },
+  {
+    "text": "→",
+    "width": 25.0,
+    "limit": 30,
+    "fits": true
+  },
+  {
+    "text": "08",
+    "width": 26.0,
+    "limit": 50,
+    "fits": true
+  },
+  {
+    "text": "2026.04.08",
+    "width": 132.0,
+    "limit": 220,
+    "fits": true
+  },
+  {
+    "text": "工程文章",
+    "width": 84.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "托管运行：分离组件",
+    "width": 279.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "会话、调度与执行环境分开",
+    "width": 300.0,
+    "limit": 362,
+    "fits": true
+  },
+  {
+    "text": "H8",
+    "width": 23.0,
+    "limit": 45,
+    "fits": true
+  },
+  {
+    "text": "时间续接 ↓  05—08按下行从左向右阅读；箭头只表示先后",
+    "width": 518.0,
+    "limit": 1760,
+    "fits": true
+  },
+  {
+    "text": "今天：按任务组合这些能力",
+    "width": 348.0,
+    "limit": 1760,
+    "fits": true
+  },
+  {
+    "text": "提示词讲目标  ·  Skills复用做法  ·  工具/API或MCP连接系统",
+    "width": 739.0,
+    "limit": 1760,
+    "fits": true
+  },
+  {
+    "text": "Agent循环执行  ·  运行框架保存进度与支持验收",
+    "width": 531.0,
+    "limit": 1760,
+    "fits": true
+  },
+  {
+    "text": "日期不等于技术诞生或全民普及。代表节点截至2026.04；2026.11.06核验。来源H1—H8见讲者备注。",
+    "width": 1007.0,
+    "limit": 1760,
+    "fits": true
+  }
+]

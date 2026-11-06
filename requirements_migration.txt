@@ -1,0 +1,2 @@
+# 项目上下文迁移仅需 Python 3.11+ 标准库，无 pip 依赖。
+# 媒体生产的旧依赖见 scripts/migration/requirements_video.txt。

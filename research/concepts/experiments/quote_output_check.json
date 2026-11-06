@@ -1,0 +1,10 @@
+{
+  "checked_at": "2026-11-06T10:24:13.111573+00:00",
+  "input_report": "quote_run.json",
+  "checks": {
+    "A": true,
+    "B": true,
+    "C": true
+  },
+  "scope": "读取实际执行输出，检查三份模拟报价金额与交期分类；不是模型独立复测"
+}

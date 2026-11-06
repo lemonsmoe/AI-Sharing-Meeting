@@ -1,0 +1,10 @@
+# 历史研究和实验按原始字节留存，避免换行转换使既有哈希失效。
+* -text
+*.pptx binary
+*.xlsx binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.mp4 binary
+*.wav binary
+*.zip binary

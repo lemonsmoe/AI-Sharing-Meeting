@@ -1,0 +1,123 @@
+{
+  "first_output": {
+    "zip_error": null,
+    "sheets": [
+      {
+        "path": "xl/worksheets/sheet1.xml",
+        "formula_count": 0,
+        "date_column": [
+          {
+            "cell": "C6",
+            "type": "n",
+            "value": "46335.5"
+          },
+          {
+            "cell": "C7",
+            "type": "n",
+            "value": "46336.708333333336"
+          },
+          {
+            "cell": "C8",
+            "type": "n",
+            "value": "46337.5"
+          }
+        ]
+      },
+      {
+        "path": "xl/worksheets/sheet2.xml",
+        "formula_count": 0,
+        "date_column": [
+          {
+            "cell": "C6",
+            "type": "n",
+            "value": "46337.5"
+          },
+          {
+            "cell": "C7",
+            "type": "n",
+            "value": "46338.666666666664"
+          },
+          {
+            "cell": "C8",
+            "type": "n",
+            "value": "46339.625"
+          },
+          {
+            "cell": "B9",
+            "type": null,
+            "value": ""
+          },
+          {
+            "cell": "C9",
+            "type": null,
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "final_output": {
+    "zip_error": null,
+    "sheets": [
+      {
+        "path": "xl/worksheets/sheet1.xml",
+        "formula_count": 0,
+        "date_column": [
+          {
+            "cell": "C6",
+            "type": "n",
+            "value": "46335.5"
+          },
+          {
+            "cell": "C7",
+            "type": "n",
+            "value": "46336.708333333336"
+          },
+          {
+            "cell": "C8",
+            "type": "n",
+            "value": "46337.5"
+          }
+        ]
+      },
+      {
+        "path": "xl/worksheets/sheet2.xml",
+        "formula_count": 0,
+        "date_column": [
+          {
+            "cell": "C6",
+            "type": "n",
+            "value": "46337.5"
+          },
+          {
+            "cell": "C7",
+            "type": "n",
+            "value": "46338.666666666664"
+          },
+          {
+            "cell": "C8",
+            "type": "n",
+            "value": "46339.625"
+          },
+          {
+            "cell": "B9",
+            "type": null,
+            "value": ""
+          },
+          {
+            "cell": "C9",
+            "type": null,
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "inputs_unchanged": true,
+  "output_sha256": {
+    "research\\office\\office_trial_01\\first_output\\meeting_brief.md": "7d49b8e058a2251906fba4581e669a538562a64362fb0c284b474938de270b02",
+    "research\\office\\office_trial_01\\first_output\\meeting_follow_up.xlsx": "9e2e97d4106fe5e43d9656ef2ba633ab60aacce275ad4124ca5b26f5665b69c1",
+    "research\\office\\office_trial_01\\final_output\\meeting_brief.md": "7d49b8e058a2251906fba4581e669a538562a64362fb0c284b474938de270b02",
+    "research\\office\\office_trial_01\\final_output\\meeting_follow_up.xlsx": "9d6ed61a6411198d380f9be00ab8a1f3148fc72ebec49f92d8e3eeb3fcf26397"
+  }
+}

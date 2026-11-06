@@ -1,0 +1,12 @@
+{
+  "started_at": "2026-11-06T10:25:08.647214+00:00",
+  "ended_at": "2026-11-06T10:25:08.651214+00:00",
+  "seconds": 0.003581899989512749,
+  "checks": {
+    "meeting_no_shipping_commitment": true,
+    "meeting_unknown_preserved": true,
+    "policy_excess_30": true,
+    "policy_simulation": true
+  },
+  "scope": "当前模型抽取并保存结构化输入，Python真实渲染及局部验证；不是自动NLP抽取器，不是独立模型复测"
+}

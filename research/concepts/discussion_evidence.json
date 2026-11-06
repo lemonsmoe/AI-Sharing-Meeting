@@ -1,0 +1,1 @@
+{"topic":"concepts","title":"独立来源对照补证","abstract":"多Agent依据任务依赖选择，来源覆盖改善但门槛仍有缺口","source_message":"2026-11-06本轮原作者正文研究与Agent建议","items":[{"kind":"proposal","text":"科普章节以任务可拆分程度解释多Agent适用性，结合Anthropic与Cognition对照；不把多Agent当默认升级。详见research/concepts/counterevidence_review.md。"},{"kind":"observation","text":"新增5个原作者来源，台账19条、排除两篇摘要后17条正文定位来源；视频完整内容0，独立实践和渠道仍不足，未达最终研究门槛。"}]}

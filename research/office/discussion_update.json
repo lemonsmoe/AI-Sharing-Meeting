@@ -1,0 +1,1 @@
+{"topic":"office","title":"办公补证进展与边界","abstract":"菜单可用，工具推荐仍缺独立实践和执行验证","source_message":"本聊天2026-11-06第二轮研究，来源见research/office/tool_verification.md与practice_review.md","items":[{"kind":"observation","text":"去重正文来源11，已核官方WorkBuddy个人订阅和权限、Notion浏览器采集边界；视频仅候选，产品执行仍0。厂商测试仓库存在但脚本读取失败，未复算。"},{"kind":"proposal","text":"主对话先采用20场景和事实编号会议示范；厂商排名、效率百分比、通用准确率暂不进入成稿，工具作为条件候选。"}]}

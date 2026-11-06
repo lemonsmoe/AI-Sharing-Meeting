@@ -1,0 +1,16 @@
+{
+  "project_id": "baf972c8f880",
+  "project_name": "企业AI效率分享会",
+  "context_root": "D:/code/Project/文职工作/26年11月中旬分享会",
+  "manager_thread_id": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+  "manager_paths": [
+    "AGENTS.md",
+    "docs/context/project.json",
+    "docs/context/workflow_install.json",
+    "docs/context/00_current/index.md",
+    "docs/context/01_decisions",
+    "docs/runbooks"
+  ],
+  "workflow_version": "0.3.0",
+  "hook_acceptance": "pending_user_trust_and_live_test"
+}

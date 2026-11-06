@@ -1,0 +1,53 @@
+{
+  "thread_id": "01a1b055-a375-70b3-8d32-6b3241c40d52",
+  "order": [
+    "e1_a",
+    "e2_b",
+    "e3_a",
+    "e1_b",
+    "e2_a",
+    "e3_b"
+  ],
+  "inputs_sha256": {
+    "instructions.md": "581b21a0ca2c3b31ed6419bb46fe251806293e985d3c1e9cf3ad8b89540c5b38",
+    "input_v2.md": "81cda3359d68bcb16f2781f63f2b302507e3f64af388cc9ae4a9c8b92e524e19"
+  },
+  "outputs": [
+    {
+      "id": "e1_a",
+      "answer_phase_start_utc": "2026-11-06T10:59:41.3955861Z",
+      "saved_utc": "2026-11-06T11:00:57.7341347Z",
+      "sha256": "24ec278353cc5a057bf8fcead28d22f7d8beb0311e77e43fc60ded95028c84fb"
+    },
+    {
+      "id": "e2_b",
+      "answer_phase_start_utc": "2026-11-06T11:00:57.7413158Z",
+      "saved_utc": "2026-11-06T11:01:15.0317898Z",
+      "sha256": "6c445139a5829b9bdfcdb919bb97eaddfb9e4b0e5bd54748bfd028d74feadf89"
+    },
+    {
+      "id": "e3_a",
+      "answer_phase_start_utc": "2026-11-06T11:01:15.0399563Z",
+      "saved_utc": "2026-11-06T11:01:30.1807705Z",
+      "sha256": "d3502bfb49caf7c8af8a7664d3c50973f3c484fee85d57a7778c63b6de2cfdb7"
+    },
+    {
+      "id": "e1_b",
+      "answer_phase_start_utc": "2026-11-06T11:01:30.1875239Z",
+      "saved_utc": "2026-11-06T11:02:00.9999122Z",
+      "sha256": "f8c1e88457e361ee2dcf88ec11d8f388f034778c1c818bb83e63574269e84e92"
+    },
+    {
+      "id": "e2_a",
+      "answer_phase_start_utc": "2026-11-06T11:02:01.0068012Z",
+      "saved_utc": "2026-11-06T11:02:15.0955430Z",
+      "sha256": "3d43b8557bf89ffa8647175e37e691e17440562f927090d8e55e2a0488da6574"
+    },
+    {
+      "id": "e3_b",
+      "answer_phase_start_utc": "2026-11-06T11:02:15.1215308Z",
+      "saved_utc": "2026-11-06T11:03:28.8344264Z",
+      "sha256": "b9cb1eb56836b47e8644e7356d6705331186e2f2a89ac257544f871745534343"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "checks": [
+    {
+      "path": "docs/content/concepts_trial_01/e1_a_raw.md",
+      "matches": true
+    },
+    {
+      "path": "docs/content/concepts_trial_01/e1_b_raw.md",
+      "matches": true
+    },
+    {
+      "path": "docs/content/concepts_trial_01/e2_a_raw.md",
+      "matches": true
+    },
+    {
+      "path": "docs/content/concepts_trial_01/e2_b_raw.md",
+      "matches": true
+    },
+    {
+      "path": "docs/content/concepts_trial_01/e3_a_raw.md",
+      "matches": true
+    },
+    {
+      "path": "docs/content/concepts_trial_01/e3_b_raw.md",
+      "matches": true
+    },
+    {
+      "path": "research/concepts/experiments/independent_trials/input_v2.md",
+      "matches": true
+    },
+    {
+      "path": "research/concepts/experiments/independent_trials/instructions.md",
+      "matches": true
+    },
+    {
+      "path": "research/methodology/concepts_trial_02/e1_a_raw.md",
+      "matches": true
+    },
+    {
+      "path": "research/methodology/concepts_trial_02/e2_b_raw.md",
+      "matches": true
+    },
+    {
+      "path": "research/methodology/concepts_trial_02/e3_a_raw.md",
+      "matches": true
+    },
+    {
+      "path": "research/methodology/concepts_trial_02/e1_b_raw.md",
+      "matches": true
+    },
+    {
+      "path": "research/methodology/concepts_trial_02/e2_a_raw.md",
+      "matches": true
+    },
+    {
+      "path": "research/methodology/concepts_trial_02/e3_b_raw.md",
+      "matches": true
+    },
+    {
+      "path": "research/concepts/experiments/independent_trials/instructions.md",
+      "matches": true
+    },
+    {
+      "path": "research/concepts/experiments/independent_trials/input_v2.md",
+      "matches": true
+    }
+  ],
+  "passed": true
+}

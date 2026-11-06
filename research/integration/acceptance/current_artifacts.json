@@ -1,0 +1,22 @@
+[
+  {
+    "path": "outputs/leadership_review_v3/leadership_review_v3.pptx",
+    "bytes": 729786,
+    "sha256": "da22ce7f5acf8c3abc83849b618e7cbe081ab12c29aa7e560693d0ddcfd15db8"
+  },
+  {
+    "path": "outputs/leadership_review_v3/materials/meeting_actions.xlsx",
+    "bytes": 5473,
+    "sha256": "1579c793852009dfbc90dc24c5aac0f7430dbbc15e06f8bc6aa526923790046a"
+  },
+  {
+    "path": "outputs/leadership_review_v3/media/meeting_captioned.mp4",
+    "bytes": 1208629,
+    "sha256": "afc31bb04c9837725aa357bf8f82c72f98e39f855b5d4975e8c6d6b8a3c8766d"
+  },
+  {
+    "path": "outputs/leadership_review_v3/leadership_review_v3_bundle.zip",
+    "bytes": 3594616,
+    "sha256": "9c939aadb8b446a06b646ebb9158a23690b6ae059f49bd1645def5a8a45c58c5"
+  }
+]

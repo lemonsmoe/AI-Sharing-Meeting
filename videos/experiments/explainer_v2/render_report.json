@@ -1,0 +1,30 @@
+{
+  "started_at": "2026-11-06T10:22:47.989234+00:00",
+  "ended_at": "2026-11-06T10:23:07.385080+00:00",
+  "render_seconds": 13.534418299997924,
+  "decoded_frames": 1728,
+  "metadata": {
+    "plugin": "ffmpeg",
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(progressive)",
+    "fps": 24.0,
+    "source_size": [
+      1280,
+      720
+    ],
+    "size": [
+      1280,
+      720
+    ],
+    "rotate": 0,
+    "duration": 72.0
+  },
+  "imageio": "2.37.4",
+  "pillow": "10.4.0",
+  "source_sha256": "cfa00b8cef56697d2a77e92ce3f768ac525819cfd33f29eb83a58feda713eec0",
+  "bytes": 949235,
+  "paid_external_calls": 0,
+  "agent_cost": "账单未知",
+  "voice": false
+}

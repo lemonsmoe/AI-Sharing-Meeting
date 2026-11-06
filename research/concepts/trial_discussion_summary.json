@@ -1,0 +1,80 @@
+{
+  "topic": "concepts",
+  "notes_revision": "4ec23c989a84da90082f",
+  "base_summary_revision": "49ff6c3440d8d242274e",
+  "title": "概念证据与两轮实际执行",
+  "abstract": "12页候选、22条来源登记及3份字幕；两聊天12份输出已评分，存在一处结论矛盾，人工基线和复审仍缺",
+  "points": [
+    {
+      "kind": "proposal",
+      "text": "按能力层组合解释概念，避免线性代际；12页候选已保存。",
+      "sources": [
+        "note_7fd0540c9511275e9b09#0"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "历史阶段记录（已由本轮新增进展更新）：目标已实际创建，任务已认领，来源与模拟复测待完成，不构成推荐。",
+      "sources": [
+        "note_7fd0540c9511275e9b09#1"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "提示词前三页围绕同一报价案例展示从模糊请求到材料、工具和交付文件，避免连续规范清单；版本见case_slide_revision.md。",
+      "sources": [
+        "note_a65076a82285604d42d4#0"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "三组会话作答与工具生成文件已保存，报价输出检查3项通过、文档局部检查4项通过；共享上下文作答不能计两次独立模型实验。E2已把未分工需求从已确认任务中分离。",
+      "sources": [
+        "note_a65076a82285604d42d4#1"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "历史阶段记录（已由本轮新增进展更新）：台账扩展至11条定位来源，2篇仅摘要；仍缺中文、视频内容和独立实践。主张矩阵拒绝从本次案例推导准确率提升。",
+      "sources": [
+        "note_a65076a82285604d42d4#2"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "科普章节以任务可拆分程度解释多Agent适用性，结合Anthropic与Cognition对照；不把多Agent当默认升级。详见research/concepts/counterevidence_review.md。",
+      "sources": [
+        "note_b12ac83b211e2eb31199#0"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "历史阶段记录（已由本轮新增进展更新）：新增5个原作者来源，台账19条、排除两篇摘要后17条正文定位来源；视频完整内容0，独立实践和渠道仍不足，未达最终研究门槛。",
+      "sources": [
+        "note_b12ac83b211e2eb31199#1"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "来源登记已22条，3份发布方完整字幕实际读完；R1独立审查已执行并整改。两聊天V2共12份首次回答已评分，16项输入输出哈希一致。trial_02 E1-A首段选甲、末段选乙，选择结论判错误；其余共同事实项正确。详见experiments/trial_scoring_report.md。",
+      "sources": [
+        "note_e3e1284e386f3c6175bf#0"
+      ]
+    },
+    {
+      "kind": "constraint",
+      "text": "每个聊天全部A/B提示一并可见、回答共享上下文，实际工具调用不同且旧题型已暴露；两聊天重复执行不能证明提示词因果提升。人工基线和新增证据及评分的独立复审仍缺，不宣称研究门槛全部通过。",
+      "sources": [
+        "note_e3e1284e386f3c6175bf#1"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "教学可展示第二轮E1-A金额正确但建议首尾冲突，说明交付前需核对建议和表格一致；同时展示第一轮A本就正确，避免制造短提示必错印象。本轮Agent建议，待主对话采纳。",
+      "sources": [
+        "note_e3e1284e386f3c6175bf#2"
+      ]
+    }
+  ],
+  "omitted": []
+}

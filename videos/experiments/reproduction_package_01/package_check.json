@@ -1,0 +1,81 @@
+{
+  "created_at": "2026-11-06T11:33:01.891213+00:00",
+  "source_video_sha256": "dab17319ba4315cc239b42786148134066f753a29987f95519e4a1efc19fc171",
+  "output_sha256": "04d4ef305e2ee1fb909ff3790ed7dfa7156235c7dd9b499f271073062cb7b598",
+  "voice": "Microsoft Huihui",
+  "speaking_rate": 1.1,
+  "decoded_frames": 1728,
+  "metadata": {
+    "plugin": "ffmpeg",
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(progressive)",
+    "audio_codec": "aac",
+    "fps": 24.0,
+    "source_size": [
+      1280,
+      720
+    ],
+    "size": [
+      1280,
+      720
+    ],
+    "rotate": 0,
+    "duration": 72.0
+  },
+  "scene_checks": [
+    {
+      "id": "scene_01",
+      "start": 0,
+      "end": 9.827,
+      "slot_end": 10,
+      "fits_without_cutting": true,
+      "last_audible_second": 9.0831875
+    },
+    {
+      "id": "scene_02",
+      "start": 10.25,
+      "end": 20.281,
+      "slot_end": 22,
+      "fits_without_cutting": true,
+      "last_audible_second": 19.532562499999997
+    },
+    {
+      "id": "scene_03",
+      "start": 22.25,
+      "end": 33.143,
+      "slot_end": 34,
+      "fits_without_cutting": true,
+      "last_audible_second": 32.4135
+    },
+    {
+      "id": "scene_04",
+      "start": 34.25,
+      "end": 44.502,
+      "slot_end": 46,
+      "fits_without_cutting": true,
+      "last_audible_second": 43.7551875
+    },
+    {
+      "id": "scene_05",
+      "start": 46.25,
+      "end": 58.659,
+      "slot_end": 60,
+      "fits_without_cutting": true,
+      "last_audible_second": 57.923500000000004
+    },
+    {
+      "id": "scene_06",
+      "start": 60.25,
+      "end": 71.499,
+      "slot_end": 72,
+      "fits_without_cutting": true,
+      "last_audible_second": 70.77125
+    }
+  ],
+  "video_packets_unchanged": true,
+  "audio_decode_passed": true,
+  "pcm_clipped_samples": 0,
+  "pcm_peak": 30578,
+  "qa_boundary": "完整解码及音轨封装校验；尚未完整试听与动态审片，原画面底部字幕为摘要，完整旁白字幕在同名SRT"
+}

@@ -1,0 +1,26 @@
+{
+  "output": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\outputs\\01a1afcd-c994-7ae0-89e1-3c3770ac406b\\meeting_actions.xlsx",
+  "sha256": "becfba60f7d7d222a31ac7b28f6233b5c37385e7f83876445a21f843dbb0fa86",
+  "inputs": [
+    {
+      "file": "meeting_notes.txt",
+      "sha256": "13e5d932102aed3e4e7bced348407d70e5dbf6a2a29509dd42132c55764ad505"
+    },
+    {
+      "file": "follow_up.txt",
+      "sha256": "b308c040ad72fb8024d0326ac86c641283be71540e150910f73f567a7a6e6b5d"
+    }
+  ],
+  "sheets": 1,
+  "action_rows": 2,
+  "decision_rows": 4,
+  "unknown_fields_retained": true,
+  "formula_error_count": 0,
+  "calculation_formulas": 0,
+  "simulation": true,
+  "generation_route": "本会话依据原文整理，artifact-tool 生成；未在 WorkBuddy / Copilot 中运行",
+  "limitations": [
+    "未在 Excel / WPS 实机中打开核验",
+    "数据为模拟材料，不代表真实采购或会议决定"
+  ]
+}

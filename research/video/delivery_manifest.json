@@ -1,0 +1,27 @@
+[
+  {
+    "path": "scripts/video/render_explainer.py",
+    "bytes": 8419,
+    "sha256": "5644fac11e98ae5c90cefbf60881fd6fccb695da8ef350a314456651c544cca0"
+  },
+  {
+    "path": "videos/experiments/explainer_v2_reviewed/meeting_explainer.mp4",
+    "bytes": 936871,
+    "sha256": "dab17319ba4315cc239b42786148134066f753a29987f95519e4a1efc19fc171"
+  },
+  {
+    "path": "videos/experiments/explainer_v2_reviewed/storyboard.json",
+    "bytes": 763,
+    "sha256": "e6cea41bae511b78afdfe4b6e74754316b1ac3be093b82375dd91f9ca758fc37"
+  },
+  {
+    "path": "videos/experiments/explainer_v2_reviewed/render_report.json",
+    "bytes": 792,
+    "sha256": "1319007f992aa6a4b3ff1b1091f87117fb90b1f5b09ea29431f15dc993216a4a"
+  },
+  {
+    "path": "research/video/production_playbook.md",
+    "bytes": 4606,
+    "sha256": "4afa686e0d653245784c725d31e25d0a70d0986ef193aa478b3abfcb45bceeca"
+  }
+]

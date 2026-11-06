@@ -1,0 +1,32 @@
+{
+  "duration_seconds": 72,
+  "frames_decoded": 864,
+  "render_seconds": 7.614900300002773,
+  "started_at": "2026-11-06T10:20:52.778816+00:00",
+  "ended_at": "2026-11-06T10:21:03.837098+00:00",
+  "python": "3.12.3",
+  "imageio": "2.37.4",
+  "source_sha256": "d2bd10082292b8e563f31b4445bd74cffc66e1f96ca5af8bf71e087e0abc482a",
+  "video_sha256": "fa8a6083cc00b37612e8c7c8bd7d7b4aff4eea575ec71123d3ae6300914a9189",
+  "bytes": 382762,
+  "metadata": {
+    "plugin": "ffmpeg",
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(progressive)",
+    "fps": 12.0,
+    "source_size": [
+      1280,
+      720
+    ],
+    "size": [
+      1280,
+      720
+    ],
+    "rotate": 0,
+    "duration": 72.0
+  },
+  "paid_external_calls": 0,
+  "voice": false,
+  "agent_cost": "未取得账单，不能视为零"
+}

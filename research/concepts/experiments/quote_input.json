@@ -1,0 +1,1 @@
+{"quantity":100,"deadline_days":9,"quotes":[{"supplier":"A","unit_price":80,"tax_included":false,"tax_rate":0.13,"shipping":200,"delivery_days":7},{"supplier":"B","unit_price":88,"tax_included":true,"tax_rate":0,"shipping":500,"delivery_days":null},{"supplier":"C","unit_price":90,"tax_included":true,"tax_rate":0,"shipping":0,"delivery_days":10}]}

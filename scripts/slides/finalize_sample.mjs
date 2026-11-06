@@ -1,0 +1,6 @@
+import path from 'node:path';
+import {finalizePresentation} from 'file:///C:/Users/22796/.codex/plugins/cache/openai-primary-runtime/presentations/26.1030.10813/skills/presentations/container_tools/artifact_tool_utils.mjs';
+const skill='C:/Users/22796/.codex/plugins/cache/openai-primary-runtime/presentations/26.1030.10813/skills/presentations';
+const root=process.cwd();
+console.log(await finalizePresentation({workspaceDir:path.join(root,'slides/experiments'),candidatePath:path.join(root,'slides/experiments/run_03/sample_draft.pptx'),finalPath:path.join(root,'slides/experiments/output/weekly_report_sample_v1.pptx'),pythonExecutable:'C:/Users/22796/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe',integrityValidatorPath:path.join(skill,'container_tools/inspect_presentation_package_integrity.py'),layoutValidatorPath:path.join(skill,'container_tools/inspect_presentation_layout_geometry.py'),layoutArgs:['--expected-slide-size-emu','12192000,6858000','--validate-heading-fit'],explicitTotalSlideCount:4,requiredNativeChartOwnerSlides:[3],materializeLiteralChartWorkbooks:true,verifyArtifactToolImport:true,receiptPath:path.join(root,'slides/experiments/run_03/validation.json')}));
+

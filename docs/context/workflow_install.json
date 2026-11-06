@@ -1,0 +1,62 @@
+{
+  "version": "0.3.0",
+  "context_root": "D:/code/Project/文职工作/26年11月中旬分享会",
+  "python_path": "D:\\code\\anaconda\\anaconda\\python.exe",
+  "managed_files": {
+    "scripts/context/context_hook.py": "4335cb3c8dcc2e430a9a47e1d3c4195ab509022efb814e63d5bee0260dbf9edb",
+    "scripts/context/discussion_files.py": "161203414d3ac432403bf765f1c051be70f3267f753ba62f6b9445c179679b41",
+    "scripts/context/discussion_hook.py": "aede5dc803526950d3bf6c1d0112f8bd64edfc42ae4c66a882eb0432ff195b11",
+    "scripts/context/discussion_store.py": "716b027cc7a3b0a68e33a1f85972c3fba55adaec00e8a5fd7deef5bb1deaf55b",
+    "scripts/context/task_store.py": "3dda988960b3534b78c3d146914fc3b8936459627899df242128f1398ef0b83d"
+  },
+  "agent_block_hash": "a9728f462f52f55e963668a8bfd27a2ea71a06ad0df39fad51e9ccbbb3e95e2b",
+  "owned_hooks": {
+    "SessionStart": {
+      "hooks": [
+        {
+          "type": "command",
+          "command": "powershell.exe -NoProfile -NonInteractive -EncodedCommand JgAgACcARAA6AFwAYwBvAGQAZQBcAGEAbgBhAGMAbwBuAGQAYQBcAGEAbgBhAGMAbwBuAGQAYQBcAHAAeQB0AGgAbwBuAC4AZQB4AGUAJwAgACcARAA6AC8AYwBvAGQAZQAvAFAAcgBvAGoAZQBjAHQALwCHZUyA5V1cTy8AMgA2AHReMQAxAAhnLU7sZQZSq04aTy8AcwBjAHIAaQBwAHQAcwAvAGMAbwBuAHQAZQB4AHQALwBjAG8AbgB0AGUAeAB0AF8AaABvAG8AawAuAHAAeQAnAA==",
+          "timeout": 10,
+          "additionalContextLimit": 1800
+        },
+        {
+          "type": "command",
+          "command": "powershell.exe -NoProfile -NonInteractive -EncodedCommand JgAgACcARAA6AFwAYwBvAGQAZQBcAGEAbgBhAGMAbwBuAGQAYQBcAGEAbgBhAGMAbwBuAGQAYQBcAHAAeQB0AGgAbwBuAC4AZQB4AGUAJwAgACcARAA6AC8AYwBvAGQAZQAvAFAAcgBvAGoAZQBjAHQALwCHZUyA5V1cTy8AMgA2AHReMQAxAAhnLU7sZQZSq04aTy8AcwBjAHIAaQBwAHQAcwAvAGMAbwBuAHQAZQB4AHQALwBkAGkAcwBjAHUAcwBzAGkAbwBuAF8AaABvAG8AawAuAHAAeQAnAA==",
+          "timeout": 10,
+          "additionalContextLimit": 1800
+        }
+      ],
+      "matcher": "startup|resume|clear|compact|fork"
+    },
+    "UserPromptSubmit": {
+      "hooks": [
+        {
+          "type": "command",
+          "command": "powershell.exe -NoProfile -NonInteractive -EncodedCommand JgAgACcARAA6AFwAYwBvAGQAZQBcAGEAbgBhAGMAbwBuAGQAYQBcAGEAbgBhAGMAbwBuAGQAYQBcAHAAeQB0AGgAbwBuAC4AZQB4AGUAJwAgACcARAA6AC8AYwBvAGQAZQAvAFAAcgBvAGoAZQBjAHQALwCHZUyA5V1cTy8AMgA2AHReMQAxAAhnLU7sZQZSq04aTy8AcwBjAHIAaQBwAHQAcwAvAGMAbwBuAHQAZQB4AHQALwBjAG8AbgB0AGUAeAB0AF8AaABvAG8AawAuAHAAeQAnAA==",
+          "timeout": 10,
+          "additionalContextLimit": 1800
+        },
+        {
+          "type": "command",
+          "command": "powershell.exe -NoProfile -NonInteractive -EncodedCommand JgAgACcARAA6AFwAYwBvAGQAZQBcAGEAbgBhAGMAbwBuAGQAYQBcAGEAbgBhAGMAbwBuAGQAYQBcAHAAeQB0AGgAbwBuAC4AZQB4AGUAJwAgACcARAA6AC8AYwBvAGQAZQAvAFAAcgBvAGoAZQBjAHQALwCHZUyA5V1cTy8AMgA2AHReMQAxAAhnLU7sZQZSq04aTy8AcwBjAHIAaQBwAHQAcwAvAGMAbwBuAHQAZQB4AHQALwBkAGkAcwBjAHUAcwBzAGkAbwBuAF8AaABvAG8AawAuAHAAeQAnAA==",
+          "timeout": 10,
+          "additionalContextLimit": 1800
+        }
+      ]
+    },
+    "Stop": {
+      "hooks": [
+        {
+          "type": "command",
+          "command": "powershell.exe -NoProfile -NonInteractive -EncodedCommand JgAgACcARAA6AFwAYwBvAGQAZQBcAGEAbgBhAGMAbwBuAGQAYQBcAGEAbgBhAGMAbwBuAGQAYQBcAHAAeQB0AGgAbwBuAC4AZQB4AGUAJwAgACcARAA6AC8AYwBvAGQAZQAvAFAAcgBvAGoAZQBjAHQALwCHZUyA5V1cTy8AMgA2AHReMQAxAAhnLU7sZQZSq04aTy8AcwBjAHIAaQBwAHQAcwAvAGMAbwBuAHQAZQB4AHQALwBjAG8AbgB0AGUAeAB0AF8AaABvAG8AawAuAHAAeQAnAA==",
+          "timeout": 10
+        },
+        {
+          "type": "command",
+          "command": "powershell.exe -NoProfile -NonInteractive -EncodedCommand JgAgACcARAA6AFwAYwBvAGQAZQBcAGEAbgBhAGMAbwBuAGQAYQBcAGEAbgBhAGMAbwBuAGQAYQBcAHAAeQB0AGgAbwBuAC4AZQB4AGUAJwAgACcARAA6AC8AYwBvAGQAZQAvAFAAcgBvAGoAZQBjAHQALwCHZUyA5V1cTy8AMgA2AHReMQAxAAhnLU7sZQZSq04aTy8AcwBjAHIAaQBwAHQAcwAvAGMAbwBuAHQAZQB4AHQALwBkAGkAcwBjAHUAcwBzAGkAbwBuAF8AaABvAG8AawAuAHAAeQAnAA==",
+          "timeout": 10
+        }
+      ]
+    }
+  }
+}

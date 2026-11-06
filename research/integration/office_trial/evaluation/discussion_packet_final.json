@@ -1,0 +1,410 @@
+{
+  "topic": "workshop_scope",
+  "notes_revision": "fc4455b774280ee20ef2",
+  "base_summary_revision": "2184b18b4a8f72fdc53e",
+  "summary_path": "docs/context/05_discussions/topics/workshop_scope/summary.md",
+  "previous_summary": {
+    "topic": "workshop_scope",
+    "title": "V3审阅基线与O1实际验证",
+    "abstract": "V3保持稳定，O1两次文件生成关键内容通过；补证资格单独保存，完整试听与实际试讲仍待。",
+    "points": [
+      {
+        "kind": "user_confirmed",
+        "text": "面向同事介绍 AI 主流及企业用法，以提高职场效率；交付 PPT、推荐、教程、成果与可信证据，兼顾中国企业环境和真实社区反馈。保存多轮讨论，支持多智能体复核。智谱加插件仅为待核实参考。",
+        "sources": [
+          "note_cb2fc9572f3ca670af95#0"
+        ]
+      },
+      {
+        "kind": "proposal",
+        "text": "原框架按原理、各模态工具前三及说明书、效果、注意事项和个人认知展开，覆盖会议、PPT、生图、视频、办公与代码；AI 制作整套 PPT 及 Claude 讲解视频仍是设想。",
+        "sources": [
+          "note_cb2fc9572f3ca670af95#1"
+        ]
+      },
+      {
+        "kind": "proposal",
+        "text": "筹备 Agent 候选建议：任务驱动，精简原理；每场景一主推一备选；同一公开或脱敏材料比较人工、AI 初稿和修订成果，计时包含核查返工；教程内嵌边界及失败替代步骤。编程与视频投入按受众时长决定，未获确认。",
+        "sources": [
+          "note_cb2fc9572f3ca670af95#2"
+        ]
+      },
+      {
+        "kind": "proposal",
+        "text": "暂定顺序：痛点示例、必要原理、3 至 4 个工作流、选型、公司试用、个人经验与问答。",
+        "sources": [
+          "note_cb2fc9572f3ca670af95#3"
+        ]
+      },
+      {
+        "kind": "question",
+        "text": "历史未决问题中受众、时长、平台、付费候选、分享日期、视频参考均已回答。尚余确切账号/网络条件、公司数据许可、实际采购预算、演示条件与参考PPT具体生成链路；只在执行依赖时问，先用公开模拟材料。",
+        "sources": [
+          "note_cb2fc9572f3ca670af95#4"
+        ]
+      },
+      {
+        "kind": "observation",
+        "text": "交接记载参考 PPT 已提取 51 页文本，未渲染或核验真实性。截图中的 Z.ai、插件与技能信息未线上核验，不能证明生成链路；国产模型审美优势仅为经验线索。",
+        "sources": [
+          "note_cb2fc9572f3ca670af95#5"
+        ]
+      },
+      {
+        "kind": "proposal",
+        "text": "研究规范尚待确认：需求、发现、独立反证、统一任务至少两次实测、主对话裁决和演前复核。建议两轮加补缺，无新证据停止；独立社区实例需操作细节和负面反馈，转载不重复计数。核实国内访问、账号支付、中文、办公兼容、导出、数据条款和公司许可；教程由其他人复现，完整记录耗时质量与失败。每场景交付推荐卡、教程、案例和证据。未部署后台 Agent，未执行研究。",
+        "sources": [
+          "note_cb2fc9572f3ca670af95#6"
+        ]
+      },
+      {
+        "kind": "user_confirmed",
+        "text": "用户反馈 Hook 已通过信任；受众覆盖全体及领导、软硬件、市场销售人事；少于1小时、约30页；提示词工程最重点；会议纪要、PPT制作过程、办公调研文档表格写作为重点，WorkBuddy/Codex及Skill、记忆库、Hook浅讲；希望研究用法演变及前沿；视频略讲工具、部署、效果、成本、产业链工作流与企业案例。",
+        "sources": [
+          "note_acd3d02e74ca1dc78fd4#0"
+        ]
+      },
+      {
+        "kind": "observation",
+        "text": "Hook 信任状态来自用户反馈；本轮没有验证真实生命周期触发。",
+        "sources": [
+          "note_acd3d02e74ca1dc78fd4#1"
+        ]
+      },
+      {
+        "kind": "proposal",
+        "text": "历史结构V1提案：30页，内容48分钟加问答机动为55分钟；提示词8页/14分钟，会议3页，PPT4页，办公5页，视频2页，科普4页、开场收尾4页。曾建议用户提供样文，已被最新纠正取代；大纲获准迭代推进，例子不得固定成重心。",
+        "sources": [
+          "note_acd3d02e74ca1dc78fd4#2"
+        ]
+      },
+      {
+        "kind": "user_confirmed",
+        "text": "按大纲V1推进并认可三项重点，允许后续修订；大纲和制作方案讨论后由Agent执行，用户按指导提供素材。长期目标是培养UP主、剪辑、高效高质PPT和AI讲解视频的输出爱好。概念顺序只是用户粗略理解，允许纠正补充。",
+        "sources": [
+          "note_eeb6fc1067eee5afdde8#0"
+        ]
+      },
+      {
+        "kind": "user_confirmed",
+        "text": "环境：Office/WPS、飞书正式群与流程、微信日常交流、用友物料审批；CEO自建知识库（用户描述ds模型/openui等），有GPU服务器、ESXi虚拟机、GitLab。可纳入付费；先介绍前沿、大公司及业界广泛用法，再考虑成本和平替。环境未实地核查，确切产品型号版本待确认。",
+        "sources": [
+          "note_eeb6fc1067eee5afdde8#1"
+        ]
+      },
+      {
+        "kind": "proposal",
+        "text": "历史制作提案：研究→逐页脚本→代表页与短片小样→整套交付→可复用内容。环境来自用户描述未核查。曾列样文和办公任务素材要求，现由Agent先找实例和列菜单取代；缺素材不阻塞研究。",
+        "sources": [
+          "note_eeb6fc1067eee5afdde8#2"
+        ]
+      },
+      {
+        "kind": "user_confirmed",
+        "text": "分享日期2026-11-16；希望11月10日前形成内容、大纲及领导可审阅版本，后期微调。授权自主调研、验证和开发，只在确需用户时中断；最终要脚本、PPT、视频成果。",
+        "sources": [
+          "note_9b66da69e3916cc7468c#0"
+        ]
+      },
+      {
+        "kind": "user_confirmed",
+        "text": "核心是跑通AI自动工作、调研、生产的完整协作流程；减少AI味只是小议题，不能押宝三个示例；内容由Agent研究后用户再审验。不再要求用户提供写作样本或先想办公任务；由Agent调研公司常见场景列菜单供选择。模板slides/赛感PPT优化丰富版本.pptx已提供，可整理并自由调整审美；PPT工具先调研再试验，不预定必须由当前Agent做。",
+        "sources": [
+          "note_9b66da69e3916cc7468c#1"
+        ]
+      },
+      {
+        "kind": "user_confirmed",
+        "text": "明确授权在本项目创建独立可见且命名的子聊天，每个启动目标模式持续推进，以便用户分别查看干预；不使用不可单独对话的隐藏subagent替代。要求把有数量、平台和视频覆盖指标的调研标准做成Skill。",
+        "sources": [
+          "note_9b66da69e3916cc7468c#2"
+        ]
+      },
+      {
+        "kind": "user_confirmed",
+        "text": "用户正同步学习 https://ploto.me/posts/how-i-made-a-long-video-with-ai/ 及其配套和同类视频，明确这是其期望AI讲解视频的参考方向，其他工作继续。",
+        "sources": [
+          "note_9b66da69e3916cc7468c#3"
+        ]
+      },
+      {
+        "kind": "proposal",
+        "text": "执行基线：5个可见子聊天分别负责研究Skill/独立复核、概念提示词、办公场景、PPT路线和视频；主对话整合验收。按11月9日晚内部内容冻结争取10号前领导审阅。每主题至少15个实际读取去重来源、8作者机构、4渠道，4一手/6实践/3视频内容及2反证；中英文各3。视频优先高互动且有实操内容，记录候选样本和指标可见性；门槛缺口不能靠凑数或假称访问补足。主推需统一任务两次实测及另一聊天审查。详见research/research_gate.md。",
+        "sources": [
+          "note_9b66da69e3916cc7468c#4"
+        ]
+      },
+      {
+        "kind": "observation",
+        "text": "5个独立子聊天已通过create_thread成功创建，首次wait_threads均为active/inProgress；已传达create_goal要求，目标是否创建仍需后续核对。真实IDs见docs/planning/thread_registry.json。主对话目标已active。模板存在已核查，尚未由主对话评估视觉。已打开用户参考文章，配套视频审阅交由视频聊天继续。",
+        "sources": [
+          "note_9b66da69e3916cc7468c#5"
+        ]
+      },
+      {
+        "kind": "observation",
+        "text": "5个可见子聊天已创建且wait_threads显示active；各自progress.md报告create_goal已成功且active。主对话已核对所有任务认领，模板原件副本SHA256一致。内容草稿和原型开始产出但尚无最终研究验收，Skill制作验证仍进行。ID、证据路径见docs/planning/thread_registry.json。",
+        "sources": [
+          "note_1ed6889e469a145c1b87#0"
+        ]
+      },
+      {
+        "kind": "proposal",
+        "text": "领导审阅交付约定：约30页逐页正文与讲稿、关键来源、工具适用条件及演示形式；优先可打开PPT内容稿，未精修项标注；检查渲染兼容与实际试讲。详见docs/planning/leadership_review_contract.md。",
+        "sources": [
+          "note_1ed6889e469a145c1b87#1"
+        ]
+      },
+      {
+        "kind": "observation",
+        "text": "已产出30页结构化内容源、逐页讲述短稿及来源映射，计划内容48分钟+问答5+机动2，尚未试讲；是内部工作稿而非领导定稿。Skill由主对话再次结构验证通过，四包独立审查完成但都未达最终推荐门槛。",
+        "sources": [
+          "note_d37bc9ae97c53dea348b#0"
+        ]
+      },
+      {
+        "kind": "observation",
+        "text": "已读E1报价的输入、真实会话作答及工具计算记录：基线也算对，A9240、B9300、C9000；页8/10/11/12据此整合，不伪造失败故事或提升比例。两版同会话结果不算独立模型对照。主对话已看视频V2联系表但未完整动态审片。",
+        "sources": [
+          "note_d37bc9ae97c53dea348b#1"
+        ]
+      },
+      {
+        "kind": "proposal",
+        "text": "内容改进：加强实际能力与成果展示，提示词章节用连续案例串联；字幕卡只当管线初样，动画需要通过对象变化解释。研究方法聊天继续解决公开完整视频/字幕访问瓶颈，各研究聊天补企业实例及真实执行。方法与办公首稿阶段验收不代表最终推荐。",
+        "sources": [
+          "note_d37bc9ae97c53dea348b#2"
+        ]
+      },
+      {
+        "kind": "observation",
+        "text": "已补齐30页完整试讲稿及6个公开组织案例卡；原30页内容JSON与source_map冻结。30页可编辑PPT已生成，主对话查看所有渲染页，定位循环、交付对照、来源对应与13.53秒误写问题。详见rehearsal_script_v2.md、office_case_cards.md、deck_review_v1.md。",
+        "sources": [
+          "note_02aa3acfed2f72a17eac#0"
+        ]
+      },
+      {
+        "kind": "proposal",
+        "text": "以本地可编辑路线推进内容审阅稿，其他候选继续验证；V1仅作骨架，V2优先用实际输入输出和正确关系图改善表达。完整试讲稿按页码合入新版备注，保持30页总结构。普通中文合成旁白可先行试验，不克隆用户声音、不付费。",
+        "sources": [
+          "note_02aa3acfed2f72a17eac#1"
+        ]
+      },
+      {
+        "kind": "observation",
+        "text": "两个可见聊天已完成新材料12份首次回答，概念聊天按预登记标准评分；第二执行者E1-A首尾结论矛盾保留。每聊天A/B全提示同时可见且共享上下文，工具调用不同，不能证明提示词因果提升或人工节时；已委派办公聊天独立复审。",
+        "sources": [
+          "note_02aa3acfed2f72a17eac#2"
+        ]
+      },
+      {
+        "kind": "proposal",
+        "text": "连续讲解仍保留原100件报价案例，新60件测试矛盾暂作附加教学候选，不自动替换数字或扩展篇幅。用户继续学习视频参考，当前不要求额外写作样本；工具账号/界面授权只在实际依赖时介入。",
+        "sources": [
+          "note_02aa3acfed2f72a17eac#3"
+        ]
+      },
+      {
+        "kind": "observation",
+        "sources": [
+          "note_ec0322a580e87617b29d#0"
+        ],
+        "text": "中文系统旁白72秒已封装，音视频解码通过；视频聊天独立复现并修正SRT遮挡，单层字幕候选已抽帧审阅，完整试听/动态播放仍未验收。实际Excel已生成，原文、未知字段、日期和估算金额逐项核对，完整渲染通过，Excel/WPS实机待核。统一入口docs/content/review_start_here.md。"
+      },
+      {
+        "kind": "observation",
+        "sources": [
+          "note_ec0322a580e87617b29d#1"
+        ],
+        "text": "V2全30页已主对话逐页查看，原循环、结果对照、来源和渲染时长问题已修正；PowerPoint副本文字与表格回存由PPT聊天执行并留证。接受内部审阅基线，不等于最终内容/现场验收。"
+      },
+      {
+        "kind": "proposal",
+        "sources": [
+          "note_ec0322a580e87617b29d#2"
+        ],
+        "text": "V3保持30页：第3页合入8节点历史，第23页改为按任务识别工具入口，第24页用真实Excel，第25页以用途说明Hook，第27—28页合入中文旁白单层字幕及实际制作流程；费用和详细教程放随包附录。来源和未实测边界放备注及附录，保留旧版本。"
+      },
+      {
+        "kind": "observation",
+        "sources": [
+          "note_ec0322a580e87617b29d#3"
+        ],
+        "text": "办公独立复核完成，指出A自由建议不应套用B最低价规则；主对话采纳，概念聊天已澄清共同事实评分项。第二轮首尾冲突错误保留，原始答案及冻结标准未改；无因果提升或人工节时结论。"
+      },
+      {
+        "kind": "observation",
+        "text": "V3已合入历史8节点、10项工具入口、真实Excel、中文旁白单层字幕视频和三种视频制作路线。30页讲稿同步；30张PowerPoint原生渲染逐页查看，副本文字及表格回存通过。离线入口、77文件清单、ZIP逐项哈希检查通过；视频未嵌入PPT。",
+        "sources": [
+          "note_21f0657974e665c04808#0"
+        ]
+      },
+      {
+        "kind": "observation",
+        "text": "独立复核指出旧Excel日期带Z可能引入跨系统时区歧义；V3副本只将D6/D12改为Excel日期序号，其余值一致。Microsoft Excel 16.0显示11月9日18:00和11月12日，保存重开通过；办公聊天独立XML检查通过，原件保留。",
+        "sources": [
+          "note_21f0657974e665c04808#1"
+        ]
+      },
+      {
+        "kind": "observation",
+        "text": "方法聊天完成四包最新主张级审计，但其本人是Skill作者；另由概念聊天完成一次非Skill作者前向使用，先预登记反证再读官方正文，不称严格盲测或全部门槛已过。PPT聊天WPS审批及视频完整试听仍未解决，主对话没有绕过相应访问审批。",
+        "sources": [
+          "note_21f0657974e665c04808#2"
+        ]
+      },
+      {
+        "kind": "proposal",
+        "text": "以V3作为当前内部内容审阅基线，优先收集主线/场景反馈并完整试听72秒样片，再做现场设备检查和整场计时。没有新反馈或新证据时不重复生成相同成果；候选工具介绍与最终采购/提效推荐分开，具体拟主推项再补独立产品执行。",
+        "sources": [
+          "note_21f0657974e665c04808#3"
+        ]
+      },
+      {
+        "text": "O1新模拟会议两份原文、提示词及内容基线在派发前冻结，办公与方法两个可见聊天各自产出MD和可编辑XLSX。主对话对照原文、首末XML、纪要及四张最终图，关键事实和日期通过，已读Excel16回存记录。5个冻结文件哈希不变，首次产物和错误保留，报告见research/integration/office_trial/evaluation/review_report.md。",
+        "kind": "observation",
+        "sources": [
+          "note_4b56842a136e4e9600ed#0"
+        ]
+      },
+      {
+        "text": "O1读任务至交付记录分别299.623秒和260.663秒；工具所见整轮更长，均不含主对话审查。两个既有聊天不是盲测，未审完整底层日志；没有真人同题计时，不证明提示词因果提升，也不是WorkBuddy、飞书或Copilot实测。",
+        "kind": "constraint",
+        "sources": [
+          "note_4b56842a136e4e9600ed#1"
+        ]
+      },
+      {
+        "text": "PPT定向补证4组来源，完整文字候选包括作者轻度编辑的约7分钟视频转录和59秒独立课程单元，未观看原片；已交概念聊天资格复核。概念S23仅替补薄弱实践候选；视频V07无法取得原始日志，排除直接实践计数。不能据此宣称全部研究门槛已过。",
+        "kind": "observation",
+        "sources": [
+          "note_4b56842a136e4e9600ed#2"
+        ]
+      },
+      {
+        "text": "新增研究作为独立证据保存，当前V3页数和文件不再因补证重复改版。后续内容调整优先依据用户审阅、完整试听和实际试讲；没有新问题时不重复已有应用检查，也不持续扩充URL来替代缺失的真实体验。",
+        "kind": "proposal",
+        "sources": [
+          "note_4b56842a136e4e9600ed#3"
+        ]
+      }
+    ],
+    "omitted": [],
+    "notes_revision": "7a6b24d387b7300da269",
+    "note_fingerprints": {
+      "note_02aa3acfed2f72a17eac": "f76af866fbea412bf9ddc2c0209e2f0489f91d53a72193284be249e2b1ce1164",
+      "note_1ed6889e469a145c1b87": "1a80c6fb917cd48db89f6b68ebd96d311a95e13d4bee36f787c3df3032cde1a3",
+      "note_21f0657974e665c04808": "bb38ee4bd438ea3f0a2eb22167f4676d930fb6c497aae98b4e5491dcea7316d0",
+      "note_4b56842a136e4e9600ed": "3aaff86733f7d297da73da79a02a2283317eb424a769b0409f45028afb4b211f",
+      "note_9b66da69e3916cc7468c": "a548f819cf6a2db28a35e0dd74ecf657657791c656b43e7603a1567c227eee78",
+      "note_acd3d02e74ca1dc78fd4": "1d092cdc08a10bb2050f2e075b0dd1f08235658dd02590e93f307064533bd5ce",
+      "note_cb2fc9572f3ca670af95": "12b85fcdf2f054751d7c07b2755ad2bdf4d0936d5175e89a5e3a56ae07f9e4b0",
+      "note_d37bc9ae97c53dea348b": "72caac8c9c37f3db7c14bacdf815b34f8108ac92df40c996738a82b5b19991ad",
+      "note_ec0322a580e87617b29d": "06a35446e4de331d544d4ebc5a41d99e72b55557223270e063f4652172ff2b36",
+      "note_eeb6fc1067eee5afdde8": "04cf27334d0ca49b91353f21ec182b86beada111e210d6b04d58eae7ca69f43e"
+    },
+    "covered_sources": [
+      "note_02aa3acfed2f72a17eac#0",
+      "note_02aa3acfed2f72a17eac#1",
+      "note_02aa3acfed2f72a17eac#2",
+      "note_02aa3acfed2f72a17eac#3",
+      "note_1ed6889e469a145c1b87#0",
+      "note_1ed6889e469a145c1b87#1",
+      "note_21f0657974e665c04808#0",
+      "note_21f0657974e665c04808#1",
+      "note_21f0657974e665c04808#2",
+      "note_21f0657974e665c04808#3",
+      "note_4b56842a136e4e9600ed#0",
+      "note_4b56842a136e4e9600ed#1",
+      "note_4b56842a136e4e9600ed#2",
+      "note_4b56842a136e4e9600ed#3",
+      "note_9b66da69e3916cc7468c#0",
+      "note_9b66da69e3916cc7468c#1",
+      "note_9b66da69e3916cc7468c#2",
+      "note_9b66da69e3916cc7468c#3",
+      "note_9b66da69e3916cc7468c#4",
+      "note_9b66da69e3916cc7468c#5",
+      "note_acd3d02e74ca1dc78fd4#0",
+      "note_acd3d02e74ca1dc78fd4#1",
+      "note_acd3d02e74ca1dc78fd4#2",
+      "note_cb2fc9572f3ca670af95#0",
+      "note_cb2fc9572f3ca670af95#1",
+      "note_cb2fc9572f3ca670af95#2",
+      "note_cb2fc9572f3ca670af95#3",
+      "note_cb2fc9572f3ca670af95#4",
+      "note_cb2fc9572f3ca670af95#5",
+      "note_cb2fc9572f3ca670af95#6",
+      "note_d37bc9ae97c53dea348b#0",
+      "note_d37bc9ae97c53dea348b#1",
+      "note_d37bc9ae97c53dea348b#2",
+      "note_ec0322a580e87617b29d#0",
+      "note_ec0322a580e87617b29d#1",
+      "note_ec0322a580e87617b29d#2",
+      "note_ec0322a580e87617b29d#3",
+      "note_eeb6fc1067eee5afdde8#0",
+      "note_eeb6fc1067eee5afdde8#1",
+      "note_eeb6fc1067eee5afdde8#2"
+    ],
+    "author_thread": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+    "updated_at": "2026-11-06T12:34:53+00:00",
+    "path": "docs/context/05_discussions/topics/workshop_scope/summary.md"
+  },
+  "new_notes": [
+    {
+      "path": "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b/note_427c49c1b9d254ae0ed7.md",
+      "source_message": "本轮已实际读取概念聊天research/concepts/ppt_evidence_review.md及其任务完成回执",
+      "author_thread": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "items": [
+        {
+          "kind": "observation",
+          "text": "概念聊天已独立打开PPT补证原页，P14/P15条件接受，P16为作者轻度编辑完整文字，P17只计59秒单元。连同旧V01可条件登记三项完整视频文字，未看原片、未完成产品实测或总门槛审计。主对话按该范围接受阶段结果，详见research/concepts/ppt_evidence_review.md。",
+          "source": "note_427c49c1b9d254ae0ed7#0"
+        }
+      ]
+    }
+  ],
+  "required_sources": [
+    "note_02aa3acfed2f72a17eac#0",
+    "note_02aa3acfed2f72a17eac#1",
+    "note_02aa3acfed2f72a17eac#2",
+    "note_02aa3acfed2f72a17eac#3",
+    "note_1ed6889e469a145c1b87#0",
+    "note_1ed6889e469a145c1b87#1",
+    "note_21f0657974e665c04808#0",
+    "note_21f0657974e665c04808#1",
+    "note_21f0657974e665c04808#2",
+    "note_21f0657974e665c04808#3",
+    "note_427c49c1b9d254ae0ed7#0",
+    "note_4b56842a136e4e9600ed#0",
+    "note_4b56842a136e4e9600ed#1",
+    "note_4b56842a136e4e9600ed#2",
+    "note_4b56842a136e4e9600ed#3",
+    "note_9b66da69e3916cc7468c#0",
+    "note_9b66da69e3916cc7468c#1",
+    "note_9b66da69e3916cc7468c#2",
+    "note_9b66da69e3916cc7468c#3",
+    "note_9b66da69e3916cc7468c#4",
+    "note_9b66da69e3916cc7468c#5",
+    "note_acd3d02e74ca1dc78fd4#0",
+    "note_acd3d02e74ca1dc78fd4#1",
+    "note_acd3d02e74ca1dc78fd4#2",
+    "note_cb2fc9572f3ca670af95#0",
+    "note_cb2fc9572f3ca670af95#1",
+    "note_cb2fc9572f3ca670af95#2",
+    "note_cb2fc9572f3ca670af95#3",
+    "note_cb2fc9572f3ca670af95#4",
+    "note_cb2fc9572f3ca670af95#5",
+    "note_cb2fc9572f3ca670af95#6",
+    "note_d37bc9ae97c53dea348b#0",
+    "note_d37bc9ae97c53dea348b#1",
+    "note_d37bc9ae97c53dea348b#2",
+    "note_ec0322a580e87617b29d#0",
+    "note_ec0322a580e87617b29d#1",
+    "note_ec0322a580e87617b29d#2",
+    "note_ec0322a580e87617b29d#3",
+    "note_eeb6fc1067eee5afdde8#0",
+    "note_eeb6fc1067eee5afdde8#1",
+    "note_eeb6fc1067eee5afdde8#2"
+  ],
+  "instruction": "保留候选、问题、约束和异议。points 每项含 kind/text/sources，kind须与引用原条目一致；遗漏项逐条写 omitted 的 source/reason。摘要是讨论状态，不是决策批准。"
+}
