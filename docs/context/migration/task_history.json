@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at": "2026-11-06T15:20:17+00:00",
+  "exported_at": "2026-11-06T15:30:37+00:00",
   "source_root": "D:/code/Project/文职工作/26年11月中旬分享会",
   "source_project": {
     "project_id": "baf972c8f880",
@@ -1104,10 +1104,13 @@
         "tools/project_skills",
         "requirements_migration.txt"
       ],
-      "owner": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
-      "status": "active",
+      "owner": null,
+      "status": "accepted",
       "created_at": "2026-11-06T15:07:07+00:00",
-      "updated_at": "2026-11-06T15:09:44+00:00",
+      "updated_at": "2026-11-06T15:30:37+00:00",
+      "result": "项目源码、历史产物、项目记忆与三个相关Skill已推送指定GitHub，远端main与本地核对一致；干净克隆和接续保护检查通过，原环境配置及暂停生产状态保留。",
+      "evidence": "docs/context/migration/verification.md; docs/context/02_events/2026/11/evt_github_migration.md",
+      "review_note": "验收迁移：已检查上传范围与远端提交一致，干净克隆1159文件哈希一致，路径/身份/Hook保护通过；不代表作品质量通过或第二台设备制作环境通过。",
       "source_write_paths": [
         "d:\\code\\project\\文职工作\\26年11月中旬分享会\\readme.md",
         "d:\\code\\project\\文职工作\\26年11月中旬分享会\\.gitignore",
@@ -4110,6 +4113,20 @@
       "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
       "task": "TASK-20261106-882e82df",
       "operation": "claim"
+    },
+    {
+      "id": 280,
+      "time": "2026-11-06T15:30:36+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-882e82df",
+      "operation": "finish"
+    },
+    {
+      "id": 281,
+      "time": "2026-11-06T15:30:37+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261106-882e82df",
+      "operation": "review"
     }
   ]
 }

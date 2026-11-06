@@ -381,10 +381,17 @@
       "sources": [
         "note_42fd332c3e2c2b8bd980#2"
       ]
+    },
+    {
+      "kind": "observation",
+      "text": "项目已上传指定GitHub的main分支；首次上传基线1d41889364707a325d21c2b284a1a58841fb130f与远端一致。初始提交1159文件克隆哈希一致，bootstrap/status/sync/doctor通过，7项迁移保护测试和15个媒体重绑模块语法检查通过。新环境入口docs/handoff/new_environment_handoff.md。仅验证迁移接续，未在第二台机器实测全部制作工具；质量否决和生产暂停保持。",
+      "sources": [
+        "note_71e318b5d3e23bba7170#0"
+      ]
     }
   ],
   "omitted": [],
-  "notes_revision": "e3c15683b5a8412f9e9f",
+  "notes_revision": "559a7a1e0cf0e3f94726",
   "note_fingerprints": {
     "note_02aa3acfed2f72a17eac": "f76af866fbea412bf9ddc2c0209e2f0489f91d53a72193284be249e2b1ce1164",
     "note_1ed6889e469a145c1b87": "1a80c6fb917cd48db89f6b68ebd96d311a95e13d4bee36f787c3df3032cde1a3",
@@ -394,6 +401,7 @@
     "note_42fd332c3e2c2b8bd980": "ca040bd04c6ddbdb9a7b9fb2f3c93c6920b4efab4895d2ed79236982ece4ca4c",
     "note_4b56842a136e4e9600ed": "3aaff86733f7d297da73da79a02a2283317eb424a769b0409f45028afb4b211f",
     "note_5aba8181bbcf648f7095": "a0fc39578658717c5e6858c52674280b68f4519ef463fd1bc147d0d8348729b9",
+    "note_71e318b5d3e23bba7170": "706a337477e96d6533280744ffcda25a00b619992ed2bf8293e670ad4a609c7a",
     "note_9b66da69e3916cc7468c": "a548f819cf6a2db28a35e0dd74ecf657657791c656b43e7603a1567c227eee78",
     "note_acd3d02e74ca1dc78fd4": "1d092cdc08a10bb2050f2e075b0dd1f08235658dd02590e93f307064533bd5ce",
     "note_cb2fc9572f3ca670af95": "12b85fcdf2f054751d7c07b2755ad2bdf4d0936d5175e89a5e3a56ae07f9e4b0",
@@ -430,6 +438,7 @@
     "note_5aba8181bbcf648f7095#1",
     "note_5aba8181bbcf648f7095#2",
     "note_5aba8181bbcf648f7095#3",
+    "note_71e318b5d3e23bba7170#0",
     "note_9b66da69e3916cc7468c#0",
     "note_9b66da69e3916cc7468c#1",
     "note_9b66da69e3916cc7468c#2",
@@ -458,7 +467,7 @@
     "note_eeb6fc1067eee5afdde8#2"
   ],
   "author_thread": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
-  "updated_at": "2026-11-06T15:22:01+00:00",
+  "updated_at": "2026-11-06T15:30:36+00:00",
   "path": "docs/context/05_discussions/topics/workshop_scope/summary.md"
 }
 ---
@@ -523,6 +532,7 @@
 - 主目标工具已改paused，本轮未重启子聊天、应用访问或生产。主对话重看V3第8/18/23页，读现有设计规范并承认技术验证偏重、过早扩稿；撤回将V3视为继续定稿默认基线，旧成果保留作失败样本与可复用素材。（[note_2046d684356adc747a95#2](notes/9a0b58d5b0351daa7a8b/note_2046d684356adc747a95.md)）
 - 本轮重读Ploto的参考拆解、试镜、配音与分镜部分，未看原片；初查Frontend Slides、baoyu-slide-deck及Anthropic pptx原始说明，区分HTML、图片型及PPT创建编辑路线，未安装实测或认定质量优秀。见docs/content/quality_reset_discussion.md。（[note_2046d684356adc747a95#3](notes/9a0b58d5b0351daa7a8b/note_2046d684356adc747a95.md)）
 - 目标远端初次ls-remote核对为空仓库，本地原先未初始化Git；已建立main与origin，整理项目记忆、历史文件、三个自定义Skill快照和迁移入口。新克隆重绑真实身份/Hook，旧任务只作历史档案，未复制账号、插件缓存、运行库和全局个人记忆。（[note_42fd332c3e2c2b8bd980#1](notes/9a0b58d5b0351daa7a8b/note_42fd332c3e2c2b8bd980.md)）
+- 项目已上传指定GitHub的main分支；首次上传基线1d41889364707a325d21c2b284a1a58841fb130f与远端一致。初始提交1159文件克隆哈希一致，bootstrap/status/sync/doctor通过，7项迁移保护测试和15个媒体重绑模块语法检查通过。新环境入口docs/handoff/new_environment_handoff.md。仅验证迁移接续，未在第二台机器实测全部制作工具；质量否决和生产暂停保持。（[note_71e318b5d3e23bba7170#0](notes/9a0b58d5b0351daa7a8b/note_71e318b5d3e23bba7170.md)）
 
 ## 用户已确认
 
