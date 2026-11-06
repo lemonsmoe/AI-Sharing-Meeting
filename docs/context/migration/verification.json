@@ -1,0 +1,69 @@
+{
+  "verified_at": "2026-11-06T15:27:33+00:00",
+  "baseline_commit": "2985d7c6e361d46d309949220fd3dd9095bd272a",
+  "clone_file_count": 1159,
+  "clone_sha256_mismatches": [],
+  "source_configuration_unchanged": true,
+  "new_live_task_count": 0,
+  "discussion_topics": 6,
+  "clone_checks": [
+    {
+      "check": "preview",
+      "returncode": 0
+    },
+    {
+      "check": "apply",
+      "returncode": 0
+    },
+    {
+      "check": "task_status",
+      "returncode": 0
+    },
+    {
+      "check": "discussion_sync",
+      "returncode": 0
+    },
+    {
+      "check": "workflow_doctor",
+      "returncode": 0
+    }
+  ],
+  "migration_guard_tests": {
+    "passed": 7,
+    "failed": 0
+  },
+  "secret_pattern_scan": {
+    "files": 1158,
+    "bytes": 70820372,
+    "findings": [],
+    "patterns": [
+      "private_key",
+      "github_token",
+      "api_token",
+      "bearer_value",
+      "aws_key"
+    ]
+  },
+  "media_rebinding": {
+    "changed_files": [
+      "scripts/slides/build_sample.mjs",
+      "scripts/slides/finalize_sample.mjs",
+      "scripts/slides/render_template.mjs",
+      "scripts/slides/review_deck/build_review.mjs",
+      "scripts/slides/review_deck/finalize_review.mjs",
+      "scripts/slides/review_deck_v2/build_full.mjs",
+      "scripts/slides/review_deck_v2/build_representatives.mjs",
+      "scripts/slides/review_deck_v2/finalize_review.mjs",
+      "scripts/slides/review_deck_v2/representative_pages.mjs",
+      "scripts/slides/review_deck_v3/build_full.mjs",
+      "scripts/slides/review_deck_v3/changed_pages.mjs",
+      "scripts/slides/review_deck_v3/finalize_review.mjs",
+      "scripts/slides/review_deck_v3/representative_pages.mjs",
+      "research/office/office_trial_01/build_workbook.mjs",
+      "tutorials/office/spreadsheet_demo/build_workbook.mjs"
+    ],
+    "syntax_checks_passed": 15,
+    "rendered": false
+  },
+  "limitations": "在同一Windows机器的干净克隆测试；未在第二台物理机器或非Windows系统执行，未实测Hook生命周期。 未重做PPT、视频、Office/WPS或新版本运行库兼容验证。"
+}
