@@ -58,6 +58,13 @@ supersedes: []
 - 校对记录 `script_factcheck_20261116.md`：11 项科普主张逐项核实全部成立（MiniMax H3、GPT-5.2/Claude Opus 4.5、冲击顺序绘画→IT→数学、幻觉分类与成因等），0 处事实错误；仅替换型号占位符与加措辞缓冲。
 - 正文约 5,300 字、约 25–26 分钟；26 页分页草案与图标素材需求已列。旧 30 页分镜与备注包待分页确认后重做。
 
+## 补充七：29页新分镜与 ppt-master 项目开工
+
+- 用户决定由本 Agent 继续完成制作，本机截图改由用户后补（占位框）。29 页分镜 `outline_user_edition.md`（1,970 秒）与逐页备注包 `speaker_notes_per_page.json`（29 页）完成。
+- ppt-master 项目 `slides/projects/user_edition_20261116` 初始化（16:9，quick-generate），导入讲稿/分镜/校对记录与表情包；Peter/黄仁勋照片、三页样稿缩略图与 12 款图标入库并登记 image_sources.json。
+- 从三页样稿提取主题色：米白 #F6F3EC、黑 #171715、红 #C50000、微软雅黑。SVG 页面 P01–P03 完成（提交 f52827a），P04 起逐轮推进；全部完成后跑 quick-generate checker 与导出、PowerPoint 渲染检查。
+
+
 
 
 
