@@ -51,6 +51,14 @@ supersedes: []
 - 黄仁勋引语补充 SEC 旁证（EDGAR FY2026 年报署名 Founder and CEO, May 2026）；官方新闻室 bios 页现列其为 Founder，署名以签署时身份为准，quote_sources 与 facts.json 已更新。
 - 官方头像 1920×1920 已下载至 `assets/screenshots/20261116/nvidia_bio/`（官方 Download Headshot 端点），上屏前待用户确认。
 
+## 补充六：用户自改版讲稿接收、润色与校对
+
+- 用户 2026-11-16 凌晨手写新版讲稿 `自己修改版.md`，作为新一轮内容基准，已原样提交存档；表情包原件（微信收到，1280×1280）复制归档 `assets/company_meme/`。
+- 按用户稿润色为 `speaker_script.md`：保留结构与口吻，修语病、补 MCP/Harness/Agent 空位、把幻觉科普备注改写成照读正文、补生图提示词示例。
+- 校对记录 `script_factcheck_20261116.md`：11 项科普主张逐项核实全部成立（MiniMax H3、GPT-5.2/Claude Opus 4.5、冲击顺序绘画→IT→数学、幻觉分类与成因等），0 处事实错误；仅替换型号占位符与加措辞缓冲。
+- 正文约 5,300 字、约 25–26 分钟；26 页分页草案与图标素材需求已列。旧 30 页分镜与备注包待分页确认后重做。
+
+
 
 
 
