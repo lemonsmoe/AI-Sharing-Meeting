@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-family="Microsoft YaHei" font-size="44" font-weight="bold" fill="#171715">语言大模型的原理</text>
+  <g font-family="Microsoft YaHei">
+    <rect x="160" y="220" width="700" height="120" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <text x="200" y="295" font-size="44" fill="#171715">「会议改到周…… 」</text>
+    <rect x="200" y="400" width="180" height="100" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="2"/>
+    <text x="290" y="466" font-size="44" fill="#7A7A74" text-anchor="middle">三</text>
+    <rect x="430" y="400" width="180" height="100" rx="12" fill="#FFFFFF" stroke="#C50000" stroke-width="3"/>
+    <text x="520" y="466" font-size="44" font-weight="bold" fill="#C50000" text-anchor="middle">五 ✓</text>
+    <text x="700" y="466" font-size="26" fill="#171715">背景信息写着「改到周五」</text>
+    <text x="160" y="600" font-size="28" fill="#171715">大模型把输入切成一小截一小截，看着前面的内容，猜下一个最可能是什么，然后接着写。</text>
+    <text x="160" y="648" font-size="24" fill="#7A7A74">训练时读过海量的文字，学会了文字和意思之间的关系——所以既能接话，也能改写、总结、答题。</text>
+  </g>
+</svg>

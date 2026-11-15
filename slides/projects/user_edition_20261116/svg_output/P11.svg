@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-family="Microsoft YaHei" font-size="44" font-weight="bold" fill="#171715">提示词（Prompt）：你向 AI 说的话</text>
+  <rect x="200" y="240" width="880" height="140" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="2"/>
+  <text x="240" y="310" font-family="Microsoft YaHei" font-size="28" fill="#171715">帮我整理这两份通知的时间、地点和参加方式，做成一张表</text>
+  <rect x="240" y="330" width="3" height="34" fill="#C50000"/>
+  <text x="200" y="480" font-family="Microsoft YaHei" font-size="26" fill="#7A7A74">这就是一条提示词：你给大模型的输入。</text>
+  <text x="200" y="560" font-family="Microsoft YaHei" font-size="32" font-weight="bold" fill="#171715">把需求说清楚、把输入设计好——就是「提示词工程」</text>
+</svg>

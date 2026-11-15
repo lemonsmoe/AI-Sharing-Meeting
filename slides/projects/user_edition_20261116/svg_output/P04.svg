@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-family="Microsoft YaHei" font-size="44" font-weight="bold" fill="#171715">从熟悉的工具切入</text>
+  <text x="80" y="156" font-family="Microsoft YaHei" font-size="26" fill="#171715">聊天、开会、写代码、生图生视频——都能找到对应的工具</text>
+  <g font-family="Microsoft YaHei" font-size="22" fill="#171715" text-anchor="middle">
+    <image x="104" y="212" width="72" height="72" href="images/icons/doubao.png"/>
+    <text x="140" y="316">豆包</text>
+    <image x="294" y="212" width="72" height="72" href="images/icons/feishu.png"/>
+    <text x="330" y="316">飞书</text>
+    <image x="484" y="212" width="72" height="72" href="images/icons/tencent_meeting.png"/>
+    <text x="520" y="316">腾讯会议</text>
+    <image x="674" y="212" width="72" height="72" href="images/icons/openai.png"/>
+    <text x="710" y="316">GPT</text>
+    <image x="864" y="212" width="72" height="72" href="images/icons/anthropic.png"/>
+    <text x="900" y="316">Claude</text>
+    <rect x="1044" y="212" width="72" height="72" rx="14" fill="#171715"/>
+    <text x="1080" y="260" font-size="30" font-weight="bold" fill="#FFFFFF">WB</text>
+    <text x="1080" y="316">WorkBuddy</text>
+    <image x="104" y="412" width="72" height="72" href="images/icons/deepseek.png"/>
+    <text x="140" y="516">DeepSeek</text>
+    <image x="294" y="412" width="72" height="72" href="images/icons/xiaoyunque.png"/>
+    <text x="330" y="516">小云雀</text>
+    <image x="484" y="412" width="72" height="72" href="images/icons/hongguo.png"/>
+    <text x="520" y="516">红果短剧</text>
+    <image x="674" y="412" width="72" height="72" href="images/icons/jimeng.png"/>
+    <text x="710" y="516">即梦</text>
+    <image x="864" y="412" width="72" height="72" href="images/icons/minimax.png"/>
+    <text x="900" y="516">MiniMax H3</text>
+    <image x="1044" y="412" width="72" height="72" href="images/icons/seed.png"/>
+    <text x="1080" y="516">字节 Seed</text>
+  </g>
+  <text x="80" y="640" font-family="Microsoft YaHei" font-size="24" fill="#7A7A74">豆包、飞书、腾讯会议、GPT、Claude、WorkBuddy、DeepSeek、小云雀、红果短剧、即梦、MiniMax H3、Seedream / Seedance</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-family="Microsoft YaHei" font-size="44" font-weight="bold" fill="#171715">大模型与 App</text>
+  <g font-family="Microsoft YaHei">
+    <rect x="80" y="180" width="520" height="340" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <image x="120" y="220" width="64" height="64" href="images/icons/doubao.png"/>
+    <text x="210" y="262" font-size="34" font-weight="bold" fill="#171715">豆包</text>
+    <text x="120" y="330" font-size="26" fill="#C50000">App＝产品给你的入口</text>
+    <text x="120" y="380" font-size="24" fill="#171715">发消息 · 传图片 · 切换功能</text>
+    <text x="120" y="460" font-size="22" fill="#7A7A74">手机上直接打开的那个软件</text>
+    <rect x="680" y="180" width="520" height="340" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <rect x="720" y="220" width="64" height="64" rx="10" fill="#171715"/>
+    <text x="752" y="264" font-size="26" font-weight="bold" fill="#FFFFFF" text-anchor="middle">S2.1</text>
+    <text x="810" y="262" font-size="34" font-weight="bold" fill="#171715">Doubao Seed 2.1 Pro</text>
+    <text x="720" y="330" font-size="26" fill="#C50000">型号＝真正处理输入的模型</text>
+    <text x="720" y="380" font-size="24" fill="#171715">把输入处理成结果的那部分</text>
+    <text x="720" y="460" font-size="22" fill="#7A7A74">GPT-5.2、Claude Opus 4.5 同理</text>
+  </g>
+  <text x="80" y="600" font-family="Microsoft YaHei" font-size="28" font-weight="bold" fill="#171715">软件是入口，型号才是模型。</text>
+</svg>
