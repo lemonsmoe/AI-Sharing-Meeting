@@ -29,3 +29,9 @@ supersedes: []
 - 逐项复核 17 处主张：Doubao Seed 2.1 Pro、Seedream 5.5 / Seedance 2.5 及上线渠道、小云雀、红果 AI 剧、腾讯会议元宝笔记与 AI 小助手、飞书智能纪要/妙记、PPT Master、WorkBuddy 首任务、DeepSeek 价格结构、Peter 原话、Gamma 导出、Copilot 模板指南、OpenAI 快速入门、吴恩达短课，全部与讲稿一致或按官方页面校准；记录见 `docs/content/swiss_script_20261115/source_check_20261116.md`，关键事实登记 `docs/context/facts.json`。
 - 唯一表述升级：第 25 页小云雀按官方手册改为「标称 Seedance 二点五首发体验产品」，source_map 同步；其余正文未动。
 
+## 补充二：素材清单与 ppt-master 环境试运行
+
+- 30 页界面素材清单 `docs/content/swiss_script_20261115/asset_checklist_20261116.md` 完成：逐页列画面需求、来源（已有/本机可制/官方可下/待用户）与上屏前核对要求；明确待用户项为 Codex 脱敏截图、表情包原件、黄仁勋照片来源、第 19 页本机版本核对。
+- ppt-master 试运行：attribution_guard 通过（exit 0），workflows/routing.md 已读；扩 30 页路线为 Generate PPTX（Default），沿用三页样稿规范。未启动 30 页制作。
+
+

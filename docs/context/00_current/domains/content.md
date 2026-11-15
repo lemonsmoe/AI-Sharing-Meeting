@@ -4,6 +4,9 @@
 
 **2026-11-15深夜**：新接续Agent（DSH会话 session-5bed8c8e-3817-428c-881d-0e734bbdbe31）按用户反馈全稿修订讲稿中文表达。用户认为Codex稿不接地气、不符合中文习惯；对三页PPT风格评价为「还可以」，不按定稿处理。全稿重写保留页序、页题、页时与全部事实边界，织回用户大纲原有比喻；汉字9531→9026（-5%），48分钟预算不变。交付 `docs/content/swiss_script_20261115/speaker_script.md` 与 `script_revision_notes_20261115.md`（含三处可选加料），分支 `task/001-script-grounding`，任务 TASK-20261115-e233786d 待审。用户语感反馈、可选加料与办公案例三选未定；讨论候选 note_a38e52231f65933361a0 待主对话合并。事件 `evt_script_grounding_20261115`。以下各段为历史状态。
 
+**2026-11-16凌晨补充**：17处关键来源已逐项复核并登记 facts.json（小云雀按官方手册升级为「标称首发体验」）；30页界面素材清单 `asset_checklist_20261116.md` 完成（四类来源、逐页状态与待用户项）；ppt-master attribution_guard 通过（exit 0）、routing 已读，扩30页走 Generate PPTX（Default）。30页制作仍未启动，等用户语感与视觉确认。任务 TASK-20261115-5bc61145、TASK-20261115-ff378484 待审。
+
+
 ## 当前：2026-11-15三页与照读稿已交
 
 
