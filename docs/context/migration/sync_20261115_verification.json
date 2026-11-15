@@ -1,0 +1,87 @@
+{
+  "tested_at": "2026-11-15T13:45:34.423748+00:00",
+  "source_commit": "ee17d74b1dd39af8efacd923ac75caa5ba7596e4",
+  "clone": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\.context_runtime\\migration_verify_20261115_sdfy4d4k\\clone",
+  "identity_source": "inherited real CODEX_THREAD_ID; isolated migration exercise only",
+  "checks": {
+    "clone": {
+      "exit_code": 0,
+      "stdout": "",
+      "stderr": "43% (565/1313)\nUpdating files:  44% (578/1313)\nUpdating files:  45% (591/1313)\nUpdating files:  46% (604/1313)\nUpdating files:  47% (618/1313)\nUpdating files:  48% (631/1313)\nUpdating files:  49% (644/1313)\nUpdating files:  50% (657/1313)\nUpdating files:  51% (670/1313)\nUpdating files:  52% (683/1313)\nUpdating files:  53% (696/1313)\nUpdating files:  54% (710/1313)\nUpdating files:  55% (723/1313)\nUpdating files:  56% (736/1313)\nUpdating files:  57% (749/1313)\nUpdating files:  58% (762/1313)\nUpdating files:  59% (775/1313)\nUpdating files:  59% (777/1313)\nUpdating files:  60% (788/1313)\nUpdating files:  61% (801/1313)\nUpdating files:  62% (815/1313)\nUpdating files:  63% (828/1313)\nUpdating files:  64% (841/1313)\nUpdating files:  65% (854/1313)\nUpdating files:  66% (867/1313)\nUpdating files:  67% (880/1313)\nUpdating files:  68% (893/1313)\nUpdating files:  69% (906/1313)\nUpdating files:  70% (920/1313)\nUpdating files:  71% (933/1313)\nUpdating files:  72% (946/1313)\nUpdating files:  73% (959/1313)\nUpdating files:  73% (968/1313)\nUpdating files:  74% (972/1313)\nUpdating files:  75% (985/1313)\nUpdating files:  76% (998/1313)\nUpdating files:  77% (1012/1313)\nUpdating files:  78% (1025/1313)\nUpdating files:  79% (1038/1313)\nUpdating files:  80% (1051/1313)\nUpdating files:  81% (1064/1313)\nUpdating files:  82% (1077/1313)\nUpdating files:  83% (1090/1313)\nUpdating files:  84% (1103/1313)\nUpdating files:  85% (1117/1313)\nUpdating files:  85% (1124/1313)\nUpdating files:  86% (1130/1313)\nUpdating files:  87% (1143/1313)\nUpdating files:  88% (1156/1313)\nUpdating files:  89% (1169/1313)\nUpdating files:  90% (1182/1313)\nUpdating files:  91% (1195/1313)\nUpdating files:  92% (1208/1313)\nUpdating files:  93% (1222/1313)\nUpdating files:  94% (1235/1313)\nUpdating files:  95% (1248/1313)\nUpdating files:  96% (1261/1313)\nUpdating files:  97% (1274/1313)\nUpdating files:  98% (1287/1313)\nUpdating files:  99% (1300/1313)\nUpdating files: 100% (1313/1313)\nUpdating files: 100% (1313/1313), done.\n"
+    },
+    "bootstrap_preview": {
+      "exit_code": 0,
+      "stdout": "{\n  \"mode\": \"preview\",\n  \"files\": [\n    \"docs/context/project.json\",\n    \"docs/context/workflow_install.json\",\n    \".codex/hooks.json\"\n  ],\n  \"root\": \"D:/code/Project/文职工作/26年11月中旬分享会/.context_runtime/migration_verify_20261115_sdfy4d4k/clone\",\n  \"manager\": \"01a1afcd-c994-7ae0-89e1-3c3770ac406b\",\n  \"tasks\": \"新运行库为空；旧任务历史留在版本库中\",\n  \"production\": \"保持暂停\"\n}\n",
+      "stderr": ""
+    },
+    "bootstrap_apply": {
+      "exit_code": 0,
+      "stdout": "{\n  \"mode\": \"apply\",\n  \"files\": [\n    \"docs/context/project.json\",\n    \"docs/context/workflow_install.json\",\n    \".codex/hooks.json\"\n  ],\n  \"root\": \"D:/code/Project/文职工作/26年11月中旬分享会/.context_runtime/migration_verify_20261115_sdfy4d4k/clone\",\n  \"manager\": \"01a1afcd-c994-7ae0-89e1-3c3770ac406b\",\n  \"tasks\": \"新运行库为空；旧任务历史留在版本库中\",\n  \"production\": \"保持暂停\"\n}\n",
+      "stderr": ""
+    },
+    "task_status": {
+      "exit_code": 0,
+      "stdout": "{\n  \"revision\": \"3e87155ad62b6ac7\",\n  \"tasks\": []\n}\n",
+      "stderr": ""
+    },
+    "discussion_sync": {
+      "exit_code": 0,
+      "stdout": "workshop_scope/notes/9a0b58d5b0351daa7a8b/note_9b66da69e3916cc7468c.md\",\n        \"docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b/note_acd3d02e74ca1dc78fd4.md\",\n        \"docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b/note_c0b137b45ea078ed552c.md\",\n        \"docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b/note_cb2fc9572f3ca670af95.md\",\n        \"docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b/note_ce24b54d16fc4e6b084e.md\",\n        \"docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b/note_d37bc9ae97c53dea348b.md\",\n        \"docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b/note_ec0322a580e87617b29d.md\",\n        \"docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b/note_eeb6fc1067eee5afdde8.md\"\n      ],\n      \"updated_at\": \"2026-11-15T13:41:25+00:00\",\n      \"points\": null\n    },\n    {\n      \"topic\": \"office\",\n      \"revision\": \"f5a7a7b25bc0d1395e12\",\n      \"changed\": true,\n      \"pending\": false,\n      \"title\": \"办公研究与ChatGPT用户后补测试\",\n      \"abstract\": \"ChatGPT登录失败，用户决定后续自行测试；其他研究继续，真实产品输出仍缺\",\n      \"summary_path\": \"docs/context/05_discussions/topics/office/summary.md\",\n      \"note_paths\": [\n        \"docs/context/05_discussions/topics/office/notes/c2a4dd2fb8403acfcf87/note_18f34481709079053399.md\",\n        \"docs/context/05_discussions/topics/office/notes/c2a4dd2fb8403acfcf87/note_2ea2f25cf56c4b5a277b.md\",\n        \"docs/context/05_discussions/topics/office/notes/c2a4dd2fb8403acfcf87/note_d0c74463d26e3c4719ce.md\",\n        \"docs/context/05_discussions/topics/office/notes/c445743db4e05b93b8a3/note_ccb324b4849c7b41259c.md\"\n      ],\n      \"updated_at\": \"2026-11-12T10:17:02+00:00\",\n      \"points\": null\n    },\n    {\n      \"topic\": \"concepts\",\n      \"revision\": \"c37e5107a8806b19242e\",\n      \"changed\": true,\n      \"pending\": false,\n      \"title\": \"概念补证与来源资格\",\n      \"abstract\": \"历史与评分已合稿，Skill前向使用已交；S19不计详细实践，新增S23有输入环境失败路径的替补候选，未自动放行总门槛\",\n      \"summary_path\": \"docs/context/05_discussions/topics/concepts/summary.md\",\n      \"note_paths\": [\n        \"docs/context/05_discussions/topics/concepts/notes/3ceeba0b548e38609fee/note_0f7cbc39dc47e0b992d8.md\",\n        \"docs/context/05_discussions/topics/concepts/notes/3ceeba0b548e38609fee/note_4fc446e67e13d686c999.md\",\n        \"docs/context/05_discussions/topics/concepts/notes/3ceeba0b548e38609fee/note_7fd0540c9511275e9b09.md\",\n        \"docs/context/05_discussions/topics/concepts/notes/3ceeba0b548e38609fee/note_8ad0bc3094f59b5e5955.md\",\n        \"docs/context/05_discussions/topics/concepts/notes/3ceeba0b548e38609fee/note_a65076a82285604d42d4.md\",\n        \"docs/context/05_discussions/topics/concepts/notes/3ceeba0b548e38609fee/note_b12ac83b211e2eb31199.md\",\n        \"docs/context/05_discussions/topics/concepts/notes/3ceeba0b548e38609fee/note_daa951b6843e070eb865.md\",\n        \"docs/context/05_discussions/topics/concepts/notes/3ceeba0b548e38609fee/note_e3e1284e386f3c6175bf.md\"\n      ],\n      \"updated_at\": \"2026-11-06T12:20:00+00:00\",\n      \"points\": null\n    },\n    {\n      \"topic\": \"video\",\n      \"revision\": \"9b0ca7f8e1e6792e8a1a\",\n      \"changed\": true,\n      \"pending\": false,\n      \"title\": \"视频样片与实践资格校正\",\n      \"abstract\": \"V07排除直接实践：4署名加1匿名条件组，六实践及完整音画仍未通过\",\n      \"summary_path\": \"docs/context/05_discussions/topics/video/summary.md\",\n      \"note_paths\": [\n        \"docs/context/05_discussions/topics/video/notes/f70d4c23e33e8b96bd2c/note_108790d0f0e294bf4ae8.md\",\n        \"docs/context/05_discussions/topics/video/notes/f70d4c23e33e8b96bd2c/note_1be1a2662b4ee1c7c7d5.md\",\n        \"docs/context/05_discussions/topics/video/notes/f70d4c23e33e8b96bd2c/note_3847282c1fbfa29677a9.md\",\n        \"docs/context/05_discussions/topics/video/notes/f70d4c23e33e8b96bd2c/note_440d30af6871a66cfcf4.md\",\n        \"docs/context/05_discussions/topics/video/notes/f70d4c23e33e8b96bd2c/note_5e4d199eaa05ea8d54cc.md\",\n        \"docs/context/05_discussions/topics/video/notes/f70d4c23e33e8b96bd2c/note_7627529f8ba89c4ea95b.md\",\n        \"docs/context/05_discussions/topics/video/notes/f70d4c23e33e8b96bd2c/note_8344c34ef59289d78093.md\",\n        \"docs/context/05_discussions/topics/video/notes/f70d4c23e33e8b96bd2c/note_cc5eec0bfe42f64f78ca.md\"\n      ],\n      \"updated_at\": \"2026-11-06T12:19:22+00:00\",\n      \"points\": null\n    },\n    {\n      \"topic\": \"research_methodology\",\n      \"revision\": \"22204b1f76eaa34d9892\",\n      \"changed\": true,\n      \"pending\": false,\n      \"title\": \"方法审计、独立性与主推边界\",\n      \"abstract\": \"前向使用审计交付；四包最终推荐未放行，Skill独立作者盲测仍缺\",\n      \"summary_path\": \"docs/context/05_discussions/topics/research_methodology/summary.md\",\n      \"note_paths\": [\n        \"docs/context/05_discussions/topics/research_methodology/notes/ae3912eafb119313205d/note_7494e71fd0e2b0c89311.md\",\n        \"docs/context/05_discussions/topics/research_methodology/notes/ae3912eafb119313205d/note_7a32e36843d81a010365.md\",\n        \"docs/context/05_discussions/topics/research_methodology/notes/ae3912eafb119313205d/note_8230f7cdfc9a4f5b006c.md\",\n        \"docs/context/05_discussions/topics/research_methodology/notes/ae3912eafb119313205d/note_96af9df529a8aa6191d4.md\",\n        \"docs/context/05_discussions/topics/research_methodology/notes/ae3912eafb119313205d/note_fac6a53d1e89248cb410.md\"\n      ],\n      \"updated_at\": \"2026-11-06T11:55:40+00:00\",\n      \"points\": null\n    },\n    {\n      \"topic\": \"slides\",\n      \"revision\": \"15e09e0bfcabc502b595\",\n      \"changed\": true,\n      \"pending\": false,\n      \"title\": \"模板审计与短样例路线候选\",\n      \"abstract\": \"模板17页完成渲染；以统一4页模拟任务比较路线，尚未决定最终工具\",\n      \"summary_path\": \"docs/context/05_discussions/topics/slides/summary.md\",\n      \"note_paths\": [\n        \"docs/context/05_discussions/topics/slides/notes/3b09986d1a67b103be78/note_793a3269a0c65aa70a88.md\"\n      ],\n      \"updated_at\": \"2026-11-06T10:19:56+00:00\",\n      \"points\": null\n    }\n  ],\n  \"omitted_topics\": 0,\n  \"note\": \"pending=true 时总结可能落后，应读新记录；ack 只在实际读完后执行，不能把注入当成已阅读。\"\n}\n",
+      "stderr": ""
+    },
+    "workflow_doctor": {
+      "exit_code": 0,
+      "stdout": "{\n  \"root\": \"D:\\\\code\\\\Project\\\\文职工作\\\\26年11月中旬分享会\\\\.context_runtime\\\\migration_verify_20261115_sdfy4d4k\\\\clone\",\n  \"errors\": [],\n  \"warnings\": [\n    \"Hook 信任与各生命周期真实触发需要单独验证；工具代发消息应显式 status\"\n  ],\n  \"task_count\": 0,\n  \"receipt_count\": 0,\n  \"version\": \"0.3.0\",\n  \"active_tasks\": [],\n  \"unverified_facts\": 0\n}\n",
+      "stderr": ""
+    },
+    "master_preview": {
+      "exit_code": 0,
+      "stdout": "{\"state\": \"preview\", \"path\": \"D:\\\\code\\\\Project\\\\文职工作\\\\26年11月中旬分享会\\\\.context_runtime\\\\migration_verify_20261115_sdfy4d4k\\\\clone\\\\.context_runtime\\\\ppt_skill_candidates\\\\ppt_master\", \"files\": 13090, \"next\": \"核对后加 --apply；恢复源码不代表已安装Python依赖\"}\n",
+      "stderr": ""
+    },
+    "master_apply": {
+      "exit_code": 0,
+      "stdout": "{\"state\": \"restored\", \"path\": \"D:\\\\code\\\\Project\\\\文职工作\\\\26年11月中旬分享会\\\\.context_runtime\\\\migration_verify_20261115_sdfy4d4k\\\\clone\\\\.context_runtime\\\\ppt_skill_candidates\\\\ppt_master\", \"files\": 13090}\n",
+      "stderr": ""
+    },
+    "master_idempotent": {
+      "exit_code": 0,
+      "stdout": "{\"state\": \"already_matches\", \"path\": \"D:\\\\code\\\\Project\\\\文职工作\\\\26年11月中旬分享会\\\\.context_runtime\\\\migration_verify_20261115_sdfy4d4k\\\\clone\\\\.context_runtime\\\\ppt_skill_candidates\\\\ppt_master\", \"files\": 13090}\n",
+      "stderr": ""
+    },
+    "master_refuses_overwrite": {
+      "exit_code": 1,
+      "existing_file_preserved": true,
+      "stderr": "已有Master目录与快照不同，不覆盖；差异文件数：1\n"
+    },
+    "master_attribution_guard": {
+      "exit_code": 0,
+      "stdout": "",
+      "stderr": ""
+    }
+  },
+  "tracked_file_comparison": {
+    "count": 1313,
+    "mismatches": []
+  },
+  "new_runtime_tasks": 0,
+  "source_configuration_unchanged": {
+    "docs/context/project.json": true,
+    "docs/context/workflow_install.json": true,
+    ".codex/hooks.json": true
+  },
+  "latest_pptx_sha256": "ac5fda8b326aed5e961e2486ab4e4983e120381316e482720e498c8d2ce25107",
+  "limits": [
+    "同一Windows机器独立干净克隆检查；尚未在第二台机器实际运行",
+    "未复测Office/WPS、字体、Hook信任和生命周期、浏览器、完整PPT生成",
+    "归档恢复和技术检查不能代替用户审美认可及现场试讲",
+    "git diff --check按CRLF文件核对后有7处历史空白提示，未改写研究或原始源码证据"
+  ],
+  "passed": true,
+  "initial_content_push": {
+    "branch": "main",
+    "local_commit": "ee17d74b1dd39af8efacd923ac75caa5ba7596e4",
+    "remote_commit": "ee17d74b1dd39af8efacd923ac75caa5ba7596e4",
+    "match": true
+  }
+}
