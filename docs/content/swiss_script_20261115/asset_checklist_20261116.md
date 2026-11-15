@@ -22,11 +22,11 @@
 | 12 | 两份通知 + 错误摘录 | 本机可制（教学示意） | 无 |
 | 13 | Peter 照片 + 引语 | 已有：`docs/content/swiss_revision_20261115/quote_assets/peter_steinberger.jpg` | 来源署名与 quote_sources 一致 |
 | 14 | Codex 工作界面三处标注 | **待用户**：本人 Codex 当天脱敏截图优先；退路为 OpenAI 官方 Quickstart 示意图（注明来源） | 脱敏；不冒充当日实测 |
-| 15 | WorkBuddy 官方入口 + 输入输出示意 | 官方可下：`workbuddy.cn/docs/workbuddy/FirstTask` 教程图；若用户本机有界面优先 | 注明官方教程图 |
+| 15 | WorkBuddy 官方入口 + 输入输出示意 | 官方已下：`assets/screenshots/20261116/workbuddy_first_task/`（14 张步骤图 + provenance.json，2026-11-16 抓取，文件头与尺寸校验通过）；本机有界面时优先实拍 | 注明官方教程图；上屏前过目 |
 | 16 | 项目现有 Skill 文件夹结构 | 本机可制：`tools/project_skills/` 或 `.context_runtime/ppt_skill_candidates/ppt_master` 文件夹截图 | 无 |
 | 17 | PPT Master README 局部 | 官方可下：GitHub README 截图（本机可截） | 无 |
 | 18 | 功能分区示意（Agent 居中） | 本机可制（示意，无升级箭头） | 无 |
-| 19 | 腾讯会议元宝笔记 / 飞书智能纪要入口 | 官方可下：帮助中心页面图；**待用户**本机版本按钮位置核对 | 会前开测试会核对本机入口 |
+| 19 | 腾讯会议元宝笔记 / 飞书智能纪要入口 | 帮助页为动态渲染、正文图无法直接抓取；**以用户本机测试会截图为准**（**待用户**），退路为浏览器截图并注明抓取日期 | 会前开测试会核对本机入口 |
 | 20 | 三列短句分栏示意 | 本机可制 | 无 |
 | 21 | 三个字段 + 发布按钮核对点 | 本机可制；有本机纪要界面时换真实截图（脱敏） | 无 |
 | 22 | 浏览分享稿 vs 可编辑 PPTX 两路线 | PPTX 已有；Gamma 网页官方截图可下 | 注明官方截图 |

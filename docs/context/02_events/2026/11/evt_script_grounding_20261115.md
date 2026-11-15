@@ -34,4 +34,11 @@ supersedes: []
 - 30 页界面素材清单 `docs/content/swiss_script_20261115/asset_checklist_20261116.md` 完成：逐页列画面需求、来源（已有/本机可制/官方可下/待用户）与上屏前核对要求；明确待用户项为 Codex 脱敏截图、表情包原件、黄仁勋照片来源、第 19 页本机版本核对。
 - ppt-master 试运行：attribution_guard 通过（exit 0），workflows/routing.md 已读；扩 30 页路线为 Generate PPTX（Default），沿用三页样稿规范。未启动 30 页制作。
 
+## 补充三：官方界面素材下载归档
+
+- WorkBuddy 首个任务官方教程图 14 张已下载到 `assets/screenshots/20261116/workbuddy_first_task/`，来源登记 provenance.json；全部文件头与尺寸校验通过。本 Agent 会话模型不支持读图，画面内容待用户/主对话过目后上屏。
+- 腾讯会议/飞书帮助页为动态渲染，正文图无法直接抓取；第 19 页素材以用户本机测试会截图为准。
+- 素材清单状态已同步（第 15、19 行）。
+
+
 

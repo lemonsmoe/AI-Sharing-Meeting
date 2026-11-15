@@ -1,0 +1,24 @@
+{
+  "set": "workbuddy_first_task",
+  "source_page": "https://www.workbuddy.cn/docs/workbuddy/FirstTask",
+  "source_title": "开启你的第一个任务 | WorkBuddy - AI Agent 办公新范式",
+  "fetched_at": "2026-11-16T00:50:00+08:00",
+  "use_boundary": "官方教程截图，仅用于内部培训课件并注明来源；不代表本机实测。上屏前由用户/主对话过目确认。",
+  "verification": "全部文件为有效 PNG（文件头与尺寸校验通过）；本 Agent 会话模型不支持读图，画面内容按官方页面步骤顺序对应，未做逐张视觉复核。",
+  "images": [
+    {"file": "01_1.CdOjt1cM.png", "step": "官网下载安装包", "size": "1773x1399"},
+    {"file": "02_2.GSNGXBnY.png", "step": "运行安装包", "size": "779x367"},
+    {"file": "03_3.LJjaUZ_W.png", "step": "选择安装用户", "size": "744x528"},
+    {"file": "04_4.CKKCmWfT.png", "step": "选择安装位置", "size": "741x526"},
+    {"file": "05_5.BjD4a3pA.png", "step": "安装完成", "size": "735x527"},
+    {"file": "06_6.DU3h8zjN.png", "step": "微信扫码登录", "size": "1941x1280"},
+    {"file": "07_7.BhW7kTpf.png", "step": "个人/企业登录方式", "size": "622x775"},
+    {"file": "08_8.DJpznnpV.png", "step": "新建任务", "size": "1945x1276"},
+    {"file": "09_9.B1lOzulf.png", "step": "移动端任务在助理查看", "size": "1937x1278"},
+    {"file": "10_10.Cs0Zb7Z7.png", "step": "描述任务", "size": "1501x730"},
+    {"file": "11_11.BGjzaRGH.png", "step": "发送执行", "size": "1213x650"},
+    {"file": "12_12.Tam3vKE3.png", "step": "查看结果", "size": "1732x1156"},
+    {"file": "13_13.CLbCs6z8.png", "step": "产物入口", "size": "1340x960"},
+    {"file": "14_14.BbNZ0jqe.png", "step": "概览-工作空间文件", "size": "1339x1100"}
+  ]
+}
