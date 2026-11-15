@@ -64,6 +64,14 @@ supersedes: []
 - ppt-master 项目 `slides/projects/user_edition_20261116` 初始化（16:9，quick-generate），导入讲稿/分镜/校对记录与表情包；Peter/黄仁勋照片、三页样稿缩略图与 12 款图标入库并登记 image_sources.json。
 - 从三页样稿提取主题色：米白 #F6F3EC、黑 #171715、红 #C50000、微软雅黑。SVG 页面 P01–P03 完成（提交 f52827a），P04 起逐轮推进；全部完成后跑 quick-generate checker 与导出、PowerPoint 渲染检查。
 
+## 补充八：29页全套导出与验证
+
+- P04–P29 全部完成；项目更名 `user_edition_ppt169_20261116`。SVG 质量检查 exit 0（0 错误）；image_sources.json 规范格式、spec_lock 字号角色登记、notes/total.md 生成并拆分。
+- 导出 `exports/user_edition_20261116.pptx`：29 页、29/29 讲者备注、postflight passed；SHA256 C523204453BBFB2310B733286AF0865A56A96E893DAC31E0F80CB61BFA262F18。
+- 本机 PowerPoint 12.0 逐页渲染 29/29 PNG 成功（preview/）；副本标题编辑、保存、重开持久化验证通过。验证记录 `verification.json`。
+- 剩余：用户逐页视觉确认、三处截图占位框替换、真人试讲计时、现场设备测试。
+
+
 
 
 

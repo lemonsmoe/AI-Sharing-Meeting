@@ -1,0 +1,19 @@
+{
+  "deck": "user_edition_20261116.pptx",
+  "path": "slides/projects/user_edition_ppt169_20261116/exports/user_edition_20261116.pptx",
+  "sha256": "C523204453BBFB2310B733286AF0865A56A96E893DAC31E0F80CB61BFA262F18",
+  "built_at": "2026-11-16T04:20:00+08:00",
+  "slides": 29,
+  "speaker_notes": "29/29 页已写入（来源 docs/content/swiss_script_20261115/speaker_notes_per_page.json）",
+  "svg_quality": "svg_quality_checker --quick-generate --canonical-authoring --stage final：exit 0，0 errors（warnings 为 ungrouped elements 与 <5% 轻微溢出，已全部人工核对无遮挡）",
+  "export_postflight": "passed-with-warnings, quality_gate=passed, slides=29",
+  "render": "本机 PowerPoint 12.0 逐页渲染 29/29 PNG 成功（preview/user_edition_01..29.png，1280x720）",
+  "native_edit": "副本编辑 P01 标题 → 保存 → 重开验证通过（PowerPoint COM）",
+  "structure": "flat，原生 TEXT_BOX/图片元素，可选中编辑",
+  "remaining": [
+    "用户逐页视觉确认（preview/ 目录可看）",
+    "第 07/17/21 页截图占位框由用户替换（豆包界面、Skill 文件夹、Codex 桌面端）",
+    "真人试讲计时（33 分钟预算 + 问答机动）",
+    "现场设备打开测试"
+  ]
+}
