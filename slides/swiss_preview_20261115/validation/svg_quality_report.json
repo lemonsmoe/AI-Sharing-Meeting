@@ -1,0 +1,295 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "final",
+  "target": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\slides\\swiss_preview_20261115",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "4038a61efa11d8f91b0b746002109f3beb1f2c3bbfd1b2b15d02dcfcd1c7f2fe",
+    "file_count": 3,
+    "files": [
+      {
+        "file": "01_cover.svg",
+        "sha256": "4d48b25c51efa6f002ba26d7377708fe3abe3baf5aaa784899ba2ea076fcfee3"
+      },
+      {
+        "file": "02_prompt.svg",
+        "sha256": "a645c77a25ade6880e6836019f4a89978784696f38bba5757b57ea96e675ab5a"
+      },
+      {
+        "file": "03_quote.svg",
+        "sha256": "9390605404c7e9a0975cf2a52edf18b77338d7b5481acbab7eff6272fb7d981f"
+      }
+    ]
+  },
+  "summary": {
+    "total": 3,
+    "passed": 3,
+    "warnings": 0,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 0,
+      "issues": []
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {},
+    "fonts": {},
+    "sizes": {}
+  },
+  "carrier_receipt": {
+    "scope": "informational-not-a-quota",
+    "pages": 3,
+    "totals": {
+      "text_elements": 16,
+      "image_placements": 2,
+      "icons": 0,
+      "svg_geometry_elements": 12,
+      "preset_shapes": 0,
+      "page_frame_elements": 5,
+      "marker_uses": 0,
+      "inline_emphasis_runs": 1,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "pages_with": {
+      "images": 2,
+      "icons": 0,
+      "presets": 0,
+      "charts": 0,
+      "tables": 0,
+      "formulas": 0,
+      "inline_emphasis_runs": 1,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "relationship_pages": 0,
+    "geometry_elements": {
+      "circle": 0,
+      "ellipse": 0,
+      "line": 6,
+      "path": 0,
+      "polygon": 0,
+      "polyline": 0,
+      "rect": 6
+    },
+    "preset_names": {},
+    "native_objects": {
+      "chart": 0,
+      "formula_block": 0,
+      "formula_inline": 0,
+      "other": 0,
+      "table": 0
+    },
+    "image_page_max_frame_share_range": [
+      0.1269,
+      0.2377
+    ]
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "01_cover.svg",
+      "path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\slides\\swiss_preview_20261115\\svg_output\\01_cover.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 3,
+          "images": {
+            "placements": 1,
+            "files": [
+              "prompt_slide.png"
+            ],
+            "max_frame_share": 0.2377
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 3,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "4d48b25c51efa6f002ba26d7377708fe3abe3baf5aaa784899ba2ea076fcfee3"
+    },
+    {
+      "file": "02_prompt.svg",
+      "path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\slides\\swiss_preview_20261115\\svg_output\\02_prompt.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 10,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 4,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 3,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 10,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "a645c77a25ade6880e6836019f4a89978784696f38bba5757b57ea96e675ab5a"
+    },
+    {
+      "file": "03_quote.svg",
+      "path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\slides\\swiss_preview_20261115\\svg_output\\03_quote.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 3,
+          "images": {
+            "placements": 1,
+            "files": [
+              "peter_steinberger.jpg"
+            ],
+            "max_frame_share": 0.1269
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 1,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 3,
+        "tspan_elements": 7
+      },
+      "passed": true,
+      "source_sha256": "9390605404c7e9a0975cf2a52edf18b77338d7b5481acbab7eff6272fb7d981f"
+    }
+  ]
+}

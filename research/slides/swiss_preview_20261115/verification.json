@@ -1,0 +1,54 @@
+{
+  "file": "swiss_preview_20261115_231045.pptx",
+  "sha256": "0c0e1b00ff592995c7dac182e99df8fb59f0ec2ccc83d6dcbe4a468bee0ba833",
+  "slides": [
+    {
+      "slide": 1,
+      "native_text_boxes": 4,
+      "embedded_pictures": 1,
+      "run_sizes_pt": [
+        18.0,
+        24.0,
+        43.5
+      ],
+      "notes_body": true,
+      "preview": {
+        "filename": "slide_01.png",
+        "sha256": "c983608cb9044104a55d77176c5fbe28935e21895f22111e793d50f142ec0731"
+      }
+    },
+    {
+      "slide": 2,
+      "native_text_boxes": 11,
+      "embedded_pictures": 0,
+      "run_sizes_pt": [
+        18.0,
+        24.0,
+        43.5
+      ],
+      "notes_body": true,
+      "preview": {
+        "filename": "slide_02.png",
+        "sha256": "7c8f07f49191ebe8e55b56605eceeeec18934250bd59bf63a70e3867b7e95aff"
+      }
+    },
+    {
+      "slide": 3,
+      "native_text_boxes": 6,
+      "embedded_pictures": 1,
+      "run_sizes_pt": [
+        18.0,
+        24.0,
+        43.5
+      ],
+      "notes_body": true,
+      "preview": {
+        "filename": "slide_03.png",
+        "sha256": "eb37760a546def0fb02f68ffe5eb83caa378e7390f2b0411fa2b115a261c44bb"
+      }
+    }
+  ],
+  "embedded_capture_matches_final_slide_2_pixels": true,
+  "powerpoint_title_saved_and_reopened": true,
+  "font": "Microsoft YaHei (Latin, East Asian and Hans script mapping)"
+}

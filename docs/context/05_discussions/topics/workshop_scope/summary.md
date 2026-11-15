@@ -1,9 +1,170 @@
 ---
 {
   "topic": "workshop_scope",
-  "title": "跨机同步当前成果并提供新Agent接续",
-  "abstract": "11月15日用户授权上传GitHub；三页与30页文字稿阶段完成，用户视觉/全套PPT/试讲仍待，ChatGPT用户后补。",
+  "title": "Swiss成果保存与新Agent接续",
+  "abstract": "用户要求Git保存后交另一Agent推进细节；最新版三页和30页讲稿已交，视觉反馈、办公案例与整套PPT仍待。",
   "points": [
+    {
+      "kind": "user_confirmed",
+      "text": "用户要求先Git保存当前工作并提供接续提示词，计划让另一个Agent尝试接手、推进细节。",
+      "sources": [
+        "note_a0d48efbc9c77ced30da#0"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "最新同机接续提示已写docs/handoff/continue_prompt_swiss_20261115.md，明确使用231045三页和swiss_script_20261115文字包；技术通过不等于用户视觉认可，办公案例未定；保留本机绑定与真实身份，不自动恢复旧目标。",
+      "sources": [
+        "note_a0d48efbc9c77ced30da#1"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "新三页样稿swiss_preview_20261115_231045.pptx已交，主对话已看最终全部3图，核三页备注、单字体三字号主题、真实原话来源及制作聊天的PowerPoint副本回存证据；截图内容为图片不冒充原生表格。技术阶段通过，用户尚未视觉评价。",
+      "sources": [
+        "note_c21a6e53b194190a525f#0"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "swiss_script_20261115已完成30页分镜与照读稿、来源和三种办公案例候选；主对话读全稿并独立核30页页题一致、2880秒预算。表情包原件、用户办公案例选择、全套PPT和备注合稿、真实试讲与现场设备仍待。",
+      "sources": [
+        "note_c21a6e53b194190a525f#1"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "第8–12页用活动通知从周三改周五的虚构例子串起任务、背景、样例、修改与回源。标明教学示意，避免提前定成公司的办公案例。",
+      "sources": [
+        "note_5d62f00c279ca7fde19b#0"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "第14–15、20–21页备选三种教学示例：用现有模拟会议核一条改期及采购状态；用公开说明做带出处对照表；用虚构 Excel 数据复核口径。未经选择，正稿沿用通用操作。",
+      "sources": [
+        "note_5d62f00c279ca7fde19b#1"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "公司表情包素材若赶不上，可保留短讲，按用途、手机缩小检查和系列一致性讲实际做法；有图再替换素材位。第24页若新版原生表格尚未核，可用已测第一轮版本并清楚标注。",
+      "sources": [
+        "note_5d62f00c279ca7fde19b#2"
+      ]
+    },
+    {
+      "kind": "user_confirmed",
+      "text": "用户已采用30页顺序：成果→简单原理→提示词→办公Agent/Skill→会议/PPT→生图视频→费用与展望；具体案例仍需确认。",
+      "sources": [
+        "note_578c611bf14fb32b3a48#0"
+      ]
+    },
+    {
+      "kind": "user_confirmed",
+      "text": "用户否决旧三页混乱、文字多、结构不工整、AI味重；要求单一字体风格、两至三档字号、一至三种配色、去掉左下角固定小字标题；更多图片和实际界面。",
+      "sources": [
+        "note_578c611bf14fb32b3a48#1"
+      ]
+    },
+    {
+      "kind": "user_confirmed",
+      "text": "公司模板为底，更多参考米白红黑Swiss Grid；指定网站及下载目录PPTX，要求复制到项目。先准备依赖、按新风格做三页，同时推进讲稿，并自行看图迭代。",
+      "sources": [
+        "note_578c611bf14fb32b3a48#2"
+      ]
+    },
+    {
+      "kind": "user_confirmed",
+      "text": "本次PPT和公司表情包案例可以使用；表情包用户稍后补。办公案例还需讨论，未批准为实际公司展示案例。",
+      "sources": [
+        "note_578c611bf14fb32b3a48#3"
+      ]
+    },
+    {
+      "kind": "user_confirmed",
+      "text": "用户要求人物照片配英上中下的名人原话；具体人物和话由Agent调查判断，不必局限吴恩达、黄仁勋、OpenClaw创建者这几个举例。",
+      "sources": [
+        "note_578c611bf14fb32b3a48#4"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "三页重做采用成果开场、提示词交代任务、人物引语。全套至多两处引语：Peter关于连妈妈都会用的Agent之目标引入办公；黄仁勋任务与目的的原话用于结尾。引语是观点，不是实测证据。详见quote_sources.md；新三页尚待用户视觉评价。",
+      "sources": [
+        "note_578c611bf14fb32b3a48#5"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "Swiss参考已复制并核哈希；公司17页/Swiss14页已PowerPoint渲染并主对话看全页缩略图；旧样稿第一页实际两字体五字号。两个可见聊天已实际创建并运行，先前审批策略导致创建失败已解除。当前三页制作和30页讲稿并行，未恢复旧目标。",
+      "sources": [
+        "note_578c611bf14fb32b3a48#6"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "Peter个人博客2026-02-14核实18词原话，原始肖像来自本人网站；NVIDIA FY2026报告印刷第4页核实黄仁勋9词原话，语境和中文自译已存docs/content/swiss_revision_20261115/quote_sources.md。照片特定授权未另行核实，不标已获授权。",
+      "sources": [
+        "note_578c611bf14fb32b3a48#7"
+      ]
+    },
+    {
+      "text": "用户要求拉取最新仓库并在当前本机接续；最低交付为PPT和能直接照读的讲稿，总投入约6–7小时，11月16日下午分享且9点上班前需留睡眠时间。",
+      "sources": [
+        "note_931b3d25b943b4d0250b#0"
+      ],
+      "kind": "user_confirmed"
+    },
+    {
+      "text": "以本机公司分享.md为新内容参考，顺序可重构但先与用户讨论；具体公司案例与审美由用户决定。要求熟悉具体的生活/工作实例、补足来源、优先公司模板、简约克制科技感、少文字多有效图片并逐页视觉检查。",
+      "sources": [
+        "note_931b3d25b943b4d0250b#1"
+      ],
+      "kind": "user_confirmed"
+    },
+    {
+      "text": "本机快进7b2c38f到2de4405，保留两份原有本机绑定配置，不重复迁移。三页PPT哈希匹配，ZIP无错、3页3备注；分镜讲稿各30页，文字包31个本地链接无缺失；Master13,090文件校验恢复且guard通过。详见docs/content/local_resume_20261115/review_and_proposal.md。",
+      "sources": [
+        "note_931b3d25b943b4d0250b#2"
+      ],
+      "kind": "observation"
+    },
+    {
+      "text": "早期记录，最新选择和执行情况见本总结前列11月15日确认：候选30页重排：1–3成果4分钟；4–7模型/平台/原理/方向6分钟；8–12提示词8分钟；13–18办公Agent和Skill10分钟；19–24会议与PPT10分钟；25–27生图视频能力5分钟；28–30费用部署、边界与展望5分钟。共48分钟，未获用户确认。开场只展示成果，操作细节后讲；压缩重复名词，视频仅介绍不制作。",
+      "sources": [
+        "note_931b3d25b943b4d0250b#3"
+      ],
+      "kind": "proposal"
+    },
+    {
+      "text": "早期记录，最新选择和执行情况见本总结前列11月15日确认：建议以公司模板为底，借鉴新参考图网格与留白，统一无衬线字体、少量强调色，增加界面和成果图片。已实际看三页，认为前两页文字和概念密度仍高；不将技术通过当审美认可。",
+      "sources": [
+        "note_931b3d25b943b4d0250b#4"
+      ],
+      "kind": "proposal"
+    },
+    {
+      "text": "早期记录，最新选择和执行情况见本总结前列11月15日确认：案例候选为本次PPT制作、公司AI表情包、已有模拟会议纪要、多份资料整理成对比表；已发问题等待用户选择，未定稿。公司表情包和具体软件成果仍需定位；拟补国内产品例子和学习链接，不承诺无证据排名或效率提升。",
+      "sources": [
+        "note_931b3d25b943b4d0250b#5"
+      ],
+      "kind": "proposal"
+    },
+    {
+      "text": "早期记录，最新选择和执行情况见本总结前列11月15日确认：可见子聊天创建失败，工具返回MCP tool call requires approval, but approval policy is never；主对话继续，未创建隐藏替代。当前可用Python缺PPT导出依赖，本机Office尚未验证；属于环境准备缺口，不是交接文件缺失。",
+      "sources": [
+        "note_931b3d25b943b4d0250b#6"
+      ],
+      "kind": "observation"
+    },
+    {
+      "text": "6–7小时候选分配：半小时共同确认结构视觉案例，1小时内容素材，3小时制作同步讲稿，1小时检查修订，余量用于交付试读。提供逐页可直接照读正文和过渡，来源与制作审计另置附注；具体时间未承诺。",
+      "sources": [
+        "note_931b3d25b943b4d0250b#7"
+      ],
+      "kind": "proposal"
+    },
     {
       "kind": "user_confirmed",
       "text": "用户授权将当前项目进度提交上传既有GitHub仓库，准备另一台电脑新主对话接续提示。",
@@ -601,8 +762,12 @@
     }
   ],
   "omitted": [],
-  "notes_revision": "43c512ea2a7a794a4d1d",
+  "notes_revision": "c8ec18fd3a8eefe2035d",
   "note_fingerprints": {
+    "note_578c611bf14fb32b3a48": "9fd65e43c7c107796943069d9acdf547232dc4403e40c9f366f76e4b953c36dc",
+    "note_931b3d25b943b4d0250b": "7c140f90fc2c60f21d091d0f38f3a2c683ded4fd51060fd23499ce8af6b5faf0",
+    "note_a0d48efbc9c77ced30da": "314e3082803f35f18b12e9eecb1426a4b92fa72510c2b1252adff09c8d047485",
+    "note_c21a6e53b194190a525f": "b9e742fe73e164287bb489c7c2e0a0ed280288b6da83b21a81b7d56a5dcabfd7",
     "note_02aa3acfed2f72a17eac": "f76af866fbea412bf9ddc2c0209e2f0489f91d53a72193284be249e2b1ce1164",
     "note_0dc83188107ecb0aedf0": "e3c5ca1386ef93767be918b95d192d3f179443ebe08e434ead3d5f6b665eb135",
     "note_1ed6889e469a145c1b87": "1a80c6fb917cd48db89f6b68ebd96d311a95e13d4bee36f787c3df3032cde1a3",
@@ -625,7 +790,8 @@
     "note_ce24b54d16fc4e6b084e": "5774f1ca74b1c1ddec479af7e934ab43452044a6f4915f1aa3ecd37056d40c3a",
     "note_d37bc9ae97c53dea348b": "72caac8c9c37f3db7c14bacdf815b34f8108ac92df40c996738a82b5b19991ad",
     "note_ec0322a580e87617b29d": "06a35446e4de331d544d4ebc5a41d99e72b55557223270e063f4652172ff2b36",
-    "note_eeb6fc1067eee5afdde8": "04cf27334d0ca49b91353f21ec182b86beada111e210d6b04d58eae7ca69f43e"
+    "note_eeb6fc1067eee5afdde8": "04cf27334d0ca49b91353f21ec182b86beada111e210d6b04d58eae7ca69f43e",
+    "note_5d62f00c279ca7fde19b": "9db3c2f86076c9f31fea53446659986d64dae4bff1ca391297eff6249a91a8d8"
   },
   "covered_sources": [
     "note_02aa3acfed2f72a17eac#0",
@@ -665,6 +831,14 @@
     "note_55c8389ff08e05287496#0",
     "note_55c8389ff08e05287496#1",
     "note_55c8389ff08e05287496#2",
+    "note_578c611bf14fb32b3a48#0",
+    "note_578c611bf14fb32b3a48#1",
+    "note_578c611bf14fb32b3a48#2",
+    "note_578c611bf14fb32b3a48#3",
+    "note_578c611bf14fb32b3a48#4",
+    "note_578c611bf14fb32b3a48#5",
+    "note_578c611bf14fb32b3a48#6",
+    "note_578c611bf14fb32b3a48#7",
     "note_5aba8181bbcf648f7095#0",
     "note_5aba8181bbcf648f7095#1",
     "note_5aba8181bbcf648f7095#2",
@@ -673,21 +847,36 @@
     "note_5c272d1890cf6bd7e145#1",
     "note_5c272d1890cf6bd7e145#2",
     "note_5c272d1890cf6bd7e145#3",
+    "note_5d62f00c279ca7fde19b#0",
+    "note_5d62f00c279ca7fde19b#1",
+    "note_5d62f00c279ca7fde19b#2",
     "note_6a52f1d6f7b58a6652b0#0",
     "note_6a52f1d6f7b58a6652b0#1",
     "note_6a52f1d6f7b58a6652b0#2",
     "note_71e318b5d3e23bba7170#0",
     "note_7f0e110148b34b678f78#0",
+    "note_931b3d25b943b4d0250b#0",
+    "note_931b3d25b943b4d0250b#1",
+    "note_931b3d25b943b4d0250b#2",
+    "note_931b3d25b943b4d0250b#3",
+    "note_931b3d25b943b4d0250b#4",
+    "note_931b3d25b943b4d0250b#5",
+    "note_931b3d25b943b4d0250b#6",
+    "note_931b3d25b943b4d0250b#7",
     "note_9b66da69e3916cc7468c#0",
     "note_9b66da69e3916cc7468c#1",
     "note_9b66da69e3916cc7468c#2",
     "note_9b66da69e3916cc7468c#3",
     "note_9b66da69e3916cc7468c#4",
     "note_9b66da69e3916cc7468c#5",
+    "note_a0d48efbc9c77ced30da#0",
+    "note_a0d48efbc9c77ced30da#1",
     "note_acd3d02e74ca1dc78fd4#0",
     "note_acd3d02e74ca1dc78fd4#1",
     "note_acd3d02e74ca1dc78fd4#2",
     "note_c0b137b45ea078ed552c#0",
+    "note_c21a6e53b194190a525f#0",
+    "note_c21a6e53b194190a525f#1",
     "note_cb2fc9572f3ca670af95#0",
     "note_cb2fc9572f3ca670af95#1",
     "note_cb2fc9572f3ca670af95#2",
@@ -714,20 +903,28 @@
     "note_eeb6fc1067eee5afdde8#1",
     "note_eeb6fc1067eee5afdde8#2"
   ],
-  "author_thread": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
-  "updated_at": "2026-11-15T13:41:25+00:00",
+  "author_thread": "01a1b28a-425f-7a03-8728-e93cfa030f78",
+  "updated_at": "2026-11-15T15:38:44+00:00",
   "path": "docs/context/05_discussions/topics/workshop_scope/summary.md"
 }
 ---
 
-# 跨机同步当前成果并提供新Agent接续
+# Swiss成果保存与新Agent接续
 
-11月15日用户授权上传GitHub；三页与30页文字稿阶段完成，用户视觉/全套PPT/试讲仍待，ChatGPT用户后补。
+用户要求Git保存后交另一Agent推进细节；最新版三页和30页讲稿已交，视觉反馈、办公案例与整套PPT仍待。
 
 此文件整理讨论，不代表方案获准实施。引用可追溯到独立记录。
 
 ## 候选方案
 
+- 第8–12页用活动通知从周三改周五的虚构例子串起任务、背景、样例、修改与回源。标明教学示意，避免提前定成公司的办公案例。（[note_5d62f00c279ca7fde19b#0](notes/d2434b96f40978573f8a/note_5d62f00c279ca7fde19b.md)）
+- 第14–15、20–21页备选三种教学示例：用现有模拟会议核一条改期及采购状态；用公开说明做带出处对照表；用虚构 Excel 数据复核口径。未经选择，正稿沿用通用操作。（[note_5d62f00c279ca7fde19b#1](notes/d2434b96f40978573f8a/note_5d62f00c279ca7fde19b.md)）
+- 公司表情包素材若赶不上，可保留短讲，按用途、手机缩小检查和系列一致性讲实际做法；有图再替换素材位。第24页若新版原生表格尚未核，可用已测第一轮版本并清楚标注。（[note_5d62f00c279ca7fde19b#2](notes/d2434b96f40978573f8a/note_5d62f00c279ca7fde19b.md)）
+- 三页重做采用成果开场、提示词交代任务、人物引语。全套至多两处引语：Peter关于连妈妈都会用的Agent之目标引入办公；黄仁勋任务与目的的原话用于结尾。引语是观点，不是实测证据。详见quote_sources.md；新三页尚待用户视觉评价。（[note_578c611bf14fb32b3a48#5](notes/797010131a2f840fd8f7/note_578c611bf14fb32b3a48.md)）
+- 早期记录，最新选择和执行情况见本总结前列11月15日确认：候选30页重排：1–3成果4分钟；4–7模型/平台/原理/方向6分钟；8–12提示词8分钟；13–18办公Agent和Skill10分钟；19–24会议与PPT10分钟；25–27生图视频能力5分钟；28–30费用部署、边界与展望5分钟。共48分钟，未获用户确认。开场只展示成果，操作细节后讲；压缩重复名词，视频仅介绍不制作。（[note_931b3d25b943b4d0250b#3](notes/797010131a2f840fd8f7/note_931b3d25b943b4d0250b.md)）
+- 早期记录，最新选择和执行情况见本总结前列11月15日确认：建议以公司模板为底，借鉴新参考图网格与留白，统一无衬线字体、少量强调色，增加界面和成果图片。已实际看三页，认为前两页文字和概念密度仍高；不将技术通过当审美认可。（[note_931b3d25b943b4d0250b#4](notes/797010131a2f840fd8f7/note_931b3d25b943b4d0250b.md)）
+- 早期记录，最新选择和执行情况见本总结前列11月15日确认：案例候选为本次PPT制作、公司AI表情包、已有模拟会议纪要、多份资料整理成对比表；已发问题等待用户选择，未定稿。公司表情包和具体软件成果仍需定位；拟补国内产品例子和学习链接，不承诺无证据排名或效率提升。（[note_931b3d25b943b4d0250b#5](notes/797010131a2f840fd8f7/note_931b3d25b943b4d0250b.md)）
+- 6–7小时候选分配：半小时共同确认结构视觉案例，1小时内容素材，3小时制作同步讲稿，1小时检查修订，余量用于交付试读。提供逐页可直接照读正文和过渡，来源与制作审计另置附注；具体时间未承诺。（[note_931b3d25b943b4d0250b#7](notes/797010131a2f840fd8f7/note_931b3d25b943b4d0250b.md)）
 - 主对话迁移方案：同步成果/研究/讨论/任务历史，排除平台依赖与登录态；归档实际使用的Master 6.9.0完整源码及许可、逐文件校验来避免重新下载main漂移。源码无已核上游commit，不宣称上游提交固定。（[note_55c8389ff08e05287496#1](notes/9a0b58d5b0351daa7a8b/note_55c8389ff08e05287496.md)）
 - 主对话演讲编辑建议已落实：反复审核与未验证说明放到来源/备注和必要标签，台上用讲者本人视角讲工作与成果，避免持续朗读制作审计。（[note_6a52f1d6f7b58a6652b0#1](notes/9a0b58d5b0351daa7a8b/note_6a52f1d6f7b58a6652b0.md)）
 - 接下来先看三页风格和30页分镜，再扩全套并对应讲者备注；本人跟做和整场计时仍需补齐。ChatGPT产品测试留用户后补，不阻塞PPT制作；研究没有实测的不写成最终主推。（[note_6a52f1d6f7b58a6652b0#2](notes/9a0b58d5b0351daa7a8b/note_6a52f1d6f7b58a6652b0.md)）
@@ -767,6 +964,13 @@
 
 ## 观察或调研结果
 
+- 最新同机接续提示已写docs/handoff/continue_prompt_swiss_20261115.md，明确使用231045三页和swiss_script_20261115文字包；技术通过不等于用户视觉认可，办公案例未定；保留本机绑定与真实身份，不自动恢复旧目标。（[note_a0d48efbc9c77ced30da#1](notes/797010131a2f840fd8f7/note_a0d48efbc9c77ced30da.md)）
+- 新三页样稿swiss_preview_20261115_231045.pptx已交，主对话已看最终全部3图，核三页备注、单字体三字号主题、真实原话来源及制作聊天的PowerPoint副本回存证据；截图内容为图片不冒充原生表格。技术阶段通过，用户尚未视觉评价。（[note_c21a6e53b194190a525f#0](notes/797010131a2f840fd8f7/note_c21a6e53b194190a525f.md)）
+- swiss_script_20261115已完成30页分镜与照读稿、来源和三种办公案例候选；主对话读全稿并独立核30页页题一致、2880秒预算。表情包原件、用户办公案例选择、全套PPT和备注合稿、真实试讲与现场设备仍待。（[note_c21a6e53b194190a525f#1](notes/797010131a2f840fd8f7/note_c21a6e53b194190a525f.md)）
+- Swiss参考已复制并核哈希；公司17页/Swiss14页已PowerPoint渲染并主对话看全页缩略图；旧样稿第一页实际两字体五字号。两个可见聊天已实际创建并运行，先前审批策略导致创建失败已解除。当前三页制作和30页讲稿并行，未恢复旧目标。（[note_578c611bf14fb32b3a48#6](notes/797010131a2f840fd8f7/note_578c611bf14fb32b3a48.md)）
+- Peter个人博客2026-02-14核实18词原话，原始肖像来自本人网站；NVIDIA FY2026报告印刷第4页核实黄仁勋9词原话，语境和中文自译已存docs/content/swiss_revision_20261115/quote_sources.md。照片特定授权未另行核实，不标已获授权。（[note_578c611bf14fb32b3a48#7](notes/797010131a2f840fd8f7/note_578c611bf14fb32b3a48.md)）
+- 本机快进7b2c38f到2de4405，保留两份原有本机绑定配置，不重复迁移。三页PPT哈希匹配，ZIP无错、3页3备注；分镜讲稿各30页，文字包31个本地链接无缺失；Master13,090文件校验恢复且guard通过。详见docs/content/local_resume_20261115/review_and_proposal.md。（[note_931b3d25b943b4d0250b#2](notes/797010131a2f840fd8f7/note_931b3d25b943b4d0250b.md)）
+- 早期记录，最新选择和执行情况见本总结前列11月15日确认：可见子聊天创建失败，工具返回MCP tool call requires approval, but approval policy is never；主对话继续，未创建隐藏替代。当前可用Python缺PPT导出依赖，本机Office尚未验证；属于环境准备缺口，不是交接文件缺失。（[note_931b3d25b943b4d0250b#6](notes/797010131a2f840fd8f7/note_931b3d25b943b4d0250b.md)）
 - 独立只读复核指出旧新机交接仍写全部暂停、Master本体被忽略、runtime_dependencies尚未排除。本轮已更新交接和忽略规则，保留三页未获用户审美认可、全稿未制作、ChatGPT测试由用户后补边界。（[note_55c8389ff08e05287496#2](notes/9a0b58d5b0351daa7a8b/note_55c8389ff08e05287496.md)）
 - Master三页修订版已生成，主对话查看native_validation_v2全部原生图并核PPTX哈希、3页3备注和原生表格；初版关系图标签和表格间距问题修正。30页完整文字包已交，主对话读稿及来源、核48分钟预算，阶段任务accepted。未代用户认可审美、未制作整套新PPT、未真人试讲。（[note_6a52f1d6f7b58a6652b0#0](notes/9a0b58d5b0351daa7a8b/note_6a52f1d6f7b58a6652b0.md)）
 - 11月11日原生Edge访问因URL置信度保护终止，没有网页提交回执或新成果；11月12日已把截图需求写入resume_brief并实际派发子对话4制作和子对话2讲稿，工具快照确认两者active。主对话旧goal仍paused，普通任务运行不等于目标状态恢复。（[note_0dc83188107ecb0aedf0#4](notes/9a0b58d5b0351daa7a8b/note_0dc83188107ecb0aedf0.md)）
@@ -803,6 +1007,14 @@
 
 ## 用户已确认
 
+- 用户要求先Git保存当前工作并提供接续提示词，计划让另一个Agent尝试接手、推进细节。（[note_a0d48efbc9c77ced30da#0](notes/797010131a2f840fd8f7/note_a0d48efbc9c77ced30da.md)）
+- 用户已采用30页顺序：成果→简单原理→提示词→办公Agent/Skill→会议/PPT→生图视频→费用与展望；具体案例仍需确认。（[note_578c611bf14fb32b3a48#0](notes/797010131a2f840fd8f7/note_578c611bf14fb32b3a48.md)）
+- 用户否决旧三页混乱、文字多、结构不工整、AI味重；要求单一字体风格、两至三档字号、一至三种配色、去掉左下角固定小字标题；更多图片和实际界面。（[note_578c611bf14fb32b3a48#1](notes/797010131a2f840fd8f7/note_578c611bf14fb32b3a48.md)）
+- 公司模板为底，更多参考米白红黑Swiss Grid；指定网站及下载目录PPTX，要求复制到项目。先准备依赖、按新风格做三页，同时推进讲稿，并自行看图迭代。（[note_578c611bf14fb32b3a48#2](notes/797010131a2f840fd8f7/note_578c611bf14fb32b3a48.md)）
+- 本次PPT和公司表情包案例可以使用；表情包用户稍后补。办公案例还需讨论，未批准为实际公司展示案例。（[note_578c611bf14fb32b3a48#3](notes/797010131a2f840fd8f7/note_578c611bf14fb32b3a48.md)）
+- 用户要求人物照片配英上中下的名人原话；具体人物和话由Agent调查判断，不必局限吴恩达、黄仁勋、OpenClaw创建者这几个举例。（[note_578c611bf14fb32b3a48#4](notes/797010131a2f840fd8f7/note_578c611bf14fb32b3a48.md)）
+- 用户要求拉取最新仓库并在当前本机接续；最低交付为PPT和能直接照读的讲稿，总投入约6–7小时，11月16日下午分享且9点上班前需留睡眠时间。（[note_931b3d25b943b4d0250b#0](notes/797010131a2f840fd8f7/note_931b3d25b943b4d0250b.md)）
+- 以本机公司分享.md为新内容参考，顺序可重构但先与用户讨论；具体公司案例与审美由用户决定。要求熟悉具体的生活/工作实例、补足来源、优先公司模板、简约克制科技感、少文字多有效图片并逐页视觉检查。（[note_931b3d25b943b4d0250b#1](notes/797010131a2f840fd8f7/note_931b3d25b943b4d0250b.md)）
 - 用户授权将当前项目进度提交上传既有GitHub仓库，准备另一台电脑新主对话接续提示。（[note_55c8389ff08e05287496#0](notes/9a0b58d5b0351daa7a8b/note_55c8389ff08e05287496.md)）
 - ChatGPT测试由用户之后单独完成，停止当前登录排查；研究聊天继续其他工作，PPT与讲稿不等待登录。（[note_c0b137b45ea078ed552c#0](notes/9a0b58d5b0351daa7a8b/note_c0b137b45ea078ed552c.md)）
 - 用户提供填写截图：全体部门及领导；主要任务是工具介绍、拓宽知识面和科普，副任务是教学培训。覆盖AI+PPT、AI+会议纪要、Codex/WorkBuddy办公Agent，解释如何开始、可选工具、收获及人机协作；提示词和找Skill仍是重要方法。（[note_0dc83188107ecb0aedf0#0](notes/9a0b58d5b0351daa7a8b/note_0dc83188107ecb0aedf0.md)）

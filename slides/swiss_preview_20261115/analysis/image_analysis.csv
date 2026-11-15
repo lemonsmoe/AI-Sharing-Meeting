@@ -1,0 +1,3 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,peter_steinberger.jpg,460,460,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,35.4,Near square
+2,prompt_slide.png,1280,720,1.78,1.78,,native,PNG,False,1,,bitmap,True,True,62.4,Wide landscape

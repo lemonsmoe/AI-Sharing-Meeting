@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="section" font-family="Microsoft YaHei">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F3EC" />
+  <g id="portrait" data-pptx-bounds="72 180 342 342">
+    <image x="72" y="180" width="342" height="342" href="../images/peter_steinberger.jpg" preserveAspectRatio="xMidYMid meet" />
+  </g>
+  <g id="original-quote" data-pptx-bounds="462 115 746 260">
+    <rect x="462" y="121" width="64" height="6" fill="#C50000" />
+    <text x="462" y="201" fill="#171715" font-size="58" font-weight="700"><tspan x="462" y="201">My next mission is</tspan><tspan x="462" y="275">to build an agent that</tspan><tspan x="462" y="349">even my mum can use.</tspan></text>
+  </g>
+  <g id="translation" data-pptx-bounds="462 391 746 108">
+    <text x="462" y="431" fill="#171715" font-size="32"><tspan x="462" y="431">我的下一个目标，是做出一个</tspan><tspan x="462" y="480">连我妈妈也会用的智能体。</tspan></text>
+  </g>
+  <g id="attribution" data-pptx-bounds="462 525 748 66">
+    <line x1="462" y1="529" x2="1208" y2="529" stroke="#171715" stroke-opacity="0.25" stroke-width="1.5" />
+    <text x="462" y="574" fill="#171715" font-size="24"><tspan font-weight="700">Peter Steinberger</tspan><tspan>　OpenClaw 创始人</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,3 @@
+二〇二六年二月十四日，OpenClaw 的创始人 Peter Steinberger 在自己的博客里写过一句话。中文是，我的下一个目标，是做出一个连我妈妈也会用的智能体。这里他说的是他的下一步目标。我提到这句话，是因为我们聊办公智能体时，也可以先从自己手头的工作想起。比如要准备一次汇报，你告诉它讲给谁、底稿在哪儿、最后要交什么，再看它能帮你完成其中哪几步。接下来我们就从一个具体任务看看，交给智能体的工作是怎么往前走的。
+
+【来源备查】Peter Steinberger，2026-02-14。英文原句：“My next mission is to build an agent that even my mum can use.” 中文为本项目自译：“我的下一个目标，是做出一个连我妈妈也会用的智能体。” 原文 https://steipete.me/posts/2026/openclaw ，人物照片 https://steipete.me/ 。

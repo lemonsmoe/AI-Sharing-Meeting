@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="cover" font-family="Microsoft YaHei">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F3EC" />
+  <g id="headline" data-pptx-bounds="72 184 490 308">
+    <rect x="72" y="191" width="64" height="6" fill="#C50000" />
+    <text x="72" y="303" fill="#171715" font-size="58" font-weight="700"><tspan x="72" y="303">AI 怎样帮我们</tspan><tspan x="72" y="378">把工作做完？</tspan></text>
+    <text x="72" y="465" fill="#171715" font-size="32">这次分享的 PPT，就是例子。</text>
+  </g>
+  <g id="deliverable" data-pptx-bounds="580 193 632 427">
+    <image x="584" y="197" width="624" height="351" href="../images/prompt_slide.png" preserveAspectRatio="xMidYMid meet" />
+    <rect x="584" y="197" width="624" height="351" fill="none" stroke="#171715" stroke-opacity="0.35" stroke-width="1.5" />
+    <line x1="584" y1="548" x2="732" y2="548" stroke="#C50000" stroke-width="4" />
+    <text x="584" y="595" fill="#171715" font-size="24">样稿第 2 页</text>
+  </g>
+</svg>

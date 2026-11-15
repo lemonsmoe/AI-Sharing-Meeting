@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12",
-  "manager_thread_id": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+  "updated_at": "2026-11-15",
+  "manager_thread_id": "01a1b28a-425f-7a03-8728-e93cfa030f78",
   "threads": [
     {
       "threadId": "01a1b055-a375-70b3-8d32-6b3241c40d52",
@@ -64,7 +64,31 @@
       "last_observed_at": "2026-11-12",
       "brief": "docs/planning/office_agent_benchmark_20261109.md",
       "current_stage": "workbuddy_entry_found_not_logged_in_chatgpt_user_later"
+    },
+    {
+      "threadId": "01a1dfb9-8db8-7132-8f03-75a1046f40d6",
+      "hostId": "local",
+      "slug": "swiss_preview_local",
+      "title": "三页重做：Swiss Grid 视觉与 PPT Master",
+      "goal_status": "not_created",
+      "last_observed_thread_status": "idle",
+      "last_observed_at": "2026-11-15",
+      "scope": "slides/swiss_preview_20261115;research/slides/swiss_preview_20261115;.context_runtime/ppt_master_env",
+      "status": "idle",
+      "delivery_status": "stage_reviewed"
+    },
+    {
+      "threadId": "01a1dfb9-8ef0-7681-8152-9732ce5ade1f",
+      "hostId": "local",
+      "slug": "swiss_script_local",
+      "title": "讲稿推进：30 页生活化口语与来源补齐",
+      "goal_status": "not_created",
+      "last_observed_thread_status": "idle",
+      "last_observed_at": "2026-11-15",
+      "scope": "docs/content/swiss_script_20261115",
+      "status": "idle",
+      "delivery_status": "stage_reviewed"
     }
   ],
-  "verification": "2026-11-12最终wait_threads：子对话4/2完成本轮并idle，三页和30页文字稿由主对话阶段验收；子对话6完成入口核对后idle，WorkBuddy有在线入口但未登录/实测，ChatGPT由用户后补。没有把任何聊天说成仍在后台测试。旧目标状态paused/blocked保持真实记录。"
+  "verification": "2026-11-15本机wait_threads：Swiss三页与新30页讲稿聊天均completed并idle，主对话已阶段审阅；用户视觉反馈与办公案例仍待。其他聊天状态为历史记录，不据此恢复旧目标或任务。"
 }

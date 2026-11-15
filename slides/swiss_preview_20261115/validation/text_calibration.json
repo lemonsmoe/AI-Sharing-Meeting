@@ -1,0 +1,70 @@
+{
+  "roles": {
+    "body": {
+      "family": "Microsoft YaHei",
+      "size": 32.0,
+      "weight": "normal",
+      "cjk_chars_per_100px": 2.9,
+      "latin_chars_per_100px": 6.1,
+      "caps_chars_per_100px": 5.6,
+      "digits_chars_per_100px": 5.4,
+      "citation_chars_per_100px": 5.6,
+      "script_clusters_per_100px": {},
+      "longest_planned_line": {
+        "px": 1516.0,
+        "slide": "P02",
+        "text": "听众是全体同事，分享少于一小时。参考公司模板和 Swiss Grid。交付可编…"
+      }
+    },
+    "title": {
+      "family": "Microsoft YaHei",
+      "size": 58.0,
+      "weight": "normal",
+      "cjk_chars_per_100px": 1.6,
+      "latin_chars_per_100px": 3.3,
+      "caps_chars_per_100px": 3.1,
+      "digits_chars_per_100px": 3.0,
+      "citation_chars_per_100px": 3.1,
+      "script_clusters_per_100px": {},
+      "longest_planned_line": {
+        "px": 1883.5,
+        "slide": "P03",
+        "text": "My next mission is to build an agent th…"
+      }
+    },
+    "subtitle": {
+      "family": "Microsoft YaHei",
+      "size": 32.0,
+      "weight": "normal",
+      "cjk_chars_per_100px": 2.9,
+      "latin_chars_per_100px": 6.1,
+      "caps_chars_per_100px": 5.6,
+      "digits_chars_per_100px": 5.4,
+      "citation_chars_per_100px": 5.6,
+      "script_clusters_per_100px": {},
+      "longest_planned_line": {
+        "px": 798.2,
+        "slide": "P02",
+        "text": "明确听众和时长，告诉 AI 看哪些资料，说明交付物。"
+      }
+    },
+    "annotation": {
+      "family": "Microsoft YaHei",
+      "size": 24.0,
+      "weight": "normal",
+      "cjk_chars_per_100px": 3.9,
+      "latin_chars_per_100px": 8.1,
+      "caps_chars_per_100px": 7.5,
+      "digits_chars_per_100px": 7.1,
+      "citation_chars_per_100px": 7.5,
+      "script_clusters_per_100px": {},
+      "longest_planned_line": null
+    }
+  },
+  "script_samples": {},
+  "source": "spec_lock.md",
+  "generated_at": "2026-11-15T15:05:45Z",
+  "notes": [
+    "every role is measured at normal weight; recalibrate a role realized as bold deck-wide with --role NAME:FAMILY:SIZE:bold: bold widens Latin and digits about 7%, while the bundled advance table gives CJK one width for both weights"
+  ]
+}

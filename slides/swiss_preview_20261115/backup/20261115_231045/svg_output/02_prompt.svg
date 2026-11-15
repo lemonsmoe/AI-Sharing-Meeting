@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei">
+  <rect id="background" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F3EC" />
+  <g id="title" data-pptx-bounds="72 70 1136 108">
+    <text x="72" y="143" fill="#171715" font-size="58" font-weight="700">把「做个 PPT」说具体</text>
+  </g>
+  <line id="header-rule" data-pptx-role="decoration" x1="72" y1="184" x2="1208" y2="184" stroke="#171715" stroke-width="1.5" />
+  <line id="column-rule" data-pptx-role="decoration" x1="448" y1="236" x2="448" y2="573" stroke="#171715" stroke-opacity="0.25" stroke-width="1.5" />
+  <g id="original-request" data-pptx-bounds="72 232 328 341" fill="#171715">
+    <text x="72" y="276" font-size="24" font-weight="700">一句话需求</text>
+    <text x="72" y="370" font-size="32"><tspan x="72" y="370">帮我做个</tspan><tspan x="72" y="419">AI 分享 PPT。</tspan></text>
+  </g>
+  <g id="refined-request" data-pptx-bounds="496 232 714 343">
+    <text x="496" y="276" fill="#C50000" font-size="24" font-weight="700">这次实际怎么交代</text>
+    <text x="496" y="361" fill="#171715" font-size="24" font-weight="700">范围</text>
+    <text x="592" y="361" fill="#171715" font-size="32">面向全体同事，少于一小时</text>
+    <line x1="496" y1="393" x2="1208" y2="393" stroke="#171715" stroke-opacity="0.25" stroke-width="1.5" />
+    <text x="496" y="452" fill="#171715" font-size="24" font-weight="700">参考</text>
+    <text x="592" y="452" fill="#171715" font-size="32">公司模板和 Swiss Grid</text>
+    <line x1="496" y1="484" x2="1208" y2="484" stroke="#171715" stroke-opacity="0.25" stroke-width="1.5" />
+    <text x="496" y="543" fill="#C50000" font-size="24" font-weight="700">交付</text>
+    <text x="592" y="543" fill="#171715" font-size="32" font-weight="700">可编辑 PPT、能照读的讲稿</text>
+  </g>
+</svg>
