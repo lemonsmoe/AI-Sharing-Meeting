@@ -71,6 +71,12 @@ supersedes: []
 - 本机 PowerPoint 12.0 逐页渲染 29/29 PNG 成功（preview/）；副本标题编辑、保存、重开持久化验证通过。验证记录 `verification.json`。
 - 剩余：用户逐页视觉确认、三处截图占位框替换、真人试讲计时、现场设备测试。
 
+## 补充九：Git 保存与新 Agent 接续准备
+
+- 用户要求保存当前工作并引入另一个 Agent 优化。分支 `task/001-script-grounding` 共 19 个提交全部在本地，未推送；工作区仅保留两份本机绑定差异（project.json、workflow_install.json）不提交。
+- 新接续入口 `docs/handoff/continue_prompt_user_edition_20261116.md`：最新版位置、已验证项、SVG/备注修改与重导出流程、待优化与边界、本机环境说明。
+
+
 
 
 
