@@ -45,6 +45,13 @@ supersedes: []
 - 生成 `docs/content/swiss_script_20261115/speaker_notes_per_page.json`：30 页纯正文备注（已去括号操作提示），供扩 30 页时直接写入 PPTX 讲者备注。
 - 页时核对：全稿平均 3.13 字/秒（含翻页、指图、停顿），预算宽松；最紧第 30 页 4.19 字/秒。可选加料约 +1 分钟不破 48 分钟。修订说明第五节已更新，真人试讲时逐页计时即可。
 
+## 补充五：30页扩稿任务书与黄仁勋照片
+
+- 30 页扩稿任务书 `docs/content/swiss_script_20261115/build_brief_30p.md` 完成：输入文件、视觉规范、Generate PPTX（Default）路线、素材占位规则、未定项默认值、验收清单与时间分工，待用户确认开工。
+- 黄仁勋引语补充 SEC 旁证（EDGAR FY2026 年报署名 Founder and CEO, May 2026）；官方新闻室 bios 页现列其为 Founder，署名以签署时身份为准，quote_sources 与 facts.json 已更新。
+- 官方头像 1920×1920 已下载至 `assets/screenshots/20261116/nvidia_bio/`（官方 Download Headshot 端点），上屏前待用户确认。
+
+
 
 
 

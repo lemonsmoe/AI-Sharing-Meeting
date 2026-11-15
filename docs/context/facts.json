@@ -76,6 +76,20 @@
       "last_verified_at": "2026-11-16T00:20:00+08:00",
       "evidence": "docs/content/swiss_script_20261115/source_check_20261116.md",
       "recheck_when": "会后发链接前"
+    },
+    {
+      "fact": "黄仁勋引语除 FY2026 可持续发展报告外，同句亦见于 SEC 备案的 NVIDIA FY2026 年报，署名 'Jensen Huang, Founder and CEO, NVIDIA, May 2026'；官方新闻室 bios 页当前列为 Founder（曾任 CEO），引语署名以签署时身份为准",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000038/a2026-annualxreportxwebxfi.pdf",
+      "last_verified_at": "2026-11-16T01:35:00+08:00",
+      "evidence": "docs/content/swiss_revision_20261115/quote_sources.md",
+      "recheck_when": "上屏前"
+    },
+    {
+      "fact": "黄仁勋官方头像 1920x1920 已从 NVIDIA 新闻室 Exec Bios 页 Download Headshot 端点下载至 assets/screenshots/20261116/nvidia_bio/，上屏前需用户确认",
+      "source": "https://nvidianews.nvidia.com/bios/jensen-huang",
+      "last_verified_at": "2026-11-16T01:35:00+08:00",
+      "evidence": "assets/screenshots/20261116/nvidia_bio/provenance.json",
+      "recheck_when": "上屏前"
     }
   ]
 }

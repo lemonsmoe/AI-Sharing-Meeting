@@ -1,0 +1,11 @@
+{
+  "set": "nvidia_bio",
+  "source_page": "https://nvidianews.nvidia.com/bios/jensen-huang",
+  "source_title": "Jensen Huang | NVIDIA Newsroom (Executive Bios)",
+  "fetched_at": "2026-11-16T01:30:00+08:00",
+  "image": "jensen_huang_headshot.jpg",
+  "image_origin": "NVIDIA 官方新闻室 Exec Bios 页「Download Headshot」端点",
+  "dimensions": "1920x1920",
+  "use_boundary": "NVIDIA 官方发布的新闻稿头像，仅用于内部培训课件并注明来源；不标「已获专门授权」。上屏前由用户确认使用。",
+  "note": "官方 bios 页当前将其列为 Founder（曾任 president、CEO）；第 30 页引语出自其 2026 年 5 月以 Founder and CEO 身份签署的年度报告信，署名不受该变动影响。"
+}

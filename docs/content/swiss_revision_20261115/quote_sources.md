@@ -21,9 +21,10 @@
 写代码是一项任务，创新才是目的。
 
 - 原始来源：[NVIDIA Sustainability Report Fiscal Year 2026](https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf)，Message From Our CEO，印刷第 4 页、PDF 索引 3；署名见印刷第 5 页。
+- 旁证（2026-11-16 补充）：同一段话出自 NVIDIA 向 SEC 备案的 FY2026 年报（[EDGAR 10-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000038/a2026-annualxreportxwebxfi.pdf)），署名「Jensen Huang, Founder and CEO, NVIDIA, May 2026」。注意：NVIDIA 官方新闻室 bios 页当前将黄仁勋列为 Founder（曾任 president、CEO），并列出 Interim CEO；引语署名以其 2026 年 5 月签署时的身份为准，不受后续变动影响。
 - 语境：工作目的比其中的具体任务更广；原文以编程和医疗任务举例。本项目不据此断言所有岗位净收益或任何实际节省比例。
 - 我们自己的承接句：“做 PPT 是手段，把事情讲明白才是目的。”这是分享者转述，不加引号归给黄仁勋。
-- 署名建议“黄仁勋｜NVIDIA 联合创始人”。人物照片待从可靠原始来源选择，尚未制作此页。
+- 署名建议“黄仁勋｜NVIDIA 联合创始人”。人物照片：已从官方新闻室 Exec Bios 页「Download Headshot」端点下载 1920×1920 官方头像至 `assets/screenshots/20261116/nvidia_bio/jensen_huang_headshot.jpg`，来源登记同目录 provenance.json；上屏前由用户确认，照片特定授权未另行核实，不标“已获授权”。
 
 ## 选择理由
 
