@@ -1,0 +1,10 @@
+{
+  "set": "local_screenshots_20261116",
+  "captured_at": "2026-11-16T02:55:00+08:00",
+  "method": "用户授权的本机窗口截屏（窗口置前→屏幕捕获→按窗口矩形裁切），未模拟任何点击输入",
+  "use_boundary": "本机实拍界面，上屏前必须由用户逐张确认并脱敏（遮挡聊天记录、人名、项目名等）。",
+  "images": [
+    {"file": "codex_local/chatgpt_window_020907.png", "app": "ChatGPT 桌面端（含 Codex 模式入口）", "size": "1348x912", "note": "截于 02:09，未脱敏，需用户确认"},
+    {"file": "wemeet_local/wemeet_window_020952.png", "app": "腾讯会议桌面端主界面", "size": "750x510", "note": "截于 02:09，未脱敏，需用户确认；未启动或加入任何会议"}
+  ]
+}

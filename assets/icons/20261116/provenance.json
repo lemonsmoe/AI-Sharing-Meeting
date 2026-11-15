@@ -1,0 +1,19 @@
+{
+  "set": "icons_20261116",
+  "fetched_at": "2026-11-16T02:55:00+08:00",
+  "use_boundary": "均为官方站点公开资源或官方合作页托管资源，仅用于内部培训课件、注明来源；不用于公开传播。上屏前过目。",
+  "images": [
+    {"file": "doubao.png", "product": "豆包", "source": "https://www.doubao.com/ 首页 favicon（官方 CDN 64x64）"},
+    {"file": "feishu.ico", "product": "飞书", "source": "https://www.feishu.cn/favicon.ico"},
+    {"file": "tencent_meeting.svg", "product": "腾讯会议", "source": "https://meeting.tencent.com/ 帮助中心 logo（官方 CDN，矢量）"},
+    {"file": "openai.png", "product": "OpenAI", "source": "DeepLearning.AI 官方课程页托管的 OpenAI logo（openai.com 有访问防护，官方合作页资源）"},
+    {"file": "anthropic.ico", "product": "Anthropic/Claude", "source": "https://www.anthropic.com/favicon.ico"},
+    {"file": "workbuddy.svg", "product": "WorkBuddy", "source": "https://www.workbuddy.cn/docs/ 官方文档 logo（矢量）"},
+    {"file": "deepseek.svg", "product": "DeepSeek", "source": "https://api-docs.deepseek.com/img/logo-mark-light.svg（官方文档，矢量）"},
+    {"file": "xiaoyunque.ico", "product": "小云雀", "source": "https://xyq.jianying.com/favicon.ico"},
+    {"file": "hongguo.png", "product": "红果短剧", "source": "https://hongguoduanju.com/ 首页 app-logo（官方 CDN）"},
+    {"file": "jimeng.png", "product": "即梦", "source": "https://jimeng.jianying.com/ 首页 logo（字节 CDN）"},
+    {"file": "minimax.ico", "product": "MiniMax/海螺", "source": "https://www.minimax.cn/favicon.ico"},
+    {"file": "seed.png", "product": "字节 Seed", "source": "https://seed.bytedance.com/ 页脚品牌 logo（官方 CDN）"}
+  ]
+}
