@@ -1,3 +1,81 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "fact": "火山方舟模型广场列有 Doubao-Seed-2.1 Pro 型号（当前版本 260915，260628 为旧版）；讲稿只讲「Doubao Seed 二点一 Pro」不带版本后缀",
+      "source": "https://docs.volcengine.com/docs/ark/model-release-announcement?lang=zh",
+      "last_verified_at": "2026-11-16T00:20:00+08:00",
+      "evidence": "docs/content/swiss_script_20261115/source_check_20261116.md",
+      "recheck_when": "讲稿若加入具体版本后缀或上屏前"
+    },
+    {
+      "fact": "Seedream 5.5 于 2026-11-09 发布，官方列即梦网页版为体验入口；Seedance 2.5 于 2026-07-31 发布，列即梦 AI、豆包专业版入口",
+      "source": "https://seed.bytedance.com/zh/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5",
+      "last_verified_at": "2026-11-16T00:20:00+08:00",
+      "evidence": "docs/content/swiss_script_20261115/source_check_20261116.md",
+      "recheck_when": "上屏前或出现新版本发布"
+    },
+    {
+      "fact": "小云雀官方手册标称「首发上线 Seedance 2.5 视频模型」，讲稿按官方标称表述",
+      "source": "https://xyq.jianying.com/tutorials/seedance-2-5",
+      "last_verified_at": "2026-11-16T00:20:00+08:00",
+      "evidence": "docs/content/swiss_script_20261115/source_check_20261116.md",
+      "recheck_when": "上屏前"
+    },
+    {
+      "fact": "红果短剧官网内容分类含 AI 剧，另有 AI剧榜；不能由分类推定某部作品使用什么模型",
+      "source": "https://hongguoduanju.com/category/ai-drama",
+      "last_verified_at": "2026-11-16T00:20:00+08:00",
+      "evidence": "docs/content/swiss_script_20261115/source_check_20261116.md",
+      "recheck_when": "上屏前或用户本机 App 核对后"
+    },
+    {
+      "fact": "腾讯会议官方帮助页题为「元宝笔记（原元宝纪要）」；AI 小助手为独立产品，会中工具栏与会外资料卡/历史会议均有入口",
+      "source": "https://meeting.tencent.com/support/topic/2221/",
+      "last_verified_at": "2026-11-16T00:20:00+08:00",
+      "evidence": "docs/content/swiss_script_20261115/source_check_20261116.md",
+      "recheck_when": "临场使用前按本机版本核对按钮位置"
+    },
+    {
+      "fact": "飞书视频会议会中开 AI 总结生成智能纪要文档，开录制则在妙记中生成智能纪要",
+      "source": "https://www.feishu.cn/hc/zh-CN/articles/244959839578",
+      "last_verified_at": "2026-11-16T00:20:00+08:00",
+      "evidence": "docs/content/swiss_script_20261115/source_check_20261116.md",
+      "recheck_when": "临场使用前按本机版本核对"
+    },
+    {
+      "fact": "PPT Master 开源仓库存在（作者 Hugo He），本地源码 6.9.0 已归档于 .context_runtime/ppt_skill_candidates/ppt_master",
+      "source": "https://github.com/hugohe3/ppt-master",
+      "last_verified_at": "2026-11-16T00:20:00+08:00",
+      "evidence": "docs/content/swiss_script_20261115/source_check_20261116.md",
+      "recheck_when": "扩 30 页前运行其 attribution_guard"
+    },
+    {
+      "fact": "WorkBuddy 官方首个任务流程：官网下载安装→微信扫码登录→新建任务→描述任务→产物/工作空间文件",
+      "source": "https://www.workbuddy.cn/docs/workbuddy/FirstTask",
+      "last_verified_at": "2026-11-16T00:20:00+08:00",
+      "evidence": "docs/content/swiss_script_20261115/source_check_20261116.md",
+      "recheck_when": "上屏前"
+    },
+    {
+      "fact": "DeepSeek 官方价表按输入/输出、缓存命中、峰时/非峰时分开计价；讲稿只讲计价结构不报数字",
+      "source": "https://api-docs.deepseek.com/quick_start/pricing/",
+      "last_verified_at": "2026-11-16T00:20:00+08:00",
+      "evidence": "docs/content/swiss_script_20261115/source_check_20261116.md",
+      "recheck_when": "若改为主屏或口头报数字"
+    },
+    {
+      "fact": "Peter Steinberger 博客原话（18 词）：My next mission is to build an agent that even my mum can use. 语境为 2026-02-14 宣布加入 OpenAI 后的目标，不是已实现",
+      "source": "https://steipete.me/posts/2026/openclaw",
+      "last_verified_at": "2026-11-16T00:20:00+08:00",
+      "evidence": "docs/content/swiss_script_20261115/source_check_20261116.md",
+      "recheck_when": "上屏前"
+    },
+    {
+      "fact": "吴恩达与 Isa Fulford 的 ChatGPT Prompt Engineering for Developers 课程页有效（deeplearning.ai/courses/chatgpt-prompt-eng，2026-10-12 更新）",
+      "source": "https://www.deeplearning.ai/courses/chatgpt-prompt-eng",
+      "last_verified_at": "2026-11-16T00:20:00+08:00",
+      "evidence": "docs/content/swiss_script_20261115/source_check_20261116.md",
+      "recheck_when": "会后发链接前"
+    }
+  ]
 }

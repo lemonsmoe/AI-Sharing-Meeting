@@ -23,3 +23,9 @@ supersedes: []
 - 改动对照与三处可选加料（百度笑话、幻觉实例、分部门例子）在 script_revision_notes_20261115.md，待用户选择；办公案例三选仍待定，确认后再并话术。
 - 讨论候选已记录为 workshop_scope 议题 note_a38e52231f65933361a0（pending），总结合并仍由主对话执行。
 - 剩余缺口：用户语感反馈、可选加料选择、办公案例定稿、表情包原件、30 页 PPT 扩稿与备注合稿、真人试讲计时与现场设备检查。
+
+## 补充：16 日凌晨关键来源复核
+
+- 逐项复核 17 处主张：Doubao Seed 2.1 Pro、Seedream 5.5 / Seedance 2.5 及上线渠道、小云雀、红果 AI 剧、腾讯会议元宝笔记与 AI 小助手、飞书智能纪要/妙记、PPT Master、WorkBuddy 首任务、DeepSeek 价格结构、Peter 原话、Gamma 导出、Copilot 模板指南、OpenAI 快速入门、吴恩达短课，全部与讲稿一致或按官方页面校准；记录见 `docs/content/swiss_script_20261115/source_check_20261116.md`，关键事实登记 `docs/context/facts.json`。
+- 唯一表述升级：第 25 页小云雀按官方手册改为「标称 Seedance 二点五首发体验产品」，source_map 同步；其余正文未动。
+
