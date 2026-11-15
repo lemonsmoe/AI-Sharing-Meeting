@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-family="Microsoft YaHei" font-size="44" font-weight="bold" fill="#171715">Codex 里用 Skill</text>
+  <g data-pptx-bounds="0 0 1280 720" font-family="Microsoft YaHei">
+    <rect x="80" y="190" width="1120" height="180" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <text x="120" y="245" font-size="24" font-weight="bold" fill="#C50000">在任务里点名 Skill，把材料和要求写进去：</text>
+    <text x="120" y="300" font-size="24" fill="#171715">「按 PPT Master 的流程做三页。读这份大纲，参考这份网格，</text>
+    <text x="120" y="340" font-size="24" fill="#171715">先给封面、关系图、表格各一页，然后停下让我看。」</text>
+    <rect x="80" y="410" width="1120" height="140" rx="12" fill="#FFFFFF" stroke="#C50000" stroke-width="2"/>
+    <text x="120" y="465" font-size="24" font-weight="bold" fill="#171715">跑完，动手验收：</text>
+    <text x="120" y="515" font-size="24" fill="#171715">打开文件点一下标题，再改一格表格——看是不是真的能改。</text>
+  </g>
+  <text x="80" y="630" font-family="Microsoft YaHei" font-size="28" fill="#171715">从 Skills 入口能看到已启用的 Skill，具体叫法以当前版本为准。</text>
+</svg>

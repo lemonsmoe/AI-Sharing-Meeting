@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-family="Microsoft YaHei" font-size="44" font-weight="bold" fill="#171715">生图：比如一套公司表情包</text>
+  <image x="80" y="180" width="420" height="420" href="../images/meme_original_20261116.jpg" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="80" y="180" width="420" height="420" rx="16" fill="none" stroke="#E3DFD5" stroke-width="1.5"/>
+  <text x="80" y="640" font-family="Microsoft YaHei" font-size="22" fill="#7A7A74">公司表情包原件——就是用 AI 生图做的</text>
+  <g data-pptx-bounds="0 0 1280 720" font-family="Microsoft YaHei">
+    <rect x="560" y="180" width="640" height="420" rx="12" fill="#FFFFFF" stroke="#C50000" stroke-width="2"/>
+    <text x="600" y="240" font-size="26" font-weight="bold" fill="#C50000">提示词写清五样</text>
+    <text x="600" y="300" font-size="24" fill="#171715">主体形象 · 表情动作 · 风格</text>
+    <text x="600" y="340" font-size="24" fill="#171715">比例 · 留字位置</text>
+    <text x="600" y="410" font-size="22" fill="#171715">「生成一张 1:1 的表情包图。主体是一只卡通形象，正面站立，</text>
+    <text x="600" y="450" font-size="22" fill="#171715">表情夸张瞪眼、双手摊开。白底描边风格，线条简洁，颜色不超</text>
+    <text x="600" y="490" font-size="22" fill="#171715">过三种。画面里不要出现文字，配字后期自己加。」</text>
+    <text x="600" y="550" font-size="22" fill="#7A7A74">同系列：定住角色、线条和用色，只改动作</text>
+  </g>
+</svg>

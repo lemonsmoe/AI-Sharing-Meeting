@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-family="Microsoft YaHei" font-size="44" font-weight="bold" fill="#171715">想进一步学习</text>
+  <g data-pptx-bounds="0 0 1280 720" font-family="Microsoft YaHei">
+    <rect x="80" y="220" width="520" height="220" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <circle cx="132" cy="290" r="22" fill="#C50000"/>
+    <text x="132" y="298" font-size="26" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+    <text x="120" y="380" font-size="28" font-weight="bold" fill="#171715">自己上手</text>
+    <text x="120" y="420" font-size="22" fill="#7A7A74">下载来用，是最好的学习方式</text>
+    <rect x="680" y="220" width="520" height="220" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <circle cx="732" cy="290" r="22" fill="#C50000"/>
+    <text x="732" y="298" font-size="26" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+    <text x="720" y="380" font-size="28" font-weight="bold" fill="#171715">找教程</text>
+    <text x="720" y="420" font-size="22" fill="#7A7A74">B 站接地气的入门视频，链接发群里</text>
+  </g>
+  <text x="80" y="560" font-family="Microsoft YaHei" font-size="26" fill="#171715">吴恩达短课适合想深入提示词的人；WorkBuddy 等工具都可以先试起来。</text>
+</svg>

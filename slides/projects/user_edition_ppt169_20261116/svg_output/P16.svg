@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-family="Microsoft YaHei" font-size="44" font-weight="bold" fill="#171715">答案顺不顺，和答没答对是两回事</text>
+  <g data-pptx-bounds="0 0 1280 720" font-family="Microsoft YaHei">
+    <text x="80" y="180" font-size="26" fill="#171715">没依据还说得跟真的一样——就是 AI 幻觉。研究里常分两大类：</text>
+    <rect x="80" y="210" width="540" height="140" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <text x="120" y="265" font-size="28" font-weight="bold" fill="#C50000">事实性幻觉</text>
+    <text x="120" y="315" font-size="24" fill="#171715">编造了现实里不存在的实体或事实</text>
+    <rect x="660" y="210" width="540" height="140" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <text x="700" y="265" font-size="28" font-weight="bold" fill="#C50000">忠实性幻觉</text>
+    <text x="700" y="315" font-size="24" fill="#171715">答非所问，偏离了你给的材料</text>
+    <text x="80" y="405" font-size="26" fill="#171715">两个常见成因：</text>
+    <rect x="80" y="430" width="540" height="120" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <text x="120" y="478" font-size="24" font-weight="bold" fill="#171715">按概率预测下一个词</text>
+    <text x="120" y="522" font-size="22" fill="#7A7A74">不是检索事实，不确定时也会生成「最像正确答案的文本」</text>
+    <rect x="660" y="430" width="540" height="120" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <text x="700" y="478" font-size="24" font-weight="bold" fill="#171715">训练数据有缺陷</text>
+    <text x="700" y="522" font-size="22" fill="#7A7A74">错误、过时、偏见、虚构内容；冷门领域数据稀缺</text>
+    <text x="80" y="625" font-size="26" font-weight="bold" fill="#171715">怎么降低：提示词给准 · 给参考示例 · 人工复核 · 多个 Agent 互相检查</text>
+  </g>
+</svg>

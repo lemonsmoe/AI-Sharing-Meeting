@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-family="Microsoft YaHei" font-size="44" font-weight="bold" fill="#171715">Codex 桌面端：先认三个板块</text>
+  <g data-pptx-bounds="0 0 1280 720" font-family="Microsoft YaHei">
+    <rect x="80" y="160" width="740" height="420" rx="12" fill="none" stroke="#C50000" stroke-width="2" stroke-dasharray="10 8"/>
+    <text x="450" y="330" font-size="26" fill="#C50000" text-anchor="middle">【此处放截图】</text>
+    <text x="450" y="380" font-size="26" fill="#C50000" text-anchor="middle">Codex / ChatGPT 桌面端界面</text>
+    <text x="450" y="430" font-size="20" fill="#7A7A74" text-anchor="middle">（用户后补，替换本占位框）</text>
+    <text x="880" y="240" font-size="30" font-weight="bold" fill="#171715">三个地方</text>
+    <circle cx="900" cy="290" r="18" fill="#C50000"/>
+    <text x="900" y="297" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+    <text x="935" y="297" font-size="24" fill="#171715">对话列表：每件事各放一条</text>
+    <circle cx="900" cy="370" r="18" fill="#C50000"/>
+    <text x="900" y="377" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+    <text x="935" y="377" font-size="24" fill="#171715">对话框：任务和要求写在这里</text>
+    <circle cx="900" cy="450" r="18" fill="#C50000"/>
+    <text x="900" y="457" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+    <text x="935" y="457" font-size="24" fill="#171715">设置区域：Skill、权限都在这</text>
+  </g>
+  <text x="80" y="650" font-family="Microsoft YaHei" font-size="26" fill="#171715">界面随版本会变，位置不重要——能找到任务、对话框和交付物，就能安排第一件事。</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-family="Microsoft YaHei" font-size="44" font-weight="bold" fill="#171715">Skill：能反复用的做事方法</text>
+  <text x="80" y="160" font-family="Microsoft YaHei" font-size="26" fill="#171715">工作台上的一本操作手册——重复的固定步骤，打包成一个文件夹：</text>
+  <g data-pptx-bounds="0 0 1280 720" font-family="Microsoft YaHei">
+    <rect x="80" y="210" width="560" height="300" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <text x="120" y="270" font-size="26" font-weight="bold" fill="#171715">skill 文件夹</text>
+    <rect x="120" y="300" width="480" height="52" rx="8" fill="#F6F3EC" stroke="#E3DFD5" stroke-width="1.5"/>
+    <text x="150" y="335" font-size="22" fill="#171715">SKILL.md——适合干什么、要什么材料、步骤怎么走</text>
+    <rect x="120" y="364" width="480" height="52" rx="8" fill="#F6F3EC" stroke="#E3DFD5" stroke-width="1.5"/>
+    <text x="150" y="399" font-size="22" fill="#171715">模板、参考样例</text>
+    <rect x="120" y="428" width="480" height="52" rx="8" fill="#F6F3EC" stroke="#E3DFD5" stroke-width="1.5"/>
+    <text x="150" y="463" font-size="22" fill="#171715">可选脚本</text>
+    <rect x="680" y="210" width="520" height="300" rx="12" fill="none" stroke="#C50000" stroke-width="2" stroke-dasharray="10 8"/>
+    <text x="940" y="300" font-size="24" fill="#C50000" text-anchor="middle">【此处放截图】</text>
+    <text x="940" y="345" font-size="24" fill="#C50000" text-anchor="middle">Skill 文件夹界面</text>
+    <text x="940" y="410" font-size="20" fill="#7A7A74" text-anchor="middle">（用户后补，替换本占位框）</text>
+  </g>
+  <text x="80" y="600" font-family="Microsoft YaHei" font-size="26" fill="#171715">临时看个效果，对话里写一句就够；每次都按同一套规范干的活，才值得做成 Skill。</text>
+  <text x="80" y="650" font-family="Microsoft YaHei" font-size="24" fill="#7A7A74">下次换的只是内容，流程和检查动作全都能沿用。</text>
+</svg>

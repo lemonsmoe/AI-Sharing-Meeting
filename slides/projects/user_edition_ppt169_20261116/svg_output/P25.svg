@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-family="Microsoft YaHei" font-size="44" font-weight="bold" fill="#171715">AI PPT 是怎么做出来的</text>
+  <g data-pptx-bounds="0 0 1280 720" font-family="Microsoft YaHei" font-size="24" fill="#171715">
+    <rect x="80" y="180" width="216" height="300" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <circle cx="132" cy="226" r="18" fill="#C50000"/>
+    <text x="132" y="233" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+    <text x="112" y="290" font-size="22" text-anchor="middle">写内容</text>
+    <text x="112" y="330" font-size="20" fill="#7A7A74" text-anchor="middle">主题、例子</text>
+    <rect x="316" y="180" width="216" height="300" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <circle cx="368" cy="226" r="18" fill="#C50000"/>
+    <text x="368" y="233" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+    <text x="348" y="290" font-size="22" text-anchor="middle">拉分镜</text>
+    <text x="348" y="330" font-size="20" fill="#7A7A74" text-anchor="middle">每页一句话</text>
+    <rect x="552" y="180" width="216" height="300" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <circle cx="604" cy="226" r="18" fill="#C50000"/>
+    <text x="604" y="233" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+    <text x="584" y="290" font-size="22" text-anchor="middle">交参考+Skill</text>
+    <text x="584" y="330" font-size="20" fill="#7A7A74" text-anchor="middle">网格、模板</text>
+    <rect x="788" y="180" width="216" height="300" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <circle cx="840" cy="226" r="18" fill="#C50000"/>
+    <text x="840" y="233" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+    <text x="820" y="290" font-size="22" text-anchor="middle">三页试版式</text>
+    <text x="820" y="330" font-size="20" fill="#7A7A74" text-anchor="middle">先小样</text>
+    <rect x="1024" y="180" width="216" height="300" rx="12" fill="#FFFFFF" stroke="#C50000" stroke-width="2"/>
+    <circle cx="1076" cy="226" r="18" fill="#C50000"/>
+    <text x="1076" y="233" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">5</text>
+    <text x="1056" y="290" font-size="22" text-anchor="middle">打开检查</text>
+    <text x="1056" y="330" font-size="20" fill="#7A7A74" text-anchor="middle">能改才算数</text>
+  </g>
+  <text x="80" y="580" font-family="Microsoft YaHei" font-size="26" fill="#171715">给参考图要说清参考哪部分：比如用它的对齐和留白，文字还是按新大纲来。</text>
+  <text x="80" y="626" font-family="Microsoft YaHei" font-size="24" fill="#7A7A74">顺序靠分镜理清，版式靠样稿试对，拿到文件还得打开检查。</text>
+</svg>

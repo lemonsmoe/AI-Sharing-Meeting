@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="ending">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <image x="80" y="160" width="360" height="360" href="../images/jensen_huang_headshot.jpg" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="80" y="160" width="360" height="360" rx="16" fill="none" stroke="#E3DFD5" stroke-width="1.5"/>
+  <text x="80" y="560" font-family="Microsoft YaHei" font-size="22" fill="#7A7A74">黄仁勋｜NVIDIA 联合创始人</text>
+  <g data-pptx-bounds="0 0 1280 720" font-family="Microsoft YaHei">
+    <text x="500" y="250" font-size="30" fill="#171715">“Coding is a task; innovation is the purpose.”</text>
+    <text x="500" y="310" font-size="28" font-weight="bold" fill="#171715">写代码是一项任务，创新才是目的。</text>
+    <text x="500" y="390" font-size="28" font-weight="bold" fill="#C50000">做 PPT 是手段，把事情讲明白才是目的。</text>
+    <text x="500" y="450" font-size="24" fill="#171715">AI 是工具：需要人驱动、需要人把控方向、设定边界。</text>
+    <text x="500" y="500" font-size="24" fill="#171715">冲击是实打实的：从绘画，到 IT，到最近的数学。</text>
+  </g>
+  <rect x="0" y="640" width="1280" height="80" fill="#C50000"/>
+  <text x="640" y="692" font-family="Microsoft YaHei" font-size="30" font-weight="bold" fill="#FFFFFF" text-anchor="middle">把需求说清楚、能判断好坏、会核对结果——这几样本事不过时</text>
+</svg>

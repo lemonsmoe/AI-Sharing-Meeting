@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-family="Microsoft YaHei" font-size="44" font-weight="bold" fill="#171715">不止语言：多模态与具身智能</text>
+  <g data-pptx-bounds="0 0 1280 720" font-family="Microsoft YaHei">
+    <rect x="80" y="200" width="360" height="300" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <rect x="120" y="245" width="52" height="64" rx="4" fill="none" stroke="#171715" stroke-width="2"/>
+    <line x1="132" y1="265" x2="160" y2="265" stroke="#171715" stroke-width="2"/>
+    <line x1="132" y1="279" x2="160" y2="279" stroke="#171715" stroke-width="2"/>
+    <line x1="132" y1="293" x2="152" y2="293" stroke="#171715" stroke-width="2"/>
+    <text x="120" y="360" font-size="28" font-weight="bold" fill="#171715">文字</text>
+    <text x="120" y="410" font-size="22" fill="#171715">通知、公告、文档</text>
+    <rect x="460" y="200" width="360" height="300" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <rect x="500" y="245" width="64" height="52" rx="4" fill="none" stroke="#171715" stroke-width="2"/>
+    <circle cx="522" cy="265" r="6" fill="#171715"/>
+    <path d="M512 297 L524 279 L536 291 L548 275 L560 297 Z" fill="#171715"/>
+    <text x="500" y="360" font-size="28" font-weight="bold" fill="#171715">图像 · 音视频</text>
+    <text x="500" y="410" font-size="22" fill="#171715">照片、语音、视频</text>
+    <rect x="840" y="200" width="360" height="300" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <rect x="886" y="250" width="44" height="40" rx="6" fill="#171715"/>
+    <circle cx="896" cy="270" r="4" fill="#F6F3EC"/>
+    <circle cx="916" cy="270" r="4" fill="#F6F3EC"/>
+    <rect x="878" y="294" width="60" height="46" rx="8" fill="#171715"/>
+    <rect x="896" y="330" width="6" height="16" fill="#171715"/>
+    <rect x="914" y="330" width="6" height="16" fill="#171715"/>
+    <text x="880" y="395" font-size="28" font-weight="bold" fill="#171715">具身智能</text>
+    <text x="880" y="445" font-size="22" fill="#171715">看货架、绕箱子、搬过去</text>
+  </g>
+  <text x="80" y="620" font-family="Microsoft YaHei" font-size="28" font-weight="bold" fill="#171715">多模态＝处理哪几种信息；具身＝怎么在环境里行动。</text>
+</svg>

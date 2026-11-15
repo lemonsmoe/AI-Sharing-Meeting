@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-family="Microsoft YaHei" font-size="44" font-weight="bold" fill="#171715">它是一张办公桌</text>
+  <g data-pptx-bounds="0 0 1280 720" font-family="Microsoft YaHei">
+    <rect x="80" y="200" width="360" height="260" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <text x="120" y="270" font-size="28" font-weight="bold" fill="#171715">正常大模型的功能</text>
+    <text x="120" y="330" font-size="22" fill="#171715">把输出打在屏幕上给你看</text>
+    <rect x="460" y="200" width="360" height="260" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <text x="500" y="270" font-size="28" font-weight="bold" fill="#171715">访问和操作文件</text>
+    <text x="500" y="330" font-size="22" fill="#171715">权限合适时，自动化地完成工作</text>
+    <rect x="840" y="200" width="360" height="260" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <text x="880" y="270" font-size="28" font-weight="bold" fill="#171715">操作你的电脑</text>
+    <text x="880" y="330" font-size="22" fill="#171715">控制鼠标帮你点按钮（效果另说）</text>
+  </g>
+  <text x="80" y="560" font-family="Microsoft YaHei" font-size="30" font-weight="bold" fill="#171715">改文档、写代码、做 PPT——大部分工作都可以交给它。</text>
+</svg>

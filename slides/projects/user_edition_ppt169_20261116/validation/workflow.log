@@ -1,0 +1,760 @@
+
+=== 2026-11-15T18:13:07.892Z NOTE id=af1f9c92016b ===
+Project initialized: profile=quick; canvas=ppt169; path=D:\03_Code\03_Company\AI-Sharing-Meeting\slides\projects\user_edition_20261116
+
+=== 2026-11-15T18:13:13.099Z PYTHON run=7d5448c7ec2f ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime\\ppt_skill_candidates\\ppt_master\\scripts\\project_manager.py", "import-sources", "slides\\projects\\user_edition_20261116", "docs\\content\\swiss_script_20261115\\outline_user_edition.md", "docs\\content\\swiss_script_20261115\\speaker_script.md", "docs\\content\\swiss_script_20261115\\script_factcheck_20261116.md", "assets\\company_meme\\meme_original_20261116.jpg"]
+stdout:
+  [OK] Imported sources into: slides\projects\user_edition_20261116
+=== 2026-11-15T18:13:13.454Z END run=7d5448c7ec2f elapsed_ms=358 output_lines=12 retained=1 omitted=11 ===
+
+=== 2026-11-15T18:17:17.885Z PYTHON run=1fe1c89c9b9f ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime\\ppt_skill_candidates\\ppt_master\\scripts\\svg_quality_checker.py", "slides\\projects\\user_edition_20261116\\svg_output", "--format", "ppt169", "--stage", "final"]
+stdout:
+  [ERROR] P01.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Invalid image source manifest: slides\projects\user_edition_20261116\images\image_sources.json must contain an items array
+     [WARN] 6 ungrouped top-level Slide-local element(s) in svg_output (<rect> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P02.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/sample_01.png
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <image> #5, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [WARN] P03.svg - Passed (with warnings)
+     viewBox: 0 0 1280 720
+     [WARN] 4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P04.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/icons/doubao.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/feishu.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/tencent_meeting.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/openai.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/anthropic.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/deepseek.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/xiaoyunque.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/hongguo.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/jimeng.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/minimax.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/seed.png
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] <text> (x=80, y=640; text='豆包、飞书、腾讯会议、GPT、Claud…') exceeds the root viewBox on the horizontal axis: content (80.0, 619.6)-(1461.2, 648.4), canvas (0.0, 0.0)-(1280.0, 720.0), overflow horizontal 14.2%, vertical 0.0%; move or reflow the text until its estimated bounds stay on-page; ≈17.3 px per mixed char at 24px without headroom; ≈74 chars fit in 1280 px
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <text> #5); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P05.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Detected 3 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=330.0..368.0, 2 lines; <g> x=500.0, y=330.0..368.0, 2 lines; <g> x=880.0, y=330.0..368.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P06.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/peter_steinberger.jpg
+     [WARN] 9 ungrouped top-level Slide-local element(s) in svg_output (<image> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P07.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/icons/doubao.png
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P08.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=840.0, y=320.0..360.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 1 ungrouped top-level Slide-local element(s) in svg_output (<text> #2); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P09.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 1 ungrouped top-level Slide-local element(s) in svg_output (<text> #2); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P10.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [WARN] P11.svg - Passed (with warnings)
+     viewBox: 0 0 1280 720
+     [WARN] 6 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P12.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=380.0..420.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P13.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P14.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=325.0..405.0, 3 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4, <text> #5); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P15.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=305.0..345.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4, <text> #5); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P16.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 1 ungrouped top-level Slide-local element(s) in svg_output (<text> #2); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P17.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <text> #5, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P18.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P19.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Detected 2 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=325.0..365.0, 2 lines; <g> x=700.0, y=325.0..365.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P20.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/icons/doubao.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/openai.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/anthropic.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/deepseek.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/xiaoyunque.png
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <text> #5, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P21.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P22.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P23.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=300.0..340.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P24.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P25.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4, <text> #5); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P26.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/meme_original_20261116.jpg
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Detected 2 paragraph-like line run(s) split across sibling <text> elements (<g> x=600.0, y=300.0..340.0, 2 lines; <g> x=600.0, y=410.0..490.0, 3 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #6 has no id; object-level animation config cannot reference it
+     [WARN] 4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <image> #3, <rect> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P27.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P28.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Detected 2 paragraph-like line run(s) split across sibling <text> elements (<g> x=500.0, y=325.0..365.0, 2 lines; <g> x=880.0, y=325.0..365.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P29.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/jensen_huang_headshot.jpg
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #5 has no id; object-level animation config cannot reference it
+     [WARN] 5 ungrouped top-level Slide-local element(s) in svg_output (<image> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [SUMMARY] Check Summary
+  Total files: 29
+    [OK] Fully passed: 0 (0%)
+    [WARN] With warnings: 3 (10%)
+    [ERROR] With errors: 28 (96%)
+  Provenance categories:
+    blocking: 49         hard findings; gate also requires exit 0
+    introduced: 64       advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 29 | text: 271 | images: 21 | icons: 0
+    Geometry: SVG elements 125 | native presets 0 | page-frame elements 0 | marker uses 0
+    Effects: inline emphasis 0 (pages 0) | gradients 0 (pages 0) | filters 0 (pages 0) | text effects 0 (pages 0)
+    Native objects: charts 0 | tables 0 | formulas 0
+    [WARNING] spec_lock.md declares no pptx_structure.mode; the project is treated as mode: flat, matching the exporter default. Declare mode: flat explicitly, or mode: structured for a deck/layout template.
+    [ERROR] Master export requires spec_lock.md typography title and body rows
+    1. XML well-formedness: write typography as raw Unicode (—, ©, →, NBSP); escape XML reserved chars as &amp; &lt; &gt; &quot; &apos; — never use HTML named entities like &nbsp; &mdash; &copy;
+    2. viewBox issues: root viewBox is the canvas authority (see references/canvas-formats.md)
+    3. Paint recommendation: generated SVG prefers uppercase #RRGGBB plus channel-specific opacity; compatible alternatives remain non-blocking
+    4. foreignObject: Use <text> + <tspan> for manual line breaks
+=== 2026-11-15T18:17:18.768Z END run=1fe1c89c9b9f elapsed_ms=875 output_lines=204 retained=190 omitted=14 ===
+
+=== 2026-11-15T18:17:22.655Z PYTHON run=d5fe7530da22 ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime\\ppt_skill_candidates\\ppt_master\\scripts\\svg_quality_checker.py", "slides\\projects\\user_edition_20261116\\svg_output\\P01.svg", "--format", "ppt169"]
+stdout:
+  [ERROR] P01.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Invalid image source manifest: slides\projects\user_edition_20261116\images\image_sources.json must contain an items array
+     [WARN] 6 ungrouped top-level Slide-local element(s) in svg_output (<rect> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [SUMMARY] Check Summary
+  Total files: 1
+    [OK] Fully passed: 0 (0%)
+    [WARN] With warnings: 1 (100%)
+    [ERROR] With errors: 2 (100%)
+  Provenance categories:
+    blocking: 2          hard findings; gate also requires exit 0
+    introduced: 2        advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 1 | text: 4 | images: 0 | icons: 0
+    Geometry: SVG elements 3 | native presets 0 | page-frame elements 0 | marker uses 0
+    Effects: inline emphasis 0 (pages 0) | gradients 0 (pages 0) | filters 0 (pages 0) | text effects 0 (pages 0)
+    Native objects: charts 0 | tables 0 | formulas 0
+    Presets: (none)
+    [WARNING] spec_lock.md declares no pptx_structure.mode; the project is treated as mode: flat, matching the exporter default. Declare mode: flat explicitly, or mode: structured for a deck/layout template.
+    [ERROR] Master export requires spec_lock.md typography title and body rows
+    1. XML well-formedness: write typography as raw Unicode (—, ©, →, NBSP); escape XML reserved chars as &amp; &lt; &gt; &quot; &apos; — never use HTML named entities like &nbsp; &mdash; &copy;
+    2. viewBox issues: root viewBox is the canvas authority (see references/canvas-formats.md)
+    3. Paint recommendation: generated SVG prefers uppercase #RRGGBB plus channel-specific opacity; compatible alternatives remain non-blocking
+    4. foreignObject: Use <text> + <tspan> for manual line breaks
+=== 2026-11-15T18:17:23.287Z END run=d5fe7530da22 elapsed_ms=625 output_lines=37 retained=26 omitted=11 ===
+
+=== 2026-11-15T18:18:00.238Z PYTHON run=ea825f4c2e17 ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime\\ppt_skill_candidates\\ppt_master\\scripts\\project_manager.py", "scaffold-lock", "slides\\projects\\user_edition_20261116"]
+stdout:
+  [ERROR] Cannot derive the canvas format from the project directory name. Use a standard <name>_<format>_<YYYYMMDD> project path.
+=== 2026-11-15T18:18:00.553Z END run=ea825f4c2e17 elapsed_ms=327 output_lines=1 retained=1 omitted=0 ===
+
+=== 2026-11-15T18:18:05.337Z PYTHON run=3bf117816a50 ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime\\ppt_skill_candidates\\ppt_master\\scripts\\project_manager.py", "scaffold-lock", "slides\\projects\\user_edition_ppt169_20261116"]
+stdout:
+  [OK] Execution lock scaffold created: slides\projects\user_edition_ppt169_20261116\spec_lock.md
+=== 2026-11-15T18:18:05.648Z END run=3bf117816a50 elapsed_ms=311 output_lines=1 retained=1 omitted=0 ===
+
+=== 2026-11-15T18:18:14.591Z PYTHON run=4447f44ccffe ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime\\ppt_skill_candidates\\ppt_master\\scripts\\svg_quality_checker.py", "slides\\projects\\user_edition_ppt169_20261116\\svg_output", "--format", "ppt169", "--stage", "final"]
+stdout:
+  [ERROR] P01.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [ERROR] Invalid image source manifest: slides\projects\user_edition_ppt169_20261116\images\image_sources.json items[6].filename must be a non-empty bare filename
+     [WARN] 6 ungrouped top-level Slide-local element(s) in svg_output (<rect> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P02.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/sample_01.png
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 20 (11 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <image> #5, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [WARN] P03.svg - Passed (with warnings)
+     viewBox: 0 0 1280 720
+     [WARN] 4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P04.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/icons/doubao.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/feishu.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/tencent_meeting.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/openai.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/anthropic.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/deepseek.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/xiaoyunque.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/hongguo.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/jimeng.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/minimax.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/seed.png
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] <text> (x=80, y=640; text='豆包、飞书、腾讯会议、GPT、Claud…') exceeds the root viewBox on the horizontal axis: content (80.0, 619.6)-(1461.2, 648.4), canvas (0.0, 0.0)-(1280.0, 720.0), overflow horizontal 14.2%, vertical 0.0%; move or reflow the text until its estimated bounds stay on-page; ≈17.3 px per mixed char at 24px without headroom; ≈74 chars fit in 1280 px
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 30 (12 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <text> #5); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P05.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 32 (6 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Detected 3 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=330.0..368.0, 2 lines; <g> x=500.0, y=330.0..368.0, 2 lines; <g> x=880.0, y=330.0..368.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P06.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/peter_steinberger.jpg
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 32 (6 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] 9 ungrouped top-level Slide-local element(s) in svg_output (<image> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P07.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/icons/doubao.png
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P08.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 40 (3 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=840.0, y=320.0..360.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 1 ungrouped top-level Slide-local element(s) in svg_output (<text> #2); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P09.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 1 ungrouped top-level Slide-local element(s) in svg_output (<text> #2); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P10.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P11.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 32 (6 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] 6 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P12.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 40 (3 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=380.0..420.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P13.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P14.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=325.0..405.0, 3 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4, <text> #5); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P15.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 30 (12 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=305.0..345.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4, <text> #5); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P16.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 1 ungrouped top-level Slide-local element(s) in svg_output (<text> #2); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P17.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 20 (11 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <text> #5, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P18.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 30 (12 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P19.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 30 (12 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Detected 2 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=325.0..365.0, 2 lines; <g> x=700.0, y=325.0..365.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P20.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/icons/doubao.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/openai.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/anthropic.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/deepseek.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/xiaoyunque.png
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 30 (12 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <text> #5, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P21.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 20 (11 occurrences), 30 (12 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P22.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P23.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=300.0..340.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P24.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 30 (12 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P25.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 20 (11 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4, <text> #5); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P26.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/meme_original_20261116.jpg
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Detected 2 paragraph-like line run(s) split across sibling <text> elements (<g> x=600.0, y=300.0..340.0, 2 lines; <g> x=600.0, y=410.0..490.0, 3 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #6 has no id; object-level animation config cannot reference it
+     [WARN] 4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <image> #3, <rect> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P27.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P28.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 20 (11 occurrences), 28 (34 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Detected 2 paragraph-like line run(s) split across sibling <text> elements (<g> x=500.0, y=325.0..365.0, 2 lines; <g> x=880.0, y=325.0..365.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P29.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/jensen_huang_headshot.jpg
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 30 (12 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #5 has no id; object-level animation config cannot reference it
+     [WARN] 5 ungrouped top-level Slide-local element(s) in svg_output (<image> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [SUMMARY] Check Summary
+  Total files: 29
+    [OK] Fully passed: 0 (0%)
+    [WARN] With warnings: 1 (3%)
+    [ERROR] With errors: 28 (96%)
+  Provenance categories:
+    blocking: 76         hard findings; gate also requires exit 0
+    introduced: 63       advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 29 | text: 271 | images: 21 | icons: 0
+    Geometry: SVG elements 125 | native presets 0 | page-frame elements 0 | marker uses 0
+    Effects: inline emphasis 0 (pages 0) | gradients 0 (pages 0) | filters 0 (pages 0) | text effects 0 (pages 0)
+    Native objects: charts 0 | tables 0 | formulas 0
+=== 2026-11-15T18:18:15.507Z END run=4447f44ccffe elapsed_ms=920 output_lines=244 retained=212 omitted=32 ===
+
+=== 2026-11-15T18:18:18.633Z PYTHON run=64d1a8e293a5 ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime\\ppt_skill_candidates\\ppt_master\\scripts\\svg_quality_checker.py", "slides\\projects\\user_edition_ppt169_20261116\\svg_output", "--format", "ppt169", "--stage", "final"]
+stdout:
+  [ERROR] P01.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [ERROR] Invalid image source manifest: slides\projects\user_edition_ppt169_20261116\images\image_sources.json items[6].filename must be a non-empty bare filename
+     [WARN] 6 ungrouped top-level Slide-local element(s) in svg_output (<rect> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P02.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/sample_01.png
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 20 (11 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <image> #5, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [WARN] P03.svg - Passed (with warnings)
+     viewBox: 0 0 1280 720
+     [WARN] 4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P04.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/icons/doubao.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/feishu.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/tencent_meeting.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/openai.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/anthropic.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/deepseek.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/xiaoyunque.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/hongguo.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/jimeng.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/minimax.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/seed.png
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] <text> (x=80, y=640; text='豆包、飞书、腾讯会议、GPT、Claud…') exceeds the root viewBox on the horizontal axis: content (80.0, 619.6)-(1461.2, 648.4), canvas (0.0, 0.0)-(1280.0, 720.0), overflow horizontal 14.2%, vertical 0.0%; move or reflow the text until its estimated bounds stay on-page; ≈17.3 px per mixed char at 24px without headroom; ≈74 chars fit in 1280 px
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 30 (12 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <text> #5); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P05.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 32 (6 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Detected 3 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=330.0..368.0, 2 lines; <g> x=500.0, y=330.0..368.0, 2 lines; <g> x=880.0, y=330.0..368.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P06.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/peter_steinberger.jpg
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 32 (6 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] 9 ungrouped top-level Slide-local element(s) in svg_output (<image> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P07.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/icons/doubao.png
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P08.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 40 (3 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=840.0, y=320.0..360.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 1 ungrouped top-level Slide-local element(s) in svg_output (<text> #2); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P09.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 1 ungrouped top-level Slide-local element(s) in svg_output (<text> #2); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P10.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P11.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 32 (6 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] 6 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P12.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 40 (3 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=380.0..420.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P13.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P14.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=325.0..405.0, 3 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4, <text> #5); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P15.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 30 (12 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=305.0..345.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4, <text> #5); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P16.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 1 ungrouped top-level Slide-local element(s) in svg_output (<text> #2); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P17.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 20 (11 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <text> #5, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P18.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 30 (12 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P19.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 30 (12 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Detected 2 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=325.0..365.0, 2 lines; <g> x=700.0, y=325.0..365.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P20.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: External image not found: images/icons/doubao.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/openai.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/anthropic.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/deepseek.png
+     [ERROR] <image> invalid image source: External image not found: images/icons/xiaoyunque.png
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [ERROR] spec_lock typography-size recurrence: undeclared font-size 28 (34 occurrences), 30 (12 occurrences), 44 (28 occurrences) exceeds the sparse-display limit of 2 occurrences. Structural text must return to its declared role band; a genuinely recurring display treatment needs a justified named role in the Design Spec and spec_lock.
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <text> #5, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+
+=== 2026-11-15T18:18:59.633Z PYTHON run=a9f00531f1b0 ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime\\ppt_skill_candidates\\ppt_master\\scripts\\svg_quality_checker.py", "slides\\projects\\user_edition_ppt169_20261116\\svg_output", "--format", "ppt169", "--stage", "final"]
+stdout:
+  [WARN] P01.svg - Passed (with warnings)
+     [WARN] 6 ungrouped top-level Slide-local element(s) in svg_output (<rect> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [WARN] P02.svg - Passed (with warnings)
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+  [ERROR] P04.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <text> (x=80, y=640; text='豆包、飞书、腾讯会议、GPT、Claud…') exceeds the root viewBox on the horizontal axis: content (80.0, 619.6)-(1461.2, 648.4), canvas (0.0, 0.0)-(1280.0, 720.0), overflow horizontal 14.2%, vertical 0.0%; move or reflow the text until its estimated bounds stay on-page; ≈17.3 px per mixed char at 24px without headroom; ≈74 chars fit in 1280 px
+     [WARN] Image ../images/icons/minimax.png is 32x32 and renders at 2.25x scale in a 72x72 meet frame — about 3.4x on a 1080p projector, visibly soft; use a larger source or a smaller frame
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <text> #5); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [WARN] P05.svg - Passed (with warnings)
+  [ERROR] P09.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <text> (x=160, y=600; text='大模型把输入切成一小截一小截，看着前面的…') exceeds <g> data-pptx-bounds on the horizontal axis: content (160.0, 576.2)-(1347.2, 609.8), container (0.0, 0.0)-(1280.0, 720.0), overflow horizontal 5.3%, vertical 0.0% (error above 5%); expand the root module bounds into available non-overlapping space; otherwise reflow the text; ≈29.7 px per CJK char at 28px incl. headroom; ≈43 chars fit in 1280 px
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] 1 ungrouped top-level Slide-local element(s) in svg_output (<text> #2); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [WARN] P10.svg - Passed (with warnings)
+     viewBox: 0 0 1280 720
+  [SUMMARY] Check Summary
+  Total files: 29
+    [OK] Fully passed: 0 (0%)
+    [WARN] With warnings: 27 (93%)
+    [ERROR] With errors: 2 (6%)
+  Provenance categories:
+    blocking: 2          hard findings; gate also requires exit 0
+    introduced: 66       advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 29 | text: 271 | images: 21 | icons: 0
+    Geometry: SVG elements 125 | native presets 0 | page-frame elements 0 | marker uses 0
+=== 2026-11-15T18:19:00.653Z END run=a9f00531f1b0 elapsed_ms=1016 output_lines=165 retained=31 omitted=134 ===
+
+=== 2026-11-15T18:19:09.644Z PYTHON run=e262740a625c ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime\\ppt_skill_candidates\\ppt_master\\scripts\\svg_quality_checker.py", "slides\\projects\\user_edition_ppt169_20261116\\svg_output", "--format", "ppt169", "--stage", "final"]
+stdout:
+  [WARN] P01.svg - Passed (with warnings)
+     [WARN] 6 ungrouped top-level Slide-local element(s) in svg_output (<rect> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [WARN] P02.svg - Passed (with warnings)
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+  [SUMMARY] Check Summary
+  Total files: 29
+    [OK] Fully passed: 0 (0%)
+    [WARN] With warnings: 29 (100%)
+    [ERROR] With errors: 0 (0%)
+  Provenance categories:
+    blocking: 0          hard findings; gate also requires exit 0
+    introduced: 67       advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 29 | text: 273 | images: 21 | icons: 0
+    Geometry: SVG elements 125 | native presets 0 | page-frame elements 0 | marker uses 0
+=== 2026-11-15T18:19:10.638Z END run=e262740a625c elapsed_ms=1000 output_lines=161 retained=17 omitted=144 ===
+
+=== 2026-11-15T18:19:18.097Z PYTHON run=9d7da873e9c8 ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime\\ppt_skill_candidates\\ppt_master\\scripts\\svg_to_pptx.py", "slides\\projects\\user_edition_ppt169_20261116", "--quick-generate", "--with-notes", "-o", "slides\\projects\\user_edition_ppt169_20261116\\exports\\user_edition_20261116.pptx"]
+stderr:
+  Error: --quick-generate requires a passing final SVG quality report for the current svg_output/; found not-provided.
+  Run: python3 skills/ppt-master/scripts/svg_quality_checker.py "slides\projects\user_edition_ppt169_20261116" --quick-generate --canonical-authoring --stage final --json
+=== 2026-11-15T18:19:18.838Z END run=9d7da873e9c8 elapsed_ms=750 output_lines=3 retained=2 omitted=1 ===
+
+=== 2026-11-15T18:19:22.633Z PYTHON run=cd4ff524eb60 ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime\\ppt_skill_candidates\\ppt_master\\scripts\\svg_quality_checker.py", "slides\\projects\\user_edition_ppt169_20261116", "--quick-generate", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [WARN] P01.svg - Passed (with warnings)
+     [WARN] Noncanonical compact authoring: Visible text requires one direct root font-family default; semantic groups and text elements keep only real overrides (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (5 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): svg[1]:font-family None -> 'Microsoft YaHei'; text[5]:font-family 'Microsoft YaHei' -> None; text[6]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] Quick roster declares no deck language: put lang="<BCP-47>" (vi-VN, he-IL, ...) on the first page's root <svg>; export reads it for run proofing language, right-to-left defaults, theme script slots and docProps (advisory)
+  [SUMMARY] Check Summary
+  Total files: 29
+    [OK] Fully passed: 0 (0%)
+    [WARN] With warnings: 29 (100%)
+    [ERROR] With errors: 0 (0%)
+  Provenance categories:
+    blocking: 0          hard findings; gate also requires exit 0
+    introduced: 124      advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 29 | text: 273 | images: 21 | icons: 0
+    Geometry: SVG elements 125 | native presets 0 | page-frame elements 0 | marker uses 0
+  [REPORT] JSON quality report exported: slides\projects\user_edition_ppt169_20261116\validation\svg_quality_report.json
+=== 2026-11-15T18:19:23.617Z END run=cd4ff524eb60 elapsed_ms=985 output_lines=210 retained=18 omitted=192 ===
+
+=== 2026-11-15T18:19:26.312Z PYTHON run=d8b1df0e8768 ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime\\ppt_skill_candidates\\ppt_master\\scripts\\svg_to_pptx.py", "slides\\projects\\user_edition_ppt169_20261116", "--quick-generate", "--with-notes", "-o", "slides\\projects\\user_edition_ppt169_20261116\\exports\\user_edition_20261116.pptx"]
+stdout:
+  [Done] Saved: slides\projects\user_edition_ppt169_20261116\exports\user_edition_20261116.pptx
+    [POSTFLIGHT] status=passed-with-warnings quality_gate=passed slides=29 warning_categories=1
+    [POSTFLIGHT][WARNING] quality_introduced_warnings=124
+    [PPTX] slides\projects\user_edition_ppt169_20261116\exports\user_edition_20261116.pptx
+    [REPORT] slides\projects\user_edition_ppt169_20261116\validation\user_edition_20261116.report.json
+=== 2026-11-15T18:19:28.123Z END run=d8b1df0e8768 elapsed_ms=1813 output_lines=81 retained=5 omitted=76 ===
+
+=== 2026-11-15T18:19:52.682Z PYTHON run=aebd2a3d4f5d ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime\\ppt_skill_candidates\\ppt_master\\scripts\\total_md_split.py", "slides\\projects\\user_edition_ppt169_20261116"]
+stdout:
+  [OK] SVG files and notes have one-to-one correspondence
+  [Done] Successfully generated 29/29 file(s)
+  [Done] Notes splitting complete
+=== 2026-11-15T18:19:52.695Z END run=aebd2a3d4f5d elapsed_ms=16 output_lines=38 retained=3 omitted=35 ===
+
+=== 2026-11-15T18:19:52.805Z PYTHON run=f5646b8ac17e ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime\\ppt_skill_candidates\\ppt_master\\scripts\\svg_quality_checker.py", "slides\\projects\\user_edition_ppt169_20261116", "--quick-generate", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [WARN] P01.svg - Passed (with warnings)
+     [WARN] Noncanonical compact authoring: Visible text requires one direct root font-family default; semantic groups and text elements keep only real overrides (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (5 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): svg[1]:font-family None -> 'Microsoft YaHei'; text[5]:font-family 'Microsoft YaHei' -> None; text[6]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] Quick roster declares no deck language: put lang="<BCP-47>" (vi-VN, he-IL, ...) on the first page's root <svg>; export reads it for run proofing language, right-to-left defaults, theme script slots and docProps (advisory)
+  [SUMMARY] Check Summary
+  Total files: 29
+    [OK] Fully passed: 0 (0%)
+    [WARN] With warnings: 29 (100%)
+    [ERROR] With errors: 0 (0%)
+  Provenance categories:
+    blocking: 0          hard findings; gate also requires exit 0
+    introduced: 124      advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 29 | text: 273 | images: 21 | icons: 0
+    Geometry: SVG elements 125 | native presets 0 | page-frame elements 0 | marker uses 0
+  [REPORT] JSON quality report exported: slides\projects\user_edition_ppt169_20261116\validation\svg_quality_report.json
+=== 2026-11-15T18:19:53.784Z END run=f5646b8ac17e elapsed_ms=968 output_lines=210 retained=18 omitted=192 ===
+
+=== 2026-11-15T18:19:53.956Z PYTHON run=9fc8d500d43f ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime\\ppt_skill_candidates\\ppt_master\\scripts\\svg_to_pptx.py", "slides\\projects\\user_edition_ppt169_20261116", "--quick-generate", "--with-notes", "-o", "slides\\projects\\user_edition_ppt169_20261116\\exports\\user_edition_20261116.pptx"]
+stdout:
+  [Done] Saved: slides\projects\user_edition_ppt169_20261116\exports\user_edition_20261116.pptx
+    [POSTFLIGHT] status=passed-with-warnings quality_gate=passed slides=29 warning_categories=1
+    [POSTFLIGHT][WARNING] quality_introduced_warnings=124
+    [PPTX] slides\projects\user_edition_ppt169_20261116\exports\user_edition_20261116.pptx
+    [REPORT] slides\projects\user_edition_ppt169_20261116\validation\user_edition_20261116.report.json
+=== 2026-11-15T18:19:55.794Z END run=9fc8d500d43f elapsed_ms=1843 output_lines=81 retained=5 omitted=76 ===

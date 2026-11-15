@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <image x="80" y="150" width="420" height="420" href="../images/peter_steinberger.jpg" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="80" y="150" width="420" height="420" rx="16" fill="none" stroke="#E3DFD5" stroke-width="1.5"/>
+  <text x="560" y="240" font-family="Microsoft YaHei" font-size="32" fill="#171715">“My next mission is to build an agent</text>
+  <text x="560" y="296" font-family="Microsoft YaHei" font-size="32" fill="#171715">that even my mum can use.”</text>
+  <text x="560" y="370" font-family="Microsoft YaHei" font-size="28" font-weight="bold" fill="#171715">我的下一个目标，是做出一个</text>
+  <text x="560" y="424" font-family="Microsoft YaHei" font-size="28" font-weight="bold" fill="#171715">连我妈妈也会用的智能体。</text>
+  <text x="560" y="500" font-family="Microsoft YaHei" font-size="22" fill="#7A7A74">Peter Steinberger｜OpenClaw 创建者</text>
+  <text x="560" y="580" font-family="Microsoft YaHei" font-size="24" fill="#171715">问题从「这个模型得多强」，变成「普通人交代一句话，</text>
+  <text x="560" y="622" font-family="Microsoft YaHei" font-size="24" fill="#171715">能不能拿回一个有用的结果」。</text>
+</svg>

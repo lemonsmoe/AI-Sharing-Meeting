@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-family="Microsoft YaHei" font-size="44" font-weight="bold" fill="#171715">本地部署 vs 服务商</text>
+  <g data-pptx-bounds="0 0 1280 720" font-family="Microsoft YaHei">
+    <rect x="80" y="200" width="360" height="300" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <text x="120" y="265" font-size="28" font-weight="bold" fill="#171715">账号订阅</text>
+    <text x="120" y="325" font-size="22" fill="#171715">会员制度和费用</text>
+    <text x="120" y="365" font-size="22" fill="#171715">免费档的效果</text>
+    <text x="120" y="440" font-size="20" fill="#7A7A74">看额度覆盖哪些功能</text>
+    <rect x="460" y="200" width="360" height="300" rx="12" fill="#FFFFFF" stroke="#C50000" stroke-width="2"/>
+    <text x="500" y="265" font-size="28" font-weight="bold" fill="#C50000">API 按用量</text>
+    <text x="500" y="325" font-size="22" fill="#171715">输入、输出分开计价</text>
+    <text x="500" y="365" font-size="22" fill="#171715">担心价格，可以用 DeepSeek</text>
+    <text x="500" y="440" font-size="20" fill="#7A7A74">报价入口放资料，不念数字</text>
+    <rect x="840" y="200" width="360" height="300" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <text x="880" y="265" font-size="28" font-weight="bold" fill="#171715">本地部署</text>
+    <text x="880" y="325" font-size="22" fill="#171715">自己的设备或服务器</text>
+    <text x="880" y="365" font-size="22" fill="#171715">要设备、许可、运维</text>
+    <text x="880" y="440" font-size="20" fill="#7A7A74">看数据适合放在哪里</text>
+  </g>
+  <text x="80" y="600" font-family="Microsoft YaHei" font-size="26" fill="#171715">大多数人选服务商：省设备、省运维；算用量、看设备、再决定材料放哪。</text>
+</svg>
