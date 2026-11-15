@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="cover">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <rect x="0" y="0" width="1280" height="10" fill="#C50000"/>
+  <rect x="80" y="252" width="72" height="10" fill="#C50000"/>
+  <text x="80" y="330" font-family="Microsoft YaHei" font-size="58" font-weight="bold" fill="#171715">企业环境里 AI 使用的</text>
+  <text x="80" y="410" font-family="Microsoft YaHei" font-size="58" font-weight="bold" fill="#171715">科普与方法论</text>
+  <text x="80" y="476" font-family="Microsoft YaHei" font-size="28" fill="#171715">一个 AI 工具使用者的理解、调研与使用经验</text>
+  <text x="80" y="640" font-family="Microsoft YaHei" font-size="24" fill="#7A7A74">2026 年 11 月 · 内部分享</text>
+</svg>
