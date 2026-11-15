@@ -1,0 +1,8 @@
+{
+  "candidate_files": 156,
+  "candidate_bytes": 26115745,
+  "text_items_scanned": 13088,
+  "matches": [],
+  "oversize_files": [],
+  "limits": "仅常见凭据模式扫描，不证明识别所有敏感内容；不输出命中值。"
+}

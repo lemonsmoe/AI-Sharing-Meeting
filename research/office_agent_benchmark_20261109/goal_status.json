@@ -1,0 +1,31 @@
+{
+  "creation_tool": "create_goal",
+  "creation_result": {
+    "goal": {
+      "threadId": "01a1bf6a-743a-70a1-b363-31703aed1de5",
+      "objective": "完成办公Agent领域（资料调研、文档与表格交付）至少三条不同产品路线的真实同题测试、复测、原始输出与失败证据、完整报告、入门跟做教程及案例；缺项保持明确未完成。",
+      "status": "active",
+      "tokensUsed": 0,
+      "timeUsedSeconds": 0,
+      "createdAt": 1794212917,
+      "updatedAt": 1794212917
+    },
+    "remainingTokens": null,
+    "completionBudgetReport": null
+  },
+  "task_id": "TASK-20261109-05da5f24",
+  "stage": "blocked_on_product_access",
+  "completed": false,
+  "latest_update_result": {
+    "goal": {
+      "threadId": "01a1bf6a-743a-70a1-b363-31703aed1de5",
+      "updatedAt": 1794213905,
+      "createdAt": 1794212917,
+      "status": "blocked",
+      "timeUsedSeconds": 987,
+      "tokensUsed": 199809
+    },
+    "remainingTokens": null,
+    "completionBudgetReport": null
+  }
+}

@@ -1,5 +1,26 @@
 # GitHub 迁移与新环境接续
 
+## 2026-11-15续传更新（优先于下方首次迁移历史）
+
+本次同步11月9—12的Master三页与源文件、30页文字包、研究、分工和讨论任务历史。最新交接和提示在docs/handoff/。用户已恢复PPT/讲稿工作，视频仍暂缓；三页尚待用户视觉认可，不能把旧“所有生产暂停”当当前内容状态。迁移不自动恢复旧目标或旧任务认领。
+
+新增忽略本机runtime_dependencies、live_preview及确认服务session/log；设计规范、推荐记录、内容输入、正式导出及验证仍上传。Master 6.9.0实际源码归档约22MB，含许可和逐文件SHA256；不是上游commit锁。
+
+新克隆建议使用与原机不同路径（例如D:/code/AI-Sharing-Meeting）。若路径相同，即使是另一台机器，现有bootstrap仍会拒绝“已绑定当前路径”；使用独立新克隆路径，不修改脚本来绕过已有数据库/Hook保护。已迁移过的本机工作目录只检查并同步，不再次bootstrap。
+
+恢复Master：
+
+```text
+python scripts/migration/restore_ppt_master.py
+python scripts/migration/restore_ppt_master.py --apply
+```
+
+仅恢复源码到.context_runtime，不改全局Skill或生产文件。然后读恢复后的SKILL.md，执行其attribution_guard，按Generate工作流准备新机Python虚拟环境及依赖（参考归档requirements.txt和tools/vendor_packages/README.md）。只查看现有PPTX或讲稿，无需安装制作依赖。旧preview端口6060与确认页不能当新机可用入口。
+
+本轮验证记录：docs/context/migration/sync_20261115_verification.json。它区分源码恢复/上下文接续检查与Office、字体、用户观感，后者不能由文件迁移通过替代。
+
+## 首次迁移历史与通用操作
+
 目标仓库：https://github.com/lemonsmoe/AI-Sharing-Meeting.git 。此次用户明确授权迁移、提交与上传。首次核对远端为空，本地原本未初始化 Git；建立 main 分支，不改写远端历史。
 
 ## 同步范围

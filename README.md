@@ -2,7 +2,9 @@
 
 准备 2026-11-16 面向全体同事与领导的分享，约 30 页、少于 1 小时；以提示词工程和 Agent 协作为重点，覆盖会议纪要、PPT、调研、文档、表格与写作。希望在 11-10 前形成领导可审阅内容，并沉淀长期的视频与内容创作流程。
 
-**当前生产暂停。用户已否决现有 72 秒视频的质量，对 PPT 的排版和内容不满意。V3、样片及检查记录保留作失败样本和可复用材料；技术检查通过不代表作品通过用户验收。迁移不会恢复生产或 WPS 访问。**
+**2026-11-15同步状态：用户已恢复PPT与讲稿工作，选用PPT Master；三页修订版和30页完整文字稿已交。用户视觉认可、整套新PPT与排练仍待。视频暂缓，旧V3及72秒样片保留为失败样本，技术检查不等于用户质量认可。**
+
+最新成果：[三页PPTX](slides/master_restart_20261109/master_preview_20261109/exports/master_preview_20261112_181441_native_charts_tables.pptx)、[30页大纲与讲稿](docs/content/popular_science_20261112/start_here.md)、[新Agent提示词](docs/handoff/continue_prompt_20261115.md)。Master源码快照及恢复说明在[tools/vendor_packages](tools/vendor_packages/README.md)。
 
 ## 接续入口
 

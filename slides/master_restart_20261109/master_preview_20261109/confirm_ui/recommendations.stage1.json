@@ -1,0 +1,14 @@
+{
+  "stage": "stage1",
+  "lang": "zh",
+  "primary_language": "zh-CN",
+  "recommend": {"canvas": "ppt169"},
+  "audience": {"value": "全体部门与领导，无编程基础要求"},
+  "communication_intent": {"value": "通过真实办公任务，教会观众明确AI交付要求、理解Agent组件配合，并核验结果"},
+  "audience_outcome": {"value": "能把宽泛请求改成可验收任务，说明各组件作用，并检查行动清单的来源、变更与未知"},
+  "core_message": {"value": "把任务交代清楚，让工具协作完成，再用来源核验交付物"},
+  "delivery_context": {"value": "中文现场培训，有主讲；全稿约30页、48分钟内容，本轮仅制作三页代表稿验证表达与观感"},
+  "artifact_afterlife": {"value": "可编辑PPTX与讲者备注，便于领导审阅、后续培训复用；本轮不做视频与配音"},
+  "content_divergence": {"value": ""},
+  "template_options": {"schema_version": 1, "phase": "template", "lang": "zh", "default_mode": "free_design", "explicit_workspace_roots": []}
+}

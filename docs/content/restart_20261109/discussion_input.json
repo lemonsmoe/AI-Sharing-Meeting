@@ -1,0 +1,16 @@
+{
+  "topic": "workshop_scope",
+  "title": "恢复PPT与讲稿，选用Master并按教程推进",
+  "abstract": "用户恢复PPT和讲稿优先，视频暂缓；增加已有知识输出。三候选已准备，用户选Master并指定两套案例，要求按其教程推进。",
+  "source_message": "2026-11-09 主对话：用户恢复两天初稿、比较PPT与研究Skill；随后要求三种先准备，阅读后明确选择Master，并追加两套参考及按教程开始的指示。",
+  "items": [
+    {"kind":"user_confirmed","text":"恢复正常流程的PPT与讲稿梳理，视频之后有时间再做；两天出初稿。增加已有大模型概念、Codex、提示词、Skill等熟悉知识，少做全靠新工具探索支撑的内容。","evidence":"用户原话：现在先不弄视频了，我们优先先把正常流程的ppt和讲稿内容梳理出来；我们还有两天时间出一个初稿；需要增加一些我们已有知识的输出。"},
+    {"kind":"user_confirmed","text":"比较三个PPT仓库与高星研究Skill，先推荐再安排可见多聊天目标调研；工具演示需看见成果、知道探索方式，并尽可能让用户自己尝试。","evidence":"用户原话：对比一下他们的区别，我们挑一个来用；你调研完最好我都自己尝试一遍；研究类的skill需要你给我推荐下，上github去找相关的高星的，然后我们再开多agent来进行自动调研。"},
+    {"kind":"user_confirmed","text":"用户先要求三候选准备，读完后明确选用PPT Master；认为样式与案例更丰富，适合本次较多图文的培训。Guizang简约风喜欢但留作以后，Dashi预设风格不合偏好。该选择覆盖此前Agent先试Dashi的提案。","evidence":"用户原话：我决定用master；guizang很有特色并且简约风格我很喜欢，值得收藏；dashi只搭配12种预设风格，但都不是很好看。"},
+    {"kind":"user_confirmed","text":"重点借鉴Master案例ppt169_what_is_ppt和ppt169_infosec_training_zh_long，并按照Master Skill教程的推荐开始步骤推进。链接分别为https://hugohe3.github.io/ppt-master-examples/viewer.html?project=ppt169_what_is_ppt 和 https://hugohe3.github.io/ppt-master-examples/viewer.html?project=ppt169_infosec_training_zh_long。","evidence":"用户原话：这两个模板都值得我们借鉴；但是也要看看master这个skill的推荐开始步骤是如何进行的，我们按照其教程来。"},
+    {"kind":"proposal","text":"本轮Agent建议：约四分之三讲已有知识和真实项目，30页48分钟内容加5分钟问答2分钟机动；先三页提示词/组件关系/办公成果代表稿，再扩全稿。两天暂按11月11日前整稿，11月10日保留领导内容检查点，未将日期推断当用户新确认。","source":"本轮Agent建议"},
+    {"kind":"proposal","text":"本轮Agent建议：借鉴DeerFlow github-deep-research调查开源项目，借鉴Anthropic search-strategy/knowledge-synthesis整理已有研究；原ai-workflow-research证据门槛继续有效。可见聊天分别产出讲稿核对、跟做教程、Master页面和独立挑错，目标按具体交付结束，避免持续搜资料替代成果。","source":"本轮Agent建议"},
+    {"kind":"observation","text":"主对话已读三个PPT入口、相关工作流/导出线索，查看Guizang示例图与Dashi主题示意；三套已下载到项目临时目录，Master完整性检查退出0。没有三套同题生成测试，星数和作者示例不能证明本项目作品质量。读取台账和比较见research/selection_20261109。"},
+    {"kind":"observation","text":"已向可见子对话4派发Master准备与两套案例参考任务，其工具快照已为active；限独立目录，不续跑旧WPS访问。主对话30页内容草案和三页输入已保存，其余概念/办公/方法聊天本轮尚未重新派发，视频继续暂停。"}
+  ]
+}

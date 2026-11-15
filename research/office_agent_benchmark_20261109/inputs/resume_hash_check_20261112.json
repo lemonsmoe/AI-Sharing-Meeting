@@ -1,0 +1,32 @@
+[
+  {
+    "path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\office_agent_benchmark_20261109\\inputs\\o1\\follow_up.txt",
+    "expected": "DC293165348AFBC54E210F010F4D816A07883F28764415A1F8B57949B6AE1710",
+    "actual": "DC293165348AFBC54E210F010F4D816A07883F28764415A1F8B57949B6AE1710",
+    "match": true
+  },
+  {
+    "path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\office_agent_benchmark_20261109\\inputs\\o1\\meeting_notes.txt",
+    "expected": "AAC11D21FD32F6AC31E89A3C07D22573B4EFA453ACFE04EB97077745E63F8090",
+    "actual": "AAC11D21FD32F6AC31E89A3C07D22573B4EFA453ACFE04EB97077745E63F8090",
+    "match": true
+  },
+  {
+    "path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\office_agent_benchmark_20261109\\inputs\\r1\\reference_baseline.md",
+    "expected": "A09CCCF25E982EEDEE73EE6073E89BAF4E27817141B1DAEB53717FBDCD0C5EE1",
+    "actual": "A09CCCF25E982EEDEE73EE6073E89BAF4E27817141B1DAEB53717FBDCD0C5EE1",
+    "match": true
+  },
+  {
+    "path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\office_agent_benchmark_20261109\\inputs\\r1\\source_packet.md",
+    "expected": "B19A5D56C3A108D49CD13E01A6B9C504DF5E8AA2CB446C440893837C6DF2AE58",
+    "actual": "B19A5D56C3A108D49CD13E01A6B9C504DF5E8AA2CB446C440893837C6DF2AE58",
+    "match": true
+  },
+  {
+    "path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\office_agent_benchmark_20261109\\inputs\\r1\\task_prompt.md",
+    "expected": "6B4A78DB711C141BADA47DABE0BC7B28A0F9AFC683890B064AC18CC62010C485",
+    "actual": "6B4A78DB711C141BADA47DABE0BC7B28A0F9AFC683890B064AC18CC62010C485",
+    "match": true
+  }
+]

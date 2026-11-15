@@ -18,3 +18,9 @@ videos/narrated_review/runtime/
 *.tmp
 .DS_Store
 Thumbs.db
+
+# 本机PPT制作依赖和短期服务状态；源码快照见tools/vendor_packages。
+slides/master_restart_20261109/runtime_dependencies/
+slides/**/live_preview/
+slides/**/confirm_ui/server.log
+slides/**/confirm_ui/session.json

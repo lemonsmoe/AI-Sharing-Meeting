@@ -1,0 +1,82 @@
+{
+  "roles": {
+    "body": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 32.0,
+      "weight": "normal",
+      "cjk_chars_per_100px": 2.9,
+      "latin_chars_per_100px": 6.1,
+      "caps_chars_per_100px": 5.6,
+      "digits_chars_per_100px": 5.4,
+      "citation_chars_per_100px": 5.6,
+      "script_clusters_per_100px": {},
+      "longest_planned_line": {
+        "px": 1967.4,
+        "slide": "P01",
+        "text": "每个待办列负责人、期限、来源。未说明的信息留空或标为待确认，采购建议不要写成批…"
+      }
+    },
+    "title": {
+      "family": "SimSun, Georgia",
+      "size": 48.0,
+      "weight": "normal",
+      "cjk_chars_per_100px": 1.9,
+      "latin_chars_per_100px": 3.7,
+      "caps_chars_per_100px": 3.1,
+      "digits_chars_per_100px": 3.4,
+      "citation_chars_per_100px": 3.4,
+      "script_clusters_per_100px": {},
+      "longest_planned_line": {
+        "px": 758.0,
+        "slide": "P01",
+        "text": "把“整理一下”变成能验收的任务"
+      }
+    },
+    "subtitle": {
+      "family": "SimSun, Georgia",
+      "size": 36.0,
+      "weight": "normal",
+      "cjk_chars_per_100px": 2.5,
+      "latin_chars_per_100px": 4.9,
+      "caps_chars_per_100px": 4.1,
+      "digits_chars_per_100px": 4.5,
+      "citation_chars_per_100px": 4.5,
+      "script_clusters_per_100px": {},
+      "longest_planned_line": {
+        "px": 806.4,
+        "slide": "P03",
+        "text": "有来源、分清变更与未知，产物才方便继续用"
+      }
+    },
+    "annotation": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 26.0,
+      "weight": "normal",
+      "cjk_chars_per_100px": 3.6,
+      "latin_chars_per_100px": 7.5,
+      "caps_chars_per_100px": 6.9,
+      "digits_chars_per_100px": 6.6,
+      "citation_chars_per_100px": 6.9,
+      "script_clusters_per_100px": {},
+      "longest_planned_line": null
+    },
+    "footnote": {
+      "family": "Microsoft YaHei, Arial",
+      "size": 18.0,
+      "weight": "normal",
+      "cjk_chars_per_100px": 5.2,
+      "latin_chars_per_100px": 10.8,
+      "caps_chars_per_100px": 10.0,
+      "digits_chars_per_100px": 9.5,
+      "citation_chars_per_100px": 10.0,
+      "script_clusters_per_100px": {},
+      "longest_planned_line": null
+    }
+  },
+  "script_samples": {},
+  "source": "spec_lock.md",
+  "generated_at": "2026-11-12T10:08:17Z",
+  "notes": [
+    "every role is measured at normal weight; recalibrate a role realized as bold deck-wide with --role NAME:FAMILY:SIZE:bold: bold widens Latin and digits about 7%, while the bundled advance table gives CJK one width for both weights"
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "ppt_master",
+    "repo": "hugohe3/ppt-master",
+    "upstream_path": "skills/ppt-master",
+    "requested_ref": "main",
+    "commit_sha": null,
+    "download_date": "2026-11-09",
+    "file_count": 13165,
+    "bytes": 41711874,
+    "skill_sha256": "cda3f1f476a93a48385867dbdb89f661f27c35bfb670f51c7dbd53a3b300c856",
+    "tree_manifest_sha256": "d888869d932d0f799f3b8bd26b1c2f6981946b95ce19aff57a651aa0c4c484d9",
+    "local_path": "D:/code/Project/文职工作/26年11月中旬分享会/.context_runtime/ppt_skill_candidates/ppt_master",
+    "dependencies_installed": false,
+    "generation_tested": false
+  },
+  {
+    "name": "guizang_ppt",
+    "repo": "op7418/guizang-ppt-skill",
+    "upstream_path": ".",
+    "requested_ref": "main",
+    "commit_sha": null,
+    "download_date": "2026-11-09",
+    "file_count": 43,
+    "bytes": 6216871,
+    "skill_sha256": "1c2c70d153c401be00ef4a1cd1b1cea31169c943450c4ba0e1ac504041c7f9bd",
+    "tree_manifest_sha256": "ee99ea7827b01d14f70f20be36f1bf28d04f092e259e70fe08275bd8f6068ef7",
+    "local_path": "D:/code/Project/文职工作/26年11月中旬分享会/.context_runtime/ppt_skill_candidates/guizang_ppt",
+    "dependencies_installed": false,
+    "generation_tested": false
+  },
+  {
+    "name": "dashi_ppt",
+    "repo": "chuspeeism/dashi-ppt-skill",
+    "upstream_path": "skills/dashi-ppt",
+    "requested_ref": "main",
+    "commit_sha": null,
+    "download_date": "2026-11-09",
+    "file_count": 371,
+    "bytes": 59822344,
+    "skill_sha256": "d4a3e924b643abeab591c3b8875e3bb4c0289e7d2fb65ac8dd710b3c559e43d3",
+    "tree_manifest_sha256": "61a250948b22ec05793e0810eb6551566d2a55ff860ed141ae44b1b334e0c4a3",
+    "local_path": "D:/code/Project/文职工作/26年11月中旬分享会/.context_runtime/ppt_skill_candidates/dashi_ppt",
+    "dependencies_installed": false,
+    "generation_tested": false
+  }
+]

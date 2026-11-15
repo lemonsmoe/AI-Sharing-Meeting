@@ -1,0 +1,14 @@
+[
+  {
+    "Path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\office_agent_benchmark_20261109\\inputs\\r1\\reference_baseline.md",
+    "Hash": "A09CCCF25E982EEDEE73EE6073E89BAF4E27817141B1DAEB53717FBDCD0C5EE1"
+  },
+  {
+    "Path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\office_agent_benchmark_20261109\\inputs\\r1\\source_packet.md",
+    "Hash": "B19A5D56C3A108D49CD13E01A6B9C504DF5E8AA2CB446C440893837C6DF2AE58"
+  },
+  {
+    "Path": "D:\\code\\Project\\文职工作\\26年11月中旬分享会\\research\\office_agent_benchmark_20261109\\inputs\\r1\\task_prompt.md",
+    "Hash": "6B4A78DB711C141BADA47DABE0BC7B28A0F9AFC683890B064AC18CC62010C485"
+  }
+]

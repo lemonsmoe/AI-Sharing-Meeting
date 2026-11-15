@@ -1,0 +1,36 @@
+{
+  "pptx": "slides\\master_restart_20261109\\master_preview_20261109\\exports\\master_preview_20261112_181441_native_charts_tables.pptx",
+  "sha256": "ac5fda8b326aed5e961e2486ab4e4983e120381316e482720e498c8d2ce25107",
+  "zip_error": null,
+  "slides": 3,
+  "notes": 3,
+  "tables": [
+    [
+      [
+        "行动",
+        "负责人",
+        "期限",
+        "来源"
+      ],
+      [
+        "更新价格表",
+        "周",
+        "11月9日 12:00",
+        "M03、C02"
+      ],
+      [
+        "收齐两家支架报价",
+        "周",
+        "11月10日 17:00",
+        "C05、C06"
+      ],
+      [
+        "交测试摘要",
+        "林",
+        "11月11日 12:00",
+        "M02、C01"
+      ]
+    ]
+  ],
+  "review": "主对话已查看native_validation_v2全部三张图；初版可见间距问题已修正，适合交用户审风格，尚非用户审美通过。"
+}

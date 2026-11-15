@@ -1,0 +1,21 @@
+{
+  "purpose": "派发前按原文制定的内容参照，不是人类速度或对照模型基线",
+  "actions": [
+    {"task": "提交测试摘要", "owner": "林", "due": "2026-11-11 12:00", "sources": ["M02", "C01"], "superseded_due": "2026-11-10 18:00"},
+    {"task": "更新价格表", "owner": "周", "due": "2026-11-09 12:00", "sources": ["M03", "C02"]},
+    {"task": "收集两家支架报价", "owner": "周", "due": "2026-11-10 17:00", "sources": ["M05", "C05", "C06"], "purchase_approval": false}
+  ],
+  "events": [
+    {"event": "正式演示", "date": "2026-11-13 15:00", "location": "会议室A", "sources": ["M01", "C03", "M07", "C04"], "room_c_cancelled": true},
+    {"event": "内部彩排", "date": "2026-11-12 16:00", "location": null, "sources": ["C03"]},
+    {"event": "材料冻结", "date": "2026-11-11 12:00", "owner": null, "sources": ["M01"]}
+  ],
+  "completed": {"task": "上传旧版培训材料", "owner": "李", "date": "2026-11-05", "sources": ["M06"], "must_not_be_new_action": true},
+  "open_issues": [
+    {"issue": "支架采购尚未批准", "quantity": 2, "unit_quote": 1200, "shipping": 80, "tax_inclusive_final_total": null, "sources": ["M04", "M05", "C02", "C05", "C07"], "allowed_subtotal": "若计算2480元，必须说明仅按现有数字相加，含税口径未知且未获采购批准"},
+    {"issue": "含税口径待补齐", "sources": ["M04", "C07"], "unknown_fields": ["税种", "税率", "价格是否含税"]},
+    {"issue": "接口超时两次", "possible_cause": "限流", "confirmed_cause": null, "sources": ["M08"]}
+  ],
+  "spreadsheet_checks": ["真实可编辑工作簿", "明确日期可排序", "未知人名日期不补造", "行动与完成及未决事项可区分", "原生打开和副本回存"],
+  "review_rules": ["按语义覆盖评估，不要求特定行数或逐字相同", "最终变更可引用新确认编号，但需要能定位变更依据", "新增有用建议必须标为建议，不混成原会议承诺"]
+}

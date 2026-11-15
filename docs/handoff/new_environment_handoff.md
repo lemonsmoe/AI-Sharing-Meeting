@@ -1,34 +1,46 @@
-# 新环境主对话接续
+# 新电脑主对话接续
 
-此文件是 GitHub 迁移后的入口，优先于旧 main_chat_handoff.md 的首次初始化提示。迁移目标：https://github.com/lemonsmoe/AI-Sharing-Meeting.git 。
+更新于2026-11-15。仓库：https://github.com/lemonsmoe/AI-Sharing-Meeting.git 。用户本轮要求同步目前进度并在另一台电脑继续工作。
 
-## 可以直接发送给新聊天
+## 先读入口
 
-> 请作为这个项目在新环境的主对话，先读 AGENTS.md、README.md、docs/handoff/new_environment_handoff.md、docs/context/00_current/index.md 和 docs/content/quality_reset_discussion.md。使用仓库内 tools/project_skills/context-management/SKILL.md。用户已授权迁移到本环境，以你真实的 CODEX_THREAD_ID 重绑新克隆，先预览 scripts/migration/bootstrap_context.py，再按迁移手册执行。已有本机状态时不要覆盖。生产与所有旧子聊天仍暂停；先理解质量否决、用户目标和未决优化方案，不自动恢复生产、不继续 WPS 访问、不重新问受众/日期等已确认问题。完成接续后与我讨论下一步。
+- 可复制提示词：docs/handoff/continue_prompt_20261115.md
+- 最新内容包：docs/content/popular_science_20261112/start_here.md
+- 主对话审阅结论：docs/content/autonomous_20261111/review_result.md
+- 当前索引：docs/context/00_current/index.md
+- 分工：docs/planning/thread_registry.json
+- 迁移步骤：docs/runbooks/github_migration.md
 
-## 必须保留的项目记忆
+本文件覆盖旧版“所有生产暂停、Skill尚未选择”的说法。用户已恢复PPT和讲稿工作并选定PPT Master；视频继续暂缓。三页风格尚无用户认可记录，不能把技术通过当审美通过。
 
-- 分享 2026-11-16；希望 11-10 前领导可审阅，原内部目标 11-09 晚。全体部门及领导，约 30 页，少于 1 小时。
-- 提示词工程和与 Agent 协作为重点。覆盖会议纪要、PPT 制作过程展示、调研、整理文档/表格、写作；Skill、记忆库、Hook 浅讲。Prompt、MCP、Skill、Agent、Harness 是用户的粗略概括，需要准确解释，不按线性替代关系生搬。
-- 用户希望培养 UP 主、剪辑、高质量 PPT 和 AI 讲解视频能力。此次产物用于建立长期工作方式。减少 AI 味只是小议题，不能取代整体目标。
-- 公司使用 Office/WPS、飞书、微信、用友；有用户描述的自建知识库、GPU/ESXi/GitLab。具体配置未实地验证。先讲前沿主流与适用场景，再考虑价格和平替。
-- 用户希望由 Agent 先研究、列案例菜单、执行验证；不要求用户先写示例或想办公任务。只在确需素材、账号、付费或决定时介入。
-- 用户指定参考文章及相关视频：https://ploto.me/posts/how-i-made-a-long-video-with-ai/ 。已有文章阅读记录，不得冒充已看完配套原片。
-- 多 Agent 指用户可单独查看和干预的可见 Codex 聊天；不要用隐藏 subagent 代替。旧聊天 ID 在 docs/planning/thread_registry.json，仅是原环境历史，迁移不会重建这些聊天或目标模式。
+## 已有成果
 
-## 最新裁决优先于旧检查通过记录
+1. Master三页修订版：slides/master_restart_20261109/master_preview_20261109/exports/master_preview_20261112_181441_native_charts_tables.pptx。SHA256：ac5fda8b326aed5e961e2486ab4e4983e120381316e482720e498c8d2ce25107。
+2. 对应新版PowerPoint图在同项目native_validation_v2/slide_01.png至slide_03.png。原机3页、3备注、1张原生表格及标题/表格副本回存通过。edited_copy.pptx是故意修改的测试副本；native_validation是首版证据，不能代替新版。源SVG、设计规范、spec_lock、备注和检查都已保存。
+3. 30页完整文字包：docs/content/popular_science_20261112/，含分镜、口语稿、来源、审阅清单。48分钟内容＋5分钟问答＋2分钟机动是预算，未真人计时。
+4. Codex模拟办公任务有真实纪要、XLSX、输入和复核；多商业产品基准仍0次，不能冒充WorkBuddy/Copilot实测。
+5. 项目Skill在tools/project_skills；Master实际使用的6.9.0源码归档在tools/vendor_packages，带完整许可及逐文件校验。当时未取得上游commit，归档固定本地实际使用源码，不声称上游提交固定。
 
-用户已完整看过 72 秒样片，反馈动画不连贯、僵硬、像播放 PPT，机械音，视觉和内容差、不知在讲什么。PPT 排版混乱、无趣、色块堆积。**两者创作质量未通过，不是等待首次试听，也不是只需微调。**
+## 已确认范围与缺口
 
-所有生产聊天与主目标已暂停；WPS 查看已被用户停止。用户要求先讨论优化。旧文件、代码、技术 QA、来源研究仍保留，不能因此继续扩稿。
+分享2026-11-16，按接续时实际日期安排，不再使用已经过去的11月10/11检查点。全体部门及领导、约30页、少于1小时；科普介绍和拓宽知识面为主、教学为辅。提示词是主要方法，Skill要讲怎样找和用；会议纪要、PPT、办公Agent是主要场景。概念组件按职责和配合解释，不画线性淘汰链。降低AI味是小议题。
 
-待讨论建议：拆解参考原片 → 15—30 秒局部试做与声音比较 → 3 页连续 PPT 代表页 → 用户认可后再扩大。候选 Skill 初查不等于选型成功，未获准安装或启动试做。详见质量返工讨论。
+尚缺用户对三页及大纲的反馈、整套新PPTX与对应备注、本人跟做、计时排练、演示设备核验。旧V3和72秒视频创作质量被否决，保留作失败样本；本轮三页与文字仅阶段通过。
 
-## 跨环境接续顺序
+ChatGPT因登录失败由用户明确改为之后自己测试，不再催登录。WorkBuddy在线入口已找到但未登录或执行。WPS AI PPT入口曾经用户单独授权检查，会员显示过期，不等于证明不能生成或导出。价格和账号能力使用前再核。
 
-1. 按 docs/runbooks/github_migration.md 预览并重绑克隆，使用新主对话真实身份。仓库内 Skill 可直接读取，无需先覆盖本机全局 Skill。
-2. 运行 task_store.py status 和 discussion_store.py sync，读相关领域及讨论；读完才 ack。新任务运行库为空是设计结果，旧任务完整历史见 docs/context/migration/task_history.json 与 docs/context/04_tasks。
-3. docs/context/project.json 与 workflow_install.json 中原始路径属于迁移基线；bootstrap 在新克隆本地重写它们。旧聊天、已读游标、信任状态及目标模式不搬运。
-4. 汇报已读状态和待讨论方案。得到新的生产指令后，再建任务、认领范围并推进；不要因迁移成功默认重新开目标模式。
+公司环境来自用户描述：Office/WPS、飞书、微信、用友、自建知识库、GPU/ESXi/GitLab，不能宣称本项目已接入公司系统。长期希望培养PPT与视频创作能力，视频当前不恢复。
 
-Git 可同步文件与项目记忆，无法同步账户凭据、桌面聊天的完整运行状态、个人全局记忆库或插件安装。媒体运行库需要新环境自行获取，历史代码不保证跨版本直接运行。
+## 新电脑接续顺序
+
+1. 建议克隆到与旧机不同的路径，如D:/code/AI-Sharing-Meeting，避免bootstrap把同路径判为已绑定。用真实新CODEX_THREAD_ID，不沿用旧身份。
+2. 先按迁移手册运行python scripts/migration/bootstrap_context.py预览，核对后加--apply。已有Hook、非空数据库等状态不覆盖，不重置来绕过保护。
+3. 再运行task_store.py status和discussion_store.py sync，读索引、内容领域、workshop_scope/office，实际读完再ack。历史任务留档，不恢复旧认领为新权限。
+4. python scripts/migration/restore_ppt_master.py预览，再加--apply恢复源码；阅读恢复后的SKILL.md，按教程准备依赖、字体和Office。仅看现有PPTX和讲稿无需安装制作依赖。
+5. 先展示三页新版与30页大纲，吸收用户反馈后扩整套。已有认可若在后续消息中给出，不重复确认；可继续不依赖回复的素材、内容核对和可逆准备。
+
+## 记忆、聊天与权限
+
+项目记忆在docs/context，任务历史在docs/context/migration/task_history.json，分工与产物在thread_registry.json。用户可在新电脑读取这些文件；Git不复制完整桌面聊天逐字历史、个人全局记忆、登录态、账号凭据或插件缓存。
+
+旧聊天ID仅供追溯，迁移不自动恢复目标模式和Hook信任。用户偏好独立可见子聊天，不用隐藏subagent替代。需要并行时按既有授权建立新环境可见聊天，划清产物与写入范围；不要唤醒旧电脑暂停/阻塞目标。目标active只按真实工具回执报告。

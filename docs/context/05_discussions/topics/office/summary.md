@@ -1,8 +1,8 @@
 ---
 {
   "topic": "office",
-  "title": "办公研究、独立复核与入口约束",
-  "abstract": "双轮答案复核完成；Claude无账号，Codex视频路线已有样片，产品实测缺口保留",
+  "title": "办公研究与ChatGPT用户后补测试",
+  "abstract": "ChatGPT登录失败，用户决定后续自行测试；其他研究继续，真实产品输出仍缺",
   "points": [
     {
       "kind": "proposal",
@@ -53,14 +53,29 @@
       "sources": [
         "note_2ea2f25cf56c4b5a277b#3"
       ]
+    },
+    {
+      "sources": [
+        "note_ccb324b4849c7b41259c#0"
+      ],
+      "text": "ChatGPT测试由用户之后单独完成；本聊天停止登录排查，先推进其他工作，并向主Agent汇报。",
+      "kind": "user_confirmed"
+    },
+    {
+      "sources": [
+        "note_ccb324b4849c7b41259c#1"
+      ],
+      "text": "已向主对话发送本次安排；ChatGPT未完成认证、无产品测试输出，冻结O1/R1材料保持不变。",
+      "kind": "observation"
     }
   ],
   "omitted": [],
-  "notes_revision": "3546133079ed71f96e82",
+  "notes_revision": "622fd79bbcc3279bdb21",
   "note_fingerprints": {
     "note_18f34481709079053399": "21d2111b45d7f978fb7f09753c6c71c6f334a1ed57a130b167a8eff7e0bbec13",
     "note_2ea2f25cf56c4b5a277b": "9f6130d4834d2057f152740c703c2f303af53823307cf9de6fa0b1abb3d8cabd",
-    "note_d0c74463d26e3c4719ce": "783e4aa93a93e140683727c57419cb73ca353510b50db432d20fdd131868d8c2"
+    "note_d0c74463d26e3c4719ce": "783e4aa93a93e140683727c57419cb73ca353510b50db432d20fdd131868d8c2",
+    "note_ccb324b4849c7b41259c": "ddd473c89e08f96fd4c64b98e908302a023f14e52ed099ba32e967fcf428a95a"
   },
   "covered_sources": [
     "note_18f34481709079053399#0",
@@ -69,18 +84,20 @@
     "note_2ea2f25cf56c4b5a277b#1",
     "note_2ea2f25cf56c4b5a277b#2",
     "note_2ea2f25cf56c4b5a277b#3",
+    "note_ccb324b4849c7b41259c#0",
+    "note_ccb324b4849c7b41259c#1",
     "note_d0c74463d26e3c4719ce#0",
     "note_d0c74463d26e3c4719ce#1"
   ],
-  "author_thread": "01a1b056-1e9b-76d0-8fa1-5031b582f6cd",
-  "updated_at": "2026-11-06T11:18:54+00:00",
+  "author_thread": "01a1bf6a-743a-70a1-b363-31703aed1de5",
+  "updated_at": "2026-11-12T10:17:21+00:00",
   "path": "docs/context/05_discussions/topics/office/summary.md"
 }
 ---
 
-# 办公研究、独立复核与入口约束
+# 办公研究与ChatGPT用户后补测试
 
-双轮答案复核完成；Claude无账号，Codex视频路线已有样片，产品实测缺口保留
+ChatGPT登录失败，用户决定后续自行测试；其他研究继续，真实产品输出仍缺
 
 此文件整理讨论，不代表方案获准实施。引用可追溯到独立记录。
 
@@ -95,7 +112,9 @@
 
 - 早期补证快照：首版20场景脚本已保存，当时有效来源2；补证后正文11，工具费用权限已部分核实，完整视频和产品执行仍0，公开测试脚本未复算。（[note_18f34481709079053399#1](notes/c2a4dd2fb8403acfcf87/note_18f34481709079053399.md)；[note_d0c74463d26e3c4719ce#0](notes/c2a4dd2fb8403acfcf87/note_d0c74463d26e3c4719ce.md)）
 - 视频领域文件显示已有72秒代码动画V2，完整播放与音画验收尚缺；办公独立复核12份答案及16项哈希完成，提出A自由建议与B硬规则分离，详见research/office/concepts_trial_review/review_report.md。（[note_2ea2f25cf56c4b5a277b#2](notes/c2a4dd2fb8403acfcf87/note_2ea2f25cf56c4b5a277b.md)）
+- 已向主对话发送本次安排；ChatGPT未完成认证、无产品测试输出，冻结O1/R1材料保持不变。（[note_ccb324b4849c7b41259c#1](notes/c445743db4e05b93b8a3/note_ccb324b4849c7b41259c.md)）
 
 ## 用户已确认
 
 - 用户目前没有可用Claude账号。（[note_2ea2f25cf56c4b5a277b#0](notes/c2a4dd2fb8403acfcf87/note_2ea2f25cf56c4b5a277b.md)）
+- ChatGPT测试由用户之后单独完成；本聊天停止登录排查，先推进其他工作，并向主Agent汇报。（[note_ccb324b4849c7b41259c#0](notes/c445743db4e05b93b8a3/note_ccb324b4849c7b41259c.md)）

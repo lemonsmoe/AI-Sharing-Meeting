@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at": "2026-11-06T15:30:37+00:00",
+  "exported_at": "2026-11-15T13:40:34+00:00",
   "source_root": "D:/code/Project/文职工作/26年11月中旬分享会",
   "source_project": {
     "project_id": "baf972c8f880",
@@ -2158,6 +2158,334 @@
         "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\notes\\f70d4c23e33e8b96bd2c",
         "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\video\\summary.md"
       ]
+    },
+    {
+      "id": "TASK-20261109-05da5f24",
+      "title": "办公Agent三路线真实基准研究",
+      "domain": "office",
+      "acceptance": "三不同产品同题真实测试与独立复测，原始输出失败证据、教程案例报告及门槛缺项；不足不完成",
+      "depends": [],
+      "write_paths": [
+        "research/office_agent_benchmark_20261109",
+        "docs/context/02_events/2026/11/evt_office_agent_benchmark.md"
+      ],
+      "owner": "01a1bf6a-743a-70a1-b363-31703aed1de5",
+      "status": "active",
+      "created_at": "2026-11-09T08:29:02+00:00",
+      "updated_at": "2026-11-09T08:29:14+00:00",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\office_agent_benchmark_20261109",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_office_agent_benchmark.md"
+      ]
+    },
+    {
+      "id": "TASK-20261109-394de675",
+      "title": "Master第二阶段三方向确认",
+      "domain": "slides",
+      "acceptance": "记录真实聊天确认，提供三个不同设计方案与生产配置，等待用户选择，不生成页面",
+      "depends": [],
+      "write_paths": [
+        "research/slides/master_restart_20261109",
+        "slides/master_restart_20261109"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-09T08:26:05+00:00",
+      "updated_at": "2026-11-09T08:31:11+00:00",
+      "result": "真实Stage1确认已记录，三方向及颜色字体图像策略生产配置已交，推荐A，等待Stage2选择",
+      "evidence": "research/slides/master_restart_20261109/stage_two_design_choices.md",
+      "review_note": "已读三方向逐页安排、配色字体和共同配置，接受方案准备；推荐A但选择尚待用户，未授权跳过Stage2生成页面",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\slides\\master_restart_20261109",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\slides\\master_restart_20261109"
+      ]
+    },
+    {
+      "id": "TASK-20261109-8a9c87a4",
+      "title": "确认Master第一阶段并启动办公Agent完整实测目标",
+      "domain": "content",
+      "acceptance": "保存用户确认，派发Master下一阶段；创建一个可见研究聊天并核实目标已创建，给出多工具实测及教程案例验收任务书，不将派发当研究完成",
+      "depends": [],
+      "write_paths": [
+        "docs/planning/office_agent_benchmark_20261109.md",
+        "docs/planning/thread_registry.json",
+        "docs/content/restart_20261109/coordination",
+        "docs/context/00_current/index.md",
+        "docs/context/00_current/domains/content.md",
+        "docs/context/02_events/2026/11/evt_benchmark_dispatch.md",
+        "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b",
+        "docs/context/05_discussions/topics/workshop_scope/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-09T08:24:03+00:00",
+      "updated_at": "2026-11-09T08:33:03+00:00",
+      "result": "用户Master第一阶段确认已传达，三方向已准备待选；可见研究子对话6已创建，已核对create_goal active回执及运行快照，完整任务书与共享记忆已保存",
+      "evidence": "docs/planning/office_agent_benchmark_20261109.md; docs/content/restart_20261109/coordination/research_goal_start_receipt.json; research/slides/master_restart_20261109/stage_two_design_choices.md",
+      "review_note": "接受协调启动阶段：真实ID、目标active及三方向材料已核对，未把研究派发或PPT方案当成最终作品完成；讨论71来源已整理无pending",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\planning\\office_agent_benchmark_20261109.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\planning\\thread_registry.json",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\content\\restart_20261109\\coordination",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\content.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_benchmark_dispatch.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\9a0b58d5b0351daa7a8b",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261109-c04184fb",
+      "title": "Master三页制作准备",
+      "domain": "slides",
+      "acceptance": "核查依赖与真实案例，准备传播方案和正式确认入口，不越过确认生成页面",
+      "depends": [],
+      "write_paths": [
+        "research/slides/master_restart_20261109",
+        "slides/master_restart_20261109"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-09T03:51:50+00:00",
+      "updated_at": "2026-11-09T04:01:47+00:00",
+      "result": "完成Master项目初始化、依赖补齐和两页真实案例目检；正式确认服务可运行，未收到Stage1确认，保留待确认边界",
+      "evidence": "research/slides/master_restart_20261109/preparation_report.md",
+      "review_note": "已读准备报告、项目输入和确认配置，主对话实际查看两张参考渲染图；接受准备阶段，不代表正式导出或新作品质量通过",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\slides\\master_restart_20261109",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\slides\\master_restart_20261109"
+      ]
+    },
+    {
+      "id": "TASK-20261109-d86b4c58",
+      "title": "准备三个PPT候选的独立试用文件",
+      "domain": "content",
+      "acceptance": "三个候选准备在项目临时目录，记录来源版本及入口；不切换全局Skill、不执行第三方安装脚本、不替用户选定路线",
+      "depends": [],
+      "write_paths": [
+        ".context_runtime/ppt_skill_candidates"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-09T03:40:40+00:00",
+      "updated_at": "2026-11-09T03:59:23+00:00",
+      "result": "三个候选已独立下载，入口和内容摘要留档；Master guard通过，未全局安装或替用户选择，后续用户已明确选Master",
+      "evidence": "research/selection_20261109/candidate_snapshot.json",
+      "review_note": "主对话核对三个入口存在、下载完成与快照路径有效；仅接受准备，不认定生成质量",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\.context_runtime\\ppt_skill_candidates"
+      ]
+    },
+    {
+      "id": "TASK-20261109-da02df08",
+      "title": "恢复PPT内容规划并比较制作与调研Skill",
+      "domain": "content",
+      "acceptance": "读取三个PPT候选实际说明和实现线索，核对研究Skill与已有缺口，产出两天内容计划和30页讲述草案，保存用户恢复PPT且暂缓视频的新约束，不擅自安装或启动后续子聊天",
+      "depends": [],
+      "write_paths": [
+        "research/selection_20261109",
+        "docs/content/restart_20261109",
+        "docs/context/00_current/index.md",
+        "docs/context/00_current/domains/content.md",
+        "docs/context/02_events/2026/11/evt_ppt_restart.md",
+        "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b",
+        "docs/context/05_discussions/topics/workshop_scope/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-09T03:30:22+00:00",
+      "updated_at": "2026-11-09T04:01:48+00:00",
+      "result": "完成三PPT初筛及研究Skill推荐、30页48分钟讲述草案、三页输入和两天计划；保存Master选择与两案例参考，派发并验收PPT准备阶段，当前等正式传播/自由设计确认",
+      "evidence": "research/selection_20261109/source_ledger.md; docs/content/restart_20261109/slide_storyboard.md; docs/context/05_discussions/topics/workshop_scope/summary.md",
+      "review_note": "核对30页及48分钟预算、文件编码和三套入口；讨论64条来源覆盖且无pending。仅接受规划比较与准备，未声明已完成PPT、逐字讲稿或产品主推门槛",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\selection_20261109",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\content\\restart_20261109",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\content.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_ppt_restart.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\9a0b58d5b0351daa7a8b",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261111-78638bd1",
+      "title": "吸收用户网页需求并推进离开期间内容制作",
+      "domain": "content",
+      "acceptance": "核对用户填写内容并保留来源，以科普推荐为主调整内容，委派并审查三页Master样稿和完整讲稿，核实研究恢复与目标状态，不将技术通过当用户审美通过",
+      "depends": [],
+      "write_paths": [
+        "docs/content/autonomous_20261111",
+        "docs/context/00_current/index.md",
+        "docs/context/00_current/domains/content.md",
+        "docs/planning/thread_registry.json",
+        "docs/context/02_events/2026/11/evt_autonomous_production.md",
+        "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b",
+        "docs/context/05_discussions/topics/workshop_scope/summary.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-11T01:19:08+00:00",
+      "updated_at": "2026-11-12T10:22:54+00:00",
+      "result": "保存截图需求与恢复决定，实际协调并审阅Master三页修订和30页完整文字稿；核实研究入口与目标状态，记录ChatGPT由用户后补，更新全局记录。用户审美、整套新PPT与试讲仍待。",
+      "evidence": "docs/content/autonomous_20261111/review_result.md",
+      "review_note": "本轮接续及阶段成果审阅完成，未升级为整场交付完成。",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\content\\autonomous_20261111",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\domains\\content.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\planning\\thread_registry.json",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_autonomous_production.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\9a0b58d5b0351daa7a8b",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261112-2eb42563",
+      "title": "记录ChatGPT测试转用户执行",
+      "domain": "office",
+      "acceptance": "记录用户明确安排及保留未测试边界，整理议题不提升候选",
+      "depends": [],
+      "write_paths": [
+        "docs/context/05_discussions/topics/office/notes/c445743db4e05b93b8a3",
+        "docs/context/05_discussions/topics/office/summary.md"
+      ],
+      "owner": "01a1bf6a-743a-70a1-b363-31703aed1de5",
+      "status": "review",
+      "created_at": "2026-11-12T10:16:51+00:00",
+      "updated_at": "2026-11-12T10:17:21+00:00",
+      "result": "记录用户明确将ChatGPT测试后补并整理议题，已通知主对话",
+      "evidence": "docs/context/05_discussions/topics/office/summary.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\office\\notes\\c445743db4e05b93b8a3",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\office\\summary.md"
+      ]
+    },
+    {
+      "id": "TASK-20261112-76a1b77e",
+      "title": "修订三页可见排版问题",
+      "domain": "slides",
+      "acceptance": "重排组件流程与表格，重新导出并查看原生三页",
+      "depends": [],
+      "write_paths": [
+        "slides/master_restart_20261109",
+        "research/slides/master_restart_20261109"
+      ],
+      "owner": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "status": "review",
+      "created_at": "2026-11-12T10:13:27+00:00",
+      "updated_at": "2026-11-12T10:18:22+00:00",
+      "result": "三页修订导出181441；新版原生三图已查看，标题及表格副本回存通过，报告已指向native_validation_v2；另记录用户直接授权的WPS入口检查，不计生成实测",
+      "evidence": "research/slides/master_restart_20261109/production_report_20261112.md",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\slides\\master_restart_20261109",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\slides\\master_restart_20261109"
+      ]
+    },
+    {
+      "id": "TASK-20261112-bff4f9e6",
+      "title": "收尾核对可见聊天实际状态",
+      "domain": "content",
+      "acceptance": "按最终工具快照标明制作已结束、研究待后补，不误报后台运行",
+      "depends": [],
+      "write_paths": [
+        "docs/planning/thread_registry.json",
+        "docs/context/02_events/2026/11/evt_autonomous_production.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-12T10:23:32+00:00",
+      "updated_at": "2026-11-12T10:23:33+00:00",
+      "result": "完成最终快照登记，三个聊天均idle；研究保留未实测缺口。",
+      "evidence": "docs/planning/thread_registry.json",
+      "review_note": "工具快照与登记一致。",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\planning\\thread_registry.json",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_autonomous_production.md"
+      ]
+    },
+    {
+      "id": "TASK-20261112-e8d2e14b",
+      "title": "11月12日科普型30页分镜与口语讲稿",
+      "domain": "concepts",
+      "acceptance": "交付五份文档，30页48分钟预算，完整口语与过渡，逐页素材来源和缺口；不制作PPT、不修改主索引",
+      "depends": [],
+      "write_paths": [
+        "docs/content/popular_science_20261112",
+        "docs/context/02_events/2026/11/evt_content_popular_science.md"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-12T10:06:43+00:00",
+      "updated_at": "2026-11-12T10:22:05+00:00",
+      "result": "完成科普型30页分镜与完整口语讲稿等五文件，48分钟预算核对，落实两轮演讲编辑，官方能力/作者案例/项目实做分开，未真人试讲或制作PPT",
+      "evidence": "docs/content/popular_science_20261112/start_here.md",
+      "review_note": "接受30页内容审阅稿阶段：主对话读过完整讲述和来源映射，页数与48分钟预算核对，已落实口语去审计化及讲者视角反馈；未代替用户内容认可和本人试讲。",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\content\\popular_science_20261112",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_content_popular_science.md"
+      ]
+    },
+    {
+      "id": "TASK-20261112-f4899337",
+      "title": "Master A三页代表稿制作",
+      "domain": "slides",
+      "acceptance": "按委托更新契约规范，生成三页可编辑PPTX备注预览并逐页目检，保留质量报告",
+      "depends": [],
+      "write_paths": [
+        "slides/master_restart_20261109",
+        "research/slides/master_restart_20261109"
+      ],
+      "owner": null,
+      "status": "accepted",
+      "created_at": "2026-11-12T10:06:33+00:00",
+      "updated_at": "2026-11-12T10:19:30+00:00",
+      "result": "完成Master A三页原生PPTX及备注，最终检查零警告，全部PowerPoint渲染目检和副本标题表格回存通过；待用户视觉审阅",
+      "evidence": "research/slides/master_restart_20261109/production_report_20261112.md",
+      "review_note": "接受三页样稿制作阶段：主对话看过新版三张PowerPoint图，核对PPTX哈希、3页3备注和原生表格，已读新版编辑回存证据；未代替用户风格认可，不自动扩30页。",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\slides\\master_restart_20261109",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\research\\slides\\master_restart_20261109"
+      ]
+    },
+    {
+      "id": "TASK-20261115-bf677c4c",
+      "title": "同步11月进度到GitHub并更新跨机交接",
+      "domain": "content",
+      "acceptance": "同步当前项目成果与任务讨论历史，排除依赖凭据，记录Master可恢复来源，新环境干净克隆核验关键文件及迁移流程，提交推送并确认远端一致，给出接续提示",
+      "depends": [],
+      "write_paths": [
+        ".gitignore",
+        "readme.md",
+        "docs/handoff/new_environment_handoff.md",
+        "docs/handoff/continue_prompt_20261115.md",
+        "docs/runbooks/github_migration.md",
+        "docs/context/00_current/index.md",
+        "docs/context/migration",
+        "docs/context/02_events/2026/11/evt_github_sync_20261115.md",
+        "tools/vendor_packages",
+        "scripts/migration/restore_ppt_master.py",
+        "docs/context/05_discussions/topics/workshop_scope/notes/9a0b58d5b0351daa7a8b",
+        "docs/context/05_discussions/topics/workshop_scope/summary.md"
+      ],
+      "owner": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "status": "active",
+      "created_at": "2026-11-15T13:35:28+00:00",
+      "updated_at": "2026-11-15T13:35:39+00:00",
+      "source_write_paths": [
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\.gitignore",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\readme.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\handoff\\new_environment_handoff.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\handoff\\continue_prompt_20261115.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\runbooks\\github_migration.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\00_current\\index.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\migration",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\02_events\\2026\\11\\evt_github_sync_20261115.md",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\tools\\vendor_packages",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\scripts\\migration\\restore_ppt_master.py",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\9a0b58d5b0351daa7a8b",
+        "d:\\code\\project\\文职工作\\26年11月中旬分享会\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md"
+      ]
     }
   ],
   "history": [
@@ -4127,6 +4455,328 @@
       "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
       "task": "TASK-20261106-882e82df",
       "operation": "review"
+    },
+    {
+      "id": 282,
+      "time": "2026-11-09T03:30:22+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261109-da02df08",
+      "operation": "create"
+    },
+    {
+      "id": 283,
+      "time": "2026-11-09T03:30:54+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261109-da02df08",
+      "operation": "claim"
+    },
+    {
+      "id": 284,
+      "time": "2026-11-09T03:40:40+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261109-d86b4c58",
+      "operation": "create"
+    },
+    {
+      "id": 285,
+      "time": "2026-11-09T03:41:03+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261109-d86b4c58",
+      "operation": "claim"
+    },
+    {
+      "id": 286,
+      "time": "2026-11-09T03:51:50+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261109-c04184fb",
+      "operation": "create"
+    },
+    {
+      "id": 287,
+      "time": "2026-11-09T03:52:11+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261109-c04184fb",
+      "operation": "claim"
+    },
+    {
+      "id": 288,
+      "time": "2026-11-09T03:58:16+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261109-c04184fb",
+      "operation": "finish"
+    },
+    {
+      "id": 289,
+      "time": "2026-11-09T03:59:23+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261109-d86b4c58",
+      "operation": "finish"
+    },
+    {
+      "id": 290,
+      "time": "2026-11-09T03:59:23+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261109-d86b4c58",
+      "operation": "review"
+    },
+    {
+      "id": 291,
+      "time": "2026-11-09T04:01:47+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261109-c04184fb",
+      "operation": "review"
+    },
+    {
+      "id": 292,
+      "time": "2026-11-09T04:01:47+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261109-da02df08",
+      "operation": "finish"
+    },
+    {
+      "id": 293,
+      "time": "2026-11-09T04:01:48+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261109-da02df08",
+      "operation": "review"
+    },
+    {
+      "id": 294,
+      "time": "2026-11-09T08:24:03+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261109-8a9c87a4",
+      "operation": "create"
+    },
+    {
+      "id": 295,
+      "time": "2026-11-09T08:24:18+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261109-8a9c87a4",
+      "operation": "claim"
+    },
+    {
+      "id": 296,
+      "time": "2026-11-09T08:26:05+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261109-394de675",
+      "operation": "create"
+    },
+    {
+      "id": 297,
+      "time": "2026-11-09T08:26:22+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261109-394de675",
+      "operation": "claim"
+    },
+    {
+      "id": 298,
+      "time": "2026-11-09T08:28:23+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261109-394de675",
+      "operation": "finish"
+    },
+    {
+      "id": 299,
+      "time": "2026-11-09T08:29:02+00:00",
+      "session": "01a1bf6a-743a-70a1-b363-31703aed1de5",
+      "task": "TASK-20261109-05da5f24",
+      "operation": "create"
+    },
+    {
+      "id": 300,
+      "time": "2026-11-09T08:29:14+00:00",
+      "session": "01a1bf6a-743a-70a1-b363-31703aed1de5",
+      "task": "TASK-20261109-05da5f24",
+      "operation": "claim"
+    },
+    {
+      "id": 301,
+      "time": "2026-11-09T08:31:11+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261109-394de675",
+      "operation": "review"
+    },
+    {
+      "id": 302,
+      "time": "2026-11-09T08:33:03+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261109-8a9c87a4",
+      "operation": "finish"
+    },
+    {
+      "id": 303,
+      "time": "2026-11-09T08:33:03+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261109-8a9c87a4",
+      "operation": "review"
+    },
+    {
+      "id": 304,
+      "time": "2026-11-11T01:19:09+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261111-78638bd1",
+      "operation": "create"
+    },
+    {
+      "id": 305,
+      "time": "2026-11-11T01:21:38+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261111-78638bd1",
+      "operation": "claim"
+    },
+    {
+      "id": 306,
+      "time": "2026-11-12T10:06:33+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261112-f4899337",
+      "operation": "create"
+    },
+    {
+      "id": 307,
+      "time": "2026-11-12T10:06:43+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261112-f4899337",
+      "operation": "claim"
+    },
+    {
+      "id": 308,
+      "time": "2026-11-12T10:06:43+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261112-e8d2e14b",
+      "operation": "create"
+    },
+    {
+      "id": 309,
+      "time": "2026-11-12T10:06:51+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261112-e8d2e14b",
+      "operation": "claim"
+    },
+    {
+      "id": 310,
+      "time": "2026-11-12T10:13:15+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261112-f4899337",
+      "operation": "finish"
+    },
+    {
+      "id": 311,
+      "time": "2026-11-12T10:13:27+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261112-76a1b77e",
+      "operation": "create"
+    },
+    {
+      "id": 312,
+      "time": "2026-11-12T10:13:33+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261112-76a1b77e",
+      "operation": "claim"
+    },
+    {
+      "id": 313,
+      "time": "2026-11-12T10:16:51+00:00",
+      "session": "01a1bf6a-743a-70a1-b363-31703aed1de5",
+      "task": "TASK-20261112-2eb42563",
+      "operation": "create"
+    },
+    {
+      "id": 314,
+      "time": "2026-11-12T10:17:02+00:00",
+      "session": "01a1bf6a-743a-70a1-b363-31703aed1de5",
+      "task": "TASK-20261112-2eb42563",
+      "operation": "claim"
+    },
+    {
+      "id": 315,
+      "time": "2026-11-12T10:17:21+00:00",
+      "session": "01a1bf6a-743a-70a1-b363-31703aed1de5",
+      "task": "TASK-20261112-2eb42563",
+      "operation": "finish"
+    },
+    {
+      "id": 316,
+      "time": "2026-11-12T10:18:22+00:00",
+      "session": "01a1b056-35e7-78f0-bd7f-89fcc0d7cef2",
+      "task": "TASK-20261112-76a1b77e",
+      "operation": "finish"
+    },
+    {
+      "id": 317,
+      "time": "2026-11-12T10:19:30+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261112-f4899337",
+      "operation": "review"
+    },
+    {
+      "id": 318,
+      "time": "2026-11-12T10:20:45+00:00",
+      "session": "01a1b055-e174-7dc2-80bf-176bbcae9c0a",
+      "task": "TASK-20261112-e8d2e14b",
+      "operation": "finish"
+    },
+    {
+      "id": 319,
+      "time": "2026-11-12T10:22:05+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261112-e8d2e14b",
+      "operation": "review"
+    },
+    {
+      "id": 320,
+      "time": "2026-11-12T10:22:54+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261111-78638bd1",
+      "operation": "finish"
+    },
+    {
+      "id": 321,
+      "time": "2026-11-12T10:22:54+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261111-78638bd1",
+      "operation": "review"
+    },
+    {
+      "id": 322,
+      "time": "2026-11-12T10:23:32+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261112-bff4f9e6",
+      "operation": "create"
+    },
+    {
+      "id": 323,
+      "time": "2026-11-12T10:23:32+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261112-bff4f9e6",
+      "operation": "claim"
+    },
+    {
+      "id": 324,
+      "time": "2026-11-12T10:23:33+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261112-bff4f9e6",
+      "operation": "finish"
+    },
+    {
+      "id": 325,
+      "time": "2026-11-12T10:23:33+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261112-bff4f9e6",
+      "operation": "review"
+    },
+    {
+      "id": 326,
+      "time": "2026-11-15T13:35:28+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261115-bf677c4c",
+      "operation": "create"
+    },
+    {
+      "id": 327,
+      "time": "2026-11-15T13:35:39+00:00",
+      "session": "01a1afcd-c994-7ae0-89e1-3c3770ac406b",
+      "task": "TASK-20261115-bf677c4c",
+      "operation": "claim"
     }
   ]
 }
