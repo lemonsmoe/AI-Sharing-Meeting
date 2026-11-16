@@ -1,0 +1,18 @@
+{
+  "id": "TASK-20261115-2b23b1b1",
+  "title": "按用户逐页意见重写28页照读稿与备注",
+  "domain": "content",
+  "acceptance": "基于29页原稿保留口语，删原P27并重排28页；关键概念校正、具体PPT案例和表情包逆向提示，费用段完整可照读；原P29逐字保持，最终无占位；备注与讲稿逐页一致。",
+  "depends": [],
+  "write_paths": [
+    "d:\\03_code\\03_company\\ai-sharing-meeting\\docs\\content\\user_revision_script_20261116",
+    "d:\\03_code\\03_company\\ai-sharing-meeting\\docs\\context\\02_events\\2026\\11\\evt_user_revision_script_20261116.md"
+  ],
+  "owner": null,
+  "status": "accepted",
+  "created_at": "2026-11-15T19:40:52+00:00",
+  "updated_at": "2026-11-15T20:13:30+00:00",
+  "result": "28页照读稿和备注完成：P6新引语、P7型号已纳入，原P3/P29逐字不动；具体PPT例子、16格表情逆向prompt、完整费用段已写，逐页一致性与无占位检查通过。",
+  "evidence": "docs/content/user_revision_script_20261116/speaker_notes_per_page.json;docs/content/user_revision_script_20261116/speaker_script.md;docs/content/user_revision_script_20261116/changes.md;docs/content/user_revision_script_20261116/verification.json;docs/context/02_events/2026/11/evt_user_revision_script_20261116.md",
+  "review_note": "主对话已读交付、实际看采用素材，并经全新Agent两轮交叉复核；相关成果已纳入28页修订补图版或来源记录。"
+}

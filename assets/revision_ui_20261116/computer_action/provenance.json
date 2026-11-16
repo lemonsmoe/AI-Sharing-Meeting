@@ -1,0 +1,54 @@
+[
+  {
+    "file": "workbuddy_agent_browser_action.png",
+    "source_page": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/WorkBuddy-Zero-Cost-Skill-Top-10/Agent-Browser",
+    "original_image_url": "https://download.codebuddy.cn/web/docs/0dac6a52efc8f0ff38fbaadc81a771177042ff33/docs/static/image.B5Jk5J9x.png",
+    "retrieved_at": "2026-11-16T04:07:29.125795+08:00",
+    "dimensions": [
+      3012,
+      1918
+    ],
+    "sha256": "cedc19e0311bf8031edeafaba48babb7915992deb5298252366981046639c7d9",
+    "status": "Downloaded official original; visually inspected; no image edits",
+    "description": "Official tutorial screenshot showing actual task instruction, UseSkill agent-browser success, open/wait/get title/get text/scroll action logs and produced document; not a screenshot of the webpage itself."
+  },
+  {
+    "file": "workbuddy_agent_browser_result.png",
+    "source_page": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/WorkBuddy-Zero-Cost-Skill-Top-10/Agent-Browser",
+    "original_image_url": "https://download.codebuddy.cn/web/docs/0dac6a52efc8f0ff38fbaadc81a771177042ff33/docs/static/image-1.P1Bj-DqB.png",
+    "retrieved_at": "2026-11-16T04:07:29.126797+08:00",
+    "dimensions": [
+      3012,
+      1918
+    ],
+    "sha256": "c07be5fa35578dadfaa232b72e58457b2729cba3b3df92298d49a99c714b67f6",
+    "status": "Downloaded official original; visually inspected; no image edits",
+    "description": "Same official tutorial task, completed response and generated Markdown preview."
+  },
+  {
+    "file": "workbuddy_browser_multitab.png",
+    "source_page": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Right-Sidebar",
+    "original_image_url": "https://download.codebuddy.cn/web/docs/0dac6a52efc8f0ff38fbaadc81a771177042ff33/docs/static/browser-multitab.sf_Mas5P.png",
+    "retrieved_at": "2026-11-16T04:07:29.127798+08:00",
+    "dimensions": [
+      1080,
+      161
+    ],
+    "sha256": "85ac4492cff620d7f30870848655cb6a237633b76bb8eaed040f2c7cadcbc087",
+    "status": "Downloaded official original; visually inspected; no image edits",
+    "description": "Official browser chrome illustration only, rejected as actual-action evidence."
+  },
+  {
+    "file": "workbuddy_browser_search.png",
+    "source_page": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Right-Sidebar",
+    "original_image_url": "https://download.codebuddy.cn/web/docs/0dac6a52efc8f0ff38fbaadc81a771177042ff33/docs/static/browser-omnibox-search.qfQFlqXh.png",
+    "retrieved_at": "2026-11-16T04:07:29.127798+08:00",
+    "dimensions": [
+      1080,
+      225
+    ],
+    "sha256": "94526afe1de74775d3e13ce132b8c50b83186313332f797d64a1d7829948912c",
+    "status": "Downloaded official original; visually inspected; no image edits",
+    "description": "Official search address field only, rejected as actual-action evidence."
+  }
+]

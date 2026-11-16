@@ -1,0 +1,184 @@
+[
+  {
+    "file": "arena_text_20261116.png",
+    "source_url": "https://arena.ai/leaderboard/chat/text",
+    "source_page": "https://arena.ai/leaderboard/chat/text",
+    "size": [
+      1280,
+      720
+    ],
+    "sha256": "8ca661b7d2b3443f4963aeed4917308a2d9ce1e13c558812d01e6edc9821a0b2",
+    "capture_utc": "2026-11-15T19:46:01.505594+00:00",
+    "status": "verified_visual",
+    "note": "见brief.md；截图不代表用户完成该产品任务"
+  },
+  {
+    "file": "codex_official_computer_permission.png",
+    "source_url": "https://learn.chatgpt.com/docs/computer-use",
+    "source_page": "https://learn.chatgpt.com/docs/computer-use",
+    "size": [
+      1280,
+      720
+    ],
+    "sha256": "e192a0764be12c1b70cdaa0c5a0ae99bda20e2220b9d1a64af97c5329ade0dd8",
+    "capture_utc": "2026-11-15T19:46:01.505594+00:00",
+    "status": "verified_visual",
+    "note": "见brief.md；截图不代表用户完成该产品任务"
+  },
+  {
+    "file": "codex_official_file_preview.png",
+    "source_url": "https://learn.chatgpt.com/docs/artifacts-viewer?surface=app",
+    "source_page": "https://learn.chatgpt.com/docs/artifacts-viewer?surface=app",
+    "size": [
+      1280,
+      720
+    ],
+    "sha256": "d9d879b83d7b86027dbfc1b6a89f63955c30be44c2de4733e6c406575c2eaa6a",
+    "capture_utc": "2026-11-15T19:46:01.505594+00:00",
+    "status": "verified_visual",
+    "note": "见brief.md；截图不代表用户完成该产品任务"
+  },
+  {
+    "file": "doubao_appstore_1.jpg",
+    "source_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/cf/83/95cf8380-a3f3-d69d-0f42-6646340a1aad/oYI33ACgayloVIZqAIsviJBAAABivn21ZUwVE.jpg/600x1300bb-60.jpg",
+    "source_page": "https://apps.apple.com/cn/app/id6459478672",
+    "size": [
+      600,
+      1299
+    ],
+    "sha256": "8b41dff37f4fcc08a49aef864c16712107405b656d6ada7ef346d675c4468dbc",
+    "capture_utc": "2026-11-15T19:46:01.507602+00:00",
+    "status": "verified_visual",
+    "note": "见brief.md；截图不代表用户完成该产品任务"
+  },
+  {
+    "file": "doubao_appstore_2.jpg",
+    "source_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/9b/5e/119b5edf-3ddd-3075-525c-1ad9e43f93df/oQAAqAAtVrUFMerVheIEEL6mTBVGnAqEbQeHNL.jpg/600x1300bb-60.jpg",
+    "source_page": "https://apps.apple.com/cn/app/id6459478672",
+    "size": [
+      600,
+      1299
+    ],
+    "sha256": "58690f5b50c07a5d26e21f15ddd5debe9c693a18498b31cb0ffd876914b9892a",
+    "capture_utc": "2026-11-15T19:46:01.507602+00:00",
+    "status": "verified_visual",
+    "note": "见brief.md；截图不代表用户完成该产品任务"
+  },
+  {
+    "file": "doubao_appstore_3.jpg",
+    "source_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/69/04/fd69045a-f1de-8e67-080b-b02e7ecdd715/oIydTqUeUQGAmAB7TEjXfEYQAQMAc7FmnA86Ef.jpg/600x1300bb-60.jpg",
+    "source_page": "https://apps.apple.com/cn/app/id6459478672",
+    "size": [
+      600,
+      1299
+    ],
+    "sha256": "3c0df7e988e3f2bad96ac5d5ead811bdc1a19bc2764399434e4c309509b82869",
+    "capture_utc": "2026-11-15T19:46:01.508595+00:00",
+    "status": "verified_visual",
+    "note": "见brief.md；截图不代表用户完成该产品任务"
+  },
+  {
+    "file": "doubao_appstore_4.jpg",
+    "source_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/8a/3b/678a3b52-f1bb-8ce2-8bb1-3b165acc24a7/PPT.jpg/600x1300bb-60.jpg",
+    "source_page": "https://apps.apple.com/cn/app/id6459478672",
+    "size": [
+      600,
+      1299
+    ],
+    "sha256": "bb90c3d35e93b44fd1472bfa0c477b68812d01e63373596ab6181b4251fd58f5",
+    "capture_utc": "2026-11-15T19:46:01.508595+00:00",
+    "status": "verified_visual",
+    "note": "见brief.md；截图不代表用户完成该产品任务"
+  },
+  {
+    "file": "doubao_appstore_5.jpg",
+    "source_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/c9/1c/f4c91c50-63b9-d11a-ae42-46b623b4c33c/oEJCFFARAWSfF2qOqpfwC6DUkAIzAARIDn4HEg.jpg/600x1300bb-60.jpg",
+    "source_page": "https://apps.apple.com/cn/app/id6459478672",
+    "size": [
+      600,
+      1299
+    ],
+    "sha256": "a2ffd7381d1589a153a132cae3f1806c736171056c206e6846a47ec5e6842292",
+    "capture_utc": "2026-11-15T19:46:01.508595+00:00",
+    "status": "verified_visual",
+    "note": "见brief.md；截图不代表用户完成该产品任务"
+  },
+  {
+    "file": "doubao_appstore_6.jpg",
+    "source_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/3a/9b/893a9b8d-0c02-f742-9b5c-ae6acec3582f/5.jpg/600x1300bb-60.jpg",
+    "source_page": "https://apps.apple.com/cn/app/id6459478672",
+    "size": [
+      600,
+      1299
+    ],
+    "sha256": "03cc52334599f6629727382f6396a83b3b6f83d93c3ce16f464be95ab18edbb5",
+    "capture_utc": "2026-11-15T19:46:01.508595+00:00",
+    "status": "verified_visual",
+    "note": "见brief.md；截图不代表用户完成该产品任务"
+  },
+  {
+    "file": "doubao_contact.jpg",
+    "source_url": null,
+    "source_page": null,
+    "size": [
+      1500,
+      560
+    ],
+    "sha256": "ecd3e28a77b193638e2e18a5b39414f5c2d8ff1d3a88a17d2c0e385c7a75231e",
+    "capture_utc": "2026-11-15T19:46:01.508595+00:00",
+    "status": "verified_visual",
+    "note": "见brief.md；截图不代表用户完成该产品任务"
+  },
+  {
+    "file": "doubao_prompt_brief.png",
+    "source_url": "https://www.doubao.com/chat/",
+    "source_page": "https://www.doubao.com/chat/",
+    "size": [
+      1280,
+      720
+    ],
+    "sha256": "1a3f5809b15fbb8acad5b4dc11e425385743b5163113f7daa5db865c5a73fb24",
+    "capture_utc": "2026-11-15T19:46:01.508595+00:00",
+    "status": "verified_visual",
+    "note": "见brief.md；截图不代表用户完成该产品任务"
+  },
+  {
+    "file": "doubao_prompt_detailed_no_attachments.png",
+    "source_url": "https://www.doubao.com/chat/",
+    "source_page": "https://www.doubao.com/chat/",
+    "size": [
+      1280,
+      720
+    ],
+    "sha256": "a3330c3bdc72bb44de4403845e7682e038d81491d61dbd24136bbc25e4a70e6f",
+    "capture_utc": "2026-11-15T19:46:01.509594+00:00",
+    "status": "verified_visual",
+    "note": "见brief.md；截图不代表用户完成该产品任务"
+  },
+  {
+    "file": "robotics_header.jpg",
+    "source_url": "https://lh3.googleusercontent.com/I7a1f6DPm4Qs4JuiieahA4ki0Dc5IQDU8PxfsMRy3UCf3HF7Td_zZfXg35_M-Td1EELJUY2dJLEkdyjt7IVah658uuqvwAQFtarOukXs44MHGMiSd64=w1440-h810-n-nu",
+    "source_page": "https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/",
+    "size": [
+      1440,
+      810
+    ],
+    "sha256": "366afa36492c61fb28bde5ec813c86ea1936e55bfc7b87928ec885d4dde78be1",
+    "capture_utc": "2026-11-15T19:46:01.510594+00:00",
+    "status": "downloaded",
+    "note": "见brief.md；截图不代表用户完成该产品任务"
+  },
+  {
+    "file": "robotics_interaction.jpg",
+    "source_url": "https://lh3.googleusercontent.com/-TSwa6jvlFbAbtIoHIfDfrXEpZACC-ROkVz0SKXm-Lc4uldO33XbQiWiX_SOwKegzbpZn4IkrFdmCjXZNw1oNtkeRHh4iiqOgfCPki99jJ9bgJ8k7w=w1440-h810-n-nu",
+    "source_page": "https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/",
+    "size": [
+      1440,
+      810
+    ],
+    "sha256": "ed2539810af447b43dcc6a9cd5585e273962dfe7eac697443d975643a1b492b1",
+    "capture_utc": "2026-11-15T19:46:01.510594+00:00",
+    "status": "verified_visual",
+    "note": "见brief.md；截图不代表用户完成该产品任务"
+  }
+]

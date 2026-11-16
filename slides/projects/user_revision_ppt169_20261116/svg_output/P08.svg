@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <g id="page-composition" data-pptx-bounds="0 0 1280 720">
+  <text x="80" y="104" font-size="44" font-weight="bold" fill="#171715">上下文，就是它这次能看到的背景</text>
+  <g data-pptx-bounds="0 0 1280 720" fill="#171715"><text x="80" y="190" font-weight="bold">只有一句问题</text><text x="664" y="190" font-weight="bold">把任务和所需材料说清楚</text></g>
+  <image href="../images/doubao_brief.jpg" x="80" y="220" width="536" height="302" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="664" y="220" width="536" height="302" fill="#FFFFFF" stroke="#C50000" stroke-width="2" stroke-dasharray="8,6"/>
+  <text x="932" y="308" text-anchor="middle" font-size="22" fill="#171715">待补：完整提示词＋附件截图</text>
+  <text x="932" y="360" text-anchor="middle" font-size="22" fill="#171715">显示已上传的活动通知、报名表</text>
+  <text x="932" y="412" text-anchor="middle" font-size="22" fill="#171715">以及相关历史消息</text>
+  <rect x="202" y="465" width="405" height="50" fill="none" stroke="#C50000" stroke-width="2"/>
+  <g data-pptx-bounds="0 0 1280 720" fill="#171715" font-size="22"><text x="80" y="574">“帮我看一下几点开始。”</text><text x="664" y="565">“阅读活动通知与报名表，确认开始时间、</text><text x="664" y="600">地点和签到要求；有冲突请指出来源。”</text></g>
+  <text x="80" y="660" fill="#C50000">任务说明 ＋ 历史对话 ＋ 提供的文件，都可以成为上下文</text>
+</g>
+</svg>

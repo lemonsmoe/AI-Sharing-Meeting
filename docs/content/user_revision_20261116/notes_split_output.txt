@@ -1,0 +1,42 @@
+PPT Master - Speaker Notes Splitting Tool
+==================================================
+  Project path: slides\projects\user_revision_ppt169_20261116
+  Output directory: slides\projects\user_revision_ppt169_20261116\notes
+
+  Found 28 SVG file(s)
+  Found 28 notes section(s)
+
+[OK] SVG files and notes have one-to-one correspondence
+
+  Generated: P01.md
+  Generated: P02.md
+  Generated: P03.md
+  Generated: P04.md
+  Generated: P05.md
+  Generated: P06.md
+  Generated: P07.md
+  Generated: P08.md
+  Generated: P09.md
+  Generated: P10.md
+  Generated: P11.md
+  Generated: P12.md
+  Generated: P13.md
+  Generated: P14.md
+  Generated: P15.md
+  Generated: P16.md
+  Generated: P17.md
+  Generated: P18.md
+  Generated: P19.md
+  Generated: P20.md
+  Generated: P21.md
+  Generated: P22.md
+  Generated: P23.md
+  Generated: P24.md
+  Generated: P25.md
+  Generated: P26.md
+  Generated: P27.md
+  Generated: P28.md
+
+[Done] Successfully generated 28/28 file(s)
+
+[Done] Notes splitting complete

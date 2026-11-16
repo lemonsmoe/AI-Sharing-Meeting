@@ -1,0 +1,17 @@
+{
+  "id": "TASK-20261115-8f6d3d1b",
+  "title": "补充WorkBuddy技能调用官方截图",
+  "domain": "content",
+  "acceptance": "官方技能界面图片落地并实看，来源可查，不冒充PPTMaster实测",
+  "depends": [],
+  "write_paths": [
+    "d:\\03_code\\03_company\\ai-sharing-meeting\\assets\\revision_ui_20261116\\workbuddy_skill"
+  ],
+  "owner": null,
+  "status": "accepted",
+  "created_at": "2026-11-15T19:46:24+00:00",
+  "updated_at": "2026-11-15T20:13:30+00:00",
+  "result": "WorkBuddy官方技能展开选择截图已下载实看，建议用于P23；界面入口不是PPTMaster执行证据，另有官方电脑操作授权及文件预览示例",
+  "evidence": "assets/revision_ui_20261116/workbuddy_skill/README.md;assets/revision_ui_20261116/workbuddy_skill/provenance.json",
+  "review_note": "主对话已读交付、实际看采用素材，并经全新Agent两轮交叉复核；相关成果已纳入28页修订补图版或来源记录。"
+}

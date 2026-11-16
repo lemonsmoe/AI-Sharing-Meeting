@@ -1,9 +1,107 @@
 ---
 {
   "topic": "workshop_scope",
-  "title": "Swiss成果保存与新Agent接续",
-  "abstract": "用户要求Git保存后交另一Agent推进细节；最新版三页和30页讲稿已交，视觉反馈、办公案例与整套PPT仍待。",
+  "title": "28页修订补图版与全新Agent多轮验收",
+  "abstract": "28页PPT、逐页备注和照读稿已同步交付，三个全新Agent两轮独立审阅通过，原生编辑回读通过；P8/P22/P23按用户授权保留三个补图位，上午按接手清单补图试讲。",
   "points": [
+    {
+      "kind": "user_confirmed",
+      "text": "用户要求检查另一Agent做出的最新版PPT与修改后的讲稿，按既有标准提出不清楚的地方和优化建议；指出例子图少，希望扩充。",
+      "sources": [
+        "note_b9ab1c4802cbde2d1ca5#0"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "最新版是user_edition_20261116.pptx，29页，SHA256 c5232044…；已看29张原生图并读PPT备注和自改版讲稿。P09重叠、P12/P16/P17卡片溢出、P19/P26越画布、P25文字偏出卡片；P27/P28照读稿仍是制作安排/待展开问题，当前不能当最终可照读稿。",
+      "sources": [
+        "note_b9ab1c4802cbde2d1ca5#1"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "7/29页有嵌入图片，其中3页主要标识、2页肖像、P02/P26为成果图；23页文字对象超过三档字号，全文12个字号值。29页PPT无原生表格，P23改表格单元格的话术缺演示对象。",
+      "sources": [
+        "note_b9ab1c4802cbde2d1ca5#2"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "保持29页顺序先修排版与P27/P28，再用现有材料补P14参考/样稿、P15两轮反馈对照、P16模拟报价真实错误回答、P25大纲到成果、P26表情包放大；P22补输入与结果表，办公题材仍待用户选择。详见docs/content/user_edition_review_20261116/asset_plan.md。",
+      "sources": [
+        "note_b9ab1c4802cbde2d1ca5#3"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "保留用户老板/员工口吻，但统一许愿机说法、补目标资料验收责任；MCP接上就能用、Harness保证不乱来、Agent保证做完等说法改为有条件能力；P19不画成Prompt→Skill→MCP→Harness→Agent必经/升级链。",
+      "sources": [
+        "note_b9ab1c4802cbde2d1ca5#4"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "收紧没资料等于不理解需求、所有长对话反复压缩、模型没法区分真伪等绝对表述；产品能生成视频不等于红果/抖音很多作品由它生成；绘画到IT到数学应作为个人观察或不列行业冲击先后。多个Agent一致仍需回原文。",
+      "sources": [
+        "note_b9ab1c4802cbde2d1ca5#5"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "表情包原件已存在；旧30页asset_checklist页码过期。当前只有P17/P21明显截图占位，P07尚未留截图位。wemeet_local截图实际是旧三页聊天回复，不能当腾讯会议界面；WorkBuddy教程图不能把不同任务拼成同次输入输出。本轮未操纵用户桌面截屏。",
+      "sources": [
+        "note_b9ab1c4802cbde2d1ca5#6"
+      ]
+    },
+    {
+      "kind": "user_confirmed",
+      "text": "用户自改版讲稿为内容基准；本机截图改为用户后补占位框，Agent不再操纵本机截屏。",
+      "sources": [
+        "note_21e325f6d562c060ddee#0"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "上一Agent交付记录（视觉结论以本轮实际看图为准）：29页PPTX已交付：slides/projects/user_edition_ppt169_20261116/exports/user_edition_20261116.pptx，SHA256 C5232044...；SVG质量检查exit 0、29/29备注、PowerPoint 12.0逐页渲染与副本编辑回存通过。分支task/001-script-grounding共16个提交未推送。",
+      "sources": [
+        "note_21e325f6d562c060ddee#1"
+      ]
+    },
+    {
+      "kind": "question",
+      "text": "待用户：逐页视觉确认（preview/29张）、三处截图占位框替换（P07/P17/P21）、真人试讲计时、现场设备测试。",
+      "sources": [
+        "note_21e325f6d562c060ddee#2"
+      ]
+    },
+    {
+      "kind": "user_confirmed",
+      "text": "用户对当前三页PPT风格给出正面但未定稿的评价（'还可以'），明确不满的是讲稿中文表达不符合习惯、不够接地气。",
+      "sources": [
+        "note_a38e52231f65933361a0#0"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "早期30页修订阶段，后续已被用户自改29页更新：30页照读稿已全稿口语化修订：去翻译腔、合并短句、术语口语化，并织回用户大纲原有比喻（同事交接、老板员工不打螺丝、许愿机、甲方乙方、上下文有限、B站链接）；保留页序页题页时、产品表述、引语与教学边界；字数9531→9026。交付 speaker_script.md 与 script_revision_notes_20261115.md，分支 task/001-script-grounding。",
+      "sources": [
+        "note_a38e52231f65933361a0#1"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "三处可选加料由用户决定：A第12页百度万能笑话（低风险暖场）；B第12页AI约会/出书/吃药实例（冲击力强，领导在场建议精简）；C第1页分部门例子（属公司案例，须用户确认部门与事例后再上屏）。",
+      "sources": [
+        "note_a38e52231f65933361a0#2"
+      ]
+    },
+    {
+      "kind": "question",
+      "text": "早期30页修订阶段，后续已被用户自改29页更新：办公案例三选（A模拟会议改期/B公开说明对照表/C Excel金额核对）仍未定；讲稿口语修订语感是否对味也待用户反馈，确认后再并话术、扩30页PPT。",
+      "sources": [
+        "note_a38e52231f65933361a0#3"
+      ]
+    },
     {
       "kind": "user_confirmed",
       "text": "用户要求先Git保存当前工作并提供接续提示词，计划让另一个Agent尝试接手、推进细节。",
@@ -759,15 +857,148 @@
       "sources": [
         "note_71e318b5d3e23bba7170#0"
       ]
+    },
+    {
+      "kind": "user_confirmed",
+      "text": "批准同步修改PPT与讲稿；原P27删去，原P28支付说明和原P29结尾顺延，末页不改。",
+      "sources": [
+        "note_2dbc20d237ac8bd27f46#0"
+      ]
+    },
+    {
+      "kind": "constraint",
+      "text": "P2多页缩略图阵列加边框；P4删红果、修GPT和即梦图标并保留字节；P20修ChatGPT和小云雀。统一排版修复P9/P12/P13/P16/P25越界、间距和重叠。",
+      "sources": [
+        "note_2dbc20d237ac8bd27f46#1"
+      ]
+    },
+    {
+      "kind": "constraint",
+      "text": "从事实分析修改用户稿：P5软件、模型、Skill、Harness、Agent关系；P10语言、多模态、具身不能当作穷尽互斥分类；P7采用官方当前型号；P6换妈妈引语。",
+      "sources": [
+        "note_2dbc20d237ac8bd27f46#2"
+      ]
+    },
+    {
+      "kind": "constraint",
+      "text": "增加真实图：豆包手机聊天、Arena排行、上下文历史与附件、真实输入框；P9用网上已发表的逐token预测图，彻底移除会议改周示例；P17实际本机Skill树；P18/MCP和P19/Harness-Agent架构；P21用户已供Codex界面；P22任务输入到文件验收；P23真实Skill调用图不足须告知；P24操作界面。",
+      "sources": [
+        "note_2dbc20d237ac8bd27f46#3"
+      ]
+    },
+    {
+      "kind": "constraint",
+      "text": "P12使用完整详细提示词；P13以工作进度和已有/缺少材料解释交接；P15许愿式反例与有图指向的具体意见；P25参考公开人类PPT流程，验收是否满足需求并迭代，不用新大纲/能改才算数等内部说法；举例用引号。P26根据原16宫格赛感logo卡通日常图拟提示词。删观众无用的严谨限定语和制作提醒。",
+      "sources": [
+        "note_2dbc20d237ac8bd27f46#4"
+      ]
+    },
+    {
+      "kind": "user_confirmed",
+      "text": "允许检查本机Skill文件夹并呈现真实目录树；原图提示词已遗失，允许根据图像重写可用提示词案例。",
+      "sources": [
+        "note_2dbc20d237ac8bd27f46#5"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "本轮Agent执行方案：保留旧29页产物，另存28页修订；以本次PPT真实对话和成果贯穿任务验收。官方界面图与本机实测证据分开，无法获得指定截图时列出具体缺口，不拼不同任务假装完整实测。",
+      "sources": [
+        "note_2dbc20d237ac8bd27f46#6"
+      ]
+    },
+    {
+      "kind": "user_confirmed",
+      "text": "用户允许缺图位置保留空框，要求自主完成其余PPT和新版讲稿，上午自行补改，不必等待用户回复。",
+      "sources": [
+        "note_b45dc40192c402f6aa3c#0"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "已生成28页修订补图版及28页备注和照读稿；PowerPoint12原生导出28张图，主对话看全套，独立Agent复查后半与全稿对齐；修正P15不存在截图的指代、P24问答图片错配，并放大关键界面局部。",
+      "sources": [
+        "note_b45dc40192c402f6aa3c#1"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "P8右侧上下文附件、P22左侧最初任务输入、P23右侧Codex调用PPTMaster共3处明确占位。已备活动通知/报名表模拟材料和可复制提示词。官方界面图、真实本项目回复、研究示意图各自来源保留，不拼成一次已实测任务。",
+      "sources": [
+        "note_b45dc40192c402f6aa3c#2"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "本轮Agent建议：早上优先补三图并删除占位，再在现场电脑放映和抽读关键页；不为增加素材重开全稿结构。P21以项目对话、任务输入、执行沟通、成果检查四类功能入口归纳，不当官方固定模块名。P25采用准备内容、确认大纲、选参考做小样、补图做整套、检查修改五步，知乎公开回答仅是流程参考、不声称高赞。",
+      "sources": [
+        "note_b45dc40192c402f6aa3c#3"
+      ]
+    },
+    {
+      "kind": "user_confirmed",
+      "text": "用户明确要求当前任务开启目标模式并建立多个全新子Agent独立审阅讲稿与PPT，吸收意见、多轮修正，自主验收后才停止。",
+      "sources": [
+        "note_f6412208fbcdf111a1cc#0"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "已用create_goal启动新目标，未自动恢复旧目标；新建fresh_visual_review、fresh_script_review、fresh_fact_review，fork_turns=none，分别独立检查投影视觉、口语讲稿、事实与案例真实性。",
+      "sources": [
+        "note_f6412208fbcdf111a1cc#1"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "本轮Agent验收停止准则：至少两轮独立审阅，修正有依据的问题并重新原生渲染，无未处理的明显排版、事实、图文或稿页对应问题；P8/P22/P23用户允许的补图位不算未授权的阻断。避免为无限追求无瑕重开全稿结构，保留上午用户调整时间。",
+      "sources": [
+        "note_f6412208fbcdf111a1cc#2"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "三个全新Agent以fork_turns=none完成第一轮独立审核：P21红框缺编号、P22真实回复图太小、P24授权图不足以展示动作、P23缺Skill可用前提且把点名说成必需；P4产品品牌和P9读图有改进建议。",
+      "sources": [
+        "note_e3d344ce882dd0f2554f#0"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "主对话已修正上述项：添加对应编号、原生裁剪放大回复、换同一官方浏览器任务执行记录、增加Skill安装/可读取和自动匹配说明、补产品品牌与读图衔接；重新导出和渲染。三Agent第二轮均通过，无未处理的明显问题。",
+      "sources": [
+        "note_e3d344ce882dd0f2554f#1"
+      ]
+    },
+    {
+      "kind": "observation",
+      "text": "交付28页、28份备注与照读稿逐页相同，18页有图片，仅P8/P22/P23三个用户授权占位；PowerPoint编辑副本保存重开通过，正式文件未改变；原P3与末页像素一致。最终PPT SHA256 0acd282d589a2750c28b18e8bf513051ba961533da4e701280df24d9a099368d。",
+      "sources": [
+        "note_e3d344ce882dd0f2554f#2"
+      ]
+    },
+    {
+      "kind": "proposal",
+      "text": "本轮Agent建议已落实为早上接手清单：先补三图、删除占位，再现场放映和抽读关键页；来源与技术核验放独立记录，不堆到观众页面。未真人计时，不因目标模式继续无依据扩展结构。",
+      "sources": [
+        "note_e3d344ce882dd0f2554f#3"
+      ]
     }
   ],
   "omitted": [],
-  "notes_revision": "c8ec18fd3a8eefe2035d",
+  "notes_revision": "48788d8ec9e7f23c1a25",
   "note_fingerprints": {
+    "note_21e325f6d562c060ddee": "5a2f5f4798cb3f8aa86f49ac632ca47c978570d2a6ac0f77bc47a5a16c20aee0",
+    "note_a38e52231f65933361a0": "2409ffe26ea579ef67e3f7d3498a3da60a95985e345b9a369c1784913fb8911e",
+    "note_2dbc20d237ac8bd27f46": "6d2997ca6a01be00e09ae296ddee3ccc058ce9da50644e27fa5409f1fe4331ab",
     "note_578c611bf14fb32b3a48": "9fd65e43c7c107796943069d9acdf547232dc4403e40c9f366f76e4b953c36dc",
     "note_931b3d25b943b4d0250b": "7c140f90fc2c60f21d091d0f38f3a2c683ded4fd51060fd23499ce8af6b5faf0",
     "note_a0d48efbc9c77ced30da": "314e3082803f35f18b12e9eecb1426a4b92fa72510c2b1252adff09c8d047485",
+    "note_b45dc40192c402f6aa3c": "ec486c5bf7e7b374f9b91dc26381902eeab39b780db65b098e9aeeedeb629f6d",
+    "note_b9ab1c4802cbde2d1ca5": "8bafa58a2aa15e6a7fa35568d929a653970d6b7a850688c09a183121b7845e32",
     "note_c21a6e53b194190a525f": "b9e742fe73e164287bb489c7c2e0a0ed280288b6da83b21a81b7d56a5dcabfd7",
+    "note_e3d344ce882dd0f2554f": "cb64752e3770db38cbe30d4bb59124e92973dab7d6b215a5067b5f988476d143",
+    "note_f6412208fbcdf111a1cc": "75b9fcbe43ba7a46aff24090fe2231a89acbcb7956e6be30867b2ccf2341dc9b",
     "note_02aa3acfed2f72a17eac": "f76af866fbea412bf9ddc2c0209e2f0489f91d53a72193284be249e2b1ce1164",
     "note_0dc83188107ecb0aedf0": "e3c5ca1386ef93767be918b95d192d3f179443ebe08e434ead3d5f6b665eb135",
     "note_1ed6889e469a145c1b87": "1a80c6fb917cd48db89f6b68ebd96d311a95e13d4bee36f787c3df3032cde1a3",
@@ -813,10 +1044,20 @@
     "note_2046d684356adc747a95#3",
     "note_2046d684356adc747a95#4",
     "note_2046d684356adc747a95#5",
+    "note_21e325f6d562c060ddee#0",
+    "note_21e325f6d562c060ddee#1",
+    "note_21e325f6d562c060ddee#2",
     "note_21f0657974e665c04808#0",
     "note_21f0657974e665c04808#1",
     "note_21f0657974e665c04808#2",
     "note_21f0657974e665c04808#3",
+    "note_2dbc20d237ac8bd27f46#0",
+    "note_2dbc20d237ac8bd27f46#1",
+    "note_2dbc20d237ac8bd27f46#2",
+    "note_2dbc20d237ac8bd27f46#3",
+    "note_2dbc20d237ac8bd27f46#4",
+    "note_2dbc20d237ac8bd27f46#5",
+    "note_2dbc20d237ac8bd27f46#6",
     "note_427c49c1b9d254ae0ed7#0",
     "note_42fd332c3e2c2b8bd980#0",
     "note_42fd332c3e2c2b8bd980#1",
@@ -871,9 +1112,24 @@
     "note_9b66da69e3916cc7468c#5",
     "note_a0d48efbc9c77ced30da#0",
     "note_a0d48efbc9c77ced30da#1",
+    "note_a38e52231f65933361a0#0",
+    "note_a38e52231f65933361a0#1",
+    "note_a38e52231f65933361a0#2",
+    "note_a38e52231f65933361a0#3",
     "note_acd3d02e74ca1dc78fd4#0",
     "note_acd3d02e74ca1dc78fd4#1",
     "note_acd3d02e74ca1dc78fd4#2",
+    "note_b45dc40192c402f6aa3c#0",
+    "note_b45dc40192c402f6aa3c#1",
+    "note_b45dc40192c402f6aa3c#2",
+    "note_b45dc40192c402f6aa3c#3",
+    "note_b9ab1c4802cbde2d1ca5#0",
+    "note_b9ab1c4802cbde2d1ca5#1",
+    "note_b9ab1c4802cbde2d1ca5#2",
+    "note_b9ab1c4802cbde2d1ca5#3",
+    "note_b9ab1c4802cbde2d1ca5#4",
+    "note_b9ab1c4802cbde2d1ca5#5",
+    "note_b9ab1c4802cbde2d1ca5#6",
     "note_c0b137b45ea078ed552c#0",
     "note_c21a6e53b194190a525f#0",
     "note_c21a6e53b194190a525f#1",
@@ -895,28 +1151,39 @@
     "note_d37bc9ae97c53dea348b#0",
     "note_d37bc9ae97c53dea348b#1",
     "note_d37bc9ae97c53dea348b#2",
+    "note_e3d344ce882dd0f2554f#0",
+    "note_e3d344ce882dd0f2554f#1",
+    "note_e3d344ce882dd0f2554f#2",
+    "note_e3d344ce882dd0f2554f#3",
     "note_ec0322a580e87617b29d#0",
     "note_ec0322a580e87617b29d#1",
     "note_ec0322a580e87617b29d#2",
     "note_ec0322a580e87617b29d#3",
     "note_eeb6fc1067eee5afdde8#0",
     "note_eeb6fc1067eee5afdde8#1",
-    "note_eeb6fc1067eee5afdde8#2"
+    "note_eeb6fc1067eee5afdde8#2",
+    "note_f6412208fbcdf111a1cc#0",
+    "note_f6412208fbcdf111a1cc#1",
+    "note_f6412208fbcdf111a1cc#2"
   ],
   "author_thread": "01a1b28a-425f-7a03-8728-e93cfa030f78",
-  "updated_at": "2026-11-15T15:38:44+00:00",
+  "updated_at": "2026-11-15T20:12:56+00:00",
   "path": "docs/context/05_discussions/topics/workshop_scope/summary.md"
 }
 ---
 
-# Swiss成果保存与新Agent接续
+# 28页修订补图版与全新Agent多轮验收
 
-用户要求Git保存后交另一Agent推进细节；最新版三页和30页讲稿已交，视觉反馈、办公案例与整套PPT仍待。
+28页PPT、逐页备注和照读稿已同步交付，三个全新Agent两轮独立审阅通过，原生编辑回读通过；P8/P22/P23按用户授权保留三个补图位，上午按接手清单补图试讲。
 
 此文件整理讨论，不代表方案获准实施。引用可追溯到独立记录。
 
 ## 候选方案
 
+- 保持29页顺序先修排版与P27/P28，再用现有材料补P14参考/样稿、P15两轮反馈对照、P16模拟报价真实错误回答、P25大纲到成果、P26表情包放大；P22补输入与结果表，办公题材仍待用户选择。详见docs/content/user_edition_review_20261116/asset_plan.md。（[note_b9ab1c4802cbde2d1ca5#3](notes/797010131a2f840fd8f7/note_b9ab1c4802cbde2d1ca5.md)）
+- 保留用户老板/员工口吻，但统一许愿机说法、补目标资料验收责任；MCP接上就能用、Harness保证不乱来、Agent保证做完等说法改为有条件能力；P19不画成Prompt→Skill→MCP→Harness→Agent必经/升级链。（[note_b9ab1c4802cbde2d1ca5#4](notes/797010131a2f840fd8f7/note_b9ab1c4802cbde2d1ca5.md)）
+- 收紧没资料等于不理解需求、所有长对话反复压缩、模型没法区分真伪等绝对表述；产品能生成视频不等于红果/抖音很多作品由它生成；绘画到IT到数学应作为个人观察或不列行业冲击先后。多个Agent一致仍需回原文。（[note_b9ab1c4802cbde2d1ca5#5](notes/797010131a2f840fd8f7/note_b9ab1c4802cbde2d1ca5.md)）
+- 三处可选加料由用户决定：A第12页百度万能笑话（低风险暖场）；B第12页AI约会/出书/吃药实例（冲击力强，领导在场建议精简）；C第1页分部门例子（属公司案例，须用户确认部门与事例后再上屏）。（[note_a38e52231f65933361a0#2](notes/109f71f806ddc2c976ee/note_a38e52231f65933361a0.md)）
 - 第8–12页用活动通知从周三改周五的虚构例子串起任务、背景、样例、修改与回源。标明教学示意，避免提前定成公司的办公案例。（[note_5d62f00c279ca7fde19b#0](notes/d2434b96f40978573f8a/note_5d62f00c279ca7fde19b.md)）
 - 第14–15、20–21页备选三种教学示例：用现有模拟会议核一条改期及采购状态；用公开说明做带出处对照表；用虚构 Excel 数据复核口径。未经选择，正稿沿用通用操作。（[note_5d62f00c279ca7fde19b#1](notes/d2434b96f40978573f8a/note_5d62f00c279ca7fde19b.md)）
 - 公司表情包素材若赶不上，可保留短讲，按用途、手机缩小检查和系列一致性讲实际做法；有图再替换素材位。第24页若新版原生表格尚未核，可用已测第一轮版本并清楚标注。（[note_5d62f00c279ca7fde19b#2](notes/d2434b96f40978573f8a/note_5d62f00c279ca7fde19b.md)）
@@ -951,9 +1218,15 @@
 - 新增研究作为独立证据保存，当前V3页数和文件不再因补证重复改版。后续内容调整优先依据用户审阅、完整试听和实际试讲；没有新问题时不重复已有应用检查，也不持续扩充URL来替代缺失的真实体验。（[note_4b56842a136e4e9600ed#3](notes/9a0b58d5b0351daa7a8b/note_4b56842a136e4e9600ed.md)）
 - 先做可观看参考对照，拆具体镜头和版式；视频先临摹15—30秒并比较声音，再迁移自身题材；PPT先少量风格预览和3页连续代表稿。用户对叙事、视觉和声音认可后再扩全稿。此为Agent提议，未恢复制作或决定工具。（[note_2046d684356adc747a95#4](notes/9a0b58d5b0351daa7a8b/note_2046d684356adc747a95.md)）
 - 后续多聊天围绕同一小样按参考拆解、制作、独立挑错配合，主对话负责叙事与视觉取舍；避免五路同时扩研究和成稿。保留来源与技术检查，但检查记录放附录，不用文件可打开、抽帧无重叠代替作品质量。（[note_2046d684356adc747a95#5](notes/9a0b58d5b0351daa7a8b/note_2046d684356adc747a95.md)）
+- 本轮Agent执行方案：保留旧29页产物，另存28页修订；以本次PPT真实对话和成果贯穿任务验收。官方界面图与本机实测证据分开，无法获得指定截图时列出具体缺口，不拼不同任务假装完整实测。（[note_2dbc20d237ac8bd27f46#6](notes/797010131a2f840fd8f7/note_2dbc20d237ac8bd27f46.md)）
+- 本轮Agent建议：早上优先补三图并删除占位，再在现场电脑放映和抽读关键页；不为增加素材重开全稿结构。P21以项目对话、任务输入、执行沟通、成果检查四类功能入口归纳，不当官方固定模块名。P25采用准备内容、确认大纲、选参考做小样、补图做整套、检查修改五步，知乎公开回答仅是流程参考、不声称高赞。（[note_b45dc40192c402f6aa3c#3](notes/797010131a2f840fd8f7/note_b45dc40192c402f6aa3c.md)）
+- 本轮Agent验收停止准则：至少两轮独立审阅，修正有依据的问题并重新原生渲染，无未处理的明显排版、事实、图文或稿页对应问题；P8/P22/P23用户允许的补图位不算未授权的阻断。避免为无限追求无瑕重开全稿结构，保留上午用户调整时间。（[note_f6412208fbcdf111a1cc#2](notes/797010131a2f840fd8f7/note_f6412208fbcdf111a1cc.md)）
+- 本轮Agent建议已落实为早上接手清单：先补三图、删除占位，再现场放映和抽读关键页；来源与技术核验放独立记录，不堆到观众页面。未真人计时，不因目标模式继续无依据扩展结构。（[note_e3d344ce882dd0f2554f#3](notes/797010131a2f840fd8f7/note_e3d344ce882dd0f2554f.md)）
 
 ## 待解问题
 
+- 待用户：逐页视觉确认（preview/29张）、三处截图占位框替换（P07/P17/P21）、真人试讲计时、现场设备测试。（[note_21e325f6d562c060ddee#2](notes/109f71f806ddc2c976ee/note_21e325f6d562c060ddee.md)）
+- 早期30页修订阶段，后续已被用户自改29页更新：办公案例三选（A模拟会议改期/B公开说明对照表/C Excel金额核对）仍未定；讲稿口语修订语感是否对味也待用户反馈，确认后再并话术、扩30页PPT。（[note_a38e52231f65933361a0#3](notes/109f71f806ddc2c976ee/note_a38e52231f65933361a0.md)）
 - 历史未决问题中受众、时长、平台、付费候选、分享日期、视频参考均已回答。尚余确切账号/网络条件、公司数据许可、实际采购预算、演示条件与参考PPT具体生成链路；只在执行依赖时问，先用公开模拟材料。（[note_cb2fc9572f3ca670af95#4](notes/9a0b58d5b0351daa7a8b/note_cb2fc9572f3ca670af95.md)）
 
 ## 约束
@@ -961,9 +1234,18 @@
 - O1读任务至交付记录分别299.623秒和260.663秒；工具所见整轮更长，均不含主对话审查。两个既有聊天不是盲测，未审完整底层日志；没有真人同题计时，不证明提示词因果提升，也不是WorkBuddy、飞书或Copilot实测。（[note_4b56842a136e4e9600ed#1](notes/9a0b58d5b0351daa7a8b/note_4b56842a136e4e9600ed.md)）
 - 真实讲述时长、现场设备和完整音画感知仍需相应实际执行；追加解码、同类URL或审计文件不能替代。剩余研究和主推产品的缺口保持明确；本轮准备完成不等于总体目标完成。（[note_5aba8181bbcf648f7095#3](notes/9a0b58d5b0351daa7a8b/note_5aba8181bbcf648f7095.md)）
 - 历史阶段（当前限定恢复范围见 2026-11-09 新记录）：本轮授权是项目迁移，不恢复暂停的内容生产、目标模式、子聊天或WPS访问；PPT和视频用户质量否决继续有效。新环境依赖、字体、Office兼容和Hook生命周期须当地核验。（[note_42fd332c3e2c2b8bd980#2](notes/9a0b58d5b0351daa7a8b/note_42fd332c3e2c2b8bd980.md)）
+- P2多页缩略图阵列加边框；P4删红果、修GPT和即梦图标并保留字节；P20修ChatGPT和小云雀。统一排版修复P9/P12/P13/P16/P25越界、间距和重叠。（[note_2dbc20d237ac8bd27f46#1](notes/797010131a2f840fd8f7/note_2dbc20d237ac8bd27f46.md)）
+- 从事实分析修改用户稿：P5软件、模型、Skill、Harness、Agent关系；P10语言、多模态、具身不能当作穷尽互斥分类；P7采用官方当前型号；P6换妈妈引语。（[note_2dbc20d237ac8bd27f46#2](notes/797010131a2f840fd8f7/note_2dbc20d237ac8bd27f46.md)）
+- 增加真实图：豆包手机聊天、Arena排行、上下文历史与附件、真实输入框；P9用网上已发表的逐token预测图，彻底移除会议改周示例；P17实际本机Skill树；P18/MCP和P19/Harness-Agent架构；P21用户已供Codex界面；P22任务输入到文件验收；P23真实Skill调用图不足须告知；P24操作界面。（[note_2dbc20d237ac8bd27f46#3](notes/797010131a2f840fd8f7/note_2dbc20d237ac8bd27f46.md)）
+- P12使用完整详细提示词；P13以工作进度和已有/缺少材料解释交接；P15许愿式反例与有图指向的具体意见；P25参考公开人类PPT流程，验收是否满足需求并迭代，不用新大纲/能改才算数等内部说法；举例用引号。P26根据原16宫格赛感logo卡通日常图拟提示词。删观众无用的严谨限定语和制作提醒。（[note_2dbc20d237ac8bd27f46#4](notes/797010131a2f840fd8f7/note_2dbc20d237ac8bd27f46.md)）
 
 ## 观察或调研结果
 
+- 最新版是user_edition_20261116.pptx，29页，SHA256 c5232044…；已看29张原生图并读PPT备注和自改版讲稿。P09重叠、P12/P16/P17卡片溢出、P19/P26越画布、P25文字偏出卡片；P27/P28照读稿仍是制作安排/待展开问题，当前不能当最终可照读稿。（[note_b9ab1c4802cbde2d1ca5#1](notes/797010131a2f840fd8f7/note_b9ab1c4802cbde2d1ca5.md)）
+- 7/29页有嵌入图片，其中3页主要标识、2页肖像、P02/P26为成果图；23页文字对象超过三档字号，全文12个字号值。29页PPT无原生表格，P23改表格单元格的话术缺演示对象。（[note_b9ab1c4802cbde2d1ca5#2](notes/797010131a2f840fd8f7/note_b9ab1c4802cbde2d1ca5.md)）
+- 表情包原件已存在；旧30页asset_checklist页码过期。当前只有P17/P21明显截图占位，P07尚未留截图位。wemeet_local截图实际是旧三页聊天回复，不能当腾讯会议界面；WorkBuddy教程图不能把不同任务拼成同次输入输出。本轮未操纵用户桌面截屏。（[note_b9ab1c4802cbde2d1ca5#6](notes/797010131a2f840fd8f7/note_b9ab1c4802cbde2d1ca5.md)）
+- 上一Agent交付记录（视觉结论以本轮实际看图为准）：29页PPTX已交付：slides/projects/user_edition_ppt169_20261116/exports/user_edition_20261116.pptx，SHA256 C5232044...；SVG质量检查exit 0、29/29备注、PowerPoint 12.0逐页渲染与副本编辑回存通过。分支task/001-script-grounding共16个提交未推送。（[note_21e325f6d562c060ddee#1](notes/109f71f806ddc2c976ee/note_21e325f6d562c060ddee.md)）
+- 早期30页修订阶段，后续已被用户自改29页更新：30页照读稿已全稿口语化修订：去翻译腔、合并短句、术语口语化，并织回用户大纲原有比喻（同事交接、老板员工不打螺丝、许愿机、甲方乙方、上下文有限、B站链接）；保留页序页题页时、产品表述、引语与教学边界；字数9531→9026。交付 speaker_script.md 与 script_revision_notes_20261115.md，分支 task/001-script-grounding。（[note_a38e52231f65933361a0#1](notes/109f71f806ddc2c976ee/note_a38e52231f65933361a0.md)）
 - 最新同机接续提示已写docs/handoff/continue_prompt_swiss_20261115.md，明确使用231045三页和swiss_script_20261115文字包；技术通过不等于用户视觉认可，办公案例未定；保留本机绑定与真实身份，不自动恢复旧目标。（[note_a0d48efbc9c77ced30da#1](notes/797010131a2f840fd8f7/note_a0d48efbc9c77ced30da.md)）
 - 新三页样稿swiss_preview_20261115_231045.pptx已交，主对话已看最终全部3图，核三页备注、单字体三字号主题、真实原话来源及制作聊天的PowerPoint副本回存证据；截图内容为图片不冒充原生表格。技术阶段通过，用户尚未视觉评价。（[note_c21a6e53b194190a525f#0](notes/797010131a2f840fd8f7/note_c21a6e53b194190a525f.md)）
 - swiss_script_20261115已完成30页分镜与照读稿、来源和三种办公案例候选；主对话读全稿并独立核30页页题一致、2880秒预算。表情包原件、用户办公案例选择、全套PPT和备注合稿、真实试讲与现场设备仍待。（[note_c21a6e53b194190a525f#1](notes/797010131a2f840fd8f7/note_c21a6e53b194190a525f.md)）
@@ -1004,9 +1286,18 @@
 - 本轮重读Ploto的参考拆解、试镜、配音与分镜部分，未看原片；初查Frontend Slides、baoyu-slide-deck及Anthropic pptx原始说明，区分HTML、图片型及PPT创建编辑路线，未安装实测或认定质量优秀。见docs/content/quality_reset_discussion.md。（[note_2046d684356adc747a95#3](notes/9a0b58d5b0351daa7a8b/note_2046d684356adc747a95.md)）
 - 目标远端初次ls-remote核对为空仓库，本地原先未初始化Git；已建立main与origin，整理项目记忆、历史文件、三个自定义Skill快照和迁移入口。新克隆重绑真实身份/Hook，旧任务只作历史档案，未复制账号、插件缓存、运行库和全局个人记忆。（[note_42fd332c3e2c2b8bd980#1](notes/9a0b58d5b0351daa7a8b/note_42fd332c3e2c2b8bd980.md)）
 - 项目已上传指定GitHub的main分支；首次上传基线1d41889364707a325d21c2b284a1a58841fb130f与远端一致。初始提交1159文件克隆哈希一致，bootstrap/status/sync/doctor通过，7项迁移保护测试和15个媒体重绑模块语法检查通过。新环境入口docs/handoff/new_environment_handoff.md。仅验证迁移接续，未在第二台机器实测全部制作工具；质量否决和生产暂停保持。（[note_71e318b5d3e23bba7170#0](notes/9a0b58d5b0351daa7a8b/note_71e318b5d3e23bba7170.md)）
+- 已生成28页修订补图版及28页备注和照读稿；PowerPoint12原生导出28张图，主对话看全套，独立Agent复查后半与全稿对齐；修正P15不存在截图的指代、P24问答图片错配，并放大关键界面局部。（[note_b45dc40192c402f6aa3c#1](notes/797010131a2f840fd8f7/note_b45dc40192c402f6aa3c.md)）
+- P8右侧上下文附件、P22左侧最初任务输入、P23右侧Codex调用PPTMaster共3处明确占位。已备活动通知/报名表模拟材料和可复制提示词。官方界面图、真实本项目回复、研究示意图各自来源保留，不拼成一次已实测任务。（[note_b45dc40192c402f6aa3c#2](notes/797010131a2f840fd8f7/note_b45dc40192c402f6aa3c.md)）
+- 已用create_goal启动新目标，未自动恢复旧目标；新建fresh_visual_review、fresh_script_review、fresh_fact_review，fork_turns=none，分别独立检查投影视觉、口语讲稿、事实与案例真实性。（[note_f6412208fbcdf111a1cc#1](notes/797010131a2f840fd8f7/note_f6412208fbcdf111a1cc.md)）
+- 三个全新Agent以fork_turns=none完成第一轮独立审核：P21红框缺编号、P22真实回复图太小、P24授权图不足以展示动作、P23缺Skill可用前提且把点名说成必需；P4产品品牌和P9读图有改进建议。（[note_e3d344ce882dd0f2554f#0](notes/797010131a2f840fd8f7/note_e3d344ce882dd0f2554f.md)）
+- 主对话已修正上述项：添加对应编号、原生裁剪放大回复、换同一官方浏览器任务执行记录、增加Skill安装/可读取和自动匹配说明、补产品品牌与读图衔接；重新导出和渲染。三Agent第二轮均通过，无未处理的明显问题。（[note_e3d344ce882dd0f2554f#1](notes/797010131a2f840fd8f7/note_e3d344ce882dd0f2554f.md)）
+- 交付28页、28份备注与照读稿逐页相同，18页有图片，仅P8/P22/P23三个用户授权占位；PowerPoint编辑副本保存重开通过，正式文件未改变；原P3与末页像素一致。最终PPT SHA256 0acd282d589a2750c28b18e8bf513051ba961533da4e701280df24d9a099368d。（[note_e3d344ce882dd0f2554f#2](notes/797010131a2f840fd8f7/note_e3d344ce882dd0f2554f.md)）
 
 ## 用户已确认
 
+- 用户要求检查另一Agent做出的最新版PPT与修改后的讲稿，按既有标准提出不清楚的地方和优化建议；指出例子图少，希望扩充。（[note_b9ab1c4802cbde2d1ca5#0](notes/797010131a2f840fd8f7/note_b9ab1c4802cbde2d1ca5.md)）
+- 用户自改版讲稿为内容基准；本机截图改为用户后补占位框，Agent不再操纵本机截屏。（[note_21e325f6d562c060ddee#0](notes/109f71f806ddc2c976ee/note_21e325f6d562c060ddee.md)）
+- 用户对当前三页PPT风格给出正面但未定稿的评价（'还可以'），明确不满的是讲稿中文表达不符合习惯、不够接地气。（[note_a38e52231f65933361a0#0](notes/109f71f806ddc2c976ee/note_a38e52231f65933361a0.md)）
 - 用户要求先Git保存当前工作并提供接续提示词，计划让另一个Agent尝试接手、推进细节。（[note_a0d48efbc9c77ced30da#0](notes/797010131a2f840fd8f7/note_a0d48efbc9c77ced30da.md)）
 - 用户已采用30页顺序：成果→简单原理→提示词→办公Agent/Skill→会议/PPT→生图视频→费用与展望；具体案例仍需确认。（[note_578c611bf14fb32b3a48#0](notes/797010131a2f840fd8f7/note_578c611bf14fb32b3a48.md)）
 - 用户否决旧三页混乱、文字多、结构不工整、AI味重；要求单一字体风格、两至三档字号、一至三种配色、去掉左下角固定小字标题；更多图片和实际界面。（[note_578c611bf14fb32b3a48#1](notes/797010131a2f840fd8f7/note_578c611bf14fb32b3a48.md)）
@@ -1037,3 +1328,7 @@
 - 用户已完整看过72秒短片，认为动画不连贯僵硬、像播放PPT，语音机械，画面不高级，内容枯燥且不明白在讲什么；希望学习优秀作品的做法，先研究如何复刻指定Ploto教程的效果。当前视频质量验收失败。（[note_2046d684356adc747a95#0](notes/9a0b58d5b0351daa7a8b/note_2046d684356adc747a95.md)）
 - 历史阶段（当前限定恢复范围见 2026-11-09 新记录）：用户初看PPT认为排版混乱、内容无趣、色块单调堆积，提出寻找优秀PPT制作Skill指导；表示已停止子对话4的WPS查看，所有对话暂停，先讨论下一步优化。（[note_2046d684356adc747a95#1](notes/9a0b58d5b0351daa7a8b/note_2046d684356adc747a95.md)）
 - 用户指定GitHub仓库AI-Sharing-Meeting，要求将相关工作与项目记忆同步，供另一个环境继续开发。（[note_42fd332c3e2c2b8bd980#0](notes/9a0b58d5b0351daa7a8b/note_42fd332c3e2c2b8bd980.md)）
+- 批准同步修改PPT与讲稿；原P27删去，原P28支付说明和原P29结尾顺延，末页不改。（[note_2dbc20d237ac8bd27f46#0](notes/797010131a2f840fd8f7/note_2dbc20d237ac8bd27f46.md)）
+- 允许检查本机Skill文件夹并呈现真实目录树；原图提示词已遗失，允许根据图像重写可用提示词案例。（[note_2dbc20d237ac8bd27f46#5](notes/797010131a2f840fd8f7/note_2dbc20d237ac8bd27f46.md)）
+- 用户允许缺图位置保留空框，要求自主完成其余PPT和新版讲稿，上午自行补改，不必等待用户回复。（[note_b45dc40192c402f6aa3c#0](notes/797010131a2f840fd8f7/note_b45dc40192c402f6aa3c.md)）
+- 用户明确要求当前任务开启目标模式并建立多个全新子Agent独立审阅讲稿与PPT，吸收意见、多轮修正，自主验收后才停止。（[note_f6412208fbcdf111a1cc#0](notes/797010131a2f840fd8f7/note_f6412208fbcdf111a1cc.md)）

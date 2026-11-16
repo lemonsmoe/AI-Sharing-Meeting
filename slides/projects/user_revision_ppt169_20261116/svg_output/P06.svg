@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <image href="../images/karpathy.jpg" x="80" y="170" width="360" height="390" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="500" y="182" width="70" height="7" fill="#C50000"/>
+  <g data-pptx-bounds="0 0 1280 720" fill="#171715"><text x="500" y="267" font-size="44" font-weight="bold">“The hottest new</text><text x="500" y="327" font-size="44" font-weight="bold">programming language</text><text x="500" y="387" font-size="44" font-weight="bold">is English.”</text>
+    <text x="500" y="466">最热门的新编程语言是英语。</text>
+    <text x="500" y="555" font-size="22" font-weight="bold">Andrej Karpathy</text><text x="500" y="592" font-size="22">AI 研究者 · 2023 年</text>
+  </g>
+</svg>

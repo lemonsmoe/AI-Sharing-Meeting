@@ -1,0 +1,18 @@
+{
+  "id": "TASK-20261115-a8acc014",
+  "title": "28页修订官方界面与流程资料图采集",
+  "domain": "content",
+  "acceptance": "豆包与Arena截图来源可查，Codex入门有官方依据，PPT流程有人类公开资料，不把官网截图写成用户实测",
+  "depends": [],
+  "write_paths": [
+    "d:\\03_code\\03_company\\ai-sharing-meeting\\assets\\revision_ui_20261116",
+    "d:\\03_code\\03_company\\ai-sharing-meeting\\docs\\context\\02_events\\2026\\11\\evt_revision_ui_20261116.md"
+  ],
+  "owner": null,
+  "status": "accepted",
+  "created_at": "2026-11-15T19:41:01+00:00",
+  "updated_at": "2026-11-15T20:13:30+00:00",
+  "result": "Arena实景榜、豆包官方手机图与真实未发送输入框、机器人官方图及Codex官方资料已采集；精确缺图与可用范围在brief明确",
+  "evidence": "assets/revision_ui_20261116/brief.md;assets/revision_ui_20261116/provenance.json;docs/context/02_events/2026/11/evt_revision_ui_20261116.md",
+  "review_note": "主对话已读交付、实际看采用素材，并经全新Agent两轮交叉复核；相关成果已纳入28页修订补图版或来源记录。"
+}

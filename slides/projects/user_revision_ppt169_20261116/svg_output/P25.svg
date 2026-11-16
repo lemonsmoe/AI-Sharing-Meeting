@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-size="44" font-weight="bold" fill="#171715">做 AI PPT：先把内容讲清，再反复看效果</text>
+  <g id="workflow" data-pptx-bounds="80 185 1120 140" fill="#171715" font-size="22">
+    <line x1="100" y1="210" x2="1170" y2="210" stroke="#B8B4AC" stroke-width="2"/>
+    <circle cx="100" cy="210" r="7" fill="#C50000"/><circle cx="370" cy="210" r="7" fill="#C50000"/><circle cx="640" cy="210" r="7" fill="#C50000"/><circle cx="910" cy="210" r="7" fill="#C50000"/><circle cx="1170" cy="210" r="7" fill="#C50000"/>
+    <text x="80" y="260">1　准备内容</text><text x="298" y="260">2　确认大纲</text><text x="526" y="260">3　选参考做小样</text><text x="796" y="260">4　补图做整套</text><text x="1042" y="260">5　检查并修改</text>
+  </g>
+  <image href="../images/swiss_reference.png" x="80" y="330" width="346" height="195" preserveAspectRatio="xMidYMid meet"/>
+  <image href="../images/sample_02.png" x="467" y="330" width="346" height="195" preserveAspectRatio="xMidYMid meet"/>
+  <image href="../images/deck_preview26.png" x="854" y="330" width="346" height="195" preserveAspectRatio="xMidYMid meet"/>
+  <g id="workflow-captions" data-pptx-bounds="80 540 1120 155" font-size="22" fill="#171715"><text x="80" y="566">参考版式</text><text x="467" y="566">先看几页样稿</text><text x="854" y="566">补充真实案例</text>
+    <text x="80" y="638">“保留图片的对齐和留白，文字按照大纲要求的来。”</text>
+    <text x="80" y="676" fill="#C50000">打开逐页看：是否讲清楚、是否符合要求；有问题就继续修改。</text>
+  </g>
+</svg>

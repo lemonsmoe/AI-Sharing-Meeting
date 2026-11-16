@@ -1,0 +1,86 @@
+  Quick PPTX structure: flat (inferred from 28 SVG page(s))
+PPT Master - SVG to native DrawingML PPTX Tool
+==================================================
+  Project path: slides\projects\user_revision_ppt169_20261116
+  SVG directory: svg_output
+  Output file: slides\projects\user_revision_ppt169_20261116\exports\AI分享_28页修订补图版_20261116.pptx
+
+  Detected canvas format: PPT 16:9
+  Slide dimensions: 1280 x 720 px
+  SVG file count: 28
+  Mode: Native DrawingML shapes (directly editable)
+  Native table/chart objects: Chart/Table replacement disabled
+  PPTX structure: flat
+  Image optimization: Enabled (preferred cap 2560 px, unchanged bytes preserved, JPEG q85 when re-encoded)
+  Transition effect: Fade
+  Speaker notes: 28 page(s)
+
+  Converted 6 elements, skipped 0, promoted 1 background
+  [Slide 1/28] P01.svg (Native) +notes
+  Converted 1 elements, skipped 0, promoted 1 background
+  [Slide 2/28] P02.svg (Native) +notes
+  Converted 4 elements, skipped 0, promoted 1 background
+  [Slide 3/28] P03.svg (Native) +notes
+  Converted 3 elements, skipped 0, promoted 1 background
+  [Slide 4/28] P04.svg (Native) +notes
+  Converted 1 elements, skipped 0, promoted 1 background
+  [Slide 5/28] P05.svg (Native) +notes
+  Converted 3 elements, skipped 0, promoted 1 background
+  [Slide 6/28] P06.svg (Native) +notes
+  Converted 7 elements, skipped 0, promoted 1 background
+  [Slide 7/28] P07.svg (Native) +notes
+  Converted 1 elements, skipped 0, promoted 1 background
+  [Slide 8/28] P08.svg (Native) +notes
+  Converted 4 elements, skipped 0, promoted 1 background
+  [Slide 9/28] P09.svg (Native) +notes
+  Converted 3 elements, skipped 0, promoted 1 background
+  [Slide 10/28] P10.svg (Native) +notes
+  Converted 5 elements, skipped 0, promoted 1 background
+  [Slide 11/28] P11.svg (Native) +notes
+  Lowered positional <tspan> using preserve text flow
+  Converted 7 elements, skipped 0, promoted 1 background
+  [Slide 12/28] P12.svg (Native) +notes
+  Converted 5 elements, skipped 0, promoted 1 background
+  [Slide 13/28] P13.svg (Native) +notes
+  Converted 4 elements, skipped 0, promoted 1 background
+  [Slide 14/28] P14.svg (Native) +notes
+  Converted 6 elements, skipped 0, promoted 1 background
+  [Slide 15/28] P15.svg (Native) +notes
+  Converted 5 elements, skipped 0, promoted 1 background
+  [Slide 16/28] P16.svg (Native) +notes
+  Converted 5 elements, skipped 0, promoted 1 background
+  [Slide 17/28] P17.svg (Native) +notes
+  Converted 4 elements, skipped 0, promoted 1 background
+  [Slide 18/28] P18.svg (Native) +notes
+  Converted 3 elements, skipped 0, promoted 1 background
+  [Slide 19/28] P19.svg (Native) +notes
+  Converted 4 elements, skipped 0, promoted 1 background
+  [Slide 20/28] P20.svg (Native) +notes
+  Converted 4 elements, skipped 0, promoted 1 background
+  [Slide 21/28] P21.svg (Native) +notes
+  Lowered positional <tspan> using preserve text flow
+  Converted 2 elements, skipped 0, promoted 1 background
+  [Slide 22/28] P22.svg (Native) +notes
+  Lowered positional <tspan> using preserve text flow
+  Converted 7 elements, skipped 0, promoted 1 background
+  [Slide 23/28] P23.svg (Native) +notes
+  Converted 3 elements, skipped 0, promoted 1 background
+  [Slide 24/28] P24.svg (Native) +notes
+  Converted 6 elements, skipped 0, promoted 1 background
+  [Slide 25/28] P25.svg (Native) +notes
+  Lowered positional <tspan> using preserve text flow
+  Converted 3 elements, skipped 0, promoted 1 background
+  [Slide 26/28] P26.svg (Native) +notes
+  Converted 3 elements, skipped 0, promoted 1 background
+  [Slide 27/28] P27.svg (Native) +notes
+  Converted 6 elements, skipped 0, promoted 1 background
+  [Slide 28/28] P28.svg (Native) +notes
+  Flat structure: project-owned Master + Blank Layout (10 stock layout(s), 2 stock content shape(s) removed, 6 system footer hook(s) retained)
+  Flat theme: 2 theme part(s), stock text defaults retained (no theme contract)
+
+[Done] Saved: slides\projects\user_revision_ppt169_20261116\exports\AI分享_28页修订补图版_20261116.pptx
+  Slides: 28; unselected Layout prototype carriers: 0
+  [POSTFLIGHT] status=passed-with-warnings quality_gate=passed slides=28 warning_categories=1
+  [POSTFLIGHT][WARNING] quality_introduced_warnings=49
+  [PPTX] slides\projects\user_revision_ppt169_20261116\exports\AI分享_28页修订补图版_20261116.pptx
+  [REPORT] slides\projects\user_revision_ppt169_20261116\validation\AI分享_28页修订补图版_20261116.report.json

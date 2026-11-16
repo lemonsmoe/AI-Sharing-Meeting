@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-size="44" font-weight="bold" fill="#171715">Skill：把重复工作的方法，整理成一个文件夹</text>
+  <rect x="80" y="182" width="620" height="424" fill="#FFFFFF" stroke="#B8B4AC"/>
+  <g id="real-tree" data-pptx-bounds="112 206 560 390" fill="#171715" font-size="22">
+    <text x="112" y="238" font-size="28" font-weight="bold">ppt-master/</text>
+    <text x="132" y="296" fill="#C50000" font-weight="bold">├─ SKILL.md</text>
+    <text x="132" y="344">├─ workflows/</text><text x="164" y="383">│　 └─ profiles/quick-generate.md</text>
+    <text x="132" y="431">├─ templates/</text><text x="132" y="479">└─ scripts/</text><text x="164" y="518">　　└─ svg_to_pptx.py</text>
+    <text x="112" y="574">本机 PPT Master 的实际目录节选</text>
+  </g>
+  <g id="skill-purpose" data-pptx-bounds="758 205 442 380" fill="#171715">
+    <text x="758" y="250" font-weight="bold">SKILL.md：入口说明</text><text x="758" y="298" font-size="22">什么时候用、需要什么材料、怎么做</text>
+    <text x="758" y="384" font-weight="bold">配套资料：方法与模板</text><text x="758" y="432" font-size="22">按同一套步骤，完成不同内容</text>
+    <text x="758" y="518" font-weight="bold">脚本：执行重复动作</text><text x="758" y="566" font-size="22">例如检查 SVG，再导出 PPTX</text>
+  </g>
+  <text x="80" y="666" font-size="22" fill="#C50000">一次任务写提示词；反复要做的工作，把流程留下来。</text>
+</svg>

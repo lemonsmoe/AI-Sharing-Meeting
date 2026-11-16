@@ -1,0 +1,350 @@
+{
+  "slide_count": 28,
+  "notes_all_match": true,
+  "pages_with_images": 18,
+  "placeholder_pages": [
+    8,
+    22,
+    23
+  ],
+  "protected_pages_pixel_identical": {
+    "old_3_new_3": true,
+    "old_29_new_28": true
+  },
+  "sha256": "0acd282d589a2750c28b18e8bf513051ba961533da4e701280df24d9a099368d",
+  "pages": [
+    {
+      "page": 1,
+      "native_text_shapes": 6,
+      "pictures": 0,
+      "font_sizes_pt": [
+        18.0,
+        21.0,
+        43.5
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 2,
+      "native_text_shapes": 12,
+      "pictures": 4,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 3,
+      "native_text_shapes": 4,
+      "pictures": 0,
+      "font_sizes_pt": [
+        19.5,
+        39.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 4,
+      "native_text_shapes": 15,
+      "pictures": 10,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 5,
+      "native_text_shapes": 18,
+      "pictures": 0,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 6,
+      "native_text_shapes": 7,
+      "pictures": 1,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 7,
+      "native_text_shapes": 6,
+      "pictures": 2,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 8,
+      "native_text_shapes": 12,
+      "pictures": 1,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": true
+    },
+    {
+      "page": 9,
+      "native_text_shapes": 3,
+      "pictures": 1,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 10,
+      "native_text_shapes": 8,
+      "pictures": 3,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 11,
+      "native_text_shapes": 4,
+      "pictures": 1,
+      "font_sizes_pt": [
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 12,
+      "native_text_shapes": 7,
+      "pictures": 0,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 13,
+      "native_text_shapes": 15,
+      "pictures": 0,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 14,
+      "native_text_shapes": 13,
+      "pictures": 0,
+      "font_sizes_pt": [
+        18.0,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 15,
+      "native_text_shapes": 11,
+      "pictures": 1,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 16,
+      "native_text_shapes": 13,
+      "pictures": 0,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 17,
+      "native_text_shapes": 17,
+      "pictures": 0,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 18,
+      "native_text_shapes": 21,
+      "pictures": 0,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 19,
+      "native_text_shapes": 13,
+      "pictures": 1,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 20,
+      "native_text_shapes": 11,
+      "pictures": 5,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 21,
+      "native_text_shapes": 21,
+      "pictures": 1,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 22,
+      "native_text_shapes": 13,
+      "pictures": 2,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": true
+    },
+    {
+      "page": 23,
+      "native_text_shapes": 7,
+      "pictures": 1,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": true
+    },
+    {
+      "page": 24,
+      "native_text_shapes": 8,
+      "pictures": 3,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 25,
+      "native_text_shapes": 17,
+      "pictures": 3,
+      "font_sizes_pt": [
+        16.5,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 26,
+      "native_text_shapes": 4,
+      "pictures": 1,
+      "font_sizes_pt": [
+        16.5,
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 27,
+      "native_text_shapes": 16,
+      "pictures": 0,
+      "font_sizes_pt": [
+        21.0,
+        33.0
+      ],
+      "notes_match": true,
+      "placeholder": false
+    },
+    {
+      "page": 28,
+      "native_text_shapes": 9,
+      "pictures": 1,
+      "font_sizes_pt": [
+        16.5,
+        18.0,
+        21.0,
+        22.5
+      ],
+      "notes_match": true,
+      "placeholder": false
+    }
+  ]
+}

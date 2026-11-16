@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-size="44" font-weight="bold" fill="#171715">提示词 1｜把需求写具体</text>
+  <text x="80" y="222" fill="#171715">“帮我做个 PPT。”</text>
+  <text x="80" y="290" font-size="22" fill="#171715">你心里有画面，</text><text x="80" y="330" font-size="22" fill="#171715">它还不知道。</text>
+  <rect x="430" y="180" width="770" height="435" fill="#FFFFFF" stroke="#C50000" stroke-width="2"/>
+  <text x="470" y="235" fill="#171715">“我要给公司各部门同事和领导做一次 AI
+    <tspan x="470" dy="44">入门分享，控制在 40 分钟左右。请根据我</tspan>
+    <tspan x="470" dy="44">提供的大纲，先做开场三页。沿用公司模板</tspan>
+    <tspan x="470" dy="44">的米白、黑、红三色；每页只讲一个重点，</tspan>
+    <tspan x="470" dy="44">配真实界面或成果图，减少大段文字。</tspan>
+    <tspan x="470" dy="44">请交付可编辑的 PPTX，并给每页写一段</tspan>
+    <tspan x="470" dy="44">能直接照读的讲稿。先给我看三页效果，</tspan>
+    <tspan x="470" dy="44">确认后再继续完成整套。”</tspan>
+  </text>
+  <text x="80" y="670" font-size="22" fill="#171715">把任务交给一个不了解背景的新同事，你会补充哪些信息？</text>
+</svg>

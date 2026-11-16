@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-size="44" font-weight="bold" fill="#171715">点开的是软件，背后工作的是模型</text>
+  <text x="80" y="178" font-weight="bold" fill="#C50000">豆包 App</text>
+  <image href="../images/doubao_mobile.jpg" x="80" y="208" width="215" height="430" preserveAspectRatio="xMidYMid meet"/>
+  <text x="355" y="178" font-weight="bold" fill="#C50000">模型有厂商、系列和版本</text>
+  <text x="355" y="228" font-size="22" fill="#171715">Arena 排行榜中的模型名称与评分</text>
+  <svg x="355" y="252" width="845" height="318" viewBox="0.2109375 0.40972222 0.7578125 0.50694444" preserveAspectRatio="none" overflow="hidden"><image href="../images/arena.jpg" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+  <g data-pptx-bounds="0 0 1280 720" fill="#171715" font-size="22"><text x="355" y="612">GPT-6.1 Sol　／　Claude Opus 5.5</text><text x="355" y="650">Doubao Seed2.1 Pro</text></g>
+</svg>

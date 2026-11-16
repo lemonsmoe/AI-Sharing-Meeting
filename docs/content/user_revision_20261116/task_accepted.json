@@ -1,0 +1,23 @@
+{
+  "id": "TASK-20261115-8cd481d2",
+  "title": "按用户逐页意见修订28页PPT与交付验收",
+  "domain": "content",
+  "acceptance": "逐项落实用户P2-P28意见，保留原P3/P29，删原P27，实际图与来源可查，28页PPT可编辑且每页备注同步，原生渲染逐页验收无越界，列出真实缺图",
+  "depends": [],
+  "write_paths": [
+    "d:\\03_code\\03_company\\ai-sharing-meeting\\slides\\projects\\user_revision_ppt169_20261116",
+    "d:\\03_code\\03_company\\ai-sharing-meeting\\docs\\content\\user_revision_20261116",
+    "d:\\03_code\\03_company\\ai-sharing-meeting\\docs\\context\\00_current\\index.md",
+    "d:\\03_code\\03_company\\ai-sharing-meeting\\docs\\context\\00_current\\domains\\content.md",
+    "d:\\03_code\\03_company\\ai-sharing-meeting\\docs\\context\\02_events\\2026\\11\\evt_user_revision_20261116.md",
+    "d:\\03_code\\03_company\\ai-sharing-meeting\\docs\\context\\05_discussions\\topics\\workshop_scope\\notes\\797010131a2f840fd8f7",
+    "d:\\03_code\\03_company\\ai-sharing-meeting\\docs\\context\\05_discussions\\topics\\workshop_scope\\summary.md"
+  ],
+  "owner": null,
+  "status": "accepted",
+  "created_at": "2026-11-15T19:40:01+00:00",
+  "updated_at": "2026-11-15T20:13:30+00:00",
+  "result": "已交付28页可编辑PPT、28页同步备注与照读稿、三处获准补图位及补图材料；三个全新Agent两轮独立复核通过，PowerPoint原生渲染与编辑保存回读通过。",
+  "evidence": "docs/content/user_revision_20261116/早上从这里开始.md",
+  "review_note": "按用户授权自主验收：两轮全新独立审阅完成，所有已报告明确问题闭环。3个截图位已获用户允许留待上午补充。"
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-size="44" font-weight="bold" fill="#171715">提示词 4｜指出具体差距，再一起修改</text>
+  <image href="../images/old_sample.png" x="80" y="200" width="540" height="304" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="80" y="200" width="540" height="304" fill="none" stroke="#B8B4AC"/>
+  <text x="80" y="553" font-size="22" fill="#171715">本项目早期样稿</text>
+  <g id="feedback" data-pptx-bounds="680 190 520 420" fill="#171715">
+    <text x="680" y="230" font-size="22">只有愿望：</text><text x="680" y="275">“帮我做得更好看一点。”</text>
+    <text x="680" y="366" font-size="22" fill="#C50000">针对这张 PPT 的修改意见：</text>
+    <text x="680" y="412">“左侧提示词太长，移到讲稿；</text><text x="680" y="456">统一字号，去掉左下角页脚；</text><text x="680" y="500">补上实际输入或结果图，</text><text x="680" y="544">让大家能直接看到例子。”</text>
+  </g>
+  <text x="80" y="655" fill="#C50000">说清楚位置、问题和想要的效果。</text>
+</svg>

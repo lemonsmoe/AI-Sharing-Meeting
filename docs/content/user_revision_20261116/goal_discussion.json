@@ -1,0 +1,11 @@
+{
+  "topic":"workshop_scope",
+  "title":"用户要求启动目标模式及全新Agent多轮验收",
+  "abstract":"已启动当前新目标，至少两轮全新独立视觉、讲稿和事实审核，修复后复核再完成。",
+  "source_message":"用户睡前追加要求：自己再多建几个子Agent，让全新的Agent去评判……要开个目标模式，持续多轮检验，没有问题再停下来。",
+  "items":[
+    {"kind":"user_confirmed","text":"用户明确要求当前任务开启目标模式并建立多个全新子Agent独立审阅讲稿与PPT，吸收意见、多轮修正，自主验收后才停止。","evidence":"你在这个项目上自己再多建几个子 Agent，让全新的 Agent 去评判一下讲稿和 PPT 有没有什么值得改的……你要开个目标模式，持续多轮检验，没有问题再停下来。"},
+    {"kind":"observation","text":"已用create_goal启动新目标，未自动恢复旧目标；新建fresh_visual_review、fresh_script_review、fresh_fact_review，fork_turns=none，分别独立检查投影视觉、口语讲稿、事实与案例真实性。"},
+    {"kind":"proposal","text":"本轮Agent验收停止准则：至少两轮独立审阅，修正有依据的问题并重新原生渲染，无未处理的明显排版、事实、图文或稿页对应问题；P8/P22/P23用户允许的补图位不算未授权的阻断。避免为无限追求无瑕重开全稿结构，保留上午用户调整时间。"}
+  ]
+}

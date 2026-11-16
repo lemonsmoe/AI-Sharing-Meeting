@@ -1,0 +1,17 @@
+{
+  "id": "TASK-20261115-e7a43eae",
+  "title": "补充Claude官方品牌图标",
+  "domain": "content",
+  "acceptance": "Claude官方橙色星芒图标来源可查，下载并实际看图，不使用Anthropic公司字标",
+  "depends": [],
+  "write_paths": [
+    "d:\\03_code\\03_company\\ai-sharing-meeting\\assets\\revision_ui_20261116\\claude_brand"
+  ],
+  "owner": null,
+  "status": "accepted",
+  "created_at": "2026-11-15T19:49:46+00:00",
+  "updated_at": "2026-11-15T20:13:30+00:00",
+  "result": "Claude官方192px透明橙色星芒PNG已下载并实际看图，官网产品页icon.png来源和哈希已登记",
+  "evidence": "assets/revision_ui_20261116/claude_brand/claude_official.png;assets/revision_ui_20261116/claude_brand/provenance.json",
+  "review_note": "主对话已读交付、实际看采用素材，并经全新Agent两轮交叉复核；相关成果已纳入28页修订补图版或来源记录。"
+}

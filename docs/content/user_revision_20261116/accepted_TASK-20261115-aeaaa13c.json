@@ -1,0 +1,17 @@
+{
+  "id": "TASK-20261115-aeaaa13c",
+  "title": "补充浏览器正在执行任务官方画面",
+  "domain": "content",
+  "acceptance": "取得官方操作演示真实界面并实际看图，含来源与状态，不把权限弹窗当操作结果或造UI",
+  "depends": [],
+  "write_paths": [
+    "d:\\03_code\\03_company\\ai-sharing-meeting\\assets\\revision_ui_20261116\\computer_action"
+  ],
+  "owner": null,
+  "status": "accepted",
+  "created_at": "2026-11-15T20:04:13+00:00",
+  "updated_at": "2026-11-15T20:13:30+00:00",
+  "result": "官方WorkBuddy浏览器任务动作及同任务输出原图下载并实际看图；附来源、哈希与状态；没有网页本体演示但操作记录明确，待主对话验收。",
+  "evidence": "assets/revision_ui_20261116/computer_action/README.md;assets/revision_ui_20261116/computer_action/provenance.json;assets/revision_ui_20261116/computer_action/workbuddy_agent_browser_action.png",
+  "review_note": "主对话已读交付、实际看采用素材，并经全新Agent两轮交叉复核；相关成果已纳入28页修订补图版或来源记录。"
+}

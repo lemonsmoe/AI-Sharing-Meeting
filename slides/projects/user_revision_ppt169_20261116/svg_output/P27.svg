@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-size="44" font-weight="bold" fill="#171715">费用怎么付：软件订阅、API、本地部署</text>
+  <g id="cost-options" data-pptx-bounds="80 220 1120 350" fill="#171715">
+    <line x1="440" y1="220" x2="440" y2="570" stroke="#B8B4AC"/><line x1="824" y1="220" x2="824" y2="570" stroke="#B8B4AC"/>
+    <text x="80" y="265" font-weight="bold" fill="#C50000">软件订阅</text><text x="80" y="350">买现成产品的服务</text><text x="80" y="420">通常按月或按年付费</text><text x="80" y="490">在软件里直接使用</text>
+    <text x="472" y="265" font-weight="bold" fill="#C50000">API 调用</text><text x="472" y="350">把能力接入程序或工具</text><text x="472" y="420">通常按调用用量计费</text><text x="472" y="490">通常与会员分开计费</text>
+    <text x="856" y="265" font-weight="bold" fill="#C50000">本地部署</text><text x="856" y="350">在自己的设备上运行</text><text x="856" y="420">选择可自行部署的模型</text><text x="856" y="490">承担设备与维护成本</text>
+  </g>
+  <text x="80" y="646" fill="#171715">先用一件具体工作判断值不值得，再决定投入多少。</text>
+</svg>

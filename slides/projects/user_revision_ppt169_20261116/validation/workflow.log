@@ -1,0 +1,320 @@
+
+=== 2026-11-15T19:42:29.696Z NOTE id=b601354aba13 ===
+Project initialized: profile=quick; path=slides\projects\user_revision_ppt169_20261116
+
+=== 2026-11-15T19:42:30.209Z PYTHON run=449893dc8e8a ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime/ppt_skill_candidates/ppt_master/scripts/text_measure.py", "calibrate", "slides/projects/user_revision_ppt169_20261116", "--role", "title:Microsoft YaHei:44", "--role", "body:Microsoft YaHei:28", "--role", "annotation:Microsoft YaHei:22"]
+=== 2026-11-15T19:42:30.361Z END run=449893dc8e8a elapsed_ms=140 output_lines=11 retained=0 omitted=11 ===
+
+=== 2026-11-15T19:46:52.927Z PYTHON run=1c4e272acaa9 ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime/ppt_skill_candidates/ppt_master/scripts/svg_quality_checker.py", "slides/projects/user_revision_ppt169_20261116", "--quick-generate", "--canonical-authoring", "--stage", "early", "--json"]
+stdout:
+  [WARN] P01.svg - Passed (with warnings)
+     [WARN] Noncanonical compact authoring: Visible text requires one direct root font-family default; semantic groups and text elements keep only real overrides (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (5 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): svg[1]:font-family None -> 'Microsoft YaHei'; text[5]:font-family 'Microsoft YaHei' -> None; text[6]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] Quick roster declares no deck language: put lang="<BCP-47>" (vi-VN, he-IL, ...) on the first page's root <svg>; export reads it for run proofing language, right-to-left defaults, theme script slots and docProps (advisory)
+  [ERROR] P02.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 2 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>; <g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #2 has no id; object-level animation config cannot reference it
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 6 ungrouped top-level Slide-local element(s) in svg_output (<line> #3, <image> #5, <image> #6, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [WARN] P03.svg - Passed (with warnings)
+  [ERROR] P04.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (1 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): rect[16]:fill '#171715' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] Image ../images/icons/minimax.png is 32x32 and renders at 2.38x scale in a 76x76 meet frame — about 3.6x on a 1080p projector, visibly soft; use a larger source or a smaller frame
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P05.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 3 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>; <g>; <g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #5 has no id; object-level animation config cannot reference it
+     [WARN] Top-level visible <g> #6 has no id; object-level animation config cannot reference it
+     [WARN] Top-level visible <g> #11 has no id; object-level animation config cannot reference it
+     [WARN] 7 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [SUMMARY] Check Summary
+  Total files: 7
+    [OK] Fully passed: 0 (0%)
+    [WARN] With warnings: 4 (57%)
+    [ERROR] With errors: 3 (42%)
+  Provenance categories:
+    blocking: 3          hard findings; gate also requires exit 0
+    introduced: 27       advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 7 | text: 59 | images: 15 | icons: 0
+    Geometry: SVG elements 25 | native presets 0 | page-frame elements 0 | marker uses 0
+  [REPORT] JSON quality report exported: slides\projects\user_revision_ppt169_20261116\validation\svg_quality_early_report.json
+=== 2026-11-15T19:46:53.726Z END run=1c4e272acaa9 elapsed_ms=812 output_lines=74 retained=39 omitted=35 ===
+
+=== 2026-11-15T19:53:06.374Z PYTHON run=96026a882238 ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime/ppt_skill_candidates/ppt_master/scripts/svg_quality_checker.py", "slides/projects/user_revision_ppt169_20261116", "--quick-generate", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [WARN] P01.svg - Passed (with warnings)
+     [WARN] Noncanonical compact authoring: Visible text requires one direct root font-family default; semantic groups and text elements keep only real overrides (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (5 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): svg[1]:font-family None -> 'Microsoft YaHei'; text[5]:font-family 'Microsoft YaHei' -> None; text[6]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] Quick roster declares no deck language: put lang="<BCP-47>" (vi-VN, he-IL, ...) on the first page's root <svg>; export reads it for run proofing language, right-to-left defaults, theme script slots and docProps (advisory)
+  [ERROR] P02.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 2 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>; <g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #2 has no id; object-level animation config cannot reference it
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 6 ungrouped top-level Slide-local element(s) in svg_output (<line> #3, <image> #5, <image> #6, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [WARN] P03.svg - Passed (with warnings)
+  [ERROR] P04.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (1 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): rect[16]:fill '#171715' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] Image ../images/icons/minimax.png is 32x32 and renders at 2.38x scale in a 76x76 meet frame — about 3.6x on a 1080p projector, visibly soft; use a larger source or a smaller frame
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P05.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 3 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>; <g>; <g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Top-level visible <g> #5 has no id; object-level animation config cannot reference it
+     [WARN] Top-level visible <g> #6 has no id; object-level animation config cannot reference it
+     [WARN] Top-level visible <g> #11 has no id; object-level animation config cannot reference it
+     [WARN] 7 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P06.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=500.0, y=267.0..387.0, 3 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<image> #2, <rect> #3); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P07.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: external image '../images/arena.png' is empty, corrupt, or does not match its .png extension
+     [ERROR] Detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=355.0, y=612.0..650.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #7 has no id; object-level animation config cannot reference it
+     [WARN] 5 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <image> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P08.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: external image '../images/doubao_brief.png' is empty, corrupt, or does not match its .png extension
+     [ERROR] Detected 2 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>; <g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (3 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): g[4]:font-weight None -> 'bold'; text[5]:font-weight 'bold' -> None; text[6]:font-weight 'bold' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=664.0, y=565.0..600.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] Top-level visible <g> #10 has no id; object-level animation config cannot reference it
+  [ERROR] P11.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: external image '../images/doubao_detailed.png' is empty, corrupt, or does not match its .png extension
+     [WARN] 5 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <image> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [WARN] P12.svg - Passed (with warnings)
+     viewBox: 0 0 1280 720
+     [WARN] 7 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P24.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <image> invalid image source: external image '../images/file_preview.png' is empty, corrupt, or does not match its .png extension
+     [ERROR] <image> invalid image source: external image '../images/computer_permission.png' is empty, corrupt, or does not match its .png extension
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P25.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <text> (x=80, y=676; text='打开逐页看：是否讲清楚、是否符合要求；有…') exceeds <g id="workflow-captions"> data-pptx-bounds on the vertical axis: content (80.0, 657.3)-(733.0, 683.7), container (80.0, 540.0)-(1200.0, 675.0), overflow horizontal 0.0%, vertical 6.4% (error above 5%); expand the root module bounds into available non-overlapping space; otherwise reflow the text
+     [WARN] 4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <image> #4, <image> #5, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [WARN] P26.svg - Passed (with warnings)
+     viewBox: 0 0 1280 720
+     [WARN] 2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <image> #3); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [SUMMARY] Check Summary
+  Total files: 28
+    [OK] Fully passed: 0 (0%)
+    [WARN] With warnings: 19 (67%)
+    [ERROR] With errors: 9 (32%)
+  Provenance categories:
+    blocking: 12         hard findings; gate also requires exit 0
+    introduced: 62       advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 28 | text: 243 | images: 42 | icons: 0
+    Geometry: SVG elements 86 | native presets 0 | page-frame elements 0 | marker uses 4
+  [REPORT] JSON quality report exported: slides\projects\user_revision_ppt169_20261116\validation\svg_quality_report.json
+=== 2026-11-15T19:53:07.459Z END run=96026a882238 elapsed_ms=1093 output_lines=160 retained=79 omitted=81 ===
+
+=== 2026-11-15T19:54:03.185Z PYTHON run=6d66bf7ae861 ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime/ppt_skill_candidates/ppt_master/scripts/svg_quality_checker.py", "slides/projects/user_revision_ppt169_20261116", "--quick-generate", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [WARN] P01.svg - Passed (with warnings)
+     [WARN] Noncanonical compact authoring: Visible text requires one direct root font-family default; semantic groups and text elements keep only real overrides (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (5 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): svg[1]:font-family None -> 'Microsoft YaHei'; text[5]:font-family 'Microsoft YaHei' -> None; text[6]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] 6 ungrouped top-level Slide-local element(s) in svg_output (<rect> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P02.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <g> data-pptx-bounds overlaps <g> data-pptx-bounds by 1280.0px x 720.0px; keep ordinary direct-root module zones disjoint beyond the 1px tolerance
+     [WARN] Top-level visible <g> #2 has no id; object-level animation config cannot reference it
+     [WARN] Top-level visible <g> #4 has no id; object-level animation config cannot reference it
+     [WARN] 6 ungrouped top-level Slide-local element(s) in svg_output (<line> #3, <image> #5, <image> #6, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [WARN] P03.svg - Passed (with warnings)
+  [ERROR] P05.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <g> data-pptx-bounds overlaps <g> data-pptx-bounds by 1280.0px x 720.0px; keep ordinary direct-root module zones disjoint beyond the 1px tolerance
+     [ERROR] <g> data-pptx-bounds overlaps <g> data-pptx-bounds by 1280.0px x 720.0px; keep ordinary direct-root module zones disjoint beyond the 1px tolerance
+     [ERROR] <g> data-pptx-bounds overlaps <g> data-pptx-bounds by 1280.0px x 720.0px; keep ordinary direct-root module zones disjoint beyond the 1px tolerance
+     [WARN] Top-level visible <g> #5 has no id; object-level animation config cannot reference it
+     [WARN] Top-level visible <g> #6 has no id; object-level animation config cannot reference it
+     [WARN] Top-level visible <g> #11 has no id; object-level animation config cannot reference it
+     [WARN] 7 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [ERROR] P08.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <g> data-pptx-bounds overlaps <g> data-pptx-bounds by 1280.0px x 720.0px; keep ordinary direct-root module zones disjoint beyond the 1px tolerance
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (3 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): g[4]:font-weight None -> 'bold'; text[5]:font-weight 'bold' -> None; text[6]:font-weight 'bold' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=664.0, y=565.0..600.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy="0". Keep semantically independent text frames separate.
+     [WARN] Top-level visible <g> #3 has no id; object-level animation config cannot reference it
+     [WARN] Top-level visible <g> #10 has no id; object-level animation config cannot reference it
+  [SUMMARY] Check Summary
+  Total files: 28
+    [OK] Fully passed: 0 (0%)
+    [WARN] With warnings: 25 (89%)
+    [ERROR] With errors: 3 (10%)
+  Provenance categories:
+    blocking: 5          hard findings; gate also requires exit 0
+    introduced: 60       advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 28 | text: 243 | images: 42 | icons: 0
+    Geometry: SVG elements 86 | native presets 0 | page-frame elements 0 | marker uses 4
+  [REPORT] JSON quality report exported: slides\projects\user_revision_ppt169_20261116\validation\svg_quality_report.json
+=== 2026-11-15T19:54:04.306Z END run=6d66bf7ae861 elapsed_ms=1125 output_lines=151 retained=41 omitted=110 ===
+
+=== 2026-11-15T19:54:31.005Z PYTHON run=f83e530cafcd ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime/ppt_skill_candidates/ppt_master/scripts/svg_quality_checker.py", "slides/projects/user_revision_ppt169_20261116", "--quick-generate", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [WARN] P01.svg - Passed (with warnings)
+     [WARN] Noncanonical compact authoring: Visible text requires one direct root font-family default; semantic groups and text elements keep only real overrides (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (5 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): svg[1]:font-family None -> 'Microsoft YaHei'; text[5]:font-family 'Microsoft YaHei' -> None; text[6]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] 6 ungrouped top-level Slide-local element(s) in svg_output (<rect> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [OK] P02.svg - Passed
+  [SUMMARY] Check Summary
+  Total files: 28
+    [OK] Fully passed: 2 (7%)
+    [WARN] With warnings: 26 (92%)
+    [ERROR] With errors: 0 (0%)
+  Provenance categories:
+    blocking: 0          hard findings; gate also requires exit 0
+    introduced: 49       advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 28 | text: 243 | images: 42 | icons: 0
+    Geometry: SVG elements 86 | native presets 0 | page-frame elements 0 | marker uses 4
+  [REPORT] JSON quality report exported: slides\projects\user_revision_ppt169_20261116\validation\svg_quality_report.json
+=== 2026-11-15T19:54:32.132Z END run=f83e530cafcd elapsed_ms=1139 output_lines=133 retained=19 omitted=114 ===
+
+=== 2026-11-15T19:54:40.085Z PYTHON run=2a1ced61af90 ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime/ppt_skill_candidates/ppt_master/scripts/total_md_split.py", "slides/projects/user_revision_ppt169_20261116"]
+stdout:
+  [OK] SVG files and notes have one-to-one correspondence
+  [Done] Successfully generated 28/28 file(s)
+  [Done] Notes splitting complete
+=== 2026-11-15T19:54:40.099Z END run=2a1ced61af90 elapsed_ms=15 output_lines=37 retained=3 omitted=34 ===
+
+=== 2026-11-15T19:54:40.258Z PYTHON run=9b55ce2392e4 ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime/ppt_skill_candidates/ppt_master/scripts/svg_to_pptx.py", "slides/projects/user_revision_ppt169_20261116", "--quick-generate", "--with-notes", "-o", "slides/projects/user_revision_ppt169_20261116/exports/AI分享_28页修订补图版_20261116.pptx"]
+stdout:
+  [Done] Saved: slides\projects\user_revision_ppt169_20261116\exports\AI分享_28页修订补图版_20261116.pptx
+    [POSTFLIGHT] status=passed-with-warnings quality_gate=passed slides=28 warning_categories=1
+    [POSTFLIGHT][WARNING] quality_introduced_warnings=49
+    [PPTX] slides\projects\user_revision_ppt169_20261116\exports\AI分享_28页修订补图版_20261116.pptx
+    [REPORT] slides\projects\user_revision_ppt169_20261116\validation\AI分享_28页修订补图版_20261116.report.json
+=== 2026-11-15T19:54:42.712Z END run=9b55ce2392e4 elapsed_ms=2454 output_lines=83 retained=5 omitted=78 ===
+
+=== 2026-11-15T19:58:26.402Z PYTHON run=80a47a729a5b ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime/ppt_skill_candidates/ppt_master/scripts/svg_quality_checker.py", "slides/projects/user_revision_ppt169_20261116", "--quick-generate", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [WARN] P01.svg - Passed (with warnings)
+     [WARN] Noncanonical compact authoring: Visible text requires one direct root font-family default; semantic groups and text elements keep only real overrides (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (5 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): svg[1]:font-family None -> 'Microsoft YaHei'; text[5]:font-family 'Microsoft YaHei' -> None; text[6]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] 6 ungrouped top-level Slide-local element(s) in svg_output (<rect> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [OK] P02.svg - Passed
+  [SUMMARY] Check Summary
+  Total files: 28
+    [OK] Fully passed: 2 (7%)
+    [WARN] With warnings: 26 (92%)
+    [ERROR] With errors: 0 (0%)
+  Provenance categories:
+    blocking: 0          hard findings; gate also requires exit 0
+    introduced: 49       advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 28 | text: 246 | images: 42 | icons: 0
+    Geometry: SVG elements 86 | native presets 0 | page-frame elements 0 | marker uses 4
+  [REPORT] JSON quality report exported: slides\projects\user_revision_ppt169_20261116\validation\svg_quality_report.json
+=== 2026-11-15T19:58:27.510Z END run=80a47a729a5b elapsed_ms=1108 output_lines=133 retained=19 omitted=114 ===
+
+=== 2026-11-15T19:58:58.138Z PYTHON run=72ce3a7a51a9 ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime/ppt_skill_candidates/ppt_master/scripts/total_md_split.py", "slides/projects/user_revision_ppt169_20261116"]
+stdout:
+  [OK] SVG files and notes have one-to-one correspondence
+  [Done] Successfully generated 28/28 file(s)
+  [Done] Notes splitting complete
+=== 2026-11-15T19:58:58.149Z END run=72ce3a7a51a9 elapsed_ms=16 output_lines=37 retained=3 omitted=34 ===
+
+=== 2026-11-15T19:58:58.308Z PYTHON run=467e35c2a7d2 ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime/ppt_skill_candidates/ppt_master/scripts/svg_to_pptx.py", "slides/projects/user_revision_ppt169_20261116", "--quick-generate", "--with-notes", "-o", "slides/projects/user_revision_ppt169_20261116/exports/AI分享_28页修订补图版_20261116.pptx"]
+stdout:
+  [Done] Saved: slides\projects\user_revision_ppt169_20261116\exports\AI分享_28页修订补图版_20261116.pptx
+    [POSTFLIGHT] status=passed-with-warnings quality_gate=passed slides=28 warning_categories=1
+    [POSTFLIGHT][WARNING] quality_introduced_warnings=49
+    [PPTX] slides\projects\user_revision_ppt169_20261116\exports\AI分享_28页修订补图版_20261116.pptx
+    [REPORT] slides\projects\user_revision_ppt169_20261116\validation\AI分享_28页修订补图版_20261116.report.json
+=== 2026-11-15T19:59:00.402Z END run=467e35c2a7d2 elapsed_ms=2093 output_lines=83 retained=5 omitted=78 ===
+
+=== 2026-11-15T20:08:54.429Z PYTHON run=86356e0b240a ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime/ppt_skill_candidates/ppt_master/scripts/svg_quality_checker.py", "slides/projects/user_revision_ppt169_20261116", "--quick-generate", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [WARN] P01.svg - Passed (with warnings)
+     [WARN] Noncanonical compact authoring: Visible text requires one direct root font-family default; semantic groups and text elements keep only real overrides (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (5 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): svg[1]:font-family None -> 'Microsoft YaHei'; text[5]:font-family 'Microsoft YaHei' -> None; text[6]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)
+     [WARN] 6 ungrouped top-level Slide-local element(s) in svg_output (<rect> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id="...">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as "background" or "decoration"
+  [OK] P02.svg - Passed
+  [SUMMARY] Check Summary
+  Total files: 28
+    [OK] Fully passed: 2 (7%)
+    [WARN] With warnings: 26 (92%)
+    [ERROR] With errors: 0 (0%)
+  Provenance categories:
+    blocking: 0          hard findings; gate also requires exit 0
+    introduced: 49       advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 28 | text: 249 | images: 42 | icons: 0
+    Geometry: SVG elements 90 | native presets 0 | page-frame elements 0 | marker uses 4
+  [REPORT] JSON quality report exported: slides\projects\user_revision_ppt169_20261116\validation\svg_quality_report.json
+=== 2026-11-15T20:08:55.548Z END run=86356e0b240a elapsed_ms=1109 output_lines=133 retained=19 omitted=114 ===
+
+=== 2026-11-15T20:09:08.109Z PYTHON run=b2f77af2e483 ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime/ppt_skill_candidates/ppt_master/scripts/total_md_split.py", "slides/projects/user_revision_ppt169_20261116"]
+stdout:
+  [OK] SVG files and notes have one-to-one correspondence
+  [Done] Successfully generated 28/28 file(s)
+  [Done] Notes splitting complete
+=== 2026-11-15T20:09:08.124Z END run=b2f77af2e483 elapsed_ms=16 output_lines=37 retained=3 omitted=34 ===
+
+=== 2026-11-15T20:09:08.277Z PYTHON run=a8a373dbfd5e ===
+cwd: D:\03_Code\03_Company\AI-Sharing-Meeting
+argv: ["D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\.context_runtime\\ppt_master_env\\Scripts\\python.exe", ".context_runtime/ppt_skill_candidates/ppt_master/scripts/svg_to_pptx.py", "slides/projects/user_revision_ppt169_20261116", "--quick-generate", "--with-notes", "-o", "slides/projects/user_revision_ppt169_20261116/exports/AI分享_28页修订补图版_20261116.pptx"]
+stdout:
+  [Done] Saved: slides\projects\user_revision_ppt169_20261116\exports\AI分享_28页修订补图版_20261116.pptx
+    [POSTFLIGHT] status=passed-with-warnings quality_gate=passed slides=28 warning_categories=1
+    [POSTFLIGHT][WARNING] quality_introduced_warnings=49
+    [PPTX] slides\projects\user_revision_ppt169_20261116\exports\AI分享_28页修订补图版_20261116.pptx
+    [REPORT] slides\projects\user_revision_ppt169_20261116\validation\AI分享_28页修订补图版_20261116.report.json
+=== 2026-11-15T20:09:10.716Z END run=a8a373dbfd5e elapsed_ms=2438 output_lines=83 retained=5 omitted=78 ===

@@ -1,0 +1,17 @@
+{
+  "id": "TASK-20261115-8992b1fe",
+  "title": "28页修订所需官方模型核对与图像资料",
+  "domain": "research",
+  "acceptance": "核心模型与引语有原始来源；现成原理图、真人肖像和品牌素材下载至独立目录；记录出处和无法核实项，不改PPT与其他目录",
+  "depends": [],
+  "write_paths": [
+    "d:\\03_code\\03_company\\ai-sharing-meeting\\assets\\revision_research_20261116"
+  ],
+  "owner": null,
+  "status": "accepted",
+  "created_at": "2026-11-15T19:40:52+00:00",
+  "updated_at": "2026-11-15T20:13:30+00:00",
+  "result": "已交付官网核查模型名、Karpathy原话与真人肖像、Jay Alammar原版next-token GIF及静态帧、ChatGPT黑标及即梦小云雀官方标识；已看图并记录来源与局限。待主对话审查引用。",
+  "evidence": "assets/revision_research_20261116/provenance.json",
+  "review_note": "主对话已读交付、实际看采用素材，并经全新Agent两轮交叉复核；相关成果已纳入28页修订补图版或来源记录。"
+}

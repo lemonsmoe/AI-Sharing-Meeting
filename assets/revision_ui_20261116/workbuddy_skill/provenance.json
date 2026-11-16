@@ -1,0 +1,26 @@
+[
+  {
+    "file": "workbuddy_skill_market.png",
+    "url": "https://download.codebuddy.cn/web/docs/0dac6a52efc8f0ff38fbaadc81a771177042ff33/docs/static/skill-1.BVo7oQ4w.png",
+    "source_page": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market",
+    "sha256": "d931ff27eebf511cda86d6bf2dc17a63d4769bd6db926a88e065360c0d77e3e2",
+    "captured_utc": "2026-11-15T19:46:51.696718+00:00",
+    "type": "official_documentation_screenshot_not_user_test"
+  },
+  {
+    "file": "workbuddy_skill_entry.png",
+    "url": "https://download.codebuddy.cn/web/docs/71c8722a08165ddedf566c5f1711bb0ec8ea991b/docs/static/image-7.C15-_p58.png",
+    "source_page": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Task-Bar",
+    "sha256": "755907551c8301c3acd0d67c62536f48b38b79b418eed1ef397c0547de1d8e41",
+    "captured_utc": "2026-11-15T19:46:51.848381+00:00",
+    "type": "official_documentation_screenshot_not_user_test"
+  },
+  {
+    "file": "workbuddy_skill_select.png",
+    "url": "https://download.codebuddy.cn/web/docs/0dac6a52efc8f0ff38fbaadc81a771177042ff33/docs/static/skill-select.PLLHy_nP.png",
+    "source_page": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Task-Bar",
+    "sha256": "fcb932ea536e197243c49e60ad5cf13c84dc0beec5e9fffad99fc8391ca3939b",
+    "captured_utc": "2026-11-15T19:46:51.909106+00:00",
+    "type": "official_documentation_screenshot_not_user_test"
+  }
+]

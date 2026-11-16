@@ -1,0 +1,2173 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "final",
+  "target": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\slides\\projects\\user_revision_ppt169_20261116",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "78ed584589ebf6133fb929003b0e06f4a1ce3792d13d2c87b644b0cbf7f5136f",
+    "file_count": 28,
+    "files": [
+      {
+        "file": "P01.svg",
+        "sha256": "65634ce38100d798ba7cbba4106537839538485418d708bc64e9d6266e5e3010"
+      },
+      {
+        "file": "P02.svg",
+        "sha256": "155ea469a6fc035844ab3d18d391368071c7136b404250e5964cd5ea372a76d9"
+      },
+      {
+        "file": "P03.svg",
+        "sha256": "52fb997e08d3248cde72d3002283d419e978ea8e62e4cf61fff3edbeaaa7f564"
+      },
+      {
+        "file": "P04.svg",
+        "sha256": "a55621a58584ddaa44b9ddebc233d204a3a6b524c717f81394d320504f28a074"
+      },
+      {
+        "file": "P05.svg",
+        "sha256": "e4b4fc721babd89b14a40681dfda1a48ee7173d1e848004fa9a15176610b5927"
+      },
+      {
+        "file": "P06.svg",
+        "sha256": "c43ffe1002ceb76c3a74140b57264e21964324ae1340d8bd132b8f2bc9f30d7e"
+      },
+      {
+        "file": "P07.svg",
+        "sha256": "468efbf2b765ed5e72c7150bd96bf3e4cb21e2f46415f467a2aa46f5a7454499"
+      },
+      {
+        "file": "P08.svg",
+        "sha256": "2b9e849397ed2f5fab8d0fd69c4ef395f2eac42373145e636cc1ebac984773bf"
+      },
+      {
+        "file": "P09.svg",
+        "sha256": "dba2b39cb74a60b819965a3fd4844e550a48e4b868f62f9360d900c66d454527"
+      },
+      {
+        "file": "P10.svg",
+        "sha256": "71c603ee1442bceb74bd26cab98df7cced2b290565cb1e49bdfd055f6dd971b8"
+      },
+      {
+        "file": "P11.svg",
+        "sha256": "bd9dbb40e348f0207779133961ec84ebe340add08912cd338b9970a4d444a6c3"
+      },
+      {
+        "file": "P12.svg",
+        "sha256": "4bcd6ed56bd439da47a59fa985616db9b2ef81f24ff93c26508e1b7259c6454d"
+      },
+      {
+        "file": "P13.svg",
+        "sha256": "80f5b54c6a426d9a04dda929a013d2a02ad3774d11db34e9880ad21de44658dc"
+      },
+      {
+        "file": "P14.svg",
+        "sha256": "ed5ee3b3a49822dc4ae7543d9faf5c78843ef9237c7bc874b75b4c5c6b3cbcfb"
+      },
+      {
+        "file": "P15.svg",
+        "sha256": "aa2d6d576bd89555ceb20f30750a13ebc1549b42242945ac7fd45e05add05b16"
+      },
+      {
+        "file": "P16.svg",
+        "sha256": "65050e1eb31e9de1095c1e71b2e3cd5a3dd4dbac095a21e18a9d195a60ec3ce2"
+      },
+      {
+        "file": "P17.svg",
+        "sha256": "fdf8593cd81fa0b4838dafc6a110ec979e3c4d57f7564809fbb4202e35db68e8"
+      },
+      {
+        "file": "P18.svg",
+        "sha256": "de53bece8ba941fcd9fb6b2b3ad2c4d2102d76b55acdd7557eace14bfbf54297"
+      },
+      {
+        "file": "P19.svg",
+        "sha256": "343a2143fea9c10aebad48b26fc72659d287e0337b8aa76a255610f73a4d94c7"
+      },
+      {
+        "file": "P20.svg",
+        "sha256": "c6ec283c6817c51e256053d1240b208c8e0ea945a01459412714bacb4c7fbef9"
+      },
+      {
+        "file": "P21.svg",
+        "sha256": "fe285e865ef5e6be253bb51ecb89376aa0956ffcacfeeb589050a4cd835ce200"
+      },
+      {
+        "file": "P22.svg",
+        "sha256": "0e2f94f98f0afba1c2ddd2fcb79b973f73662bbfb8ecf0277c95fca9ea1fceb2"
+      },
+      {
+        "file": "P23.svg",
+        "sha256": "b920f9ee1518bfd73c41ed429bea5155f69a5a28bb7a2e91fcbf4ae76f5f819d"
+      },
+      {
+        "file": "P24.svg",
+        "sha256": "d76efb0e4482c20c8db33385fc0a2ce120896a04594b8ec7e4c61cfa828662a1"
+      },
+      {
+        "file": "P25.svg",
+        "sha256": "4e85fdc7d48b866595f90ebd91a5ee302aefd8e5a7d8de9d7f2699cc1dcc0cf0"
+      },
+      {
+        "file": "P26.svg",
+        "sha256": "a71f39197bdcadbe0a7159223cd0ce4d7ff9a50773cb7a52226e35ede3d208b8"
+      },
+      {
+        "file": "P27.svg",
+        "sha256": "7cade6683860983d08e52de4d80a3bc16444cb1a479b928b935989b7b7caf3c8"
+      },
+      {
+        "file": "P28.svg",
+        "sha256": "f4a993053dd8f38d4773871a3a7f096f55b7b4210d41a80d9b7613aecddadecc"
+      }
+    ]
+  },
+  "summary": {
+    "total": 28,
+    "passed": 2,
+    "warnings": 26,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 49,
+      "issues": [
+        {
+          "file": "P01.svg",
+          "message": "Noncanonical compact authoring: Visible text requires one direct root font-family default; semantic groups and text elements keep only real overrides (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "P01.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (5 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): svg[1]:font-family None -> 'Microsoft YaHei'; text[5]:font-family 'Microsoft YaHei' -> None; text[6]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "P01.svg",
+          "message": "6 ungrouped top-level Slide-local element(s) in svg_output (<rect> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P03.svg",
+          "message": "Noncanonical compact authoring: Visible text requires one direct root font-family default; semantic groups and text elements keep only real overrides (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "P03.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (4 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): svg[1]:font-family None -> 'Microsoft YaHei'; text[3]:font-family 'Microsoft YaHei' -> None; text[4]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "P03.svg",
+          "message": "4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P04.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (1 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): rect[16]:fill '#171715' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "P04.svg",
+          "message": "Image ../images/icons/minimax.png is 32x32 and renders at 2.38x scale in a 76x76 meet frame — about 3.6x on a 1080p projector, visibly soft; use a larger source or a smaller frame"
+        },
+        {
+          "file": "P04.svg",
+          "message": "Top-level visible <g> #4 has no id; object-level animation config cannot reference it"
+        },
+        {
+          "file": "P04.svg",
+          "message": "2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P06.svg",
+          "message": "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=500.0, y=267.0..387.0, 3 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+        },
+        {
+          "file": "P06.svg",
+          "message": "Top-level visible <g> #4 has no id; object-level animation config cannot reference it"
+        },
+        {
+          "file": "P06.svg",
+          "message": "2 ungrouped top-level Slide-local element(s) in svg_output (<image> #2, <rect> #3); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P07.svg",
+          "message": "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=355.0, y=612.0..650.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+        },
+        {
+          "file": "P07.svg",
+          "message": "Top-level visible <g> #8 has no id; object-level animation config cannot reference it"
+        },
+        {
+          "file": "P07.svg",
+          "message": "6 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <image> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P08.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (3 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): g[5]:font-weight None -> 'bold'; text[6]:font-weight 'bold' -> None; text[7]:font-weight 'bold' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "P09.svg",
+          "message": "4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <image> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P10.svg",
+          "message": "2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P11.svg",
+          "message": "5 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <svg> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P12.svg",
+          "message": "7 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <text> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P13.svg",
+          "message": "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g id=\"handoff\"> x=472.0, y=326.0..380.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+        },
+        {
+          "file": "P13.svg",
+          "message": "4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <rect> #4, <text> #5, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P14.svg",
+          "message": "Noncanonical compact authoring: Visible text requires one direct root font-family default; semantic groups and text elements keep only real overrides (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "P14.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (5 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): svg[1]:font-family None -> 'Microsoft YaHei'; text[3]:font-family 'Microsoft YaHei' -> None; g[4]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "P14.svg",
+          "message": "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=325.0..405.0, 3 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+        },
+        {
+          "file": "P14.svg",
+          "message": "Top-level visible <g> #3 has no id; object-level animation config cannot reference it"
+        },
+        {
+          "file": "P14.svg",
+          "message": "3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4, <text> #5); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P15.svg",
+          "message": "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g id=\"feedback\"> x=680.0, y=500.0..544.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+        },
+        {
+          "file": "P15.svg",
+          "message": "5 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <image> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P16.svg",
+          "message": "4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #5, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P17.svg",
+          "message": "3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <rect> #3, <text> #6); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P18.svg",
+          "message": "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g id=\"mcp-path\"> x=942.0, y=395.0..491.0, 3 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+        },
+        {
+          "file": "P18.svg",
+          "message": "3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <text> #5); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P19.svg",
+          "message": "1 ungrouped top-level Slide-local element(s) in svg_output (<text> #2); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P20.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (1 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): rect[11]:fill '#171715' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "P20.svg",
+          "message": "3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4, <text> #5); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P21.svg",
+          "message": "2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <image> #3); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P22.svg",
+          "message": "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g id=\"task-flow\"> x=850.0, y=495.0..535.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+        },
+        {
+          "file": "P22.svg",
+          "message": "1 ungrouped top-level Slide-local element(s) in svg_output (<text> #2); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P23.svg",
+          "message": "6 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <image> #3, <text> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P24.svg",
+          "message": "2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P25.svg",
+          "message": "4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <image> #4, <image> #5, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P26.svg",
+          "message": "2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <image> #3); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P27.svg",
+          "message": "2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        },
+        {
+          "file": "P28.svg",
+          "message": "Noncanonical compact authoring: Visible text requires one direct root font-family default; semantic groups and text elements keep only real overrides (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "P28.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (4 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): svg[1]:font-family None -> 'Microsoft YaHei'; text[5]:font-family 'Microsoft YaHei' -> None; g[6]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "P28.svg",
+          "message": "Top-level visible <g> #5 has no id; object-level animation config cannot reference it"
+        },
+        {
+          "file": "P28.svg",
+          "message": "5 ungrouped top-level Slide-local element(s) in svg_output (<image> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+        }
+      ]
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {},
+    "fonts": {},
+    "sizes": {}
+  },
+  "carrier_receipt": {
+    "scope": "informational-not-a-quota",
+    "pages": 28,
+    "totals": {
+      "text_elements": 249,
+      "image_placements": 42,
+      "icons": 0,
+      "svg_geometry_elements": 90,
+      "preset_shapes": 0,
+      "page_frame_elements": 0,
+      "marker_uses": 4,
+      "inline_emphasis_runs": 2,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "pages_with": {
+      "images": 18,
+      "icons": 0,
+      "presets": 0,
+      "charts": 0,
+      "tables": 0,
+      "formulas": 0,
+      "inline_emphasis_runs": 1,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "relationship_pages": null,
+    "geometry_elements": {
+      "circle": 5,
+      "ellipse": 0,
+      "line": 12,
+      "path": 0,
+      "polygon": 0,
+      "polyline": 0,
+      "rect": 73
+    },
+    "preset_names": {},
+    "native_objects": {
+      "chart": 0,
+      "formula_block": 0,
+      "formula_inline": 0,
+      "other": 0,
+      "table": 0
+    },
+    "image_page_max_frame_share_range": [
+      0.0063,
+      0.4764
+    ]
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "P01.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P01.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Visible text requires one direct root font-family default; semantic groups and text elements keep only real overrides (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)",
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (5 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): svg[1]:font-family None -> 'Microsoft YaHei'; text[5]:font-family 'Microsoft YaHei' -> None; text[6]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)",
+        "6 ungrouped top-level Slide-local element(s) in svg_output (<rect> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 4,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 4,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "65634ce38100d798ba7cbba4106537839538485418d708bc64e9d6266e5e3010"
+    },
+    {
+      "file": "P02.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P02.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 4,
+            "files": [
+              "deck_preview01.png",
+              "deck_preview09.png",
+              "deck_preview18.png",
+              "deck_preview26.png"
+            ],
+            "max_frame_share": 0.0582
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 5,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "155ea469a6fc035844ab3d18d391368071c7136b404250e5964cd5ea372a76d9"
+    },
+    {
+      "file": "P03.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P03.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Visible text requires one direct root font-family default; semantic groups and text elements keep only real overrides (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)",
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (4 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): svg[1]:font-family None -> 'Microsoft YaHei'; text[3]:font-family 'Microsoft YaHei' -> None; text[4]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)",
+        "4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 3,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 3,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "52fb997e08d3248cde72d3002283d419e978ea8e62e4cf61fff3edbeaaa7f564"
+    },
+    {
+      "file": "P04.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P04.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (1 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): rect[16]:fill '#171715' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)",
+        "Image ../images/icons/minimax.png is 32x32 and renders at 2.38x scale in a 76x76 meet frame — about 3.6x on a 1080p projector, visibly soft; use a larger source or a smaller frame",
+        "Top-level visible <g> #4 has no id; object-level animation config cannot reference it",
+        "2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 14,
+          "images": {
+            "placements": 10,
+            "files": [
+              "chatgpt_fixed.png",
+              "claude_fixed.png",
+              "deepseek.png",
+              "doubao.png",
+              "feishu.png",
+              "jimeng_fixed.png",
+              "minimax.png",
+              "seed.png",
+              "tencent_meeting.png",
+              "xiaoyunque_fixed.png"
+            ],
+            "max_frame_share": 0.0063
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 14,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "a55621a58584ddaa44b9ddebc233d204a3a6b524c717f81394d320504f28a074"
+    },
+    {
+      "file": "P05.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P05.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 13,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 2,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 4,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 13,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "e4b4fc721babd89b14a40681dfda1a48ee7173d1e848004fa9a15176610b5927"
+    },
+    {
+      "file": "P06.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P06.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=500.0, y=267.0..387.0, 3 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate.",
+        "Top-level visible <g> #4 has no id; object-level animation config cannot reference it",
+        "2 ungrouped top-level Slide-local element(s) in svg_output (<image> #2, <rect> #3); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 6,
+          "images": {
+            "placements": 1,
+            "files": [
+              "karpathy.jpg"
+            ],
+            "max_frame_share": 0.1523
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 6,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "c43ffe1002ceb76c3a74140b57264e21964324ae1340d8bd132b8f2bc9f30d7e"
+    },
+    {
+      "file": "P07.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P07.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=355.0, y=612.0..650.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate.",
+        "Top-level visible <g> #8 has no id; object-level animation config cannot reference it",
+        "6 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <image> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 6,
+          "images": {
+            "placements": 2,
+            "files": [
+              "arena.jpg",
+              "doubao_mobile.jpg"
+            ],
+            "max_frame_share": 0.2916
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 6,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "468efbf2b765ed5e72c7150bd96bf3e4cb21e2f46415f467a2aa46f5a7454499"
+    },
+    {
+      "file": "P08.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P08.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (3 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): g[5]:font-weight None -> 'bold'; text[6]:font-weight 'bold' -> None; text[7]:font-weight 'bold' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 10,
+          "images": {
+            "placements": 1,
+            "files": [
+              "doubao_brief.jpg"
+            ],
+            "max_frame_share": 0.1756
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 10,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "2b9e849397ed2f5fab8d0fd69c4ef395f2eac42373145e636cc1ebac984773bf"
+    },
+    {
+      "file": "P09.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P09.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <image> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 3,
+          "images": {
+            "placements": 1,
+            "files": [
+              "next_token_frame.png"
+            ],
+            "max_frame_share": 0.4764
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 3,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "dba2b39cb74a60b819965a3fd4844e550a48e4b868f62f9360d900c66d454527"
+    },
+    {
+      "file": "P10.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P10.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 8,
+          "images": {
+            "placements": 3,
+            "files": [
+              "doubao_image.jpg",
+              "doubao_mobile.jpg",
+              "robotics.jpg"
+            ],
+            "max_frame_share": 0.126
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 8,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "71c603ee1442bceb74bd26cab98df7cced2b290565cb1e49bdfd055f6dd971b8"
+    },
+    {
+      "file": "P11.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P11.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "5 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <svg> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 3,
+          "images": {
+            "placements": 1,
+            "files": [
+              "doubao_detailed.jpg"
+            ],
+            "max_frame_share": 0.2406
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 3,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "bd9dbb40e348f0207779133961ec84ebe340add08912cd338b9970a4d444a6c3"
+    },
+    {
+      "file": "P12.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P12.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "7 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <text> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 6,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 6,
+        "tspan_elements": 7
+      },
+      "passed": true,
+      "source_sha256": "4bcd6ed56bd439da47a59fa985616db9b2ef81f24ff93c26508e1b7259c6454d"
+    },
+    {
+      "file": "P13.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P13.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g id=\"handoff\"> x=472.0, y=326.0..380.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate.",
+        "4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <rect> #4, <text> #5, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 12,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 12,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "80f5b54c6a426d9a04dda929a013d2a02ad3774d11db34e9880ad21de44658dc"
+    },
+    {
+      "file": "P14.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P14.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Visible text requires one direct root font-family default; semantic groups and text elements keep only real overrides (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)",
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (5 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): svg[1]:font-family None -> 'Microsoft YaHei'; text[3]:font-family 'Microsoft YaHei' -> None; g[4]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)",
+        "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=120.0, y=325.0..405.0, 3 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate.",
+        "Top-level visible <g> #3 has no id; object-level animation config cannot reference it",
+        "3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4, <text> #5); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 11,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 11,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "ed5ee3b3a49822dc4ae7543d9faf5c78843ef9237c7bc874b75b4c5c6b3cbcfb"
+    },
+    {
+      "file": "P15.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P15.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g id=\"feedback\"> x=680.0, y=500.0..544.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate.",
+        "5 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <image> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 10,
+          "images": {
+            "placements": 1,
+            "files": [
+              "old_sample.png"
+            ],
+            "max_frame_share": 0.1781
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 10,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "aa2d6d576bd89555ceb20f30750a13ebc1549b42242945ac7fd45e05add05b16"
+    },
+    {
+      "file": "P16.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P16.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #5, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 10,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 4,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 10,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "65050e1eb31e9de1095c1e71b2e3cd5a3dd4dbac095a21e18a9d195a60ec3ce2"
+    },
+    {
+      "file": "P17.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P17.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <rect> #3, <text> #6); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 16,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 16,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "fdf8593cd81fa0b4838dafc6a110ec979e3c4d57f7564809fbb4202e35db68e8"
+    },
+    {
+      "file": "P18.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P18.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g id=\"mcp-path\"> x=942.0, y=395.0..491.0, 3 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate.",
+        "3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <text> #5); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 13,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 5,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 4,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 4
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 13,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "de53bece8ba941fcd9fb6b2b3ad2c4d2102d76b55acdd7557eace14bfbf54297"
+    },
+    {
+      "file": "P19.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P19.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "1 ungrouped top-level Slide-local element(s) in svg_output (<text> #2); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 10,
+          "images": {
+            "placements": 1,
+            "files": [
+              "codex_user.png"
+            ],
+            "max_frame_share": 0.2139
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 4,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 10,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "343a2143fea9c10aebad48b26fc72659d287e0337b8aa76a255610f73a4d94c7"
+    },
+    {
+      "file": "P20.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P20.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (1 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): rect[11]:fill '#171715' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)",
+        "3 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4, <text> #5); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 10,
+          "images": {
+            "placements": 5,
+            "files": [
+              "chatgpt_fixed.png",
+              "claude_fixed.png",
+              "deepseek.png",
+              "doubao.png",
+              "xiaoyunque_fixed.png"
+            ],
+            "max_frame_share": 0.0063
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 10,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "c6ec283c6817c51e256053d1240b208c8e0ea945a01459412714bacb4c7fbef9"
+    },
+    {
+      "file": "P21.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P21.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <image> #3); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 13,
+          "images": {
+            "placements": 1,
+            "files": [
+              "codex_user.png"
+            ],
+            "max_frame_share": 0.4239
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 9,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 13,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "fe285e865ef5e6be253bb51ecb89376aa0956ffcacfeeb589050a4cd835ce200"
+    },
+    {
+      "file": "P22.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P22.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g id=\"task-flow\"> x=850.0, y=495.0..535.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate.",
+        "1 ungrouped top-level Slide-local element(s) in svg_output (<text> #2); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 11,
+          "images": {
+            "placements": 2,
+            "files": [
+              "codex_user.png",
+              "sample_02.png"
+            ],
+            "max_frame_share": 0.096
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 11,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "0e2f94f98f0afba1c2ddd2fcb79b973f73662bbfb8ecf0277c95fca9ea1fceb2"
+    },
+    {
+      "file": "P23.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P23.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "6 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <image> #3, <text> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 6,
+          "images": {
+            "placements": 1,
+            "files": [
+              "skill_select.png"
+            ],
+            "max_frame_share": 0.2172
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 6,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "b920f9ee1518bfd73c41ed429bea5155f69a5a28bb7a2e91fcbf4ae76f5f819d"
+    },
+    {
+      "file": "P24.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P24.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 8,
+          "images": {
+            "placements": 3,
+            "files": [
+              "browser_action.png",
+              "doubao_tutor.jpg",
+              "file_preview.jpg"
+            ],
+            "max_frame_share": 0.1146
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 8,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "d76efb0e4482c20c8db33385fc0a2ce120896a04594b8ec7e4c61cfa828662a1"
+    },
+    {
+      "file": "P25.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P25.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <image> #4, <image> #5, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 11,
+          "images": {
+            "placements": 3,
+            "files": [
+              "deck_preview26.png",
+              "sample_02.png",
+              "swiss_reference.png"
+            ],
+            "max_frame_share": 0.0732
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 5,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 11,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "4e85fdc7d48b866595f90ebd91a5ee302aefd8e5a7d8de9d7f2699cc1dcc0cf0"
+    },
+    {
+      "file": "P26.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P26.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <image> #3); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 4,
+          "images": {
+            "placements": 1,
+            "files": [
+              "meme_original_20261116.jpg"
+            ],
+            "max_frame_share": 0.2659
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 4,
+        "tspan_elements": 7
+      },
+      "passed": true,
+      "source_sha256": "a71f39197bdcadbe0a7159223cd0ce4d7ff9a50773cb7a52226e35ede3d208b8"
+    },
+    {
+      "file": "P27.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P27.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "2 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #4); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 14,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 14,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "7cade6683860983d08e52de4d80a3bc16444cb1a479b928b935989b7b7caf3c8"
+    },
+    {
+      "file": "P28.svg",
+      "path": "slides\\projects\\user_revision_ppt169_20261116\\svg_output\\P28.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Visible text requires one direct root font-family default; semantic groups and text elements keep only real overrides (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)",
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (4 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): svg[1]:font-family None -> 'Microsoft YaHei'; text[5]:font-family 'Microsoft YaHei' -> None; g[6]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)",
+        "Top-level visible <g> #5 has no id; object-level animation config cannot reference it",
+        "5 ungrouped top-level Slide-local element(s) in svg_output (<image> #2, <rect> #3, <text> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 1,
+            "files": [
+              "jensen_huang_headshot.jpg"
+            ],
+            "max_frame_share": 0.1406
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 0,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "f4a993053dd8f38d4773871a3a7f096f55b7b4210d41a80d9b7613aecddadecc"
+    }
+  ]
+}

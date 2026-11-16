@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-size="44" font-weight="bold" fill="#171715">Harness 提供运行环境，Agent 在里面做事</text>
+  <g id="harness" data-pptx-bounds="80 170 556 495" fill="#171715">
+    <text x="80" y="200" font-weight="bold">运行支撑｜Harness</text>
+    <image href="../images/codex_user.png" x="80" y="236" width="540" height="365" preserveAspectRatio="xMidYMid meet"/>
+    <text x="80" y="644" font-size="22">Codex 等产品提供上下文、工具与权限管理</text>
+  </g>
+  <g id="agent" data-pptx-bounds="700 170 500 495" fill="#171715">
+    <text x="700" y="200" font-weight="bold">执行任务｜Agent</text>
+    <text x="700" y="277" fill="#C50000">“根据大纲，完成三页样稿。”</text>
+    <rect x="700" y="320" width="500" height="65" fill="#FFFFFF"/><text x="732" y="363">读大纲，判断下一步</text>
+    <text x="938" y="418" fill="#C50000">↓</text>
+    <rect x="700" y="444" width="500" height="65" fill="#FFFFFF"/><text x="732" y="487">调用工具，生成文件</text>
+    <text x="938" y="542" fill="#C50000">↓</text>
+    <rect x="700" y="568" width="500" height="65" fill="#FFFFFF"/><text x="732" y="611">检查结果，按反馈继续改</text>
+  </g>
+</svg>

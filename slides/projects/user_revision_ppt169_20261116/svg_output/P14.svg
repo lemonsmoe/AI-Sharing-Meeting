@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-family="Microsoft YaHei" font-size="44" font-weight="bold" fill="#171715">提示词 3｜形容词难说清，就直接给案例</text>
+  <g data-pptx-bounds="0 0 1280 720" font-family="Microsoft YaHei">
+    <rect x="80" y="200" width="520" height="280" rx="12" fill="#FFFFFF" stroke="#E3DFD5" stroke-width="1.5"/>
+    <text x="120" y="265" font-size="28" font-weight="bold" fill="#171715">「做得高级一点」</text>
+    <text x="120" y="325" font-size="24" fill="#7A7A74">风格、颜色、排版——</text>
+    <text x="120" y="365" font-size="24" fill="#7A7A74">很多时候就是一种感觉，</text>
+    <text x="120" y="405" font-size="24" fill="#7A7A74">十个字形容不清。</text>
+    <rect x="680" y="200" width="520" height="280" rx="12" fill="#FFFFFF" stroke="#C50000" stroke-width="2"/>
+    <text x="720" y="265" font-size="28" font-weight="bold" fill="#C50000">给它一个满意的例子</text>
+    <text x="720" y="325" font-size="24" fill="#171715">· 参考的代码工程文件</text>
+    <text x="720" y="365" font-size="24" fill="#171715">· PPT 模板</text>
+    <text x="720" y="405" font-size="24" fill="#171715">· 喜欢的样式截图</text>
+  </g>
+  <text x="80" y="580" font-family="Microsoft YaHei" font-size="28" font-weight="bold" fill="#171715">让它知道你的喜好，而不是靠猜。</text>
+  <text x="80" y="630" font-family="Microsoft YaHei" font-size="24" fill="#7A7A74">同时，用文字说清需求的能力，仍然值得练。</text>
+</svg>

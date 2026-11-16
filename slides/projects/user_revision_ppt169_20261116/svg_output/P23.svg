@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-size="44" font-weight="bold" fill="#171715">调用 Skill：先确认可用，再交代任务</text>
+  <image href="../images/skill_select.png" x="80" y="185" width="520" height="385" preserveAspectRatio="xMidYMid meet"/>
+  <text x="80" y="620" font-size="22" fill="#171715">WorkBuddy 的技能选择入口</text>
+  <rect x="670" y="185" width="530" height="250" fill="#FFFFFF" stroke="#C50000" stroke-width="2" stroke-dasharray="8,6"/>
+  <g id="capture-placeholder" data-pptx-bounds="694 240 482 130" fill="#171715" text-anchor="middle">
+    <text x="935" y="285">待补：Codex 调用 Skill 截图</text><text x="935" y="335" font-size="22">显示点名 PPT Master 的那条消息</text>
+  </g>
+  <text x="670" y="498" font-size="22" fill="#171715">“请使用 PPT Master，阅读分享大纲，
+    <tspan x="670" dy="38">参考公司模板，先做三页样稿。</tspan><tspan x="670" dy="38">给我 PPTX、预览图和逐页讲稿。”</tspan>
+  </text>
+  <text x="670" y="640" font-size="22" fill="#C50000">先让平台能找到 Skill，再交代材料和要求。</text>
+</svg>

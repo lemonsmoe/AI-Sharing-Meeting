@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-size="44" font-weight="bold" fill="#171715">一轮具体任务：让它做这次分享的三页样稿</text>
+  <g id="task-flow" data-pptx-bounds="80 180 1120 470" fill="#171715">
+    <text x="80" y="210" fill="#C50000" font-weight="bold">1　交代任务</text>
+    <rect x="80" y="246" width="330" height="210" fill="#FFFFFF" stroke="#C50000" stroke-width="2" stroke-dasharray="8,6"/>
+    <text x="245" y="330" text-anchor="middle" font-size="22">待补：任务输入截图</text><text x="245" y="372" text-anchor="middle" font-size="22">显示大纲、模板与任务要求</text>
+    <text x="80" y="510" font-size="22">“阅读大纲，参考公司模板，
+      <tspan x="80" dy="37">先做三页样稿。给我 PPTX、</tspan><tspan x="80" dy="37">预览图和逐页讲稿。”</tspan>
+    </text>
+    <text x="465" y="210" fill="#C50000" font-weight="bold">2　收到回复和文件</text>
+    <svg x="465" y="246" width="330" height="268" viewBox="0.36597428 0.11695906 0.60830861 0.73099415" preserveAspectRatio="none" overflow="hidden"><image href="../images/codex_user.png" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+    <text x="465" y="605" font-size="22">本次项目的真实回复</text>
+    <text x="850" y="210" fill="#C50000" font-weight="bold">3　打开，逐项验收</text>
+    <image href="../images/sample_02.png" x="850" y="246" width="350" height="197" preserveAspectRatio="xMidYMid meet"/>
+    <rect x="850" y="246" width="350" height="197" fill="none" stroke="#B8B4AC"/>
+    <text x="850" y="495" font-size="22">内容是否准确、例子够不够</text><text x="850" y="535" font-size="22">版式是否清楚、讲稿能否照读</text><text x="850" y="605" font-size="22">提反馈，再修改</text>
+  </g>
+</svg>

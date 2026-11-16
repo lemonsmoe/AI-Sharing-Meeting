@@ -1,0 +1,12 @@
+{
+  "license_verification": "内部培训课件使用；外部素材来源已登记，发布前人工复核",
+  "generated_at": "2026-11-16T03:45:00+08:00",
+  "items": [
+    {"filename": "meme_original_20261116.jpg", "slide": "26", "purpose": "公司表情包原件", "author": "用户本人作品", "source_page_url": "", "license_name": "user-own-work", "license_tier": "no-attribution", "attribution_required": false, "attribution_text": "公司表情包原件（用户 AI 生成）", "status": "sourced"},
+    {"filename": "peter_steinberger.jpg", "slide": "06", "purpose": "人物引语页肖像", "author": "Peter Steinberger", "source_page_url": "https://steipete.me/peter-avatar.jpg", "license_name": "个人网站头像，未标注授权", "license_tier": "manual", "attribution_required": false, "attribution_text": "Peter Steinberger 本人网站头像", "status": "sourced"},
+    {"filename": "jensen_huang_headshot.jpg", "slide": "29", "purpose": "结尾引语页肖像", "author": "NVIDIA", "source_page_url": "https://nvidianews.nvidia.com/bios/jensen-huang", "license_name": "官方新闻室头像下载端点", "license_tier": "manual", "attribution_required": false, "attribution_text": "NVIDIA 官方新闻室头像", "status": "sourced"},
+    {"filename": "sample_01.png", "slide": "02", "purpose": "三页样稿缩略图1", "author": "本项目", "source_page_url": "", "license_name": "own-work", "license_tier": "no-attribution", "attribution_required": false, "attribution_text": "本项目三页样稿渲染", "status": "sourced"},
+    {"filename": "sample_02.png", "slide": "02", "purpose": "三页样稿缩略图2", "author": "本项目", "source_page_url": "", "license_name": "own-work", "license_tier": "no-attribution", "attribution_required": false, "attribution_text": "本项目三页样稿渲染", "status": "sourced"},
+    {"filename": "sample_03.png", "slide": "02", "purpose": "三页样稿缩略图3", "author": "本项目", "source_page_url": "", "license_name": "own-work", "license_tier": "no-attribution", "attribution_required": false, "attribution_text": "本项目三页样稿渲染", "status": "sourced"}
+  ]
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <text x="80" y="104" font-size="44" font-weight="bold" fill="#171715">不只会写字，还能看、听，甚至行动</text>
+  <g data-pptx-bounds="80 170 1120 470" id="examples" fill="#171715">
+    <text x="80" y="196" font-weight="bold">文字交流</text><text x="464" y="196" font-weight="bold">图像、语音与视频</text><text x="848" y="196" font-weight="bold">感知环境并行动</text>
+    <image href="../images/doubao_mobile.jpg" x="80" y="224" width="352" height="330" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/doubao_image.jpg" x="464" y="224" width="352" height="330" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/robotics.jpg" x="848" y="224" width="352" height="330" preserveAspectRatio="xMidYMid slice"/>
+    <text x="80" y="595" font-size="22">豆包里的文字问答</text><text x="464" y="595" font-size="22">看图、生成图像、语音对话</text><text x="848" y="595" font-size="22">Gemini Robotics 机器人</text>
+  </g>
+  <text x="80" y="670" font-size="22" fill="#C50000">模态说的是“处理什么信息”；具身智能说的是“怎样在环境中行动”。两者可以重叠。</text>
+</svg>

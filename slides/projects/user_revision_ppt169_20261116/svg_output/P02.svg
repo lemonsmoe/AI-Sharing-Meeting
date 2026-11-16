@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="content">
+  <rect width="1280" height="720" fill="#F6F3EC"/>
+  <g id="page-composition" data-pptx-bounds="0 0 1280 720">
+  <g data-pptx-bounds="0 0 1280 720" fill="#171715">
+    <text x="80" y="104" font-size="44" font-weight="bold">这份 PPT，就是咱们用 AI 做出来的</text>
+    <text x="80" y="234" font-weight="bold">从一份大纲开始</text>
+    <text x="80" y="302">理顺内容</text><text x="80" y="366">试做三页</text><text x="80" y="430">看效果，提修改意见</text><text x="80" y="494">再完成整份 PPT 和讲稿</text>
+  </g>
+  <line x1="80" y1="138" x2="1200" y2="138" stroke="#B8B4AC"/>
+  <g data-pptx-bounds="0 0 1280 720" stroke="#B8B4AC" stroke-width="2" fill="#FFFFFF">
+    <rect x="516" y="212" width="320" height="180"/><rect x="860" y="212" width="320" height="180"/>
+    <rect x="516" y="416" width="320" height="180"/><rect x="860" y="416" width="320" height="180"/>
+  </g>
+  <image href="../images/deck_preview01.png" x="520" y="216" width="312" height="172" preserveAspectRatio="xMidYMid meet"/>
+  <image href="../images/deck_preview09.png" x="864" y="216" width="312" height="172" preserveAspectRatio="xMidYMid meet"/>
+  <image href="../images/deck_preview18.png" x="520" y="420" width="312" height="172" preserveAspectRatio="xMidYMid meet"/>
+  <image href="../images/deck_preview26.png" x="864" y="420" width="312" height="172" preserveAspectRatio="xMidYMid meet"/>
+  <text x="516" y="650" font-size="22" fill="#171715">从开场、原理，到工具和实际案例</text>
+</g>
+</svg>

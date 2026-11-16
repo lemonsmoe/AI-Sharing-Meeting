@@ -1,0 +1,197 @@
+{
+  "checked_at": "2026-11-16 Asia/Shanghai",
+  "task_id": "TASK-20261115-8992b1fe",
+  "assets": [
+    {
+      "file": "karpathy_portrait.jpg",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\karpathy_portrait.jpg",
+      "download_url": "https://karpathy.ai/assets/me_new.jpg",
+      "source_url": "https://karpathy.ai/",
+      "target_page": "P06 名人引语",
+      "evidence_status": "本人官网真实肖像，已看图",
+      "sha256": "2aaa21c78fa61320406e3e0cbd9fd26f88354c7db71ab554200e3b649a267202"
+    },
+    {
+      "file": "karpathy_quote_oembed.json",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\karpathy_quote_oembed.json",
+      "download_url": "https://publish.twitter.com/oembed?url=https://twitter.com/karpathy/status/1617979122625712128",
+      "source_url": "https://x.com/karpathy/status/1617979122625712128",
+      "target_page": "P06 名人引语",
+      "evidence_status": "X官方oEmbed成功读取，原推网页403；原话与日期已核实",
+      "sha256": "788a82e6f9f4a2e49a4300c3a2ae521132bae297e22d121edc2b1867a021fadf"
+    },
+    {
+      "file": "next_token_autoregression.gif",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\next_token_autoregression.gif",
+      "download_url": "https://jalammar.github.io/images/xlnet/gpt-2-autoregression-2.gif",
+      "source_url": "https://jalammar.github.io/illustrated-gpt2/",
+      "target_page": "语言模型原理页",
+      "evidence_status": "作者原版GIF，53帧，1432×501；上下文预测一个token再加入输入，非项目实测",
+      "sha256": "58430f275e37cfd7e988338b2afa9616af74ff5355e1dd421da2b2a89671b3dc"
+    },
+    {
+      "file": "next_token_autoregression_frame38.png",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\next_token_autoregression_frame38.png",
+      "download_url": null,
+      "source_url": "https://jalammar.github.io/illustrated-gpt2/",
+      "target_page": "语言模型原理页",
+      "evidence_status": "从上述原GIF第38帧无改绘导出，已看图；供不支持GIF的SVG/PPT管线使用，仍为原图内容",
+      "sha256": "3e52c2d63d8b291a658f8059e237b3cff03cb1da64277bb648c209fdcdf9f554"
+    },
+    {
+      "file": "next_token_output.gif",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\next_token_output.gif",
+      "download_url": "https://jalammar.github.io/images/xlnet/gpt-2-output.gif",
+      "source_url": "https://jalammar.github.io/illustrated-gpt2/",
+      "target_page": "备选原理图",
+      "evidence_status": "作者原版GIF",
+      "sha256": "13792b374ddc090b27f3b237be021f1543568d27f2b56cd575b622f9b3f680dc"
+    },
+    {
+      "file": "next_token_simple.gif",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\next_token_simple.gif",
+      "download_url": "https://jalammar.github.io/images/gpt2/gpt-2-simple-output-3.gif",
+      "source_url": "https://jalammar.github.io/illustrated-gpt2/",
+      "target_page": "备选原理图",
+      "evidence_status": "作者原版GIF",
+      "sha256": "baad64efa30d2fd0f7bec05f2d38c97a5d609077108728dab9691344d68a8e78"
+    },
+    {
+      "file": "next_token_output_static.png",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\next_token_output_static.png",
+      "download_url": "https://jalammar.github.io/images/gpt2/gpt2-output.png",
+      "source_url": "https://jalammar.github.io/illustrated-gpt2/",
+      "target_page": "备选原理图",
+      "evidence_status": "作者原版PNG，已看图；对非技术听众偏复杂，不推荐主画面",
+      "sha256": "ed145fe3688ad77948b688c77668e97dd91a4e9d7f9218941c93486b23059218"
+    },
+    {
+      "file": "next_token_output_scores.png",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\next_token_output_scores.png",
+      "download_url": "https://jalammar.github.io/images/gpt2/gpt2-output-scores-2.png",
+      "source_url": "https://jalammar.github.io/illustrated-gpt2/",
+      "target_page": "备选原理图",
+      "evidence_status": "作者原版PNG，已看图；标题混写logits/probabilities，不建议使用，logits不等于概率",
+      "sha256": "584fad1232e80130aa98b887c261d8ad3e6df02c948977782a289e7773ac90af"
+    },
+    {
+      "file": "chatgpt_official_black.png",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\chatgpt_official_black.png",
+      "download_url": "https://chatgpt.com/cdn/assets/favicon-180x180.9e0103ce69.png",
+      "source_url": "https://chatgpt.com/",
+      "target_page": "工具入口/模型介绍",
+      "evidence_status": "ChatGPT官网直接声明favicon，黑色Blossom，180×180，已看图",
+      "sha256": "c450a1e3c375bf5c6d1db10327b59a58f5bd6e4990ffdbf6f292e3d161c668de"
+    },
+    {
+      "file": "chatgpt_official_black.svg",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\chatgpt_official_black.svg",
+      "download_url": "https://chatgpt.com/cdn/assets/favicon.6a33781f61.svg",
+      "source_url": "https://chatgpt.com/",
+      "target_page": "工具入口/模型介绍",
+      "evidence_status": "同一官方favicon SVG，保留原文件",
+      "sha256": "2021463df9935dda89cef407aa564bced9d83b4f9b6ae8945d649e56676624f0"
+    },
+    {
+      "file": "jimeng_official_icon.png",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\jimeng_official_icon.png",
+      "download_url": "https://lf3-lv-buz.vlabstatic.com/obj/image-lvweb-buz/common/images/dreamina-v1.ico",
+      "source_url": "https://jimeng.jianying.com/",
+      "target_page": "生图工具页",
+      "evidence_status": "即梦官网favicon无改色转PNG，64×64，已看图",
+      "sha256": "f9408aed9f679f8b44ccd3c3589e8fdaafff9ebae2fa4377e837afb582c8d0c2"
+    },
+    {
+      "file": "jimeng_favicon.ico",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\jimeng_favicon.ico",
+      "download_url": "https://lf3-lv-buz.vlabstatic.com/obj/image-lvweb-buz/common/images/dreamina-v1.ico",
+      "source_url": "https://jimeng.jianying.com/",
+      "target_page": "官方源文件",
+      "evidence_status": "原ICO",
+      "sha256": "1526054322006955f0bb748c45af230c57bff29a188c463169ee0ac0b2406203"
+    },
+    {
+      "file": "jimeng_official.png",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\jimeng_official.png",
+      "download_url": "https://lf3-lv-buz.vlabstatic.com/obj/image-lvweb-buz/growth/jimeng/landing_page/static/image/jimeng-logo-large.16d119dc.png",
+      "source_url": "https://jimeng.jianying.com/",
+      "target_page": "生图工具页备选",
+      "evidence_status": "560×169官网白字横标；米白底上文字不易见，不建议直接使用",
+      "sha256": "6307f5907b667139c44f1ff4eb14b095d78c39f1d3b177795fe357af04d5989f"
+    },
+    {
+      "file": "jimeng_inline_logo_0.png",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\jimeng_inline_logo_0.png",
+      "download_url": null,
+      "source_url": "https://jimeng.jianying.com/",
+      "target_page": "生图工具页备选",
+      "evidence_status": "官网header data URI原PNG解码，336×88，白字横标",
+      "sha256": "87451da4d92f0285a07a07a389140235854e24e09dee407fa01da5efbfa1f816"
+    },
+    {
+      "file": "xiaoyunque_official.png",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\xiaoyunque_official.png",
+      "download_url": "https://p26-piu.byteimg.com/tos-cn-i-8jisjyls3a/6c764ca8350d46218d462fe23ea42072~tplv-8jisjyls3a-3:0:0:q75.png",
+      "source_url": "https://xyq.jianying.com/",
+      "target_page": "视频工具页",
+      "evidence_status": "小云雀官网favicon，64×64黑底白小鸟，已看图",
+      "sha256": "7b6a23d234a704486afb896f1e64bb7856f95ab4ce8325a6de4e26b772ea22d1"
+    },
+    {
+      "file": "xiaoyunque_inline_0.svg",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\xiaoyunque_inline_0.svg",
+      "download_url": null,
+      "source_url": "https://xyq.jianying.com/",
+      "target_page": "视频工具页",
+      "evidence_status": "官网header brand-mark SVG原样提取，无改绘；currentColor默认黑色，适合米白底",
+      "sha256": "c13abe5055e49063594dcf47809ce464257a8847b3926c07b51a0a91a2eecdec"
+    },
+    {
+      "file": "xiaoyunque_inline_1.svg",
+      "absolute_path": "D:\\03_Code\\03_Company\\AI-Sharing-Meeting\\assets\\revision_research_20261116\\xiaoyunque_inline_1.svg",
+      "download_url": null,
+      "source_url": "https://xyq.jianying.com/",
+      "target_page": "视频工具页备选",
+      "evidence_status": "官网header brand-word小云雀文字SVG原样提取",
+      "sha256": "be4dfea63f8e434f19fde8c35f61856cf68f88980e126d8f1d7aafdd43122efb"
+    }
+  ],
+  "models": [
+    {
+      "name": "GPT-6.1 Sol",
+      "status": "当前官方可核实；不是全部用途中的唯一最高性能型号",
+      "source": "https://developers.openai.com/api/docs/models/gpt-6.1-sol",
+      "release_source": "https://developers.openai.com/api/docs/changelog",
+      "release_date": "2026-09-29",
+      "scope": "Work/Codex/API；普通ChatGPT Chat使用名称与入口有区别"
+    },
+    {
+      "name": "GPT-6.1 Terra",
+      "status": "当前官方可核实，2026-10-26发布",
+      "source": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "scope": "Work/Codex/API；不在Chat标签页"
+    },
+    {
+      "name": "Claude Opus 5.5",
+      "status": "本次检索可核实最新Opus；不等于Claude所有系列中唯一最新",
+      "source": "https://www.anthropic.com/claude-opus-5-5",
+      "release_date": "2026-09-22"
+    },
+    {
+      "name": "Doubao Seed2.1 Pro",
+      "status": "当前Seed官方模型目录为Seed2.1（Pro/Turbo）；具体豆包App底层版本不可据此断言",
+      "source": "https://seed.bytedance.com/en/models",
+      "additional_source": "https://docs.byteplus.com/en/docs/aidap/Supabase-Model_usage"
+    }
+  ],
+  "quote": {
+    "english": "The hottest new programming language is English",
+    "translation_zh": "最热门的新编程语言是英语。",
+    "translation_status": "本项目译文",
+    "speaker": "Andrej Karpathy",
+    "date": "2023-01-24",
+    "primary_source": "https://x.com/karpathy/status/1617979122625712128",
+    "evidence_file": "karpathy_quote_oembed.json",
+    "meaning_limit": "强调自然语言成为交互入口；不可引申成无需专业知识、无需验证或AI永远正确"
+  }
+}
