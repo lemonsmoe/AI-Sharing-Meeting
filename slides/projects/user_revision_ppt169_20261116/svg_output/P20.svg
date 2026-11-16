@@ -1,15 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="22" data-pptx-page-role="content">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="content">
   <rect width="1280" height="720" fill="#F6F3EC"/>
-  <text x="80" y="104" font-size="44" font-weight="bold" fill="#171715">平台：把 AI 能力做成可以使用的软件</text>
-  <g id="platforms" data-pptx-bounds="80 240 1120 175" fill="#171715" text-anchor="middle">
-    <image x="104" y="248" width="76" height="76" href="../images/icons/doubao.png"/><text x="142" y="375">豆包</text>
-    <image x="296" y="248" width="76" height="76" href="../images/icons/chatgpt_fixed.png"/><text x="334" y="375">ChatGPT</text>
-    <image x="488" y="248" width="76" height="76" href="../images/icons/claude_fixed.png"/><text x="526" y="375">Claude</text>
-    <rect x="680" y="248" width="76" height="76" rx="12" fill="#171715"/><text x="718" y="297" font-size="28" font-weight="bold" fill="#FFFFFF">WB</text><text x="718" y="375">WorkBuddy</text>
-    <image x="872" y="248" width="76" height="76" href="../images/icons/deepseek.png"/><text x="910" y="375">DeepSeek</text>
-    <image x="1064" y="248" width="76" height="76" href="../images/icons/xiaoyunque_fixed.png"/><text x="1102" y="375">小云雀</text>
+  <text x="80" y="104" font-size="44" font-weight="bold" fill="#171715">Harness 提供运行环境，Agent 在里面做事</text>
+  <g id="harness" data-pptx-bounds="80 170 556 495" fill="#171715">
+    <text x="80" y="200" font-weight="bold">运行支撑｜Harness</text>
+    <image href="../images/codex_user.png" x="80" y="236" width="540" height="365" preserveAspectRatio="xMidYMid meet"/>
+    <text x="80" y="644" font-size="22">Codex 等产品提供上下文、工具与权限管理</text>
   </g>
-  <text x="80" y="525" font-size="28" fill="#171715">有的擅长聊天，有的能处理文件，有的专门生成图片和视频。</text>
-  <text x="80" y="600" font-size="28" fill="#C50000">接下来，用 Codex 看一次完整的工作过程。</text>
+  <g id="agent" data-pptx-bounds="700 170 500 495" fill="#171715">
+    <text x="700" y="200" font-weight="bold">执行任务｜Agent</text>
+    <text x="700" y="277" fill="#C50000">“根据大纲，完成三页样稿。”</text>
+    <rect x="700" y="320" width="500" height="65" fill="#FFFFFF"/><text x="732" y="363">读大纲，判断下一步</text>
+    <text x="938" y="418" fill="#C50000">↓</text>
+    <rect x="700" y="444" width="500" height="65" fill="#FFFFFF"/><text x="732" y="487">调用工具，生成文件</text>
+    <text x="938" y="542" fill="#C50000">↓</text>
+    <rect x="700" y="568" width="500" height="65" fill="#FFFFFF"/><text x="732" y="611">检查结果，按反馈继续改</text>
+  </g>
 </svg>
-

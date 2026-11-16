@@ -6,6 +6,8 @@ import xml.etree.ElementTree as ET
 ROOT=Path(__file__).resolve().parents[3]
 PROJECT=ROOT/'slides/projects/user_revision_ppt169_20261116'
 DOC=Path(__file__).parent
+if (DOC/'order_revision.json').exists():
+    raise SystemExit('This historical builder predates the user page-order change. Use revise_order_hallucination.py and the current SVG/notes sources; do not restore the old order.')
 SVG=PROJECT/'svg_output'
 
 # Normalize transport metadata without changing the authored composition.

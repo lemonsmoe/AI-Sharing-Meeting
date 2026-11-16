@@ -1,5 +1,5 @@
 $ErrorActionPreference='Stop'
-$source=(Resolve-Path -LiteralPath 'slides/projects/user_revision_ppt169_20261116/exports/AI分享_28页修订补图版_20261116.pptx').Path
+$source=(Resolve-Path -LiteralPath 'slides/projects/user_revision_ppt169_20261116/exports/AI分享_28页顺序与幻觉修订版_20261116.pptx').Path
 $probe=[IO.Path]::GetFullPath((Join-Path (Get-Location).Path 'slides/projects/user_revision_ppt169_20261116/validation/edit_save_probe.pptx'))
 $before=(Get-FileHash -LiteralPath $source -Algorithm SHA256).Hash
 Copy-Item -LiteralPath $source -Destination $probe

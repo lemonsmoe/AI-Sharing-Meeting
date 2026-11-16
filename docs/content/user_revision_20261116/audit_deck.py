@@ -4,7 +4,7 @@ from pptx import Presentation
 from PIL import Image,ImageChops
 root=Path(__file__).resolve().parents[3]
 project=root/'slides/projects/user_revision_ppt169_20261116'
-deck=project/'exports/AI分享_28页修订补图版_20261116.pptx'
+deck=project/'exports/AI分享_28页顺序与幻觉修订版_20261116.pptx'
 p=Presentation(deck)
 notes=json.loads((Path(__file__).parent/'speaker_notes_per_page.json').read_text(encoding='utf-8'))
 def flat(shapes):
@@ -32,4 +32,4 @@ result={'slide_count':len(p.slides),'notes_all_match':all(x['notes_match'] for x
 (Path(__file__).parent/'verification.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print(json.dumps({k:v for k,v in result.items() if k!='pages'},ensure_ascii=False))
 assert len(p.slides)==28 and result['notes_all_match']
-assert result['placeholder_pages']==[8,22,23]
+assert result['placeholder_pages']==[8,23,24]

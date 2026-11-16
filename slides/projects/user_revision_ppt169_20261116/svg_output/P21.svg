@@ -1,22 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="28" data-pptx-page-role="content">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei" font-size="22" data-pptx-page-role="content">
   <rect width="1280" height="720" fill="#F6F3EC"/>
-  <text x="80" y="104" font-size="44" font-weight="bold" fill="#171715">上手工作平台，先找到这四类入口</text>
-  <image href="../images/codex_user.png" x="80" y="168" width="760" height="514" preserveAspectRatio="xMidYMid meet"/>
-  <g id="interface-annotations" data-pptx-bounds="80 168 760 514">
-  <g id="interface-markers" data-pptx-bounds="80 168 760 514" fill="none" stroke="#C50000" stroke-width="3">
-    <rect x="112" y="303" width="226" height="145"/><rect x="358" y="590" width="468" height="79"/><rect x="358" y="240" width="468" height="53"/><rect x="358" y="310" width="468" height="258"/>
+  <text x="80" y="104" font-size="44" font-weight="bold" fill="#171715">平台：把 AI 能力做成可以使用的软件</text>
+  <g id="platforms" data-pptx-bounds="80 240 1120 175" fill="#171715" text-anchor="middle">
+    <image x="104" y="248" width="76" height="76" href="../images/icons/doubao.png"/><text x="142" y="375">豆包</text>
+    <image x="296" y="248" width="76" height="76" href="../images/icons/chatgpt_fixed.png"/><text x="334" y="375">ChatGPT</text>
+    <image x="488" y="248" width="76" height="76" href="../images/icons/claude_fixed.png"/><text x="526" y="375">Claude</text>
+    <rect x="680" y="248" width="76" height="76" rx="12" fill="#171715"/><text x="718" y="297" font-size="28" font-weight="bold" fill="#FFFFFF">WB</text><text x="718" y="375">WorkBuddy</text>
+    <image x="872" y="248" width="76" height="76" href="../images/icons/deepseek.png"/><text x="910" y="375">DeepSeek</text>
+    <image x="1064" y="248" width="76" height="76" href="../images/icons/xiaoyunque_fixed.png"/><text x="1102" y="375">小云雀</text>
   </g>
-  <g id="interface-numbers" data-pptx-bounds="80 168 760 514" font-size="22" text-anchor="middle">
-    <rect x="96" y="286" width="28" height="28" fill="#C50000"/><text x="110" y="308" fill="#FFFFFF">1</text>
-    <rect x="344" y="574" width="28" height="28" fill="#C50000"/><text x="358" y="596" fill="#FFFFFF">2</text>
-    <rect x="344" y="224" width="28" height="28" fill="#C50000"/><text x="358" y="246" fill="#FFFFFF">3</text>
-    <rect x="344" y="294" width="28" height="28" fill="#C50000"/><text x="358" y="316" fill="#FFFFFF">4</text>
-  </g>
-  </g>
-  <g id="interface-guide" data-pptx-bounds="888 190 312 450" fill="#171715">
-    <text x="888" y="228" font-weight="bold" fill="#C50000">1　项目与对话</text><text x="888" y="273" font-size="22">选工作文件夹，开新任务</text>
-    <text x="888" y="343" font-weight="bold" fill="#C50000">2　任务输入</text><text x="888" y="388" font-size="22">写需求，附材料，选配置</text>
-    <text x="888" y="458" font-weight="bold" fill="#C50000">3　执行与沟通</text><text x="888" y="503" font-size="22">看进度，补信息，提修改</text>
-    <text x="888" y="573" font-weight="bold" fill="#C50000">4　成果与检查</text><text x="888" y="618" font-size="22">打开文件，检查实际效果</text>
-  </g>
+  <text x="80" y="525" font-size="28" fill="#171715">有的擅长聊天，有的能处理文件，有的专门生成图片和视频。</text>
+  <text x="80" y="600" font-size="28" fill="#C50000">接下来，用 Codex 看一次完整的工作过程。</text>
 </svg>
+
